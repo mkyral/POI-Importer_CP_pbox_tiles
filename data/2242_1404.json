@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1036171,
+                    49.1317656
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Snovídky prodejna <br><b>Adresa:</b> č.p. 54, 68333, Snovídky ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "68207:109"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0816269,
+                    49.1502841
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Prodejna Nesovice 158 <br><b>Adresa:</b> č.p. 158, 68333, Nesovice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "68207:108"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1249868,
+                    49.1295615
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta  Nemotice <br><b>Adresa:</b> č.p. 66, 68333, Nemotice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "68207:160"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1258107,
+                    49.1291225
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Nemotice č. 24 požární zbrojnice <br><b>Adresa:</b> č.p. 24, 68333, Nemotice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "68207:117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0750689,
+                    49.1494906
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Nesovice <br><b>Adresa:</b> č.p. 172, 68333, Nesovice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 12:00",
+                "ref": "68207:159"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1349294,
+                    49.1120026
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Mouchnice společenský dům <br><b>Adresa:</b> č.p. 102, 68333, Mouchnice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "68207:116"
+            }
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7934927,
+                    49.8769854
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> BUS zastávka, Mikolajice čp. 26 (na stojanu) <br><b>Adresa:</b> Opava; Mikolajice; Mikolajice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:15",
+                "ref": "74907:109"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8183396,
+                    49.8811698
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Pošta Štáblovice <br><b>Adresa:</b> č.p. 154, 74782, Štáblovice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo 16:00; Tu 16:00; We 16:00; Th 16:00; Fr 11:30",
+                "ref": "74907:166"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7619186,
+                    49.8492199
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Pošta Melč (stojan) <br><b>Adresa:</b> č.p. 81, 74784, Melč ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo 15:45; Tu 10:00; We 15:45; Th 15:45; Fr 10:00",
+                "ref": "74907:167"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8369334,
+                    49.8686075
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Hradec n.M.,Benkovice čp.30, na stojanu u zastávky <br><b>Adresa:</b> Opava; Hradec nad Moravicí; Benkovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:45",
+                "ref": "74907:104"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8193122,
+                    49.8460659
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Hradec n.M, Domoradovice čp. 30 <br><b>Adresa:</b> Domoradovice 30, 74741, Hradec nad Moravicí ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:50",
+                "ref": "74907:105"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7963031,
+                    49.8602494
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Štáblovice, Lipina čp. 1,BUS zastávka (na stojanu) <br><b>Adresa:</b> Opava; Štáblovice; Lipina <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 12:40",
+                "ref": "74907:112"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7913174,
+                    49.8404453
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Hradec n.M., Filipovice  čp. 7 (na stojanu) <br><b>Adresa:</b> Filipovice 7, 74784, Hradec nad Moravicí ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:10",
+                "ref": "74907:108"
+            }
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5401627,
+                    49.8498316
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Anenská Studánka hostinec 16 <br><b>Adresa:</b> č.p. 16, 56301, Anenská Studánka ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "56707:710"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5695775,
+                    49.8480503
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Trpík obchod 22 <br><b>Adresa:</b> č.p. 22, 56301, Trpík ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "56707:709"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5394884,
+                    49.8709359
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Zastávka ČSADč.p. 229, Damníkov <br><b>Adresa:</b> č.p. 229, 56123, Damníkov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "56707:719"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5942039,
+                    49.8498697
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> U Nedělů 32, Květná <br><b>Adresa:</b> Květná 32, 56301, Luková ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "56707:708"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.565202,
+                    49.8711977
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Damníkov <br><b>Adresa:</b> č.p. 42, 56123, Damníkov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "56707:734"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5958599,
+                    49.8721746
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Luková náves č.p. 122, Luková <br><b>Adresa:</b> č.p. 122, 56123, Luková ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "56707:721"
+            }
+        }
+    ]
+}

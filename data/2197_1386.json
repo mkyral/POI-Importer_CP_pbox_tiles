@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1666012,
+                    50.165725
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Hradiště, Albeřice č.25, obchod <br><b>Adresa:</b> Albeřice 25, 36452, Verušičky ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "30071:529"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1514347,
+                    50.155722
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Luka, autobusová zastávka <br><b>Adresa:</b> Karlovy Vary; Verušičky; Luka <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "30071:528"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1709851,
+                    50.1246333
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Čichalov č.55, obchod <br><b>Adresa:</b> č.p. 55, 36452, Čichalov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "30071:527"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.173268,
+                    50.1410945
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Verušičky, na budově pošty <br><b>Adresa:</b> č.p. 5, 36452, Verušičky ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "30071:542"
+            }
+        }
+    ]
+}

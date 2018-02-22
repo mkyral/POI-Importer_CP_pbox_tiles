@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3841887,
+                    49.9395931
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Plasy,u Werku prodejna <br><b>Adresa:</b> Lipová 416, 33101, Plasy ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "30071:354"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3855711,
+                    49.9326262
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Plasy - pošta <br><b>Adresa:</b> Plzeňská 516, 33101, Plasy ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "30071:383"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.373772,
+                    49.9096561
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Rybnice -prodejna, u čp.10 <br><b>Adresa:</b> č.p. 10, 33151, Rybnice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "30071:287"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3815611,
+                    49.8962796
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Kaznějov - pošta <br><b>Adresa:</b> Poštovní 424, 33151, Kaznějov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "30071:305"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.394297,
+                    49.9333409
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Plasy, budova prodejny Jednoty <br><b>Adresa:</b> Babinská 29, 33101, Plasy <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 16.68 m",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "30071:353"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4137702,
+                    49.9219274
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Nebřeziny,bývalá prodejna <br><b>Adresa:</b> Plzeň-sever; Plasy; Nebřeziny <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "30071:362"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4303347,
+                    49.936303
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Babiná,stojan u prodejny <br><b>Adresa:</b> Plzeň-sever; Plasy; Babina <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "30071:361"
+            }
+        }
+    ]
+}

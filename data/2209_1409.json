@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2307318,
+                    48.8458771
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Červený Dvůr 1 <br><b>Adresa:</b> Červený Dvůr 1, 38101, Chvalšiny <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 12.16 m",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "37271:573"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2100058,
+                    48.8553131
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Budova pošty Chvalšiny <br><b>Adresa:</b> č.p. 12, 38208, Chvalšiny ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 12:00",
+                "ref": "37271:606"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2092029,
+                    48.8524478
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Chvalšiny 109 <br><b>Adresa:</b> č.p. 109, 38208, Chvalšiny <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.22 m",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "37271:607"
+            }
+        }
+    ]
+}

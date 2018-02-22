@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2230911,
+                    50.2528261
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Pošta Česká Ves <br><b>Adresa:</b> Jánského 328, 79081, Česká Ves ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 15:00",
+                "ref": "79007:63"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1871438,
+                    50.2405211
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Pošta Jeseník 3 <br><b>Adresa:</b> Priessnitzova 311/35, 79001, Jeseník ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 14:00",
+                "ref": "79007:50"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.213476,
+                    50.2455684
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Česká Ves, Jesenická 235, prod. Husquarna (stojan) <br><b>Adresa:</b> Jesenická 235, 79081, Česká Ves ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 15:00",
+                "ref": "79007:20"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1895632,
+                    50.2411325
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Jeseník,Priessnitzova 912/45,hl.bud.lázní (stojan) <br><b>Adresa:</b> Priessnitzova 912/45, 79001, Jeseník ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 14:00",
+                "ref": "79007:18"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2100308,
+                    50.2368421
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Jeseník, Husova 1224/17 (stojan) <br><b>Adresa:</b> Husova 1224/17, 79001, Jeseník ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 14:00",
+                "ref": "79007:7"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2072527,
+                    50.2384636
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Jeseník, Halasova 645/3 (stojan) <br><b>Adresa:</b> Halasova 645/3, 79001, Jeseník ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 14:00",
+                "ref": "79007:4"
+            }
+        }
+    ]
+}

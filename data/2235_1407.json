@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5127,
+                    48.9799344
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> ul. Znojemská 700, Pohořelice <br><b>Adresa:</b> Znojemská 700, 69123, Pohořelice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "60011:108"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4838196,
+                    48.9339369
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Vlasatice <br><b>Adresa:</b> č.p. 149, 69130, Vlasatice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 20.45 m",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "60011:146"
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.631777,
+                    50.7594025
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> VZ Malý Šišák <br><b>Adresa:</b> č.p. 107, 54351, Špindlerův Mlýn ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "54107:505"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6341502,
+                    50.7589635
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Erlebachova bouda, 109 <br><b>Adresa:</b> č.p. 109, 54351, Špindlerův Mlýn ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "54107:508"
+            }
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4801373,
+                    49.7114854
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Hradec nad Svitavou 230 - Obecní úřad <br><b>Adresa:</b> č.p. 230, 56901, Hradec nad Svitavou ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "56707:230"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4399403,
+                    49.6990696
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Radiměř 364 <br><b>Adresa:</b> č.p. 364, 56907, Radiměř ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "56707:234"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4824161,
+                    49.7242829
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Hradec nad Svitavou 120 - požární zbrojnice <br><b>Adresa:</b> č.p. 120, 56901, Hradec nad Svitavou ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "56707:231"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4879788,
+                    49.6924492
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Hradec nad Svitavou 392 - ČSAD <br><b>Adresa:</b> č.p. 392, 56901, Hradec nad Svitavou ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "56707:229"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4858134,
+                    49.70342
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Hradec nad Svitavou <br><b>Adresa:</b> č.p. 301, 56901, Hradec nad Svitavou ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "56707:261"
+            }
+        }
+    ]
+}

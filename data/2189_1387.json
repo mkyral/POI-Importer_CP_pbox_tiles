@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4144068,
+                    50.0845715
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Cheb, Dolní Dvory, Pražská 22/78 <br><b>Adresa:</b> Pražská 22/78, Dolní Dvory, 35002, Cheb ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "35007:24"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3996281,
+                    50.1132126
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Tršnice č.24, hospoda - dočasně sejmuta <br><b>Adresa:</b> Tršnice 24, 35134, Cheb ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "35007:126"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4000638,
+                    50.1059663
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Jindřichov, autobusová zastávka , <br><b>Adresa:</b> Cheb; Cheb; Jindřichov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "35007:125"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4723946,
+                    50.1156513
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Nebanice - pošta <br><b>Adresa:</b> č.p. 7, 35002, Nebanice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "35007:27"
+            }
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9824185,
+                    50.152976
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Šléglov 1, OÚ (stojan) <br><b>Adresa:</b> č.p. 1, 78825, Šléglov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "78807:217"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9945936,
+                    50.1365597
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Vikantice 131, obchod (stojan) <br><b>Adresa:</b> č.p. 131, 78825, Vikantice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:10",
+                "ref": "78807:218"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0112951,
+                    50.1525732
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Branná 23, výdejní místo <br><b>Adresa:</b> č.p. 23, 78825, Branná ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 13:40",
+                "ref": "78807:228"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0139993,
+                    50.148228
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Branná 19, polesí (stojan) <br><b>Adresa:</b> č.p. 19, 78825, Branná ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "78807:219"
+            }
+        }
+    ]
+}

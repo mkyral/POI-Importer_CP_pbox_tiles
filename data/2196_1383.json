@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0322927,
+                    50.3095803
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Jakubov u č.104 <br><b>Adresa:</b> Jakubov 104, 36301, Vojkovice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "36207:113"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0517489,
+                    50.3374163
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Stráž nad Ohří - pošta <br><b>Adresa:</b> č.p. 21, 36301, Stráž nad Ohří ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "36207:211"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0160912,
+                    50.304841
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Vojkovice - pošta <br><b>Adresa:</b> č.p. 31, 36273, Vojkovice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "36207:210"
+            }
+        }
+    ]
+}

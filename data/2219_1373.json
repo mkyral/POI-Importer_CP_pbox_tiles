@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0837951,
+                    50.8500051
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> partner Oldřichov v Hájích <br><b>Adresa:</b> č.p. 229, 46331, Oldřichov v Hájích ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 12:00",
+                "ref": "46307:328"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0333807,
+                    50.859981
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Frýdlant, Albrechtice č.p.114 <br><b>Adresa:</b> Albrechtice u Frýdlantu 114, 46331, Frýdlant ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "46307:336"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0361945,
+                    50.8923702
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> partner Dětřichov + obchod <br><b>Adresa:</b> č.p. 284, 46401, Dětřichov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "46307:323"
+            }
+        }
+    ]
+}

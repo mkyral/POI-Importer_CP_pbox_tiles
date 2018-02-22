@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5912389,
+                    49.6718838
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Janůvky zast. ČSAD u č.p. 40, Jevíčko <br><b>Adresa:</b> č.p. 40, 56943, Janůvky ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "56707:567"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5392023,
+                    49.6689126
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Horní Hynčina 54, ČSAD zastávka <br><b>Adresa:</b> Horní Hynčina 54, 56802, Pohledy ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "56707:226"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5486628,
+                    49.7041661
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Horní Hynčina 122, Pohledy - samoty <br><b>Adresa:</b> Horní Hynčina 122, 56802, Pohledy ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "56707:225"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5594152,
+                    49.6921681
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Pohledy č. 140 <br><b>Adresa:</b> č.p. 140, 56802, Pohledy ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "56707:227"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5269699,
+                    49.7067031
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Sklené 73 - obchod <br><b>Adresa:</b> č.p. 73, 56802, Sklené ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "56707:224"
+            }
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5927471,
+                    49.0349963
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Hrušovany u Brna <br><b>Adresa:</b> Jiřího z Poděbrad 224, 66462, Hrušovany u Brna ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 12:00",
+                "ref": "60011:128"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5389635,
+                    49.0077271
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> budova školy č.p. 27 - Smolín <br><b>Adresa:</b> Smolín 27, 69123, Pohořelice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "60011:114"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5998869,
+                    49.0125453
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta  Žabčice <br><b>Adresa:</b> Nádražní 366, 66463, Žabčice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "60011:129"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5246942,
+                    48.9822866
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Pohořelice <br><b>Adresa:</b> Brněnská 3, 69123, Pohořelice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 13:00",
+                "ref": "60011:141"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6017842,
+                    49.0181452
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Samoobsluha Unkovice <br><b>Adresa:</b> č.p. 180, 66463, Unkovice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "60011:34"
+            }
+        }
+    ]
+}

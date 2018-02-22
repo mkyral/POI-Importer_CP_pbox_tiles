@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6304975,
+                    48.965141
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Police u Jemnice <br><b>Adresa:</b> č.p. 30, 67534, Police ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:15",
+                "ref": "67407:311"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5893135,
+                    48.9681613
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Bačkovice, u č.p. 18 <br><b>Adresa:</b> č.p. 18, 67532, Bačkovice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:10",
+                "ref": "67407:160"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5898267,
+                    48.9795361
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Radotice, u č.p. 39 <br><b>Adresa:</b> č.p. 39, 67532, Radotice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:20",
+                "ref": "67407:161"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6141862,
+                    48.9402092
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Lubnice-OÚ <br><b>Adresa:</b> č.p. 25, 67107, Lubnice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:30",
+                "ref": "66907:98"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5569964,
+                    48.9579675
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Dančovice <br><b>Adresa:</b> Dančovice 14, 37881, Dešná <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 30.81 m",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:30",
+                "ref": "37702:277"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6382479,
+                    48.9748964
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Kostníky, u č.p. 29 <br><b>Adresa:</b> č.p. 29, 67532, Kostníky ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "67407:158"
+            }
+        }
+    ]
+}

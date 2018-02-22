@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6958461,
+                    50.6911937
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Nové Město 4, 41781, Moldava ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:30",
+                "ref": "40371:399"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6879968,
+                    50.7187559
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 138, 41781, Moldava ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:30",
+                "ref": "40371:430"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6562089,
+                    50.7203408
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> na stojanu vedle LDS, u adresy Moldava v Kr.h. 89 <br><b>Adresa:</b> Teplice; Moldava; Moldava <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:30",
+                "ref": "40371:400"
+            }
+        }
+    ]
+}

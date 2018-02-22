@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.5058245,
+                    49.7542455
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Před obchodem, čp. 50, Norberčany (na stojanu) <br><b>Adresa:</b> č.p. 50, 79305, Norberčany ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:50",
+                "ref": "79207:109"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.4977183,
+                    49.7782509
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> St.Libavá na č.68-obch.,Norberčany <br><b>Adresa:</b> Stará Libavá 68, 79305, Norberčany ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:50",
+                "ref": "79207:108"
+            }
+        }
+    ]
+}

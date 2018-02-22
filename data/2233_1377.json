@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2719821,
+                    50.6338603
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Ruprechtice škola <br><b>Adresa:</b> Ruprechtice 142, 54983, Meziměstí ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "54707:334"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2695004,
+                    50.6380685
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Ruprechtice Jednota <br><b>Adresa:</b> Ruprechtice 52, 54983, Meziměstí ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "54707:332"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.324325,
+                    50.6281933
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Heřmánkovice <br><b>Adresa:</b> č.p. 215, 54984, Heřmánkovice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "54707:317"
+            }
+        }
+    ]
+}

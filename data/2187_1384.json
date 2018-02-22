@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.2216263,
+                    50.2589284
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Kopaniny č.86 <br><b>Adresa:</b> Kopaniny 86, 35201, Aš ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "35007:99"
+            }
+        }
+    ]
+}

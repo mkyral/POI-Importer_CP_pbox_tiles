@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8594814,
+                    49.7208643
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Holostřevy, náves <br><b>Adresa:</b> Tachov; Bor; Holostřevy <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "34707:44"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8320513,
+                    49.7024285
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Kosov, u zastávky <br><b>Adresa:</b> Tachov; Bor; Kosov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "34707:51"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8516728,
+                    49.6935113
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Borovany, u zastávky <br><b>Adresa:</b> Tachov; Bor; Borovany <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "34707:50"
+            }
+        }
+    ]
+}

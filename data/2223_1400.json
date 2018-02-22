@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.443649,
+                    49.3334615
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> zastávka ICOM, Spělov <br><b>Adresa:</b> Spělov 11, 58851, Dolní Cerekev ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "58607:165"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4303416,
+                    49.3802993
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Hojkov, obchod <br><b>Adresa:</b> č.p. 41, 58805, Hojkov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:35",
+                "ref": "58607:49"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4545614,
+                    49.3445197
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Jednota, Dolní Cerekev <br><b>Adresa:</b> č.p. 146, 58845, Dolní Cerekev ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "58607:172"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4013779,
+                    49.3488146
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Rohozná u Jihlavy <br><b>Adresa:</b> č.p. 28, 58844, Rohozná ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 15:00",
+                "ref": "58607:262"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4581605,
+                    49.344577
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Dolní Cerekev <br><b>Adresa:</b> č.p. 107, 58845, Dolní Cerekev ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:00",
+                "ref": "58607:263"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4616393,
+                    49.3405846
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> nádraží ČD, Dolní Cerekev <br><b>Adresa:</b> Nový Svět 52, 58851, Dolní Cerekev ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:40",
+                "ref": "58607:163"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3990349,
+                    49.3505169
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Jednota, Rohozná <br><b>Adresa:</b> č.p. 148, 58844, Rohozná ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "58607:171"
+            }
+        }
+    ]
+}

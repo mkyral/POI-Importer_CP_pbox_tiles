@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8150686,
+                    49.0386889
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Bojkovice <br><b>Adresa:</b> Palackého 172, 68771, Bojkovice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 13:00",
+                "ref": "68607:271"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7900306,
+                    49.086684
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> požární zbrojnice, Kladná Žilín <br><b>Adresa:</b> Kladná Žilín 1, 76326, Luhačovice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "76607:163"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7961239,
+                    49.0398248
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Fučíkova, Bojkovice <br><b>Adresa:</b> Fučíkova čtvrť 580, 68771, Bojkovice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "68607:131"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8281582,
+                    49.079696
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> potraviny, Rudimov <br><b>Adresa:</b> Zlín; Rudimov; Rudimov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "76607:140"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.781571,
+                    49.0726123
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pohostinství, Přečkovice <br><b>Adresa:</b> Přečkovice 60, 68771, Bojkovice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 12:00",
+                "ref": "68607:136"
+            }
+        }
+    ]
+}

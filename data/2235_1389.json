@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5127582,
+                    49.9662227
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Prodejna Horní Dobrouč, Dolní Dobrouč <br><b>Adresa:</b> Horní Dobrouč 90, 56102, Dolní Dobrouč ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "56707:94"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.496967,
+                    49.9935431
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Dolní Dobrouč <br><b>Adresa:</b> č.p. 380, 56102, Dolní Dobrouč ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "56707:96"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4401639,
+                    49.9597223
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> obchod 147, Knapovec <br><b>Adresa:</b> Knapovec 147, 56201, Ústí nad Orlicí ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "56707:62"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4597603,
+                    50.0021156
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Učiliště, Hnátnice <br><b>Adresa:</b> č.p. 315, 56101, Hnátnice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "56707:82"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5004957,
+                    49.9851653
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Zastávka ČSAD u zdrav. střed., 56102 Dolní Dobrouč <br><b>Adresa:</b> č.p. 372, 56102, Dolní Dobrouč ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "56707:95"
+            }
+        }
+    ]
+}

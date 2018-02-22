@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.55469,
+                    49.853692
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Májůvka, u čp.16, Bílčice (stojan na zast.BUS) <br><b>Adresa:</b> Bruntál; Bílčice; Májůvka <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:45",
+                "ref": "79207:119"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.5101027,
+                    49.8511875
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> čp.145, Křišťanovice (stojan naproti obchodu) <br><b>Adresa:</b> Bruntál; Křišťanovice; Křišťanovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 12:15",
+                "ref": "79207:120"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.5697561,
+                    49.8710346
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> čp. 55, Bílčice (na stojanu před hospodou) <br><b>Adresa:</b> č.p. 55, 79368, Bílčice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:35",
+                "ref": "79207:118"
+            }
+        }
+    ]
+}

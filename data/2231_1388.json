@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1640073,
+                    50.039764
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> budova býv. OÚ, Plchůvky <br><b>Adresa:</b> Plchůvky 41, 56501, Choceň ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "56707:871"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.084937,
+                    50.0485485
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Horní Jelení - držák <br><b>Adresa:</b> náměstí Komenského 97, 53374, Horní Jelení ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "53400:48"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1656431,
+                    50.0272573
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Vanický 33, Újezd u Chocně <br><b>Adresa:</b> č.p. 33, 56501, Újezd u Chocně ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "56707:869"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1048796,
+                    50.0502038
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Dolní Jelení-požár.zbroj <br><b>Adresa:</b> Pardubice; Horní Jelení; Dolní Jelení <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "53400:35"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1504011,
+                    50.0340814
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> čp.11, Prochody <br><b>Adresa:</b> Prochody 11, 56501, Újezd u Chocně ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "56707:870"
+            }
+        }
+    ]
+}

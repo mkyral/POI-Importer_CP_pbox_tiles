@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2467646,
+                    49.8363836
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Sovinec,vedle čp.10, Jiříkov (stojan u zast.BUS) <br><b>Adresa:</b> Bruntál; Jiříkov; Sovinec <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:45",
+                "ref": "79207:74"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2276077,
+                    49.8095251
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Paseka 145, v léčebně <br><b>Adresa:</b> č.p. 145, 78397, Paseka ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:45",
+                "ref": "77072:216"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2479863,
+                    49.816125
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Paseka, Karlov E10 (stojan) <br><b>Adresa:</b> Karlov E10, 78386, Paseka ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "77072:219"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2276077,
+                    49.8095251
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Paseka 145, Léčebna <br><b>Adresa:</b> č.p. 145, 78397, Paseka ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:45",
+                "ref": "77072:215"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.289294,
+                    49.8040648
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Mutkov u čp.2, aut. zastávka (stojan) <br><b>Adresa:</b> Olomouc; Mutkov; Mutkov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:30",
+                "ref": "77072:537"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2985772,
+                    49.8208456
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Pošta Huzová <br><b>Adresa:</b> č.p. 158, 79351, Huzová ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:20",
+                "ref": "79207:520"
+            }
+        }
+    ]
+}

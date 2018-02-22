@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.558756,
+                    50.16265
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Chata Směr, Bartošovice <br><b>Adresa:</b> č.p. 9, 51761, Bartošovice v Orlických horách ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "51707:311"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5477618,
+                    50.16398
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> OÚ Bartošovice <br><b>Adresa:</b> Rychnov nad Kněž; Bartošovice v Orlických horách; Bartošovice v Orlických horách <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "51707:313"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5477618,
+                    50.16398
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> zastávka ČSAD, Neratov <br><b>Adresa:</b> Rychnov nad Kněž; Bartošovice v Orlických horách; Bartošovice v Orlických horách <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "51707:312"
+            }
+        }
+    ]
+}

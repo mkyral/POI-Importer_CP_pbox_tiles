@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0281565,
+                    50.9458837
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Víska 8, obchod <br><b>Adresa:</b> Víska 8, 46401, Višňová ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:00",
+                "ref": "46307:293"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.025566,
+                    50.9212718
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Kunratice 168, obchod <br><b>Adresa:</b> č.p. 168, 46401, Kunratice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:30",
+                "ref": "46307:292"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0287986,
+                    50.9523013
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Minkovice 59, obchod <br><b>Adresa:</b> Minkovice 59, 46401, Višňová ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:05",
+                "ref": "46307:294"
+            }
+        }
+    ]
+}

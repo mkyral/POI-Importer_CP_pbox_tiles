@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8880346,
+                    50.1441203
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Dražov, zastávka ČSAD <br><b>Adresa:</b> Karlovy Vary; Stanovice; Dražov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "36207:44"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8880604,
+                    50.1286198
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Hlinky č.133, budova statku <br><b>Adresa:</b> Hlinky 133, 36001, Stanovice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "36207:45"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8515805,
+                    50.1486015
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Teplička, u silnice naproti obchodu <br><b>Adresa:</b> Karlovy Vary; Teplička; Teplička <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "30071:507"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.845179,
+                    50.1236568
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Krásný Jez <br><b>Adresa:</b> Karlovy Vary; Bečov nad Teplou; Krásný Jez <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "30071:508"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8721186,
+                    50.1650085
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Stanovice - pošta <br><b>Adresa:</b> č.p. 52, 36001, Stanovice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "36207:197"
+            }
+        }
+    ]
+}

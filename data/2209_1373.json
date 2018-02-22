@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2376625,
+                    50.8811741
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Hotel Klepáč <br><b>Adresa:</b> č.p. 152, 40717, Hřensko ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "40507:124"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2376625,
+                    50.8811741
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> U kostela <br><b>Adresa:</b> č.p. 152, 40717, Hřensko ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "40507:147"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2365661,
+                    50.8739595
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Hřensko <br><b>Adresa:</b> č.p. 71, 40717, Hřensko ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 16:00",
+                "ref": "40507:171"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2314369,
+                    50.8486532
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Obecní úřad, <br><b>Adresa:</b> č.p. 111, 40502, Labská Stráň ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "40507:92"
+            }
+        }
+    ]
+}

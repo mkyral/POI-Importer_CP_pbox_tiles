@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0363927,
+                    49.0488048
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> č. 13, Sedlo <br><b>Adresa:</b> Sedlo 28, 37833, Číměř ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:15",
+                "ref": "37702:143"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0489393,
+                    49.0695406
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> č. 8, Bílá <br><b>Adresa:</b> Bílá 13, 37833, Číměř ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:30",
+                "ref": "37702:144"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0575047,
+                    49.0428
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> č. 7, Lhota <br><b>Adresa:</b> Lhota 11, 37833, Číměř ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:20",
+                "ref": "37702:142"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0943929,
+                    49.0442245
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Potočná <br><b>Adresa:</b> Potočná 10, 37833, Číměř ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "37702:139"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0749818,
+                    49.0616097
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> budova pošty, Číměř <br><b>Adresa:</b> č.p. 12, 37832, Číměř ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "37702:146"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1037747,
+                    49.0622124
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Dobrá Voda <br><b>Adresa:</b> Dobrá Voda 11, 37833, Číměř ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "37702:137"
+            }
+        }
+    ]
+}

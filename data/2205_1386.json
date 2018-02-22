@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.871108,
+                    50.1392737
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Ruda, Rakovnická 205 (stojan u prodejny) <br><b>Adresa:</b> Rakovník; Ruda; Ruda <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "26907:185"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8401047,
+                    50.1734133
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Bucek ( u DS, autokemp) <br><b>Adresa:</b> Rakovník; Třtice; Třtice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "26907:189"
+            }
+        }
+    ]
+}

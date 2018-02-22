@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3088472,
+                    50.074091
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Uvnitř Láz. domu Libuše, č.p. 1, Karlova Studánka <br><b>Adresa:</b> č.p. 1, 79324, Karlova Studánka ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:40",
+                "ref": "79207:320"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3077618,
+                    50.0733688
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Partner Karlova Studánka <br><b>Adresa:</b> č.p. 10, 79324, Karlova Studánka ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 14:50",
+                "ref": "79207:508"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3036454,
+                    50.0658366
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Před rest.Na Hvězdě,čp.45,Malá Morávka(na stojanu) <br><b>Adresa:</b> č.p. 45, 79336, Malá Morávka ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "79207:324"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3068597,
+                    50.0730927
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Parkoviště,u čp.95,Karl.Studánka (na zdi kiosku) <br><b>Adresa:</b> Bruntál; Karlova Studánka; Karlova Studánka <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:15",
+                "ref": "79207:322"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.267848,
+                    50.1041452
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Vidly, před čp.127, Vrbno pod Prad.(na stojanu) <br><b>Adresa:</b> Bruntál; Vrbno pod Pradědem; Vidly <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 13:00",
+                "ref": "79207:314"
+            }
+        }
+    ]
+}

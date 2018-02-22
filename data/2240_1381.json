@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9186395,
+                    50.4415716
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Bílá Voda, Městys Bílá Voda 60, charita <br><b>Adresa:</b> Městys Bílá Voda 60, 79069, Bílá Voda ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:30",
+                "ref": "79007:108"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9212202,
+                    50.4405389
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Pošta Bílá Voda u Javorníka <br><b>Adresa:</b> Kamenička 1, 79069, Bílá Voda ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:30",
+                "ref": "79007:114"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9589569,
+                    50.4196485
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Javorník, Horní Hoštice 25 (stojan) <br><b>Adresa:</b> Horní Hoštice 25, 79070, Javorník ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "79007:107"
+            }
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6016225,
+                    49.4616326
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> zastávka MHD, Červený Kříž <br><b>Adresa:</b> Červený Kříž 102, 58601, Jihlava ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "58607:80"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6026155,
+                    49.4428314
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Jednota, Pávov <br><b>Adresa:</b> Pávov 16, 58601, Jihlava ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:15",
+                "ref": "58607:72"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6005032,
+                    49.4661728
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Sklárny, Antonínův Důl <br><b>Adresa:</b> Antonínův Důl 107, 58601, Jihlava ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "58607:79"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6288197,
+                    49.4572952
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Střítež u Jihlavy <br><b>Adresa:</b> č.p. 1, 58811, Střítež ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "58607:246"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5982204,
+                    49.476098
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Štoky (Zvonějov \"S\") <br><b>Adresa:</b> č.p. 521, 58253, Štoky ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "58007:95"
+            }
+        }
+    ]
+}

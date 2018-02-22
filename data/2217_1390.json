@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8672405,
+                    49.9242906
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Oplany 79 <br><b>Adresa:</b> č.p. 79, 28163, Oplany ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "25107:197"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8971288,
+                    49.9018939
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> U autobusové zastávky Vlkančice <br><b>Adresa:</b> Praha-východ; Vlkančice; Vlkančice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "25107:198"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9314883,
+                    49.9020218
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> č.p. 15  /stojan/Benátky <br><b>Adresa:</b> Benátky 15, 28506, Úžice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "28505:12"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8837956,
+                    49.9453819
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Výžerky 58 <br><b>Adresa:</b> č.p. 58, 28163, Výžerky ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "25107:196"
+            }
+        }
+    ]
+}

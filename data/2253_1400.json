@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0205612,
+                    49.3368924
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Vsetín 5 <br><b>Adresa:</b> Jasenická 1522, 75501, Vsetín ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 12:00",
+                "ref": "75707:230"
+            }
+        }
+    ]
+}

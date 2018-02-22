@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1436545,
+                    49.6007126
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> čekárna, Koníkov <br><b>Adresa:</b> Koníkov 25, 59242, Věcov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:40",
+                "ref": "59230:56"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.158092,
+                    49.6044752
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> kulturní dům, Roženecké Pasecky <br><b>Adresa:</b> Roženecké Paseky 1, 59242, Věcov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:20",
+                "ref": "59230:55"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1606215,
+                    49.5674444
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> hasičská zbrojnice, Vojtěchov <br><b>Adresa:</b> Vojtěchov 14, 59301, Lísek ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:15",
+                "ref": "59302:39"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.091095,
+                    49.6059958
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> chata TJ, Studnice <br><b>Adresa:</b> Studnice 17, 59231, Nové Město na Moravě ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:45",
+                "ref": "59230:13"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.096391,
+                    49.5768338
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Jednota, Pohledec <br><b>Adresa:</b> Pohledec 94, 59231, Nové Město na Moravě ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:15",
+                "ref": "59230:24"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1228981,
+                    49.5703334
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Jednota, Zubří <br><b>Adresa:</b> č.p. 34, 59231, Zubří ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 12:30",
+                "ref": "59230:18"
+            }
+        }
+    ]
+}

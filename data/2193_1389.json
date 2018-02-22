@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.7791058,
+                    49.9530115
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Ovesné Kladruby, před budovou OÚ, <br><b>Adresa:</b> Cheb; Ovesné Kladruby; Ovesné Kladruby <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "34707:201"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8315256,
+                    49.9601162
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Mrázov, u bazaru <br><b>Adresa:</b> Cheb; Teplá; Mrázov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "34707:217"
+            }
+        }
+    ]
+}

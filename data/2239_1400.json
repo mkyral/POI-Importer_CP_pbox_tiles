@@ -1,0 +1,141 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8332187,
+                    49.3447179
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Podomí zastávka <br><b>Adresa:</b> Vyškov; Podomí; Podomí <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "68207:51"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8512843,
+                    49.3275106
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta  Ruprechtov <br><b>Adresa:</b> č.p. 251, 68304, Ruprechtov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:30",
+                "ref": "68207:147"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8517635,
+                    49.3287263
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Ruprechtov obchod 223 <br><b>Adresa:</b> č.p. 223, 68304, Ruprechtov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:30",
+                "ref": "68207:52"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8130869,
+                    49.3790097
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Lipovec obchod <br><b>Adresa:</b> č.p. 82, 67915, Lipovec <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 21.65 m",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "68007:148"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8281599,
+                    49.3648064
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Krásensko <br><b>Adresa:</b> č.p. 123, 68304, Krásensko <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 51.74 m",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "68207:148"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8050725,
+                    49.354493
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Senetářov křižovatka <br><b>Adresa:</b> č.p. 34, 67906, Senetářov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:30",
+                "ref": "68007:143"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8069031,
+                    49.3506645
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Senetářov tel. automat <br><b>Adresa:</b> č.p. 102, 67906, Senetářov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:00",
+                "ref": "68007:144"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8481806,
+                    49.3781484
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Kulířov obchod <br><b>Adresa:</b> č.p. 130, 67906, Kulířov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 20.36 m",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "68007:145"
+            }
+        }
+    ]
+}

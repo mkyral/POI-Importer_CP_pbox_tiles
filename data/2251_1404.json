@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8427533,
+                    49.1092602
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> obchod U Zvonice, Nevšová <br><b>Adresa:</b> Nevšová 79, 76321, Slavičín ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "76607:142"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8959332,
+                    49.1375777
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Haluzice potraviny <br><b>Adresa:</b> č.p. 15, 76324, Haluzice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "76607:148"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8788582,
+                    49.122681
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> střed obce, Lipová <br><b>Adresa:</b> č.p. 41, 76321, Lipová ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "76607:141"
+            }
+        }
+    ]
+}

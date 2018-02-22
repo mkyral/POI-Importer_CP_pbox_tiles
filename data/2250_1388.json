@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7850617,
+                    50.0132969
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Brumovice-Skrochovice,Školní 6/4 (na stojanu) <br><b>Adresa:</b> Školní 6/4, Skrochovice, 74771, Brumovice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "74907:46"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7730537,
+                    50.0207566
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Restaurace, Pustý Mlýn, Opavská 2/18 <br><b>Adresa:</b> Opavská 2/18, Pustý Mlýn, 74771, Brumovice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "74907:47"
+            }
+        }
+    ]
+}

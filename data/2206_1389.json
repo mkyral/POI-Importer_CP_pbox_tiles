@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9681491,
+                    49.9617853
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> čp. 116, Hudlice <br><b>Adresa:</b> Hořejší 116, 26703, Hudlice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "17704:246"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9662582,
+                    49.980628
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Na drahách č.p. 72, Otročíněves <br><b>Adresa:</b> č.p. 72, 26703, Otročiněves ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "17704:243"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9431725,
+                    49.9807332
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> u obecního úřadu č.p.31, Nový Jáchymov <br><b>Adresa:</b> Tyršova 31, 26703, Nový Jáchymov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "17704:245"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9578442,
+                    49.9830144
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Krušná hora u č.p.110, Otročíněves <br><b>Adresa:</b> č.p. 110, 26703, Otročiněves ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "17704:244"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.974302,
+                    49.9613419
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> čp. 64, pošta Hudlice <br><b>Adresa:</b> Jungmannova 64, 26703, Hudlice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "17704:257"
+            }
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6910697,
+                    50.6279687
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Hrdlovská 647, 41705, Osek ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "40371:452"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6867852,
+                    50.6260208
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Hrdlovská 641, 41705, Osek ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "40371:451"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.707241,
+                    50.6442264
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Domaslavice 32, 41722, Háj u Duchcova ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "40371:444"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7032665,
+                    50.635848
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Zelenkova 257, 41722, Háj u Duchcova ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "40371:456"
+            }
+        }
+    ]
+}

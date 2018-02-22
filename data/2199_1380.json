@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3017405,
+                    50.4855584
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 36, 43001, Křimov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "43007:104"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.341446,
+                    50.4822884
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Domina, navěšena na zastávce ČSAD <br><b>Adresa:</b> Domina 25, 43001, Křimov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "43007:102"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3584014,
+                    50.5100693
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 112, 43001, Blatno ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "43007:118"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3264914,
+                    50.479527
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Strážky, Na návsi u obecní vývěsky . stojan <br><b>Adresa:</b> Strážky 7, 43001, Křimov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "43007:103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3588926,
+                    50.4835114
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Krásná Lípa/Křimov, naproti č.p.2, na  zastávce <br><b>Adresa:</b> Krásná Lípa 20, 43001, Křimov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "43007:101"
+            }
+        }
+    ]
+}

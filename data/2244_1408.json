@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2513394,
+                    48.8697693
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Sudoměřice nad Moravou <br><b>Adresa:</b> č.p. 320, 69666, Sudoměřice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "69507:122"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2740906,
+                    48.879044
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> u vlakového nádraží, Petrov u Hodonína <br><b>Adresa:</b> č.p. 213, 69665, Petrov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:30",
+                "ref": "69507:121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2579548,
+                    48.8685228
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Sudoměřice nad Moravou 32 <br><b>Adresa:</b> č.p. 32, 69666, Sudoměřice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "69507:123"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2776402,
+                    48.8820523
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Petrov u Hodonína <br><b>Adresa:</b> č.p. 113, 69665, Petrov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "69507:120"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.307973,
+                    48.8976425
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Masarykova 311,  prod.Galka, Strážnice <br><b>Adresa:</b> Masarykova 311, 69662, Strážnice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "69507:112"
+            }
+        }
+    ]
+}

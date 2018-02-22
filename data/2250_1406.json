@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8005686,
+                    48.9942629
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> obchod, Komňa <br><b>Adresa:</b> č.p. 18, 68771, Komňa ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 12:00",
+                "ref": "68607:135"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7790896,
+                    49.0231116
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Záhorovice <br><b>Adresa:</b> č.p. 382, 68771, Záhorovice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:30",
+                "ref": "68607:253"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8287677,
+                    49.0197406
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> obchod, Krhov <br><b>Adresa:</b> Krhov 132, 68771, Bojkovice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "68607:137"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8027908,
+                    49.0376006
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Nádražní, Bojkovice <br><b>Adresa:</b> Nádražní 374, 68771, Bojkovice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:30",
+                "ref": "68607:130"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8128844,
+                    49.0342401
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Bezručova, Bojkovice <br><b>Adresa:</b> Bezručova čtvrť 849, 68771, Bojkovice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "68607:132"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8110659,
+                    49.0367145
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Sušilova, Bojkovice <br><b>Adresa:</b> Sušilova 952, 68771, Bojkovice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 13:00",
+                "ref": "68607:129"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8351288,
+                    49.0039895
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> autobus.čekárna, Bzová <br><b>Adresa:</b> Bzová 7, 68771, Bojkovice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:30",
+                "ref": "68607:140"
+            }
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.4088327,
+                    49.6604437
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Hlubočky, Hrubá Voda 11, Domov důchodců <br><b>Adresa:</b> Hrubá Voda 11, 78361, Hlubočky ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "77072:140"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.4030495,
+                    49.6288475
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Hlubočky, Olomoucká 3, textil (stojan) <br><b>Adresa:</b> Olomoucká 3, 78361, Hlubočky ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:30",
+                "ref": "77072:142"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.4083931,
+                    49.6471101
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Hlubočky, Fučíkova 58, nádraží <br><b>Adresa:</b> Fučíkova 58, 78361, Hlubočky ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "77072:139"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.409746,
+                    49.6467577
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Hlubočky Dukel.hrdinů 502, pošta Hlubočky 1(stojan <br><b>Adresa:</b> Dukelských hrdinů 502, 78361, Hlubočky ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 16:15",
+                "ref": "77072:99"
+            }
+        }
+    ]
+}

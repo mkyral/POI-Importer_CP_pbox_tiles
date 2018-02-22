@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.4222591,
+                    49.8816172
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Pošta Lomnice u Rýmařova <br><b>Adresa:</b> č.p. 230, 79302, Lomnice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:30",
+                "ref": "79207:121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.4148841,
+                    49.8710709
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> vedle čp.15, Lomnice (na zast.BUS) <br><b>Adresa:</b> Bruntál; Lomnice; Lomnice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:20",
+                "ref": "79207:113"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.4290973,
+                    49.8901165
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Tylov,napr. čp.148 (stojan zast.BUS), Lomnice <br><b>Adresa:</b> Tylov 144, 79302, Lomnice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "79207:112"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.4727397,
+                    49.8413137
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Nové Valteřice vedle čp.9, Mor.Beroun (na stojanu) <br><b>Adresa:</b> Olomouc; Moravský Beroun; Nové Valteřice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:30",
+                "ref": "79207:111"
+            }
+        }
+    ]
+}

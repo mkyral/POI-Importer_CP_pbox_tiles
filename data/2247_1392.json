@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.5477599,
+                    49.8341837
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Pošta Dvorce u Bruntálu <br><b>Adresa:</b> Opavská 19, 79368, Dvorce ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 16:10",
+                "ref": "79207:523"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.5704997,
+                    49.7982142
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Budišov n.Bud., Guntramovice čp.99 (na stojanu) <br><b>Adresa:</b> Guntramovice 99, 74787, Budišov nad Budišovkou ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo 08:15; Tu 08:15; We 11:55; Th 11:55; Fr 08:15",
+                "ref": "74907:311"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.5500115,
+                    49.836311
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Opavská, před čp. 210, Dvorce (na stojanu) <br><b>Adresa:</b> Opavská 210, 79368, Dvorce ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:50",
+                "ref": "79207:114"
+            }
+        }
+    ]
+}

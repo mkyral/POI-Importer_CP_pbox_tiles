@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2674077,
+                    49.353392
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> U Čotků č.167, Karolinka <br><b>Adresa:</b> Vsetínská 167, 75605, Karolinka ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 13:30",
+                "ref": "75707:216"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2018162,
+                    49.3391216
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Nový Hrozenkov <br><b>Adresa:</b> č.p. 455, 75604, Nový Hrozenkov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 12:45",
+                "ref": "75707:236"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2405992,
+                    49.3503167
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> závod Crystalex, Karolinka č.p.78 <br><b>Adresa:</b> Vsetínská 78, 75605, Karolinka ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 13:00",
+                "ref": "75707:215"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.236972,
+                    49.3508712
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Karolinka <br><b>Adresa:</b> Radniční náměstí 42, 75605, Karolinka ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 14:00",
+                "ref": "75707:237"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2605965,
+                    49.3787788
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Karolinka, Bzové, školav přírodě <br><b>Adresa:</b> Bzové 330, 75605, Karolinka ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "75707:217"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2400737,
+                    49.3512763
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> potraviny u kostela, Karolinka <br><b>Adresa:</b> Vsetín; Karolinka; Karolinka <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 12:30",
+                "ref": "75707:218"
+            }
+        }
+    ]
+}

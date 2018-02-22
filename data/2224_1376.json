@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4911428,
+                    50.6969053
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> u zastávka BUS, poblíž č,p. 15 Horní Dušnice <br><b>Adresa:</b> Semily; Jablonec nad Jizerou; Horní Dušnice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:10",
+                "ref": "51400:49"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4746192,
+                    50.7361562
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> RTK, Rokytnice nad Jizerou 3 <br><b>Adresa:</b> Horní Rokytnice 437, 51245, Rokytnice nad Jizerou <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 48.61 m",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "46307:444"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4822018,
+                    50.7162724
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Škola Františkov <br><b>Adresa:</b> Františkov 80, 51245, Rokytnice nad Jizerou ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "46307:442"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4711044,
+                    50.7307775
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Rokytnice n.Jizerou 3 <br><b>Adresa:</b> Horní Rokytnice 307, 51245, Rokytnice nad Jizerou ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 12:00",
+                "ref": "46307:453"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5458029,
+                    50.7308086
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Vítkovice č.p.249,Dolní Mísečky-autobusová čekárna <br><b>Adresa:</b> č.p. 249, 51238, Vítkovice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "51400:53"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5302933,
+                    50.692926
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> zast. BUS u hotelu Praha  Vítkovice č.p. 316 <br><b>Adresa:</b> Semily; Vítkovice; Vítkovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:10",
+                "ref": "51400:54"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5240188,
+                    50.6846025
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> požární zbrojnice č.p. 16, Horní Vítkovice <br><b>Adresa:</b> č.p. 16, 51238, Vítkovice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:20",
+                "ref": "51400:52"
+            }
+        }
+    ]
+}

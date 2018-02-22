@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0888807,
+                    50.0735734
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Pošta Loučná nad Desnou <br><b>Adresa:</b> Kociánov 45, 78811, Loučná nad Desnou ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:30",
+                "ref": "78807:122"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0882686,
+                    50.0666363
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Loučná nad Desnou, Rejhotice 126 <br><b>Adresa:</b> Rejhotice 126, 78811, Loučná nad Desnou ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:00",
+                "ref": "78807:36"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1075276,
+                    50.0999802
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Loučná n.Desnou, Kouty n.Desnou 2 (stojan) <br><b>Adresa:</b> Kouty nad Desnou 2, 78811, Loučná nad Desnou ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:30",
+                "ref": "78807:37"
+            }
+        }
+    ]
+}

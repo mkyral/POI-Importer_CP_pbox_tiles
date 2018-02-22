@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.7214789,
+                    49.4375293
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Nemanice, pošta <br><b>Adresa:</b> č.p. 85, 34401, Nemanice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:10",
+                "ref": "34407:40"
+            }
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9920231,
+                    51.001903
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> vedle Andělka  č.p.80, poblíž BUS <br><b>Adresa:</b> Andělka 80, 46373, Višňová ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:35",
+                "ref": "46307:299"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0218065,
+                    50.9889036
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Filipovka  15 - ČSAD <br><b>Adresa:</b> Filipovka 15, 46373, Višňová ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:25",
+                "ref": "46307:297"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0265335,
+                    50.9673398
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Višňová u Frýdlantu <br><b>Adresa:</b> č.p. 135, 46401, Višňová ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 13:00",
+                "ref": "46307:272"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0082535,
+                    50.9928807
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Loučná č.p.29 <br><b>Adresa:</b> Loučná 29, 46373, Višňová ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:30",
+                "ref": "46307:298"
+            }
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0106136,
+                    49.2437132
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Kojatín - dům č. l <br><b>Adresa:</b> č.p. 1, 67503, Kojatín ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:45",
+                "ref": "67407:82"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0011153,
+                    49.2239656
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Smrk - obchod <br><b>Adresa:</b> č.p. 31, 67501, Smrk ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:25",
+                "ref": "67407:59"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0407979,
+                    49.2355518
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Pozďatín - Jednota <br><b>Adresa:</b> č.p. 69, 67503, Pozďatín ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "67407:84"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.066626,
+                    49.2496664
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Pyšel <br><b>Adresa:</b> č.p. 9, 67571, Pyšel ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "67407:242"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0074355,
+                    49.2661061
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Budišov - u ZD <br><b>Adresa:</b> č.p. 215, 67503, Budišov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "67407:78"
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9373588,
+                    49.0359566
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> osada, Kochavec <br><b>Adresa:</b> Zlín; Rokytnice; Kochavec <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 12:00",
+                "ref": "76607:145"
+            }
+        }
+    ]
+}

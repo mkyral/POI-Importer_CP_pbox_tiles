@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9748308,
+                    49.7456675
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Moravičany, Doubravice 6, obchod <br><b>Adresa:</b> Doubravice 6, 78982, Moravičany ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:45",
+                "ref": "78807:419"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0346813,
+                    49.7685961
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Medlov, Králová 8 (stojan) <br><b>Adresa:</b> Olomouc; Medlov; Králová <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:15",
+                "ref": "77072:322"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9816222,
+                    49.7413962
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Moravičany, Mitrovice 12 (stojan) <br><b>Adresa:</b> Šumperk; Moravičany; Mitrovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:00",
+                "ref": "78807:420"
+            }
+        }
+    ]
+}

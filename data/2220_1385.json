@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1423349,
+                    50.2128761
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Netřebice  čp.80, u MŠ <br><b>Adresa:</b> č.p. 80, 28802, Netřebice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "28800:15"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.15023,
+                    50.1930219
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> u prodejny, Kouty 9 <br><b>Adresa:</b> č.p. 9, 29001, Kouty ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "29000:5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1177484,
+                    50.2072572
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> obecní úřad, Rašovice č.p.44 <br><b>Adresa:</b> Rašovice 44, 28802, Budiměřice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "28800:12"
+            }
+        }
+    ]
+}

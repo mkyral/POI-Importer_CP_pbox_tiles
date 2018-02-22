@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5747708,
+                    49.1497962
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> náves - před OÚ, Bohuslavice <br><b>Adresa:</b> č.p. 17, 58856, Bohuslavice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:40",
+                "ref": "58607:204"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6155081,
+                    49.1182296
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Krasonice <br><b>Adresa:</b> č.p. 135, 58864, Krasonice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:30",
+                "ref": "58607:271"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6381069,
+                    49.1377068
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Jindřichovice, u kaple <br><b>Adresa:</b> č.p. 30, 67526, Jindřichovice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:40",
+                "ref": "67407:287"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6194646,
+                    49.1400182
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> zastávka ICOM, Zdeňkov <br><b>Adresa:</b> č.p. 16, 58856, Zdeňkov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "58607:201"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5605366,
+                    49.1404224
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Nová Říše <br><b>Adresa:</b> Náměstí 40, 58865, Nová Říše ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 15:00",
+                "ref": "58607:272"
+            }
+        }
+    ]
+}

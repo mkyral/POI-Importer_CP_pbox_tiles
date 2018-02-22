@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1258523,
+                    49.3104592
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Pod Černým, Huslenky <br><b>Adresa:</b> Vsetín; Huslenky; Huslenky <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "75707:209"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1154152,
+                    49.3098903
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Jednota-Bařiny, Huslenky <br><b>Adresa:</b> č.p. 573, 75602, Huslenky ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "75707:210"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1453015,
+                    49.3172251
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Halenkov <br><b>Adresa:</b> č.p. 409, 75603, Halenkov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 13:00",
+                "ref": "75707:235"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1579739,
+                    49.3225472
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Jednota Portaviny, Halenkov <br><b>Adresa:</b> č.p. 590, 75603, Halenkov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 12:30",
+                "ref": "75707:208"
+            }
+        }
+    ]
+}

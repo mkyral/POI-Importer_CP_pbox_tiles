@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3821602,
+                    49.2031239
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Kostelany - č.129 <br><b>Adresa:</b> č.p. 42, 76701, Kostelany ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:30",
+                "ref": "76707:94"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3880891,
+                    49.1539464
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> obecní úřad Jankovice <br><b>Adresa:</b> č.p. 15, 68704, Jankovice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "68607:69"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3805624,
+                    49.1595557
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> horní konec, Jankovice <br><b>Adresa:</b> č.p. 16, 68704, Jankovice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:15",
+                "ref": "68607:68"
+            }
+        }
+    ]
+}

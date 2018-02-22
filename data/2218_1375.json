@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0276402,
+                    50.7474784
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Jěštědská 185/84, Liberec 8 <br><b>Adresa:</b> Ještědská 185/84, Liberec VIII-Dolní Hanychov, 46008, Liberec <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.01 m",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:55",
+                "ref": "46307:39"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.011154,
+                    50.7377666
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Ještědská 479 (Infocentrum) <br><b>Adresa:</b> Ještědská 479, Liberec XIX-Horní Hanychov, 46008, Liberec <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.64 m",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "46307:83"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.024266,
+                    50.7904371
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Stráž nad Nisou <br><b>Adresa:</b> Studánecká 259, 46303, Stráž nad Nisou <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.98 m",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "46307:78"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9917961,
+                    50.7895939
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Liberec 33 <br><b>Adresa:</b> Rynoltická 1, Liberec XXXIII-Machnín, 46001, Liberec <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.64 m",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "46307:73"
+            }
+        }
+    ]
+}

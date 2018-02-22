@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6216041,
+                    50.1158934
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Kostelní Bříza, obchod <br><b>Adresa:</b> Sokolov; Březová; Kostelní Bříza <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u></p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "35007:181"
+            }
+        }
+    ]
+}

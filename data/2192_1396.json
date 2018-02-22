@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.7423149,
+                    49.5547481
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Starý Kramolín, stojan na návsi <br><b>Adresa:</b> Domažlice; Mutěnín; Starý Kramolín <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "34407:107"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.7151589,
+                    49.5913246
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Bělá nad Radbuzou - pošta <br><b>Adresa:</b> Náměstí 200, 34526, Bělá nad Radbuzou ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "34407:234"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.7052529,
+                    49.591775
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Bělá n/Rad., Dlouhá ul. <br><b>Adresa:</b> Domažlice; Bělá nad Radbuzou; Bělá nad Radbuzou <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "34407:97"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6674591,
+                    49.5814077
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Smolov u čp. 9 <br><b>Adresa:</b> Smolov 9, 34525, Bělá nad Radbuzou ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:00",
+                "ref": "34407:111"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.7418329,
+                    49.5746223
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Újezd Sv.Kříže prodejna <br><b>Adresa:</b> Domažlice; Bělá nad Radbuzou; Újezd Svatého Kříže <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:55",
+                "ref": "34407:109"
+            }
+        }
+    ]
+}

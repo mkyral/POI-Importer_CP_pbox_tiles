@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2430613,
+                    49.1398486
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Železná Ruda u čp. 292 <br><b>Adresa:</b> Klatovská 292, 34004, Železná Ruda ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "33907:219"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.231343,
+                    49.1377223
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Železná Ruda - pošta <br><b>Adresa:</b> 1. máje 124, 34004, Železná Ruda ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "33907:91"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2337111,
+                    49.1375107
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Železná Ruda - budova MÚ čp.295 <br><b>Adresa:</b> Klostermannovo náměstí 295, 34004, Železná Ruda ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "33907:215"
+            }
+        }
+    ]
+}

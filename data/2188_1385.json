@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3725245,
+                    50.1992564
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Velký Luh č.22, prodejna <br><b>Adresa:</b> č.p. 22, 35134, Velký Luh ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "35007:129"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3915917,
+                    50.1956176
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Křižovatka č.103, prodejna <br><b>Adresa:</b> č.p. 103, 35134, Křižovatka ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "35007:130"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3515862,
+                    50.2156681
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Plesná u Chebu - pošta <br><b>Adresa:</b> 5. května 301, 35135, Plesná <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 13.64 m",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "35007:151"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3471718,
+                    50.2206394
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Plesná u Chebu, náměstí Svobody 52 <br><b>Adresa:</b> Náměstí Svobody 52, 35135, Plesná ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "35007:137"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3814597,
+                    50.2234463
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Lomnička, u telefonní budky , <br><b>Adresa:</b> Cheb; Plesná; Lomnička <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "35007:133"
+            }
+        }
+    ]
+}

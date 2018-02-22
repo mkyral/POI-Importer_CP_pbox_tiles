@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2547819,
+                    50.2977324
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Pošta Supíkovice <br><b>Adresa:</b> č.p. 130, 79051, Supíkovice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "79007:51"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2576953,
+                    50.3016288
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Supíkovice 135, prodejna (stojan) <br><b>Adresa:</b> Jeseník; Supíkovice; Supíkovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:15",
+                "ref": "79007:37"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2629442,
+                    50.3226891
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Pošta Velké Kunětice (stojan) <br><b>Adresa:</b> č.p. 180, 79052, Velké Kunětice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:15",
+                "ref": "79007:52"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2950656,
+                    50.2901932
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Mikulovice, okal Hlavní 345, aut.zastávka (stojan) <br><b>Adresa:</b> Jeseník; Mikulovice; Mikulovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 12:00",
+                "ref": "79007:29"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2846351,
+                    50.2937633
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Hradec-Nová Ves,naproti čp 103,společ.dům (stojan) <br><b>Adresa:</b> Jeseník; Hradec-Nová Ves; Hradec-Nová Ves <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 14:00",
+                "ref": "79007:32"
+            }
+        }
+    ]
+}

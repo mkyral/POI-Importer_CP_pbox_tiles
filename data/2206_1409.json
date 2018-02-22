@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9657439,
+                    48.8118364
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Náves  Želnava č.p. 16 <br><b>Adresa:</b> č.p. 16, 38451, Želnava ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:00",
+                "ref": "38307:112"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9334243,
+                    48.8513349
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> U kostela,  Pěkná č.p. 1 <br><b>Adresa:</b> Pěkná 1, 38451, Nová Pec ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:30",
+                "ref": "38307:114"
+            }
+        }
+    ]
+}

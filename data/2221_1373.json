@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2215837,
+                    50.8738422
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Bílý Potok pod Smrkem <br><b>Adresa:</b> č.p. 85, 46362, Bílý Potok ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:00",
+                "ref": "46307:268"
+            }
+        }
+    ]
+}

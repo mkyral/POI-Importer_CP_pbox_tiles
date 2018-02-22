@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7349772,
+                    49.0876721
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Žatčany 93- Sýkora <br><b>Adresa:</b> č.p. 93, 66453, Žatčany ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "60011:9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7707547,
+                    49.0392505
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Těšany <br><b>Adresa:</b> č.p. 248, 66454, Těšany ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "60011:7"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.740765,
+                    49.0477876
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta  Moutnice <br><b>Adresa:</b> č.p. 29, 66455, Moutnice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "60011:122"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7297005,
+                    49.087099
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Žatčany - Osička  111 <br><b>Adresa:</b> č.p. 111, 66453, Žatčany ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:30",
+                "ref": "60011:10"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7303245,
+                    49.0887747
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Žatčany 283,samoobsluha <br><b>Adresa:</b> č.p. 283, 66453, Žatčany ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "60011:11"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7538138,
+                    49.0639715
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Nesvačilka 100 <br><b>Adresa:</b> č.p. 100, 66454, Nesvačilka ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:15",
+                "ref": "60011:12"
+            }
+        }
+    ]
+}

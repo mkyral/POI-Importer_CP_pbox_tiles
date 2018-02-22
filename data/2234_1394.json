@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4355378,
+                    49.6998666
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Radiměř <br><b>Adresa:</b> č.p. 186, 56907, Radiměř ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "56707:266"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3690282,
+                    49.6745825
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Jednota č.215, Stašov <br><b>Adresa:</b> č.p. 215, 57201, Stašov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "56707:419"
+            }
+        }
+    ]
+}

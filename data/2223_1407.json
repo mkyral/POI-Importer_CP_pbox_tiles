@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4623045,
+                    48.9638688
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> budova pošty Písečné nad Dyjí <br><b>Adresa:</b> č.p. 1, 37872, Písečné ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 12:15",
+                "ref": "37702:196"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4557067,
+                    48.9769509
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Modletice <br><b>Adresa:</b> Modletice 4, 37881, Písečné ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 12:35",
+                "ref": "37702:267"
+            }
+        }
+    ]
+}

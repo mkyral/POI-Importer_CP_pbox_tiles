@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0959306,
+                    50.2863351
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Vápenná  za č.p.445, autobus. zast. (stojan) <br><b>Adresa:</b> Jeseník; Vápenná; Vápenná <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 13:30",
+                "ref": "79007:41"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0979686,
+                    50.2846965
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Pošta Vápenná (stojan) <br><b>Adresa:</b> č.p. 105, 79064, Vápenná ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 14:00",
+                "ref": "79007:59"
+            }
+        }
+    ]
+}

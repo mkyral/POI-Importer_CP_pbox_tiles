@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2302706,
+                    50.2876207
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> zastávka ČSAD, Břístev 29 <br><b>Adresa:</b> Břístev 29, 28934, Chotěšice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "28800:43"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2810937,
+                    50.2667357
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> zastávka ČSAD, Malá Strana 9 <br><b>Adresa:</b> Malá Strana 9, 28903, Chotěšice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "28900:10"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2459903,
+                    50.2735829
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> č.p. 74, Nouzov <br><b>Adresa:</b> Nouzov 74, 28901, Chotěšice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "28900:34"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2888275,
+                    50.2473269
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> prodejna, č.p. 199, Záhornice <br><b>Adresa:</b> Hlavní 199, 28903, Záhornice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "28900:9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.275111,
+                    50.2790283
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Obecní úřad, Chotěšice 29 <br><b>Adresa:</b> č.p. 29, 28901, Chotěšice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "28900:30"
+            }
+        }
+    ]
+}

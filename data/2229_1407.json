@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9198384,
+                    48.9501426
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Vranovská Ves <br><b>Adresa:</b> č.p. 74, 67151, Vranovská Ves ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "66907:150"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9513785,
+                    48.9231813
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Olbramkostel - obchod <br><b>Adresa:</b> č.p. 1, 67151, Olbramkostel ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:00",
+                "ref": "66907:149"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9880876,
+                    48.967516
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Bojanovice č.p. 48 <br><b>Adresa:</b> č.p. 48, 67153, Bojanovice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "66907:166"
+            }
+        }
+    ]
+}

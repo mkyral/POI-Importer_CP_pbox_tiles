@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5273749,
+                    49.1051073
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Jersice <br><b>Adresa:</b> Jersice 18, 38001, Hříšice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:10",
+                "ref": "37702:205"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5199926,
+                    49.1351333
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> zastávka ICOM, Dolní Vilímeč <br><b>Adresa:</b> č.p. 8, 58856, Dolní Vilímeč ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "58607:207"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4884298,
+                    49.1352194
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> zastávka ICOM, Strachoňovice <br><b>Adresa:</b> č.p. 25, 58856, Strachoňovice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "58607:210"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4753428,
+                    49.1448182
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> náves - prodejna, Radkov u Telče <br><b>Adresa:</b> č.p. 6, 58856, Radkov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "58607:209"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5304111,
+                    49.1507962
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> náves - tf. budka, Vystrčenovice <br><b>Adresa:</b> č.p. 2, 58856, Vystrčenovice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:05",
+                "ref": "58607:206"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5392375,
+                    49.1232959
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Červený Hrádek <br><b>Adresa:</b> č.p. 60, 38001, Červený Hrádek ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:20",
+                "ref": "37702:206"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4962201,
+                    49.1036203
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Hříšice <br><b>Adresa:</b> č.p. 19, 38001, Hříšice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:25",
+                "ref": "37702:204"
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.667741,
+                    50.0255382
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Kladská č.8, restaurace TETŘEV <br><b>Adresa:</b> Kladská 8, 35301, Mariánské Lázně ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "34707:198"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.7309439,
+                    50.0513047
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Prameny č.24, obchod <br><b>Adresa:</b> č.p. 24, 35301, Prameny ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "34707:199"
+            }
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4408507,
+                    50.2162967
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Nový Kostel - pošta <br><b>Adresa:</b> Spálená 8, 35134, Nový Kostel ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "35007:152"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4452624,
+                    50.2170306
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Nový Kostel, budova OÚ, <br><b>Adresa:</b> Cheb; Nový Kostel; Nový Kostel <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "35007:134"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.47106,
+                    50.1953859
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Kopanina, autobusová zastávka <br><b>Adresa:</b> Cheb; Nový Kostel; Kopanina <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u></p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "35007:132"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4291542,
+                    50.2025964
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Hrzín, autobusová zastávka <br><b>Adresa:</b> Cheb; Nový Kostel; Hrzín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u></p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "35007:131"
+            }
+        }
+    ]
+}

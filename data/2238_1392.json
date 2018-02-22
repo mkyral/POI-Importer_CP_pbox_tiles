@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7028907,
+                    49.82452
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> obchod č.p. 294, Třebařov <br><b>Adresa:</b> č.p. 294, 56933, Třebařov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "56707:728"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7264816,
+                    49.8045761
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Petrušov pohostinství č.1 <br><b>Adresa:</b> Petrušov 1, 57101, Staré Město ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "56707:517"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7054414,
+                    49.7874831
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Dětřichov Jednota č.85 <br><b>Adresa:</b> č.p. 85, 57101, Dětřichov u Moravské Třebové ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "56707:516"
+            }
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1609439,
+                    49.6753623
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> OÚ, Spělkov <br><b>Adresa:</b> č.p. 7, 59203, Spělkov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:15",
+                "ref": "59230:42"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1382264,
+                    49.7090961
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Pustá Rybná obchod č. 81, Pustá Rybná <br><b>Adresa:</b> č.p. 81, 57201, Pustá Rybná ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "56707:417"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.094411,
+                    49.6796708
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> zast. ZDAR, České Milovy <br><b>Adresa:</b> České Milovy 18, 59202, Křižánky ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 12:25",
+                "ref": "59205:13"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1181994,
+                    49.6912907
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta č.p. 32, Březiny u Poličky <br><b>Adresa:</b> č.p. 32, 57201, Březiny ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "56707:424"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1448738,
+                    49.6780832
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Jednota, Krásné <br><b>Adresa:</b> č.p. 23, 59203, Krásné ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:30",
+                "ref": "59230:43"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0895965,
+                    49.6679665
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> hotel Devět skal, Milovy <br><b>Adresa:</b> Milovy 11, 59202, Sněžné ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 12:40",
+                "ref": "59205:14"
+            }
+        }
+    ]
+}

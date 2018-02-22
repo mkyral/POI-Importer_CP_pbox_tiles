@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2112228,
+                    49.4531562
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> soukromá prodejna VKP č.p. 497, Dolní Bečva <br><b>Adresa:</b> č.p. 497, 75655, Dolní Bečva ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "75707:142"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2792064,
+                    49.453954
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Jednota Kněhyně, Prostřední Bečva <br><b>Adresa:</b> č.p. 509, 75656, Prostřední Bečva ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "75707:152"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1936831,
+                    49.4547961
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Dolní Bečva <br><b>Adresa:</b> č.p. 340, 75655, Dolní Bečva ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 16:20",
+                "ref": "75707:259"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2706957,
+                    49.4477677
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Potraviny u Bártka, Prostřední Bečva <br><b>Adresa:</b> č.p. 301, 75656, Prostřední Bečva ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "75707:153"
+            }
+        }
+    ]
+}

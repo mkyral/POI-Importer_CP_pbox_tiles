@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.5416455,
+                    50.0917136
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Pošta Krasov <br><b>Adresa:</b> č.p. 29, 79401, Krasov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo 09:15; Tu 15:10; We 09:15; Th 15:10; Fr 09:15",
+                "ref": "79207:431"
+            }
+        }
+    ]
+}

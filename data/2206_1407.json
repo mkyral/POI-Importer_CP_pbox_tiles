@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9534449,
+                    48.9546099
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Blažejovice <br><b>Adresa:</b> Blažejovice 8, 38301, Zbytiny ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "38307:20"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8979394,
+                    48.9627836
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Mlynařovice náves č.p. 20 <br><b>Adresa:</b> Mlynářovice 12, 38451, Volary ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 12:30",
+                "ref": "38307:109"
+            }
+        }
+    ]
+}

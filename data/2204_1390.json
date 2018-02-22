@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7281036,
+                    49.9074777
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Ostrovec-prodejna <br><b>Adresa:</b> Rokycany; Ostrovec-Lhotka; Ostrovec <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:45",
+                "ref": "30072:356"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7281036,
+                    49.9074777
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Lhotka-u zvoničky <br><b>Adresa:</b> Rokycany; Ostrovec-Lhotka; Lhotka <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:30",
+                "ref": "30072:355"
+            }
+        }
+    ]
+}

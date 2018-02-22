@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.151103,
+                    50.3721467
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> obchod <br><b>Adresa:</b> č.p. 5, 41119, Martiněves ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "41007:385"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2157979,
+                    50.3602701
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 3, 41301, Bříza ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "41007:376"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2187724,
+                    50.3732698
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 1, 41301, Račiněves ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "41007:378"
+            }
+        }
+    ]
+}

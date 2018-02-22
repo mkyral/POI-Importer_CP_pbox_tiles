@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.153843,
+                    50.3095386
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Černá Voda 47, Partner <br><b>Adresa:</b> č.p. 47, 79054, Černá Voda ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:15",
+                "ref": "79007:54"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1961169,
+                    50.3244045
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Pošta Stará Červená Voda <br><b>Adresa:</b> č.p. 175, 79053, Stará Červená Voda ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 14:00",
+                "ref": "79007:53"
+            }
+        }
+    ]
+}

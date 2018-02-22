@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.207288,
+                    48.9524253
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Jaronín - zastávka autobusu <br><b>Adresa:</b> Jaronín 6, 38203, Brloh <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 23.48 m",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "37271:627"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1816474,
+                    48.9798631
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Vodice <br><b>Adresa:</b> Vodice 19, 38411, Lhenice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 4.24 m",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "37271:852"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.170302,
+                    48.969531
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Třešňový  Újezdec <br><b>Adresa:</b> Třešňový Újezdec 2, 38411, Lhenice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 35.77 m",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "37271:851"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1535667,
+                    48.9359599
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Smědeč <br><b>Adresa:</b> Smědeč 9, 38301, Ktiš ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:15",
+                "ref": "38307:42"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2190755,
+                    48.9293259
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Budova pošty Brloh <br><b>Adresa:</b> č.p. 148, 38206, Brloh ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "37271:629"
+            }
+        }
+    ]
+}

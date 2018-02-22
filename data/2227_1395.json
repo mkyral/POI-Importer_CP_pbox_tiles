@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7452214,
+                    49.6346201
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Železné Horky 38 - lesní družstvo <br><b>Adresa:</b> Železné Horky 38, 58222, Havlíčkova Borová ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "58007:164"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7812723,
+                    49.6368578
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Havlíčkova Borová <br><b>Adresa:</b> Náměstí 278, 58223, Havlíčkova Borová ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "58007:5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7350277,
+                    49.6431471
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Cibotín - BUS, \"S\" <br><b>Adresa:</b> Cibotín 4, 58301, Česká Bělá ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "58007:297"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7548107,
+                    49.6607703
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Oudoleň <br><b>Adresa:</b> č.p. 131, 58224, Oudoleň ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "58007:6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7750292,
+                    49.6512663
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Peršíkov - bývalý obchod <br><b>Adresa:</b> Peršíkov 23, 58263, Havlíčkova Borová ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "58007:178"
+            }
+        }
+    ]
+}

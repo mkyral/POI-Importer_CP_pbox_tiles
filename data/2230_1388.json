@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0784629,
+                    50.0120341
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Jaroslav - zast. ČSAD <br><b>Adresa:</b> č.p. 10, 53401, Jaroslav ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "53400:26"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0822361,
+                    50.0468821
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Horní Jelení, ul Kovářského <br><b>Adresa:</b> Kolářského 398, 53374, Horní Jelení ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "53400:4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0562483,
+                    50.0268018
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Vysoká u Holic-potrav. <br><b>Adresa:</b> Vysoká u Holic 13, 53401, Ostřetín ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "53400:25"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.014922,
+                    50.052327
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Ostřetín-Motorest <br><b>Adresa:</b> č.p. 140, 53401, Ostřetín ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "53400:15"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0821919,
+                    50.0490011
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Horní Jelení, ul. Rudé armády <br><b>Adresa:</b> Rudé armády 142, 53374, Horní Jelení ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "53400:2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0158479,
+                    50.0210728
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Litětiny <br><b>Adresa:</b> Litětiny 53, 53371, Dolní Roveň ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "53400:14"
+            }
+        }
+    ]
+}

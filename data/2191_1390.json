@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6128492,
+                    49.9412122
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Tři Sekery - pošta <br><b>Adresa:</b> č.p. 82, 35301, Tři Sekery ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "34707:250"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6166448,
+                    49.9421765
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Tři Sekery, prodejna Jednota <br><b>Adresa:</b> Cheb; Tři Sekery; Tři Sekery <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "34707:195"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6530185,
+                    49.9191069
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Horní Ves, u č.37 <br><b>Adresa:</b> Horní Ves 37, 35301, Trstěnice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "34707:193"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6084075,
+                    49.9203993
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Chodovská Huť, autobusová zastávka <br><b>Adresa:</b> Cheb; Tři Sekery; Chodovská Huť <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "34707:194"
+            }
+        }
+    ]
+}

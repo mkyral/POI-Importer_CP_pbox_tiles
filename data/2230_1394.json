@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0643196,
+                    49.6859013
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> zastávka ZDAR, Moravské Křižánky <br><b>Adresa:</b> Moravské Křižánky 116, 59202, Křižánky ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:50",
+                "ref": "59205:10"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0358441,
+                    49.7214774
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Svratouch 290 - prodejna Jednoty <br><b>Adresa:</b> č.ev. 50, 53942, Svratouch <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "53900:40"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.051135,
+                    49.7086471
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> zastávka autobusu, Svratka <br><b>Adresa:</b> U Mostu 11, Česká Cikánka, 59202, Svratka ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:30",
+                "ref": "59205:5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0739094,
+                    49.6896431
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Jednota, Moravské Křižánky <br><b>Adresa:</b> České Křižánky 32, 59202, Křižánky ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 12:00",
+                "ref": "59205:11"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0742159,
+                    49.6798061
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> č. 104, Moravské Křižánky <br><b>Adresa:</b> Moravské Křižánky 104, 59202, Křižánky ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 12:20",
+                "ref": "59205:12"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0351299,
+                    49.7122786
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Svratka <br><b>Adresa:</b> 9. května 250, 59202, Svratka ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 12:00",
+                "ref": "59205:1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.029157,
+                    49.7102079
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Jednota, Svratka <br><b>Adresa:</b> Partyzánská 211, 59202, Svratka ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:00",
+                "ref": "59205:3"
+            }
+        }
+    ]
+}

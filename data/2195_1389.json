@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.9760576,
+                    50.0068099
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Bezděkov, autobusová zastávka <br><b>Adresa:</b> Karlovy Vary; Toužim; Bezděkov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "30071:510"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.9808632,
+                    49.9654896
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Vidžín - č.p. 25 <br><b>Adresa:</b> Vidžín 25, 33041, Úterý ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "30071:319"
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.5311091,
+                    48.8638813
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Díly Javorník, Velká nad Veličkou <br><b>Adresa:</b> Hodonín; Javorník; Javorník <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:45",
+                "ref": "68607:180"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.5318446,
+                    48.8643924
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Javorník Jednota, Velká nad Veličkou <br><b>Adresa:</b> č.p. 276, 69674, Javorník ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "68607:176"
+            }
+        }
+    ]
+}

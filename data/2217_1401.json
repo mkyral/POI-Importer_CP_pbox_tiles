@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9060523,
+                    49.3185725
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Psárov <br><b>Adresa:</b> č.p. 35, 39201, Psárov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:30",
+                "ref": "39007:747"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8583629,
+                    49.3182236
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Předboř <br><b>Adresa:</b> Předboř 45, 39201, Choustník ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:10",
+                "ref": "39007:745"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8756245,
+                    49.2756029
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Chotěmice <br><b>Adresa:</b> č.p. 5, 39201, Chotěmice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:25",
+                "ref": "39007:740"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8931545,
+                    49.3175794
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Tříklasovice <br><b>Adresa:</b> Tříklasovice 11, 39201, Psárov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:20",
+                "ref": "39007:746"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.936262,
+                    49.2963992
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Drunče č.9 <br><b>Adresa:</b> č.p. 41, 37821, Drunče ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:00",
+                "ref": "37702:121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.911851,
+                    49.2912418
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Březina <br><b>Adresa:</b> č.p. 47, 37821, Březina ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:40",
+                "ref": "37702:120"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8861444,
+                    49.2858621
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Lipovka <br><b>Adresa:</b> Lipovka 2, 37821, Deštná ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "37702:119"
+            }
+        }
+    ]
+}

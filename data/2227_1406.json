@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7735479,
+                    49.0177176
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Nové Syrovice <br><b>Adresa:</b> č.p. 4, 67541, Nové Syrovice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:30",
+                "ref": "67407:312"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7860029,
+                    49.0119297
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Láz, u č.p. 89 <br><b>Adresa:</b> č.p. 89, 67541, Láz ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "67407:181"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7492864,
+                    49.0224839
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Nimpšov 50 <br><b>Adresa:</b> č.p. 50, 67541, Nimpšov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:20",
+                "ref": "67407:185"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7675335,
+                    49.0352056
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Jackov 16 <br><b>Adresa:</b> Jackov 37, 67541, Moravské Budějovice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:30",
+                "ref": "67407:183"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7894773,
+                    49.0267273
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Krnčice, u č.p. 1 <br><b>Adresa:</b> Krnčice 1, 67541, Nové Syrovice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:20",
+                "ref": "67407:182"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8193905,
+                    49.0142189
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Častohostice 41 <br><b>Adresa:</b> č.p. 41, 67602, Častohostice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:45",
+                "ref": "67407:278"
+            }
+        }
+    ]
+}

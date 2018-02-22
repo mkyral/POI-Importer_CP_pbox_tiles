@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4275814,
+                    49.8985816
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Pošta Dolní Lutyně <br><b>Adresa:</b> Koperníkova 666, 73553, Dolní Lutyně ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 15:30",
+                "ref": "72572:190"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4141246,
+                    49.9251803
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Hlavní 202, Věřňovice, Dolní Lutyně <br><b>Adresa:</b> Hlavní 202, Věřňovice, 73553, Dolní Lutyně ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "70071:508"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4164734,
+                    49.9070379
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Bezručova (stojan u Has.zbrojnice u č.145), D.Lut. <br><b>Adresa:</b> Karviná; Dolní Lutyně; Dolní Lutyně <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "70071:509"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3718194,
+                    49.9041244
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> 1.máje 145, Skřečoň <br><b>Adresa:</b> 1. máje 145, Skřečoň, 73531, Bohumín ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "70071:505"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3782142,
+                    49.9037779
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Pošta Bohumín 3 <br><b>Adresa:</b> 1. máje 266, Skřečoň, 73531, Bohumín ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 17:00",
+                "ref": "72572:184"
+            }
+        }
+    ]
+}

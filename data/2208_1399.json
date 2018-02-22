@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.116328,
+                    49.4180178
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Ostrovec <br><b>Adresa:</b> Dolní Ostrovec 26, 39833, Ostrovec ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 07:30",
+                "ref": "39707:106"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1281595,
+                    49.3833822
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Vráž <br><b>Adresa:</b> Stará Vráž 57, 39832, Vráž ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:30",
+                "ref": "39707:105"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1281595,
+                    49.3833822
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta, Vráž u Písku <br><b>Adresa:</b> Stará Vráž 57, 39832, Vráž ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:30",
+                "ref": "39707:179"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1246588,
+                    49.3920363
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Vráž ČD <br><b>Adresa:</b> Nová Vráž 25, 39832, Vráž ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "39707:75"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1164027,
+                    49.4214826
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta, Ostrovec <br><b>Adresa:</b> Dolní Ostrovec 69, 39833, Ostrovec ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "39707:180"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1283975,
+                    49.3893081
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Vráž - sanatorium <br><b>Adresa:</b> Nová Vráž 5, 39832, Vráž ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:45",
+                "ref": "39707:74"
+            }
+        }
+    ]
+}

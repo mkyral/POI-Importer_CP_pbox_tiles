@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8993236,
+                    49.4346929
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Pošta Drahany (stojan) <br><b>Adresa:</b> č.p. 26, 79861, Drahany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 15.19 m",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 13:30",
+                "ref": "79907:448"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8791751,
+                    49.3941902
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Odrůvky <br><b>Adresa:</b> Odrůvky 21, 68308, Studnice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 23.43 m",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "68207:22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9021554,
+                    49.4090151
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Nové Sady 5 <br><b>Adresa:</b> č.p. 5, 68308, Nové Sady <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.67 m",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:15",
+                "ref": "68207:23"
+            }
+        }
+    ]
+}

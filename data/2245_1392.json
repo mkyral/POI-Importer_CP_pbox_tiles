@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3385438,
+                    49.7841295
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Šternberk, Dalov 71, u aut.zastávky (stojan) <br><b>Adresa:</b> Olomouc; Šternberk; Dalov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "77072:520"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.4003213,
+                    49.832161
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Pošta Dětřichov nad Bystřicí (stojan) <br><b>Adresa:</b> č.p. 101, 79303, Dětřichov nad Bystřicí ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:45",
+                "ref": "79207:122"
+            }
+        }
+    ]
+}

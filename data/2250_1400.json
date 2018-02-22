@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8011014,
+                    49.3496013
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Rajnochovice- Troják ČSAD <br><b>Adresa:</b> č.p. 105, 76871, Rajnochovice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "76707:160"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7746222,
+                    49.3669582
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Rajnochovice - Tesák č.206 <br><b>Adresa:</b> č.p. 206, 76871, Rajnochovice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:10",
+                "ref": "76707:159"
+            }
+        }
+    ]
+}

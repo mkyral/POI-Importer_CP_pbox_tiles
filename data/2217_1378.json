@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.929661,
+                    50.5927544
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> zastávka, na stojanu, LDS <br><b>Adresa:</b> č.p. 19, 29413, Strážiště <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 36.99 m",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "29407:261"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9211332,
+                    50.5852694
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> u rozcestí, na stoajnu <br><b>Adresa:</b> Vicmanov 1, 29501, Mukařov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 25.63 m",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "29407:243"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9240242,
+                    50.6142232
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> zastávka, na stojanu, LDS <br><b>Adresa:</b> Kozmice 1, 29413, Strážiště <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 28.8 m",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "29407:262"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9164254,
+                    50.6250108
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> zastávka ČSAD, naproti Vápno  č.p. 69, Hlavice <br><b>Adresa:</b> Vápno 69, 46348, Hlavice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 21.03 m",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:45",
+                "ref": "46307:425"
+            }
+        }
+    ]
+}

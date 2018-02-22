@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0440686,
+                    48.9611679
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Vevčice <br><b>Adresa:</b> č.p. 24, 67153, Vevčice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "66907:171"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0795497,
+                    48.9297368
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Plaveč Domov č.p. 1 <br><b>Adresa:</b> Domov 1, 67132, Plaveč <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 72.61 m",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "66907:174"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0657176,
+                    48.9485376
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Rudlice <br><b>Adresa:</b> č.p. 60, 67153, Rudlice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.34 m",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "66907:172"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0777229,
+                    48.9319034
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Plaveč u Znojma <br><b>Adresa:</b> Sokolská 96, 67132, Plaveč <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 4.8 m",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "66907:262"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0250165,
+                    48.9227628
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Hluboké Mašůvky <br><b>Adresa:</b> č.p. 10, 67152, Hluboké Mašůvky ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:30",
+                "ref": "66907:270"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0250165,
+                    48.9227628
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Hl.Mašůvky - Smíš.zboží <br><b>Adresa:</b> č.p. 10, 67152, Hluboké Mašůvky ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:50",
+                "ref": "66907:63"
+            }
+        }
+    ]
+}

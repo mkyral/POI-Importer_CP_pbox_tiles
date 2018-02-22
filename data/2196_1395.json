@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0834845,
+                    49.6551442
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Mířovice - ČSAD <br><b>Adresa:</b> Mířovice 3, 33301, Ves Touškov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "30071:464"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0304053,
+                    49.6318842
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Hradišťany - ČSAD <br><b>Adresa:</b> Hradišťany 16, 33301, Honezovice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "30071:463"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0635953,
+                    49.6380128
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Honezovice <br><b>Adresa:</b> č.p. 64, 33301, Honezovice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "30071:462"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0345176,
+                    49.6558013
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Nedražice <br><b>Adresa:</b> Tachov; Kostelec; Nedražice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "34707:132"
+            }
+        }
+    ]
+}

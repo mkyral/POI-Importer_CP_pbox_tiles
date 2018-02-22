@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9359781,
+                    50.3736028
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Javorník, Travná 92, aut. zastávka (stojan) <br><b>Adresa:</b> Jeseník; Javorník; Travná <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:00",
+                "ref": "79007:103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9329853,
+                    50.3596387
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Javorník, Zálesí 41 (stojan) <br><b>Adresa:</b> Zálesí 41, 79070, Javorník ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:00",
+                "ref": "79007:111"
+            }
+        }
+    ]
+}

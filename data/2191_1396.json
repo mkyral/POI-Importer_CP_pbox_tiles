@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5875928,
+                    49.585637
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Železná u čp.20 <br><b>Adresa:</b> Železná 20, 34525, Bělá nad Radbuzou ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:55",
+                "ref": "34407:110"
+            }
+        }
+    ]
+}

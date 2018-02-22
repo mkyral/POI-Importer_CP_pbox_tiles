@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3936118,
+                    48.8611646
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> U novinového stánku nad přehradou Lučina <br><b>Adresa:</b> č.p. 330, 69662, Tvarožná Lhota ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 14:05",
+                "ref": "69507:169"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3936118,
+                    48.8611646
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Areál ATC Lučina <br><b>Adresa:</b> č.p. 330, 69662, Tvarožná Lhota ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 14:00",
+                "ref": "69507:168"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3411562,
+                    48.8612049
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Radějov u Hodonína <br><b>Adresa:</b> č.p. 7, 69667, Radějov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "69507:116"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3463226,
+                    48.857913
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Radějov u Hodonína 55 <br><b>Adresa:</b> ; ;  <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:15",
+                "ref": "69507:117"
+            }
+        }
+    ]
+}

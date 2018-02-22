@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6241662,
+                    49.7479684
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Borek,hospoda č.p. 56 <br><b>Adresa:</b> Pražská 56, Borek, 33701, Rokycany ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "30072:57"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6482359,
+                    49.7598743
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Svojkovice-prodejna <br><b>Adresa:</b> Rokycany; Svojkovice; Svojkovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "30072:56"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6896699,
+                    49.7751908
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Holoubkov - pošta <br><b>Adresa:</b> č.p. 48, 33801, Holoubkov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "30072:128"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6831071,
+                    49.7458826
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Hůrky - obecní úřad <br><b>Adresa:</b> Rokycany; Hůrky; Hůrky <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "30072:59"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6911565,
+                    49.7755701
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Holoubkov čp.77 <br><b>Adresa:</b> č.p. 77, 33801, Holoubkov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "30072:55"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6239365,
+                    49.7755289
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Volduchy - pošta <br><b>Adresa:</b> č.p. 92, 33822, Volduchy ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "30072:132"
+            }
+        }
+    ]
+}

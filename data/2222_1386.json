@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3329494,
+                    50.1699162
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Motorest Kopičák - Kněžičky 44 <br><b>Adresa:</b> č.p. 44, 28908, Kněžičky ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "28900:29"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3074761,
+                    50.1747962
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> č.p.19, Dlouhopolsko <br><b>Adresa:</b> Poděbradská 19, 28903, Dlouhopolsko ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "28900:7"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3208993,
+                    50.1411013
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> zastávka ČSAD, Choťovice čp. 50 <br><b>Adresa:</b> č.p. 50, 28905, Choťovice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "28900:37"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3447987,
+                    50.1747099
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> restaurace, Kněžičky 5 <br><b>Adresa:</b> č.p. 5, 28908, Kněžičky ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "28900:28"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3646317,
+                    50.1396046
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Zbraň čp. 12 <br><b>Adresa:</b> Zbraň 12, 28126, Žiželice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "28000:118"
+            }
+        }
+    ]
+}

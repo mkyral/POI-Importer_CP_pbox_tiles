@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.106121,
+                    49.9432885
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Skelná Huť č.p. 11 <br><b>Adresa:</b> Skelná Huť 11, 33162, Krsy ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "30071:376"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1463653,
+                    49.9066078
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Čbán - zastávka <br><b>Adresa:</b> Plzeň-sever; Úněšov; Čbán <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "30071:308"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1603917,
+                    49.9470249
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Plachtín,31 <br><b>Adresa:</b> Plachtín 31, 33162, Nečtiny ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "30071:374"
+            }
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.289204,
+                    50.1329881
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Ostroh 61, autobusová zastávka <br><b>Adresa:</b> Ostroh 61, 35002, Poustka ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "35007:50"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.2724879,
+                    50.1566791
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Hazlov - pošta <br><b>Adresa:</b> č.p. 395, 35132, Hazlov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "35007:32"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.2992105,
+                    50.1396523
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Poustka 12 <br><b>Adresa:</b> č.p. 12, 35002, Poustka ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "35007:49"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.2518922,
+                    50.1591486
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Lipná 34 <br><b>Adresa:</b> Lipná 34, 35201, Hazlov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "35007:105"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.2318626,
+                    50.1291388
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Libá - pošta <br><b>Adresa:</b> č.p. 220, 35131, Libá ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "35007:28"
+            }
+        }
+    ]
+}

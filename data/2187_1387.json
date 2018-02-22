@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.2837486,
+                    50.0855624
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Pomezí nad Ohří 18, obecní úřad <br><b>Adresa:</b> č.p. 18, 35002, Pomezí nad Ohří ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "35007:30"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3027741,
+                    50.0922083
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Cetnov, školící středisko ČP <br><b>Adresa:</b> Cheb; Cheb; Cetnov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "35007:60"
+            }
+        }
+    ]
+}

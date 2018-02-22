@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4506825,
+                    50.3704006
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Stranná, poblíž č.p. 15 <br><b>Adresa:</b> Chomutov; Březno; Stranná <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "43807:79"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5107202,
+                    50.3997882
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Lažany, navěšena na zastávce ČSAD <br><b>Adresa:</b> Lažany 7, 43001, Hrušovany ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "43007:114"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5078347,
+                    50.3781401
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Hořetice <br><b>Adresa:</b> Hořetice 5, 43801, Žiželice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "43807:51"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5165043,
+                    50.3466244
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Záhoří, u zastávky BUS naproti č.p. 12 <br><b>Adresa:</b> Louny; Žatec; Záhoří <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "43807:50"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4987465,
+                    50.3868999
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Hrušovany u Chomutova <br><b>Adresa:</b> č.p. 15, 43143, Hrušovany ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "43007:241"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4984828,
+                    50.3563975
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Stroupeč <br><b>Adresa:</b> Stroupeč 5, 43801, Žiželice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "43807:52"
+            }
+        }
+    ]
+}

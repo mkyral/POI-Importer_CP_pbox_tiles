@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8714459,
+                    49.7501429
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Vrchy u čp.76, autobus.zastávka <br><b>Adresa:</b> Nový Jičín; Vrchy; Vrchy <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "74207:332"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9200385,
+                    49.7540635
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Pošta Fulnek 3 (stojan) <br><b>Adresa:</b> Lukavec 86, 74245, Fulnek ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "74207:343"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9249443,
+                    49.726278
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Fulnek, Děrné 85, obchod (stojan) <br><b>Adresa:</b> Nový Jičín; Fulnek; Děrné <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:45",
+                "ref": "74207:333"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8508793,
+                    49.7674082
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Březová, Jančí 23,na stojanu vedle obec.skříněk <br><b>Adresa:</b> Opava; Březová; Jančí <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:45",
+                "ref": "74907:332"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8734773,
+                    49.7765379
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Březová, Gručovice čp. 41 <br><b>Adresa:</b> Gručovice 41, 74744, Březová ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "74907:329"
+            }
+        }
+    ]
+}

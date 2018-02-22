@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4021472,
+                    50.2539688
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Luby u Chebu - pošta <br><b>Adresa:</b> Revoluční 510, 35137, Luby ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "35007:153"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4056049,
+                    50.2540587
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Luby u Chebu, Revoluční 143, drogerie <br><b>Adresa:</b> Revoluční 143, 35137, Luby ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "35007:139"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4058588,
+                    50.2524157
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Luby u Chebu,  Malé náměstí 35 <br><b>Adresa:</b> Malé náměstí 35, 35137, Luby ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "35007:138"
+            }
+        }
+    ]
+}

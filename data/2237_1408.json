@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6465821,
+                    48.8878052
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Dolní Věstonice <br><b>Adresa:</b> č.p. 21, 69129, Dolní Věstonice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "69007:85"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6713356,
+                    48.874658
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Pavlov - budova PST <br><b>Adresa:</b> Na Návsi 88, 69201, Pavlov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "69007:101"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.666973,
+                    48.8723177
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Pavlov - Gajdošovská ulice <br><b>Adresa:</b> Rudolfa Gajdoše 212, 69201, Pavlov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "69007:102"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.653604,
+                    48.9059604
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Strachotín - obchod <br><b>Adresa:</b> Sokolská 171, 69301, Strachotín ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:30",
+                "ref": "60011:54"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6509552,
+                    48.9051789
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Strachotín č.p. 88 <br><b>Adresa:</b> Osvobození 88, 69301, Strachotín ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 13:00",
+                "ref": "60011:53"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6245044,
+                    48.8756216
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Horní Věstonice - budova bývalého PST <br><b>Adresa:</b> Lípová 131, 69181, Horní Věstonice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:10",
+                "ref": "69007:84"
+            }
+        }
+    ]
+}

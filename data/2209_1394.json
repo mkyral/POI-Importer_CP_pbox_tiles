@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2202388,
+                    49.6816889
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Obory - prodejna č.p.77 <br><b>Adresa:</b> č.p. 44, 26301, Obory ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:30",
+                "ref": "26107:44"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1567165,
+                    49.6706638
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Jelence - zast.ČSAD, u 34 <br><b>Adresa:</b> Jelence 34, 26263, Dolní Hbity ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:30",
+                "ref": "26107:270"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1606176,
+                    49.7179281
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Ouběnice - prodejna č.p.55 <br><b>Adresa:</b> č.p. 55, 26301, Ouběnice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "26107:40"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2347854,
+                    49.6984865
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Nečín <br><b>Adresa:</b> č.p. 3, 26213, Nečín ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "26107:379"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1869009,
+                    49.7171227
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Skalice čp.28 <br><b>Adresa:</b> Skalice 28, 26301, Nečín ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:30",
+                "ref": "26107:34"
+            }
+        }
+    ]
+}

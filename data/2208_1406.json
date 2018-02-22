@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1153454,
+                    49.0039423
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Ratiborova Lhota <br><b>Adresa:</b> Ratiborova Lhota 19, 38301, Mičovice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:30",
+                "ref": "38307:38"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1250261,
+                    48.9842938
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Mičovice <br><b>Adresa:</b> č.p. 23, 38301, Mičovice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:45",
+                "ref": "38307:43"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1270606,
+                    49.0147695
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Třebanice <br><b>Adresa:</b> Třebanice 2, 38301, Lhenice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:45",
+                "ref": "38307:44"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1455741,
+                    48.9942026
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Budova pošty Lhenice <br><b>Adresa:</b> Zahradní 288, 38402, Lhenice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "37271:856"
+            }
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2893738,
+                    48.8365242
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Božice Jednota <br><b>Adresa:</b> č.p. 90, 67164, Božice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "66907:187"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2806276,
+                    48.8353434
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Božice č.p.186 <br><b>Adresa:</b> č.p. 186, 67164, Božice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:50",
+                "ref": "66907:186"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2844794,
+                    48.8344439
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Božice <br><b>Adresa:</b> č.p. 374, 67164, Božice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:30",
+                "ref": "66907:277"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2762841,
+                    48.8386836
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Šanov Jednota <br><b>Adresa:</b> č.p. 381, 67164, Božice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "66907:185"
+            }
+        }
+    ]
+}

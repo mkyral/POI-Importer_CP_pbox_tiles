@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0815472,
+                    50.3611222
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Boč u č.1, autobusová zastávka <br><b>Adresa:</b> Boč 1, 36301, Stráž nad Ohří ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "36207:115"
+            }
+        }
+    ]
+}

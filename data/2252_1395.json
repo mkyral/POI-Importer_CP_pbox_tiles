@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9929264,
+                    49.6158868
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Šenov u Nového Jičína, Dukelská 193, PRESSTO <br><b>Adresa:</b> Dukelská 193, 74242, Šenov u Nového Jičína ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:30",
+                "ref": "74207:45"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9947088,
+                    49.6195429
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Šenov u Nového Jičína, Malostránská 565 (stojan) <br><b>Adresa:</b> Malostranská 565, 74242, Šenov u Nového Jičína ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:30",
+                "ref": "74207:17"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9317624,
+                    49.6503415
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Pošta Suchdol nad Odrou <br><b>Adresa:</b> Malá strana 238, 74201, Suchdol nad Odrou ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 15:00",
+                "ref": "74207:96"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9913771,
+                    49.645401
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Kunín 252 <br><b>Adresa:</b> č.p. 252, 74253, Kunín ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "74207:50"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9480739,
+                    49.6123462
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Bernartice nad Odrou 196 (stojan) <br><b>Adresa:</b> Nový Jičín; Bernartice nad Odrou; Bernartice nad Odrou <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "74207:42"
+            }
+        }
+    ]
+}

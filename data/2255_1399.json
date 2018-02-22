@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2014781,
+                    49.4117142
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Za kopcem, Hutisko - Solanec <br><b>Adresa:</b> Vsetín; Hutisko-Solanec; Solanec pod Soláněm <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "75707:134"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2429419,
+                    49.389573
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> rekreační středisko Čarták, Hutisko - Solanec <br><b>Adresa:</b> Solanec pod Soláněm 186, 75662, Hutisko-Solanec ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "75707:136"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.26423,
+                    49.4381487
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> hotel Zavadilka, Prostřední Bečva <br><b>Adresa:</b> č.p. 119, 75656, Prostřední Bečva ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 12:00",
+                "ref": "75707:151"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2535267,
+                    49.4352357
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Prostřední Bečva <br><b>Adresa:</b> č.p. 430, 75656, Prostřední Bečva ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 16:05",
+                "ref": "75707:260"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2177684,
+                    49.4306375
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Hutisko Solanec <br><b>Adresa:</b> Hutisko 512, 75662, Hutisko-Solanec ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 15:50",
+                "ref": "75707:263"
+            }
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3559945,
+                    49.9298169
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> na čp. 49, Velká Štáhle <br><b>Adresa:</b> č.p. 49, 79351, Velká Štáhle ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 12:15",
+                "ref": "79207:67"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3729775,
+                    49.9134202
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Pošta Břidličná <br><b>Adresa:</b> Nábřežní 452, 79351, Břidličná ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 16:30",
+                "ref": "79207:518"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3751,
+                    49.9130031
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> AL INVEST,Bruntálská na čp.182-vrátnice,Břidličná <br><b>Adresa:</b> Bruntálská 182, 79351, Břidličná ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:15",
+                "ref": "79207:65"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3216337,
+                    49.9381479
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Jamartice,u čp.106,Rýmařov (stojan na zast.BUS) <br><b>Adresa:</b> Bruntál; Rýmařov; Jamartice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:30",
+                "ref": "79207:82"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3585128,
+                    49.8988506
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Vajglov, na čp.19, Břidličná <br><b>Adresa:</b> Vajglov 19, 79351, Břidličná ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:15",
+                "ref": "79207:68"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.378033,
+                    49.9142309
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Osvobození, na čp. 357, Břidličná <br><b>Adresa:</b> Osvobození 357, 79351, Břidličná ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:30",
+                "ref": "79207:64"
+            }
+        }
+    ]
+}

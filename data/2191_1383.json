@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5855748,
+                    50.3020908
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Rotava, Nejdecká 713 <br><b>Adresa:</b> Nejdecká 713, 35801, Rotava ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "35007:220"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6024996,
+                    50.318873
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Šindelová - pošta <br><b>Adresa:</b> č.p. 117, 35801, Šindelová ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "35007:230"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5699964,
+                    50.2944754
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Rotava, Kraslická 304 <br><b>Adresa:</b> Kraslická 304, 35801, Rotava ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:30",
+                "ref": "35007:222"
+            }
+        }
+    ]
+}

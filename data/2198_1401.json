@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2440583,
+                    49.3045189
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Strážov u čp. 178 <br><b>Adresa:</b> č.p. 178, 34021, Strážov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "33907:171"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2471097,
+                    49.3036174
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Strážov na Šumavě - pošta <br><b>Adresa:</b> č.p. 1, 34021, Strážov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "33907:66"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2222202,
+                    49.2965153
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Zahorčice - autobusová zastávka <br><b>Adresa:</b> Klatovy; Strážov; Zahorčice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "33907:188"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.257667,
+                    49.287716
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Viteň - hasičská zbrojnice <br><b>Adresa:</b> Klatovy; Strážov; Viteň <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "33907:189"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1848415,
+                    49.3220865
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Petrovice nad Úhlavou <br><b>Adresa:</b> Klatovy; Janovice nad Úhlavou; Petrovice nad Úhlavou <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "33907:205"
+            }
+        }
+    ]
+}

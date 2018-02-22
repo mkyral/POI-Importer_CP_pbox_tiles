@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.874839,
+                    49.4664625
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Bousín, Repechy 27 <br><b>Adresa:</b> Repechy 27, 79861, Bousín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.76 m",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 12:15",
+                "ref": "79907:94"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8365268,
+                    49.4854254
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Bukovská 47, Protivanov (pohostinství,) <br><b>Adresa:</b> Bukovská 47, 79848, Protivanov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 12.65 m",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:00",
+                "ref": "79907:97"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8367642,
+                    49.4824417
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Pošta Protivanov (stojan) <br><b>Adresa:</b> Náměstí 31, 79848, Protivanov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 2.83 m",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 16:00",
+                "ref": "79907:446"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8512912,
+                    49.4453995
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Niva 73 (obchod-stojan) <br><b>Adresa:</b> č.p. 73, 79861, Niva <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.38 m",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:30",
+                "ref": "79907:93"
+            }
+        }
+    ]
+}

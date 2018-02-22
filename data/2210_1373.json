@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2474848,
+                    50.8754945
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> U hotelu Praha <br><b>Adresa:</b> Děčín; Jetřichovice; Jetřichovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:20",
+                "ref": "40507:148"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2383597,
+                    50.8802283
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Celnice <br><b>Adresa:</b> č.p. 5, 40717, Hřensko ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:45",
+                "ref": "40507:146"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2971467,
+                    50.8685896
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> zastávka BUS <br><b>Adresa:</b> Děčín; Hřensko; Mezná <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:10",
+                "ref": "40507:121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2666627,
+                    50.8595152
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Prodejna, <br><b>Adresa:</b> č.p. 215, 40502, Janov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:30",
+                "ref": "40507:91"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3172589,
+                    50.873549
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Hotel Mezní louka, <br><b>Adresa:</b> Mezná 71, 40502, Hřensko <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 21.58 m",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:50",
+                "ref": "40507:101"
+            }
+        }
+    ]
+}

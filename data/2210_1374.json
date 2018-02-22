@@ -1,0 +1,141 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2640464,
+                    50.8199624
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Obecní úřad, <br><b>Adresa:</b> č.p. 29, 40502, Bynovec ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "40507:89"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2915868,
+                    50.8451792
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Obecní úřad, <br><b>Adresa:</b> č.p. 60, 40502, Růžová ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "40507:90"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3222552,
+                    50.807585
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Prodejna, <br><b>Adresa:</b> Nová Oleška 31, 40502, Huntířov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "40507:95"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2559526,
+                    50.7941213
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Ludvíkovice <br><b>Adresa:</b> č.p. 71, 40713, Ludvíkovice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 16:00",
+                "ref": "40507:167"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2632835,
+                    50.8362252
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Arnoltice u Děčína <br><b>Adresa:</b> č.p. 34, 40714, Arnoltice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 16:00",
+                "ref": "40507:168"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2646087,
+                    50.8013418
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Ludvíkov po Smrkem - obchod č.p. 90 <br><b>Adresa:</b> č.p. 90, 40713, Ludvíkovice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:45",
+                "ref": "46307:319"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2564239,
+                    50.7940689
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Křižovatka <br><b>Adresa:</b> Děčín; Ludvíkovice; Ludvíkovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "40507:151"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2684467,
+                    50.8102189
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Zastávka BUS <br><b>Adresa:</b> Děčín; Kámen; Kámen <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "40507:153"
+            }
+        }
+    ]
+}

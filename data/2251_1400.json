@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9097215,
+                    49.3669428
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Ratiboř, obchod Jednota <br><b>Adresa:</b> č.p. 437, 75621, Ratiboř ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:00",
+                "ref": "75707:26"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9148656,
+                    49.3677179
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Ratiboř <br><b>Adresa:</b> č.p. 75, 75621, Ratiboř ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 12:00",
+                "ref": "75707:245"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8607869,
+                    49.3527873
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> obchodní střed. Jednota, Hošťálková u Vsetína <br><b>Adresa:</b> č.p. 203, 75622, Hošťálková ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "75707:30"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8688164,
+                    49.354561
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Hošťálková <br><b>Adresa:</b> č.p. 3, 75622, Hošťálková ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 12:00",
+                "ref": "75707:246"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8956727,
+                    49.378514
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Kateřinice-samoobsluha-dolní konec <br><b>Adresa:</b> č.p. 289, 75621, Kateřinice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:30",
+                "ref": "75707:27"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8857648,
+                    49.3820929
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Kateřinice-bytovky <br><b>Adresa:</b> Vsetín; Kateřinice; Kateřinice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "75707:28"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8694483,
+                    49.3546741
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> bytovky, Hošťálková <br><b>Adresa:</b> Vsetín; Vsetín; Vsetín <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:00",
+                "ref": "75707:31"
+            }
+        }
+    ]
+}

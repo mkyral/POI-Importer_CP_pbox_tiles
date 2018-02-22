@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3797414,
+                    48.7523255
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Hevlín-OÚ <br><b>Adresa:</b> č.p. 224, 67169, Hevlín ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:00",
+                "ref": "66907:188"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3805238,
+                    48.800343
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Šanov-OÚ <br><b>Adresa:</b> Hlavní 65, 67168, Šanov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "66907:181"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3840236,
+                    48.7503619
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Hevlín <br><b>Adresa:</b> č.p. 34, 67169, Hevlín ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:00",
+                "ref": "66907:282"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3755761,
+                    48.8017691
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Šanov-Reischl <br><b>Adresa:</b> Hlavní 111, 67168, Šanov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "66907:182"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3951094,
+                    48.7951777
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Hrabětice <br><b>Adresa:</b> Hrušovanská 153, 67168, Hrabětice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 13:00",
+                "ref": "66907:281"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3953002,
+                    48.7983204
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Hrabětice-Jednota <br><b>Adresa:</b> Hrušovanská 12, 67168, Hrabětice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:30",
+                "ref": "66907:180"
+            }
+        }
+    ]
+}

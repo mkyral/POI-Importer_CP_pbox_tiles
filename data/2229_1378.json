@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9796438,
+                    50.5772303
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Lhota hospoda <br><b>Adresa:</b> Marianská 75, Lhota, 54101, Trutnov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "54107:32"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.944857,
+                    50.5795696
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Voletiny projedna potravin <br><b>Adresa:</b> Polská 477, Poříčí, 54101, Trutnov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "54107:31"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9466222,
+                    50.6199773
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Zlatá Olešnice <br><b>Adresa:</b> č.p. 73, 54101, Zlatá Olešnice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "54107:217"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.948394,
+                    50.5743036
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Trutnov 3 <br><b>Adresa:</b> Lípové náměstí 374, Poříčí, 54103, Trutnov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 12:00",
+                "ref": "54107:3"
+            }
+        }
+    ]
+}

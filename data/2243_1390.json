@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2103202,
+                    49.9077101
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Pošta Horní Město <br><b>Adresa:</b> č.p. 237, 79344, Horní Město ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:10",
+                "ref": "79207:517"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1557811,
+                    49.9317208
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Oskava, Bedřichov 111 (stojan) <br><b>Adresa:</b> Bedřichov 111, 78801, Oskava ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:00",
+                "ref": "78807:104"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1792528,
+                    49.894989
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> u obchodu vedle čp.102,Tvrdkov(stojan na zast.BUS) <br><b>Adresa:</b> Bruntál; Tvrdkov; Tvrdkov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:55",
+                "ref": "79207:96"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2263918,
+                    49.9134518
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Skály,u čp.16,Horní Město (stojan na zast.BUS) <br><b>Adresa:</b> Bruntál; Horní Město; Skály <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:30",
+                "ref": "79207:92"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1842017,
+                    49.9159843
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Dobřečov,u čp.50,Horní Město (stojan na zast.BUS) <br><b>Adresa:</b> Bruntál; Horní Město; Dobřečov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:40",
+                "ref": "79207:91"
+            }
+        }
+    ]
+}

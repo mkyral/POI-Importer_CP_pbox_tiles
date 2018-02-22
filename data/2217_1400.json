@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8626209,
+                    49.3584162
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Chrbonín <br><b>Adresa:</b> č.p. 13, 39155, Chrbonín ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:55",
+                "ref": "39007:136"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9090882,
+                    49.3672552
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Svatá Anna <br><b>Adresa:</b> Svatá Anna 1, 39201, Vlčeves ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:20",
+                "ref": "39007:755"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9021245,
+                    49.3572547
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Vlčeves <br><b>Adresa:</b> č.p. 6, 39201, Vlčeves ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:10",
+                "ref": "39007:753"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8754841,
+                    49.3368543
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Mlýny <br><b>Adresa:</b> č.p. 35, 39201, Mlýny ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:45",
+                "ref": "39007:752"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9394494,
+                    49.3536455
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Panské Mlýny <br><b>Adresa:</b> Panské Mlýny 61, 39494, Černovice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:50",
+                "ref": "39307:273"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.920177,
+                    49.3295792
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Hojovice <br><b>Adresa:</b> č.p. 80, 39501, Hojovice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:45",
+                "ref": "39307:272"
+            }
+        }
+    ]
+}

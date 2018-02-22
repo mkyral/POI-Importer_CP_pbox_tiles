@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0723575,
+                    50.3829139
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Bernartice 32, prodejna MIX (stojan) <br><b>Adresa:</b> č.p. 32, 79057, Bernartice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:30",
+                "ref": "79007:110"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0786785,
+                    50.3889727
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Bernartice 60, Partner Bernartice u Javorníka, OÚ <br><b>Adresa:</b> č.p. 60, 79057, Bernartice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:15",
+                "ref": "79007:113"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1066613,
+                    50.3838856
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Bernartice, Horní Heřmanice 47 (stojan) <br><b>Adresa:</b> Horní Heřmanice 47, 79057, Bernartice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:00",
+                "ref": "79007:109"
+            }
+        }
+    ]
+}

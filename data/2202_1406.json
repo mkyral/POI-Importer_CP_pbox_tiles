@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5794875,
+                    49.0189277
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Obecní úřad, Kvilda <br><b>Adresa:</b> č.p. 17, 38493, Kvilda <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.95 m",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:00",
+                "ref": "38307:142"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5796673,
+                    49.0170727
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Budova pošty  Kvilda <br><b>Adresa:</b> č.p. 7, 38493, Kvilda <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.81 m",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "38307:145"
+            }
+        }
+    ]
+}

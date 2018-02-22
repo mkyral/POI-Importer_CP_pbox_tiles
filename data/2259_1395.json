@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6196536,
+                    49.6431878
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> u čp.201-obchod,Třinec-Guty (stojan na zast.BUS) <br><b>Adresa:</b> Frýdek-Místek; Třinec; Guty <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u></p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:00",
+                "ref": "73917:9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5716796,
+                    49.6611774
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Pošta Smilovice u Třince <br><b>Adresa:</b> č.p. 13, 73955, Smilovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.7 m",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 15:00",
+                "ref": "73917:79"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5716699,
+                    49.640861
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Hotel Řeka, na čp. 69, Řeka <br><b>Adresa:</b> č.p. 69, 73955, Řeka ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:30",
+                "ref": "73917:8"
+            }
+        }
+    ]
+}

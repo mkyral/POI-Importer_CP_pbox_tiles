@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6259454,
+                    50.0090955
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Lázně Kynžvart, Malé náměstí 132, <br><b>Adresa:</b> nám. Republiky 132, 35491, Lázně Kynžvart ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "34707:211"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.622944,
+                    50.0080731
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Lázně Kynžvart, Polní 378, V Penzionu <br><b>Adresa:</b> Polní 378, 35491, Lázně Kynžvart ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "34707:213"
+            }
+        }
+    ]
+}

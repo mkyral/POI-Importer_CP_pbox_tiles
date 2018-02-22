@@ -1,0 +1,141 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9025078,
+                    49.56593
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> budova PST, Hamry <br><b>Adresa:</b> č.p. 64, 59101, Hamry nad Sázavou ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:15",
+                "ref": "59100:17"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8603838,
+                    49.5613065
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> zastávka ZDAR, Sázava <br><b>Adresa:</b> č.p. 56, 59211, Sázava ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "59100:62"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9022891,
+                    49.5617199
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> zastávka Horní Hamry <br><b>Adresa:</b> č.p. 84, 59101, Hamry nad Sázavou ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 12:00",
+                "ref": "59100:18"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8889706,
+                    49.5676213
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> zastávka Hamry - Najdek <br><b>Adresa:</b> Najdek 148, 59101, Hamry nad Sázavou ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "59100:21"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8286979,
+                    49.5828957
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> zastávka ZDAR <br><b>Adresa:</b> č.p. 154, 59211, Velká Losenice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "59100:58"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8620662,
+                    49.5609923
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Jednota, Sázava <br><b>Adresa:</b> č.p. 93, 59211, Sázava ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:15",
+                "ref": "59100:63"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.837587,
+                    49.5803861
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Velká Losenice <br><b>Adresa:</b> č.p. 161, 59211, Velká Losenice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:30",
+                "ref": "59100:84"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8790636,
+                    49.5720383
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> zastávka Šlakhamry <br><b>Adresa:</b> Šlakhamry 334, 59101, Hamry nad Sázavou ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:30",
+                "ref": "59100:20"
+            }
+        }
+    ]
+}

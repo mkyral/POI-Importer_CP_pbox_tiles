@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4466199,
+                    49.205264
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Jiřičná - čp. 1 <br><b>Adresa:</b> Jiřičná 1, 34201, Petrovice u Sušice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "33907:321"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4254527,
+                    49.1877313
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Dolejší Těšov - prodejna čp. 18 <br><b>Adresa:</b> Dolejší Těšov 18, 34201, Hartmanice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "33907:324"
+            }
+        }
+    ]
+}

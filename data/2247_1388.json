@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.5377339,
+                    50.021015
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> u čp.124, Nové Heřminovy (stojan před objektem) <br><b>Adresa:</b> č.p. 124, 79201, Nové Heřminovy ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:20",
+                "ref": "79207:23"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.5573972,
+                    50.0447731
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Čaková,u OÚ čp.101, Čaková (na zděné zastávce BUS) <br><b>Adresa:</b> Bruntál; Čaková; Čaková <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:20",
+                "ref": "79207:462"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.5183656,
+                    50.0364948
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> část Kunov,u čp.59, Bruntál (stojan před objektem) <br><b>Adresa:</b> Kunov 59, 79201, Bruntál ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:45",
+                "ref": "79207:24"
+            }
+        }
+    ]
+}

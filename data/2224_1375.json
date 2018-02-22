@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4798809,
+                    50.7417396
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> čp. 291, Rokytnice nad Jizerou 1 <br><b>Adresa:</b> Horní Rokytnice 291, 51245, Rokytnice nad Jizerou ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:15",
+                "ref": "46307:441"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4707419,
+                    50.7446466
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> čp. 314, Rokytnice nad Jizerou 1 <br><b>Adresa:</b> Horní Rokytnice 314, 51245, Rokytnice nad Jizerou ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "46307:440"
+            }
+        }
+    ]
+}

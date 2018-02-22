@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9620574,
+                    49.3676701
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Březina 1 <br><b>Adresa:</b> Vyškov; Březina; Březina <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "68207:44"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9105972,
+                    49.3317065
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Rychtářov-Rohlina    54 <br><b>Adresa:</b> Rychtářov 54, 68201, Vyškov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 27.21 m",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "68207:35"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8815855,
+                    49.3759383
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta  Studnice <br><b>Adresa:</b> č.p. 66, 68308, Studnice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.82 m",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "68207:149"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9178464,
+                    49.3284761
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Rychtářov 48 - obchod <br><b>Adresa:</b> Rychtářov 48, 68201, Vyškov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 22.9 m",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "68207:36"
+            }
+        }
+    ]
+}

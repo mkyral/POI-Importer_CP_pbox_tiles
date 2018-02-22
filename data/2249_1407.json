@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6682487,
+                    48.936306
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> u točny, Korytná <br><b>Adresa:</b> č.p. 167, 68752, Korytná ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "68607:120"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7365795,
+                    48.92739
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Zeveta, Březová <br><b>Adresa:</b> č.p. 54, 68767, Březová ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "68607:127"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7100284,
+                    48.9702634
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Suchá Loz <br><b>Adresa:</b> č.p. 72, 68753, Suchá Loz ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 13:00",
+                "ref": "68607:260"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6680806,
+                    48.9364311
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> u kašny, Korytná <br><b>Adresa:</b> č.p. 82, 68752, Korytná ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "68607:121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7024046,
+                    48.9694397
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> ZD Suchá Loz <br><b>Adresa:</b> č.p. 217, 68753, Suchá Loz ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "68607:119"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7403518,
+                    48.9251963
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Březová <br><b>Adresa:</b> č.p. 390, 68767, Březová ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "68607:270"
+            }
+        }
+    ]
+}

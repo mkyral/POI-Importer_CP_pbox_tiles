@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6150902,
+                    49.036713
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Židlochovice <br><b>Adresa:</b> Nádražní 160, 66701, Židlochovice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 12:00",
+                "ref": "60011:130"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6210294,
+                    49.0350767
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Komenskeho ul. 43, Židlochovice <br><b>Adresa:</b> Komenského 43, 66701, Židlochovice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:30",
+                "ref": "60011:36"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.613123,
+                    49.0025235
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> OÚ, Přísnotice <br><b>Adresa:</b> Vranovická 75, 66463, Přísnotice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:00",
+                "ref": "60011:33"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6185003,
+                    49.0373119
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> nám. Míru 149, Židlochovice <br><b>Adresa:</b> náměstí Míru 149, 66701, Židlochovice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:45",
+                "ref": "60011:38"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6711725,
+                    48.9913969
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Velké Němčice <br><b>Adresa:</b> Městečko 85, 69163, Velké Němčice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 12:00",
+                "ref": "60011:148"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6595035,
+                    49.0106883
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Nosislav <br><b>Adresa:</b> Městečko 293, 69164, Nosislav <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 3.92 m",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:30",
+                "ref": "60011:149"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6758736,
+                    48.9916743
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Velké Němčice - prodejna Jednota COOP <br><b>Adresa:</b> Brněnská 435, 69163, Velké Němčice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:30",
+                "ref": "60011:58"
+            }
+        }
+    ]
+}

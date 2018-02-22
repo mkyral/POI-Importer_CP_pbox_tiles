@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3425325,
+                    50.1093732
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> u č.p. 107, Ludvíkov (stojan před obchodem) <br><b>Adresa:</b> č.p. 107, 79326, Ludvíkov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "79207:316"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3876907,
+                    50.1177554
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Budova nádr.ČD, Nádražní na čp.204,Vrbno pod Prad. <br><b>Adresa:</b> Nádražní 204, 79326, Vrbno pod Pradědem ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:25",
+                "ref": "79207:304"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3841625,
+                    50.1168816
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Husova 470, Vrbno pod Prad, na obchodě <br><b>Adresa:</b> Husova 470, 79326, Vrbno pod Pradědem ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:20",
+                "ref": "79207:305"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3366496,
+                    50.0966769
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> napr.Penz.Stonožka čp.78,Ludvíkov(stoj.zast.BUS) <br><b>Adresa:</b> Bruntál; Ludvíkov; Ludvíkov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "79207:315"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.383087,
+                    50.1203502
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Bezručova  na čp.109, Vrbno p. Prad. <br><b>Adresa:</b> Bezručova 109, 79326, Vrbno pod Pradědem ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 12:25",
+                "ref": "79207:302"
+            }
+        }
+    ]
+}

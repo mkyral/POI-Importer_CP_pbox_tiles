@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5496757,
+                    50.2030615
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Malá Černoc <br><b>Adresa:</b> Malá Černoc 87, 43801, Blšany ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "43807:72"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5838367,
+                    50.2026622
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Velká Černoc <br><b>Adresa:</b> Velká Černoc 102, 43801, Měcholupy ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "43807:71"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6129636,
+                    50.2323066
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Deštnice <br><b>Adresa:</b> č.p. 76, 43801, Deštnice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "43807:70"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.622207,
+                    50.1905152
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Svojetín  18 <br><b>Adresa:</b> č.p. 18, 27004, Svojetín ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:45",
+                "ref": "26907:48"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.566916,
+                    50.1843576
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Vlkov u DS <br><b>Adresa:</b> Rakovník; Děkov; Vlkov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:45",
+                "ref": "26907:57"
+            }
+        }
+    ]
+}

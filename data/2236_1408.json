@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5429434,
+                    48.9029389
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> ATC Merkur Pasohlávky č.p. 1- kemp <br><b>Adresa:</b> č.p. 1, 69122, Pasohlávky ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "60011:117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5429434,
+                    48.9029389
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> ATC Merkur Pasohlávky č.p. 1 - restaurace <br><b>Adresa:</b> č.p. 1, 69122, Pasohlávky ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:05",
+                "ref": "60011:118"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5429434,
+                    48.9029389
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Pasohlávky <br><b>Adresa:</b> č.p. 1, 69122, Pasohlávky ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:30",
+                "ref": "60011:140"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5370195,
+                    48.8761423
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Brod nad Dyjí - budova bývalého PST <br><b>Adresa:</b> č.p. 45, 69181, Brod nad Dyjí ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:10",
+                "ref": "69007:83"
+            }
+        }
+    ]
+}

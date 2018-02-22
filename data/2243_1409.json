@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1396777,
+                    48.8625275
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Brandlova 117, Hodonín <br><b>Adresa:</b> Brandlova 3387/117, 69501, Hodonín ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 15:30",
+                "ref": "69507:18"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1449978,
+                    48.8642535
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Nemocnice TGM, Hodonín <br><b>Adresa:</b> Purkyňova 2731/11, 69501, Hodonín ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 15:30",
+                "ref": "69507:19"
+            }
+        }
+    ]
+}

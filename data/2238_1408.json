@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7118838,
+                    48.8954451
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Šakvice - budova Jednoty <br><b>Adresa:</b> Podzahrady 280, 69167, Šakvice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "60011:47"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7750017,
+                    48.9085737
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Partner Starovičky <br><b>Adresa:</b> č.p. 62, 69168, Starovičky ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 12:00",
+                "ref": "60011:51"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7670181,
+                    48.8732006
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Zaječí <br><b>Adresa:</b> Dlážděná 407, 69105, Zaječí ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "69007:44"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7065639,
+                    48.9128076
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> ČD Šakvice <br><b>Adresa:</b> Nádraží Šakvice 562/2, 69301, Hustopeče ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "60011:45"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7165118,
+                    48.897855
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Šakvice <br><b>Adresa:</b> Hlavní 12, 69167, Šakvice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "60011:151"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7703734,
+                    48.8730249
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Zaječí - obchod <br><b>Adresa:</b> Školní 403, 69105, Zaječí ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "69007:43"
+            }
+        }
+    ]
+}

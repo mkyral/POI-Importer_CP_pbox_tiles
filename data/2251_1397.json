@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8725152,
+                    49.5305463
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Pošta Hustopeče nad Bečvou <br><b>Adresa:</b> Dlouhá 92, 75366, Hustopeče nad Bečvou ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 15:05",
+                "ref": "75007:293"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9217686,
+                    49.5501339
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Starý Jičín, Palačov 54 <br><b>Adresa:</b> Palačov 54, 74101, Starý Jičín ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "74207:28"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9287375,
+                    49.5051073
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> obchod, Lhotka nad Bečvou <br><b>Adresa:</b> Lhotka nad Bečvou 19, 75641, Lešná ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "75707:72"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8809264,
+                    49.5525011
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Hustopeče n/B, Vysoká 13, aut.zastávka (stojan) <br><b>Adresa:</b> Vysoká 13, 75366, Hustopeče nad Bečvou ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:50",
+                "ref": "75007:245"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8999912,
+                    49.5327906
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Hustopeče nad Bečvou, Poruba 45, obchod (stojan) <br><b>Adresa:</b> Poruba 45, 75366, Hustopeče nad Bečvou ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:15",
+                "ref": "75007:244"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8697226,
+                    49.5308049
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Hustopeče n.B,Rybníček 126,obchod (stojan) <br><b>Adresa:</b> Rybníček 126, 75366, Hustopeče nad Bečvou ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:30",
+                "ref": "75007:243"
+            }
+        }
+    ]
+}

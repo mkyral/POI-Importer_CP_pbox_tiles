@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2540728,
+                    49.0036243
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Staré Město - u Jednoty <br><b>Adresa:</b> č.p. 57, 37882, Staré Město pod Landštejnem ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:45",
+                "ref": "37702:258"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2298399,
+                    49.0259903
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Landštejn <br><b>Adresa:</b> Landštejn 3, 37881, Staré Město pod Landštejnem ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 12:00",
+                "ref": "37702:259"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2390101,
+                    49.0048329
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Podlesí <br><b>Adresa:</b> Podlesí 16, 37881, Staré Město pod Landštejnem ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 12:30",
+                "ref": "37702:260"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2831152,
+                    49.0288063
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Stálkov <br><b>Adresa:</b> Stálkov 24, 37881, Slavonice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:10",
+                "ref": "37702:257"
+            }
+        }
+    ]
+}

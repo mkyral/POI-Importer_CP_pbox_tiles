@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1276638,
+                    49.3640991
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Střítež u Božejova <br><b>Adresa:</b> č.p. 4, 39301, Střítež ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "39307:113"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.189297,
+                    49.3759409
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Libkova Voda - budova pošty <br><b>Adresa:</b> č.p. 61, 39462, Libkova Voda ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "39307:367"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1296402,
+                    49.3649742
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Střítež <br><b>Adresa:</b> č.p. 8, 39301, Střítež ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:05",
+                "ref": "39307:277"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1566689,
+                    49.3615391
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Božejov <br><b>Adresa:</b> č.p. 84, 39461, Božejov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "39307:366"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1265955,
+                    49.3808339
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Bor <br><b>Adresa:</b> Bor 12, 39301, Střítež <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 48.16 m",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "39307:114"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1382459,
+                    49.3474952
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Nová Ves <br><b>Adresa:</b> Nová Ves 20, 39301, Božejov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "39307:112"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1836709,
+                    49.3489584
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Vlásenice-Drbohlavy <br><b>Adresa:</b> Vlásenice-Drbohlavy 23, 39301, Pelhřimov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "39307:102"
+            }
+        }
+    ]
+}

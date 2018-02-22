@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8436251,
+                    50.0862893
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Malá Morava, Vysoký Potok 5 (stojan) <br><b>Adresa:</b> Vysoký Potok 5, 78833, Malá Morava ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "78807:222"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8609921,
+                    50.0713369
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Malá Morava, Podlesí,náměstí naproti čp.10(stojan) <br><b>Adresa:</b> Šumperk; Malá Morava; Podlesí <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 13:00",
+                "ref": "78807:224"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.826926,
+                    50.0954346
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Malá Morava 92 (stojan) <br><b>Adresa:</b> č.p. 92, 78833, Malá Morava ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:15",
+                "ref": "78807:223"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7908057,
+                    50.0770418
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> č.p. 119, Dolní Hedeč <br><b>Adresa:</b> Dolní Hedeč 119, 56169, Králíky ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "56707:128"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8000867,
+                    50.1015179
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> BUS, Červený Potok <br><b>Adresa:</b> Červený Potok 78, 56169, Králíky ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "56707:126"
+            }
+        }
+    ]
+}

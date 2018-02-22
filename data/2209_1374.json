@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2299422,
+                    50.8043089
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Žlebská 114, Děčín XV-Prostřední Žleb, 40502, Děčín ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:30",
+                "ref": "40507:104"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1830991,
+                    50.8113055
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Děčín XVIII-Maxičky 14, 40502, Děčín ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:25",
+                "ref": "40507:113"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.22821,
+                    50.7937155
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> u č.p. 53 <br><b>Adresa:</b> Žlebská 53, Děčín XI-Horní Žleb, 40502, Děčín ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 12:00",
+                "ref": "40507:105"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2152502,
+                    50.8456692
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Děčín XIV-Dolní Žleb 34, 40502, Děčín ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:30",
+                "ref": "40507:116"
+            }
+        }
+    ]
+}

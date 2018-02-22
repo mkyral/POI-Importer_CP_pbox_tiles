@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.238329,
+                    50.4666634
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Výdejní místo <br><b>Adresa:</b> č.p. 14, 43183, Výsluní <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.58 m",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:00",
+                "ref": "43007:183"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2628781,
+                    50.5001506
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Nová Ves, na zastávce autobusu <br><b>Adresa:</b> Chomutov; Hora Svatého Šebestiána; Nová Ves <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "43007:105"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2512477,
+                    50.5101446
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Hora Svatého Šebestiána <br><b>Adresa:</b> č.p. 60, 43182, Hora Svatého Šebestiána ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "43007:246"
+            }
+        }
+    ]
+}

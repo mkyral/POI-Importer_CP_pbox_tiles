@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6116814,
+                    48.8750157
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> č.p. 288, Nová Lhota - Mlýny <br><b>Adresa:</b> č.p. 288, 69674, Nová Lhota ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:15",
+                "ref": "68607:183"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.5929128,
+                    48.8812764
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> mlýny u Kříže-zast. ČSAD, Nová Lhota <br><b>Adresa:</b> Hodonín; Nová Lhota; Nová Lhota <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:20",
+                "ref": "68607:184"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6335793,
+                    48.874816
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> naproti zastávky ČSAD, Vápenky <br><b>Adresa:</b> Vápenky 361, 69674, Nová Lhota ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "68607:182"
+            }
+        }
+    ]
+}

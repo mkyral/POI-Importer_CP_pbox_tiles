@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1524333,
+                    48.7373117
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Muckov č. 2 <br><b>Adresa:</b> Muckov 2, 38226, Černá v Pošumaví <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 55.29 m",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "37271:644"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2097801,
+                    48.7308558
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Světlík <br><b>Adresa:</b> č.p. 27, 38216, Světlík <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 71.2 m",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "37271:597"
+            }
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.86264,
+                    49.37038
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Folmava, prodejna <br><b>Adresa:</b> Domažlice; Česká Kubice; Horní Folmava <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:00",
+                "ref": "34407:13"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8936667,
+                    49.3612393
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Spálenec, prodejna <br><b>Adresa:</b> Domažlice; Česká Kubice; Nový Spálenec <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:20",
+                "ref": "34407:23"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8597899,
+                    49.3702166
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Česká Kubice - pošta <br><b>Adresa:</b> č.p. 40, 34532, Česká Kubice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "34407:236"
+            }
+        }
+    ]
+}

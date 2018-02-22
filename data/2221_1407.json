@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2325947,
+                    48.9791245
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Veclov <br><b>Adresa:</b> Veclov 9, 37881, Staré Město pod Landštejnem ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 13:00",
+                "ref": "37702:261"
+            }
+        }
+    ]
+}

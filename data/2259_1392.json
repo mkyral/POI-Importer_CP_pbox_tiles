@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5903344,
+                    49.7861154
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Karvinská 381-Rybí dům, Chotěbuz (na stojanu) <br><b>Adresa:</b> Karvinská 381, 73561, Chotěbuz <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.71 m",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "73917:62"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5858871,
+                    49.7978602
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Louky,Na Zátiší na čp.364/1 - MŠ <br><b>Adresa:</b> Na Zátiší 364/1, Louky, 73301, Karviná ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "70071:331"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5836948,
+                    49.7998402
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Louky,Těšínská, na čp.597/4 - obchod <br><b>Adresa:</b> Těšínská 597/4, Louky, 73301, Karviná ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:15",
+                "ref": "70071:332"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5809374,
+                    49.7930718
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Louky,Velké Kempy 71/18 (stojan u plotu na rozc.) <br><b>Adresa:</b> Karviná; Karviná; Louky <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "70071:333"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5481968,
+                    49.8169435
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Stonava, čp.1077 (stojan před vrátnicí Dolu ČSM) <br><b>Adresa:</b> Karviná; Stonava; Stonava <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "70071:336"
+            }
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0547934,
+                    49.6160085
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> autobusová zastávka, rozcestí Medlov <br><b>Adresa:</b> č.p. 143, 59204, Fryšava pod Žákovou horou ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:15",
+                "ref": "59230:32"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0387888,
+                    49.6284428
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Fryšava pod Žákovou horou <br><b>Adresa:</b> č.p. 72, 59204, Fryšava pod Žákovou horou ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:30",
+                "ref": "59230:68"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0791012,
+                    49.6324576
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> zast. ZDAR, Kadov <br><b>Adresa:</b> č.p. 18, 59203, Kadov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:55",
+                "ref": "59230:35"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.034557,
+                    49.6141408
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> OÚ, Tři Studně <br><b>Adresa:</b> č.p. 25, 59204, Tři Studně ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:55",
+                "ref": "59230:29"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0778905,
+                    49.6464872
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> požární zbrojnice, Samotín <br><b>Adresa:</b> Samotín 37, 59203, Sněžné ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:40",
+                "ref": "59230:34"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0440301,
+                    49.6297668
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> budova RS, Medlov <br><b>Adresa:</b> č.p. 122, 59204, Fryšava pod Žákovou horou ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 12:00",
+                "ref": "59230:14"
+            }
+        }
+    ]
+}

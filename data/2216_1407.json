@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.7879321,
+                    48.9625812
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> prodejna, Branná <br><b>Adresa:</b> Branná 69, 37901, Třeboň <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 7.11 m",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:15",
+                "ref": "37271:465"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.7741924,
+                    48.9286033
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> u Špringrů, Hrachoviště <br><b>Adresa:</b> č.p. 50, 37901, Hrachoviště <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 29.53 m",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:15",
+                "ref": "37271:466"
+            }
+        }
+    ]
+}

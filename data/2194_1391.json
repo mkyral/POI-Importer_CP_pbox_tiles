@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8704972,
+                    49.8817347
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Lestkov - pošta <br><b>Adresa:</b> č.p. 210, 34953, Lestkov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "34707:239"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8435866,
+                    49.8817926
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Vysoké Jamné <br><b>Adresa:</b> Tachov; Lestkov; Vysoké Jamné <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "34707:168"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.9100803,
+                    49.8769242
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Domaslav <br><b>Adresa:</b> Tachov; Lestkov; Domaslav <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "34707:169"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8667781,
+                    49.8433994
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Olbramov <br><b>Adresa:</b> Tachov; Olbramov; Olbramov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "34707:139"
+            }
+        }
+    ]
+}

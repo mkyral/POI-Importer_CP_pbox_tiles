@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.7389946,
+                    49.4873426
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Pivoň, prodejna <br><b>Adresa:</b> Domažlice; Mnichov; Pivoň <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:50",
+                "ref": "34407:121"
+            }
+        }
+    ]
+}

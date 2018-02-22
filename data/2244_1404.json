@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2364247,
+                    49.1497447
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Zástřizly-zastávka ČSAD, Koryčany <br><b>Adresa:</b> č.p. 22, 76805, Zástřizly ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "76707:171"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2795549,
+                    49.1328444
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> has.zbrojnice, Staré Hutě <br><b>Adresa:</b> č.p. 70, 68601, Staré Hutě ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "68607:33"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2490375,
+                    49.1156887
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> poštovní středisko, Stupava <br><b>Adresa:</b> č.p. 140, 68601, Stupava ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:15",
+                "ref": "68607:32"
+            }
+        }
+    ]
+}

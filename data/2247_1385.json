@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.5008493,
+                    50.1956146
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Valštejn, na čp.79, Město Albrechtice <br><b>Adresa:</b> Valštejn 79, 79395, Město Albrechtice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:05",
+                "ref": "79207:212"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.5333347,
+                    50.179376
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Hynčice, na čp.27 - potraviny, M.Albrechtice <br><b>Adresa:</b> Hynčice 27, 79395, Město Albrechtice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:55",
+                "ref": "79207:230"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.5745761,
+                    50.2062582
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Pošta Třemešná u Krnova (stojan) <br><b>Adresa:</b> č.p. 304, 79382, Třemešná ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 12:45",
+                "ref": "79207:205"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.5140222,
+                    50.1780172
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Hynčice čp.2,M.Albrechtice (stojan zast.BUS-rozc.) <br><b>Adresa:</b> Bruntál; Město Albrechtice; Hynčice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:10",
+                "ref": "79207:222"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.5760979,
+                    50.2001745
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> mezi čp.24 a 238, Třemešná (na stojanu) <br><b>Adresa:</b> Bruntál; Třemešná; Třemešná <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "79207:224"
+            }
+        }
+    ]
+}

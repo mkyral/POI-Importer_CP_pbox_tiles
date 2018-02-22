@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5376852,
+                    49.7541856
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Lesná, obecní úřad <br><b>Adresa:</b> Tachov; Lesná; Lesná <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "34707:18"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5647742,
+                    49.7724272
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Písařova Vesce, náves <br><b>Adresa:</b> Tachov; Lesná; Písařova Vesce <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "34707:17"
+            }
+        }
+    ]
+}

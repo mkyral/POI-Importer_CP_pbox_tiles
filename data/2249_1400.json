@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6678481,
+                    49.3683355
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Brusné č.144 <br><b>Adresa:</b> č.p. 144, 76861, Brusné ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:30",
+                "ref": "76707:152"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6944957,
+                    49.3373473
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Rusava <br><b>Adresa:</b> č.p. 248, 76841, Rusava ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "76707:221"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6798976,
+                    49.3461898
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Rusava č. 184,restaurace u Charvátů <br><b>Adresa:</b> č.p. 184, 76841, Rusava ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "76707:162"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7009345,
+                    49.3544216
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Rusava č.53 <br><b>Adresa:</b> č.p. 53, 76841, Rusava ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "76707:161"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6709618,
+                    49.3767415
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Slavkov p/Host.-u zast.ČSAD <br><b>Adresa:</b> č.p. 59, 76861, Slavkov pod Hostýnem ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "76707:144"
+            }
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.5176117,
+                    49.3847522
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Karlovice VTA č.p.303 <br><b>Adresa:</b> Karlovice 303, 76843, Kostelec u Holešova ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:30",
+                "ref": "76707:118"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.5456243,
+                    49.4277399
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Domaželice 13, u aut.zastávky (stojan) <br><b>Adresa:</b> Přerov; Domaželice; Domaželice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:15",
+                "ref": "75007:49"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.5477118,
+                    49.4123775
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Líšná 70, u aut.zastávky (stojan) <br><b>Adresa:</b> Přerov; Líšná; Líšná <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:45",
+                "ref": "75007:28"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.5320175,
+                    49.4299185
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Čechy 30, u křižovatky (stojan) <br><b>Adresa:</b> Přerov; Čechy; Čechy <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:45",
+                "ref": "75007:25"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.5164269,
+                    49.4263679
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Beňov, Prusy 1, u kapličky (stojan) <br><b>Adresa:</b> Přerov; Beňov; Prusy <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "75007:30"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.5006666,
+                    49.4162158
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Beňov 3, OÚ (stojan) <br><b>Adresa:</b> č.p. 3, 75002, Beňov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:35",
+                "ref": "75007:405"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.5399963,
+                    49.4284904
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Pošta Domaželice u Přerova (stojan) <br><b>Adresa:</b> č.p. 123, 75115, Domaželice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo 10:30; Tu 10:30; We 15:35; Th 10:30; Fr 15:35",
+                "ref": "75007:111"
+            }
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6943253,
+                    49.7451427
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Staré Sedliště - pošta <br><b>Adresa:</b> č.p. 75, 34801, Staré Sedliště ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "34707:228"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6736987,
+                    49.7559772
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Částkov, obecní úřad <br><b>Adresa:</b> Tachov; Částkov; Částkov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "34707:33"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6906493,
+                    49.7777513
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Trnová, obchod <br><b>Adresa:</b> Tachov; Tisová; Trnová <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "34707:32"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.7138349,
+                    49.7651879
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Tisová, autobusová zastávka <br><b>Adresa:</b> Tachov; Tisová; Tisová <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "34707:39"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6729373,
+                    49.7297131
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Nové Sedliště,hasičská zbrojnice <br><b>Adresa:</b> Tachov; Staré Sedliště; Nové Sedliště <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "34707:34"
+            }
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0112253,
+                    49.0146284
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Jednota, Želetice u Kyjova <br><b>Adresa:</b> č.p. 17, 69637, Želetice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:00",
+                "ref": "69507:96"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0110048,
+                    49.0041762
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> mateřská škola Nenkovice <br><b>Adresa:</b> č.p. 37, 69637, Nenkovice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:30",
+                "ref": "69507:97"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0293858,
+                    49.00195
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> obchod Jednota, Stavěšice <br><b>Adresa:</b> č.p. 93, 69638, Stavěšice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:30",
+                "ref": "69507:98"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0111196,
+                    49.015015
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta  Želetice u Kyjova <br><b>Adresa:</b> č.p. 189, 69637, Želetice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "69507:95"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0450316,
+                    49.0096187
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Strážovice <br><b>Adresa:</b> č.p. 196, 69638, Strážovice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "69507:89"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0188911,
+                    49.0309622
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pohostinství, Dražůvky <br><b>Adresa:</b> č.p. 20, 69633, Dražůvky ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:30",
+                "ref": "69507:94"
+            }
+        }
+    ]
+}

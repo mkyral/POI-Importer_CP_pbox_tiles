@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0856169,
+                    49.8202659
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> u prodejny č.p.72, Malý Chlumec <br><b>Adresa:</b> Malý Chlumec 72, 26724, Velký Chlumec ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "17704:404"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0868385,
+                    49.8282387
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> u prodejny č.p.61, Velký Chlumec <br><b>Adresa:</b> č.p. 61, 26724, Velký Chlumec ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "17704:405"
+            }
+        }
+    ]
+}

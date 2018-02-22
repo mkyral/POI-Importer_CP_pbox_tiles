@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6779727,
+                    49.8639454
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Nové Lublice 113, (na stojanu) vedle zastávky TGM <br><b>Adresa:</b> Opava; Nové Lublice; Nové Lublice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo 11:10; Tu 11:10; We 09:00; Th 09:00; Fr 11:10",
+                "ref": "74907:323"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7202499,
+                    49.8571378
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Moravice,na BUS zastávce vedle čp.113 (na stojanu) <br><b>Adresa:</b> Opava; Moravice; Moravice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:40",
+                "ref": "74907:111"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7318181,
+                    49.8727513
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Obecní úřad, Lhotka u Litultovic čp. 61 <br><b>Adresa:</b> č.p. 61, 74755, Lhotka u Litultovic ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:45",
+                "ref": "74907:67"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7439682,
+                    49.8738452
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Životské Hory,has.zbrojn.napr.čp.75,Lhotka u Lit. <br><b>Adresa:</b> Opava; Lhotka u Litultovic; Lhotka u Litultovic <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:45",
+                "ref": "74907:66"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6772391,
+                    49.8421051
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> obchod, Kružberk čp. 83 <br><b>Adresa:</b> č.p. 83, 74786, Kružberk ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo 12:30; Tu 12:30; We 10:00; Th 10:00; Fr 12:30",
+                "ref": "74907:325"
+            }
+        }
+    ]
+}

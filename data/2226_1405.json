@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7002808,
+                    49.0701744
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Komárovice 15 <br><b>Adresa:</b> č.p. 15, 67526, Komárovice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "67407:282"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6589206,
+                    49.0539709
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Budkov <br><b>Adresa:</b> č.p. 82, 67542, Budkov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:40",
+                "ref": "67407:313"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6523453,
+                    49.0388532
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Oponešice, u č.p. 48 <br><b>Adresa:</b> č.p. 48, 67532, Oponešice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "67407:169"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7303763,
+                    49.0663937
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Vranín, u prodejny <br><b>Adresa:</b> Vranín 10, 67544, Moravské Budějovice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:30",
+                "ref": "67407:213"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6488287,
+                    49.0840918
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Štěpkov 20 <br><b>Adresa:</b> č.p. 20, 67526, Štěpkov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:15",
+                "ref": "67407:281"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6937032,
+                    49.0833945
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Domamil <br><b>Adresa:</b> č.p. 2, 67543, Domamil ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:30",
+                "ref": "67407:314"
+            }
+        }
+    ]
+}

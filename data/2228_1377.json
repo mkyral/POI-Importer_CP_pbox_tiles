@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9004407,
+                    50.6489567
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Prkenný Důl, Na Mlýně <br><b>Adresa:</b> Prkenný Důl E1, 54101, Žacléř ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "54107:206"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8308792,
+                    50.6762246
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Sedmikráska Albeřice <br><b>Adresa:</b> Dolní Lysečiny 20, 54226, Horní Maršov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "54107:227"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9074475,
+                    50.652976
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Žacléř <br><b>Adresa:</b> Rýchorské náměstí 10, 54201, Žacléř ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 12:00",
+                "ref": "54107:201"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9081363,
+                    50.6642107
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Žacléř ul. B. Němcové 376 <br><b>Adresa:</b> B. Němcové 376, 54201, Žacléř ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "54107:204"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8957974,
+                    50.6703259
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Bobr prodejna <br><b>Adresa:</b> Bobr 4, 54201, Žacléř ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "54107:205"
+            }
+        }
+    ]
+}

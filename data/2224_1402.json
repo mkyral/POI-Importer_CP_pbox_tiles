@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4956442,
+                    49.2273923
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> u tf. budky, Sedlejov <br><b>Adresa:</b> č.p. 45, 58862, Sedlejov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "58607:180"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5145625,
+                    49.2530396
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> tf. budka, Panenská Rozsička <br><b>Adresa:</b> č.p. 12, 58901, Panenská Rozsíčka ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:35",
+                "ref": "58607:235"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5339226,
+                    49.2599076
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> zastávka ICOM, Stájiště <br><b>Adresa:</b> Stajiště 16, 58901, Pavlov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:15",
+                "ref": "58607:237"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5365799,
+                    49.227522
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> obchod, Nevcehle <br><b>Adresa:</b> č.p. 87, 58862, Nevcehle ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "58607:182"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.529391,
+                    49.2505829
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> zastávka ICOM, Bezděkov <br><b>Adresa:</b> Bezděkov 14, 58901, Pavlov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:55",
+                "ref": "58607:236"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5139827,
+                    49.2138811
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Urbanov <br><b>Adresa:</b> č.p. 50, 58862, Urbanov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:30",
+                "ref": "58607:270"
+            }
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.4485775,
+                    50.2390505
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> čp.34,Petrovice (stojan u zdi OÚ) <br><b>Adresa:</b> č.p. 34, 79384, Petrovice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 12:15",
+                "ref": "79207:228"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.4834072,
+                    50.2465803
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Pošta Janov u Krnova <br><b>Adresa:</b> č.p. 40, 79384, Janov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 13:00",
+                "ref": "79207:210"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.4612811,
+                    50.2426929
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Pomezí, u čp.214, Janov (stojan na zast.BUS) <br><b>Adresa:</b> Bruntál; Janov; Janov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 12:10",
+                "ref": "79207:229"
+            }
+        }
+    ]
+}

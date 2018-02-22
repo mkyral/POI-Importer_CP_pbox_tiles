@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6400034,
+                    49.899467
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Jednota, Bohdanovice  (vedle čp, 72) <br><b>Adresa:</b> Bohdanovice 61, 74755, Jakartovice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:30",
+                "ref": "74907:61"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6256119,
+                    49.9333763
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> čp.146,Staré Heřminovy (stojan před obchodem) <br><b>Adresa:</b> č.p. 146, 79312, Staré Heřminovy ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:50",
+                "ref": "79207:60"
+            }
+        }
+    ]
+}

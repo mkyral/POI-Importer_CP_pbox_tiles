@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7488136,
+                    50.1253254
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> BUS, Heřmanice <br><b>Adresa:</b> Heřmanice 16, 56169, Králíky ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "56707:125"
+            }
+        }
+    ]
+}

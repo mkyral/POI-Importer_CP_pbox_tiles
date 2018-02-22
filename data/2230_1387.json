@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0684066,
+                    50.1198225
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Žďár nad Orlicí <br><b>Adresa:</b> č.p. 133, 51723, Žďár nad Orlicí ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "51707:403"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0003347,
+                    50.0970838
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Poběžovice - prodejna <br><b>Adresa:</b> č.p. 32, 53401, Poběžovice u Holic ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "53400:16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0539582,
+                    50.0710692
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Veliny čp. 60 škola <br><b>Adresa:</b> č.p. 60, 53401, Veliny ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "53400:12"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.020678,
+                    50.0745236
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> St. Holice čp. 266 <br><b>Adresa:</b> Staroholická 266, Staré Holice, 53401, Holice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "53400:9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0007286,
+                    50.0695211
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Staroholická čp. 308 <br><b>Adresa:</b> Staroholická 308, Staré Holice, 53401, Holice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "53400:8"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0247799,
+                    50.0856407
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Koudelka - zast. ČSAD <br><b>Adresa:</b> Koudelka 50, 53401, Holice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "53400:17"
+            }
+        }
+    ]
+}

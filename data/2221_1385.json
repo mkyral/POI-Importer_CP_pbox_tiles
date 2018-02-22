@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2321915,
+                    50.1914642
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Podmoky, jednota <br><b>Adresa:</b> Nymburk; Podmoky; Podmoky <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "28900:21"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2885187,
+                    50.2256319
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> prodejna, č.p. 3,Vinice <br><b>Adresa:</b> Vinice 3, 28903, Městec Králové ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "28900:8"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2149766,
+                    50.2293943
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Samoobsluha, Činěves 217 <br><b>Adresa:</b> č.p. 217, 28901, Činěves ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "28900:6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.226273,
+                    50.2133756
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Samoobsluha, Velenice 34 <br><b>Adresa:</b> č.p. 34, 28901, Velenice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "28900:33"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2063826,
+                    50.1823067
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Senice, Hlavní 51 <br><b>Adresa:</b> Hlavní 51, 29001, Senice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "29000:10"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2305599,
+                    50.1808828
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Vrbice 45 u zastávky ČSAD <br><b>Adresa:</b> Velká Strana 45, 28904, Vrbice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "28900:20"
+            }
+        }
+    ]
+}

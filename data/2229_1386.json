@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9203949,
+                    50.1476032
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Hoděšovice - knihovna <br><b>Adresa:</b> Pardubice; Býšť; Hoděšovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "53400:39"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9525099,
+                    50.1530434
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Bělečko - prodejna <br><b>Adresa:</b> Bělečko 79, 53401, Býšť ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "53400:38"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9120541,
+                    50.1318785
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošt Býšť - držák <br><b>Adresa:</b> č.p. 162, 53322, Býšť ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "53400:45"
+            }
+        }
+    ]
+}

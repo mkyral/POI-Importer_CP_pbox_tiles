@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2692248,
+                    48.7758144
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Hrádek u Znojma <br><b>Adresa:</b> č.p. 29, 67127, Hrádek ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "66907:258"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3058903,
+                    48.8039722
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Velký Karlov - Jednota <br><b>Adresa:</b> č.p. 126, 67128, Velký Karlov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "66907:128"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2983534,
+                    48.7721073
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Dyjákovice <br><b>Adresa:</b> č.p. 339, 67126, Dyjákovice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "66907:257"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2682359,
+                    48.7727174
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Hrádek-Jednota <br><b>Adresa:</b> č.p. 309, 67127, Hrádek ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "66907:131"
+            }
+        }
+    ]
+}

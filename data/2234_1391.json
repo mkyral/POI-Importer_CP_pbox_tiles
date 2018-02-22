@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4121552,
+                    49.8821033
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Kozlov Jednota č.p. 35 <br><b>Adresa:</b> Kozlov 35, 56002, Česká Třebová ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "56707:19"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.34803,
+                    49.8913721
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Němčice, zastávka atobus č.p.122 <br><b>Adresa:</b> č.p. 122, 56118, Němčice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "56707:636"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3826921,
+                    49.8402823
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Janov u Litomyšle <br><b>Adresa:</b> č.p. 216, 56955, Janov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "56707:668"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3686136,
+                    49.8780108
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Pazucha č. 44 <br><b>Adresa:</b> Pazucha 44, 57001, Litomyšl ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "56707:609"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3508341,
+                    49.8795551
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Suchá č. 42 <br><b>Adresa:</b> Suchá 42, 57001, Litomyšl ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "56707:608"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3658545,
+                    49.8672518
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Strakov OÚ, č. 30 <br><b>Adresa:</b> č.p. 30, 57001, Strakov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "56707:610"
+            }
+        }
+    ]
+}

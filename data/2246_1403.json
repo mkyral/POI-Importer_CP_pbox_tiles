@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.4504594,
+                    49.2087489
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Nová Dědina č.91 <br><b>Adresa:</b> č.p. 91, 76821, Nová Dědina ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:00",
+                "ref": "76707:52"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.4150545,
+                    49.1579853
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> MŠ, Košíky <br><b>Adresa:</b> č.p. 37, 68704, Košíky ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:15",
+                "ref": "68607:66"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.4629272,
+                    49.17073
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> budova obchodu, Dolina, Halenkovice <br><b>Adresa:</b> č.p. 533, 76363, Halenkovice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:45",
+                "ref": "76607:197"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.4871363,
+                    49.2015037
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pohostinství Žlutava <br><b>Adresa:</b> č.p. 85, 76361, Žlutava ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "76607:185"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.4714585,
+                    49.1731137
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Halenkovice <br><b>Adresa:</b> č.p. 175, 76363, Halenkovice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 12:00",
+                "ref": "76607:224"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.4172784,
+                    49.1569517
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> u zahrádkářů, Košíky <br><b>Adresa:</b> č.p. 103, 68704, Košíky ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "68607:67"
+            }
+        }
+    ]
+}

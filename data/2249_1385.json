@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6885525,
+                    50.2046306
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Pošta Slezské Rudoltice <br><b>Adresa:</b> č.p. 53, 79397, Slezské Rudoltice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:35",
+                "ref": "79207:252"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7156251,
+                    50.2070221
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Hrozová, před čp.26, Rusín (stojan na zast.BUS) <br><b>Adresa:</b> Hrozová 26, 79397, Rusín ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "79207:247"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.734501,
+                    50.2098804
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> na čp.53 - OÚ, Rusín <br><b>Adresa:</b> č.p. 53, 79397, Rusín ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:45",
+                "ref": "79207:249"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7044146,
+                    50.2200821
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Koberno,mezi čp.39 a 46,Sl.Rudoltice(stoj.na rozc) <br><b>Adresa:</b> Bruntál; Slezské Rudoltice; Koberno <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:10",
+                "ref": "79207:251"
+            }
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.143973,
+                    50.0548037
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Borek, autobusová zastávka <br><b>Adresa:</b> Karlovy Vary; Pšov; Borek <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "30071:534"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1039829,
+                    50.0364267
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Prohoř, autobusová zastávka <br><b>Adresa:</b> Karlovy Vary; Štědrá; Prohoř <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "30071:525"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1130432,
+                    50.0115383
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Vlkošov - autobusová zastávka <br><b>Adresa:</b> Plzeň-sever; Bezvěrov; Vlkošov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "30071:317"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1706829,
+                    50.0515626
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Pšov č.10, obchod <br><b>Adresa:</b> Karlovy Vary; Pšov; Pšov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "30071:521"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.11449,
+                    50.0546959
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Štědrá, na budově bývalé pošty <br><b>Adresa:</b> č.p. 83, 36452, Štědrá ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "30071:538"
+            }
+        }
+    ]
+}

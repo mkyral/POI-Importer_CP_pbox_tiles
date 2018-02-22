@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7021406,
+                    48.9064508
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> zastávka ČSAD, Strání <br><b>Adresa:</b> Padělky 565, 68765, Strání ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "68607:124"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7083863,
+                    48.8993345
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Domov s peč.službou, Strání <br><b>Adresa:</b> Sv. Cyrila a Metoděje 271, 68765, Strání ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:30",
+                "ref": "68607:125"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7050125,
+                    48.9029709
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Strání <br><b>Adresa:</b> Na kopci 426, 68765, Strání ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 14:00",
+                "ref": "68607:268"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7189524,
+                    48.8850541
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> sklárny, Květná <br><b>Adresa:</b> nám. Em. Zahna 329, Květná, 68766, Strání ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 12:00",
+                "ref": "68607:126"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.720591,
+                    48.8855757
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Květná <br><b>Adresa:</b> nám. Em. Zahna 168, Květná, 68766, Strání ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 12:00",
+                "ref": "68607:269"
+            }
+        }
+    ]
+}

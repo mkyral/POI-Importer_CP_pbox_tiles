@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6199581,
+                    49.1240264
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Nicov - čekárna <br><b>Adresa:</b> č.p. 27, 38473, Nicov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "38607:519"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5561642,
+                    49.1429001
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Kašperské Hory - hotel Bílá Růže <br><b>Adresa:</b> Klatovy; Kašperské Hory; Kašperské Hory <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "33907:377"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5554808,
+                    49.1426953
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Kašperské Hory - pošta <br><b>Adresa:</b> Dlouhá 94, 34192, Kašperské Hory ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "33907:374"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6125653,
+                    49.1323323
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Řetenice - čekárna <br><b>Adresa:</b> Řetenice 21, 38473, Nicov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:05",
+                "ref": "38607:520"
+            }
+        }
+    ]
+}

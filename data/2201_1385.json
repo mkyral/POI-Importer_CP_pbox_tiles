@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4604702,
+                    50.1986942
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> partner Očihov <br><b>Adresa:</b> č.p. 7, 43987, Očihov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "43807:289"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5160196,
+                    50.2147278
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Soběchleby <br><b>Adresa:</b> Soběchleby 35, 43801, Blšany ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "43807:73"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4923552,
+                    50.2184275
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Stachov, u zastávky BUS <br><b>Adresa:</b> Louny; Blšany; Stachov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "43807:74"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5105586,
+                    50.1802145
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Běsno <br><b>Adresa:</b> Louny; Kryry; Běsno <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "43807:135"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4715988,
+                    50.2172177
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Blšany u Loun č.p.2 <br><b>Adresa:</b> Náměstí 2, 43988, Blšany ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "43807:212"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4722222,
+                    50.21754
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Blšany <br><b>Adresa:</b> Náměstí 29, 43988, Blšany ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "43807:290"
+            }
+        }
+    ]
+}

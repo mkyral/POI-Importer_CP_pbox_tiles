@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.9368162,
+                    50.1340485
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Nové Kounice č.1 <br><b>Adresa:</b> Nové Kounice 1, 36471, Bochov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "36207:71"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.9883709,
+                    50.1584878
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Dlouhá Lomnice <br><b>Adresa:</b> Karlovy Vary; Bochov; Dlouhá Lomnice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "36207:72"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.9592407,
+                    50.133672
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Javorná, obchod <br><b>Adresa:</b> Karlovy Vary; Bochov; Javorná <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "36207:70"
+            }
+        }
+    ]
+}

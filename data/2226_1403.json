@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6786785,
+                    49.1954724
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Předín <br><b>Adresa:</b> č.p. 243, 67527, Předín ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "67407:305"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6765665,
+                    49.196843
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Předín 70, prodejna <br><b>Adresa:</b> č.p. 70, 67527, Předín ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "67407:144"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6788524,
+                    49.1707665
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Lesná, u obchodu <br><b>Adresa:</b> č.p. 10, 67526, Lesná ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "67407:288"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7119795,
+                    49.193617
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Štěměchy 83, prodejna <br><b>Adresa:</b> č.p. 83, 67527, Štěměchy ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "67407:145"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6543928,
+                    49.1858014
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Hory 19 <br><b>Adresa:</b> Hory 19, 67527, Předín ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "67407:148"
+            }
+        }
+    ]
+}

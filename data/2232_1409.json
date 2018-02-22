@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1739222,
+                    48.8157268
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Krhovice - potraviny <br><b>Adresa:</b> č.p. 79, 67128, Krhovice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "66907:127"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2424952,
+                    48.8575814
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Borotice <br><b>Adresa:</b> č.p. 71, 67178, Borotice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:30",
+                "ref": "66907:218"
+            }
+        }
+    ]
+}

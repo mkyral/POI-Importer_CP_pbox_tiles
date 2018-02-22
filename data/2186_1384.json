@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.2017923,
+                    50.2550399
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Podhradí  - pošta <br><b>Adresa:</b> č.p. 301, 35201, Podhradí ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "35007:109"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.1720617,
+                    50.2790245
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Studánka u čp.163 <br><b>Adresa:</b> Studánka 163, 35201, Hranice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "35007:101"
+            }
+        }
+    ]
+}

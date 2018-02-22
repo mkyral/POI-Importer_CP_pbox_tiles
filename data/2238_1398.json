@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7211406,
+                    49.4517495
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Němčice u Boskovic <br><b>Adresa:</b> č.p. 151, 67951, Němčice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "68007:25"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7214123,
+                    49.4680112
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Valchov obchod <br><b>Adresa:</b> č.p. 55, 68001, Valchov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:15",
+                "ref": "68007:28"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7351126,
+                    49.4551296
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Ludíkov-  bývalá MŠ <br><b>Adresa:</b> č.p. 84, 68001, Ludíkov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:40",
+                "ref": "68007:27"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7563413,
+                    49.4687128
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Žďárná <br><b>Adresa:</b> č.p. 10, 67952, Žďárná ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "68007:24"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.761618,
+                    49.4813813
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Obecní úřad, Suchý <br><b>Adresa:</b> č.p. 99, 68001, Suchý ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:10",
+                "ref": "68007:23"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7322912,
+                    49.4867517
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Velenov č.p.6, Zastávka BODOS <br><b>Adresa:</b> č.p. 6, 68001, Velenov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:45",
+                "ref": "68007:29"
+            }
+        }
+    ]
+}

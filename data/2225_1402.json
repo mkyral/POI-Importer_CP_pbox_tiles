@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6237994,
+                    49.2372203
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Brtnička, u staré školy <br><b>Adresa:</b> č.p. 10, 67527, Brtnička ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:15",
+                "ref": "67407:147"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5694698,
+                    49.2665079
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> prodejna, Otín <br><b>Adresa:</b> č.p. 24, 58833, Otín ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:20",
+                "ref": "58607:141"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5599764,
+                    49.2434747
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> OÚ, Pavlov <br><b>Adresa:</b> č.p. 113, 58833, Pavlov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:55",
+                "ref": "58607:140"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6061438,
+                    49.2377001
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Dlouhá Brtnice, OÚ <br><b>Adresa:</b> č.p. 57, 58834, Dlouhá Brtnice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "58607:149"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6106922,
+                    49.216599
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> prodejna, Hladov <br><b>Adresa:</b> č.p. 25, 58833, Hladov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:25",
+                "ref": "58607:139"
+            }
+        }
+    ]
+}

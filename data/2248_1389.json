@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6439425,
+                    49.9662991
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Firma KSK, na čp. 179, Horní Životice <br><b>Adresa:</b> č.p. 179, 79312, Horní Životice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:10",
+                "ref": "79207:61"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.601684,
+                    49.9670329
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Mírové náměstí na čp.178, Horní Benešov <br><b>Adresa:</b> Mírové náměstí 178, 79312, Horní Benešov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:30",
+                "ref": "79207:58"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6629739,
+                    49.9989658
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Pošta Sosnová <br><b>Adresa:</b> č.p. 11, 79312, Sosnová ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:50",
+                "ref": "79207:504"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.5941555,
+                    49.9700273
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Luhy, napr.čp.19 -zast.BUS (stojan), Horní Benešov <br><b>Adresa:</b> Bruntál; Horní Benešov; Luhy <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:40",
+                "ref": "79207:59"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6033465,
+                    49.9665394
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Pošta Horní Benešov <br><b>Adresa:</b> Tyršova 337, 79312, Horní Benešov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 16:00",
+                "ref": "79207:502"
+            }
+        }
+    ]
+}

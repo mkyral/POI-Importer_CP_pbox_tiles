@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.5160265,
+                    49.8977135
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> OÚ Roudno, č.p. 56, Roudno <br><b>Adresa:</b> č.p. 56, 79201, Roudno ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 13:00",
+                "ref": "79207:32"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.5737775,
+                    49.9053844
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> u kiosku\"U Holiče\"čp.304,Leskovec nad Mor.(stojan) <br><b>Adresa:</b> č.p. 304, 79368, Leskovec nad Moravicí ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "79207:116"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.5771784,
+                    49.9088458
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> za OÚ,stojan u plotu čp.350,Leskovec nad Morav. <br><b>Adresa:</b> č.p. 350, 79368, Leskovec nad Moravicí ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "79207:115"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.5305593,
+                    49.9300214
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Pošta Razová <br><b>Adresa:</b> č.p. 351, 79201, Razová ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "79207:521"
+            }
+        }
+    ]
+}

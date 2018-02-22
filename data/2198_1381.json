@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2671166,
+                    50.447879
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Místo <br><b>Adresa:</b> č.p. 81, 43158, Místo ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "43007:245"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1911415,
+                    50.4256247
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> náves, mezi 12 a 13 <br><b>Adresa:</b> Louchov 12, 43151, Domašín ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "43007:210"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2558184,
+                    50.419364
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> elektrárna <br><b>Adresa:</b> Prunéřov 375, 43201, Kadaň ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "43007:137"
+            }
+        }
+    ]
+}

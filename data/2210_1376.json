@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2912147,
+                    50.7264872
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> zastávka BUS <br><b>Adresa:</b> Děčín; Heřmanov; Heřmanov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:30",
+                "ref": "40507:60"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2535171,
+                    50.7306536
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Zastávka BUS <br><b>Adresa:</b> Děčín; Děčín; Děčín XXX-Velká Veleň <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:30",
+                "ref": "40507:74"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3229181,
+                    50.7033539
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Valkeřice <br><b>Adresa:</b> č.p. 305, 40724, Valkeřice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 16:00",
+                "ref": "40507:175"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.321905,
+                    50.701833
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Restaurace \"U Dlouhých\" <br><b>Adresa:</b> Děčín; Valkeřice; Valkeřice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "40507:142"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2570353,
+                    50.6891719
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Rychnov 43, 40502, Verneřice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:15",
+                "ref": "40507:68"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2715804,
+                    50.7149824
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> zastávka BUS <br><b>Adresa:</b> Děčín; Heřmanov; Fojtovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "40507:61"
+            }
+        }
+    ]
+}

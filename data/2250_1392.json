@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7697675,
+                    49.8139049
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Radkov,Dubová, BUS zastávka u čp.165 (stojan) <br><b>Adresa:</b> Opava; Radkov; Radkov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:10",
+                "ref": "74907:107"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7695276,
+                    49.8227055
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Radkov u čp. 59 (na stojanu) <br><b>Adresa:</b> č.p. 59, 74784, Radkov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "74907:106"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7613084,
+                    49.7863447
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Vítkov, nemocnice - vrátnice, Opavská 90 <br><b>Adresa:</b> Opavská 90, 74901, Vítkov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 12:20",
+                "ref": "74907:145"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8359781,
+                    49.8057464
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Vítkov, Jelenice 22, zastávka TQM (na stojanu) <br><b>Adresa:</b> Opava; Vítkov; Jelenice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:30",
+                "ref": "74907:331"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7883762,
+                    49.7852538
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Vítkov, Prostřední dvůr 2038,kult.stř.(na stojanu) <br><b>Adresa:</b> Prostřední Dvůr 2038, 74901, Vítkov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "74907:316"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7709246,
+                    49.8023277
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Vítkov, Podhradí 2015, hotel <br><b>Adresa:</b> Podhradí 2015, 74901, Vítkov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 12:00",
+                "ref": "74907:317"
+            }
+        }
+    ]
+}

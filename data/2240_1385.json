@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9019365,
+                    50.1792313
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Staré Město, Stříbrnice 39 (stojan) <br><b>Adresa:</b> Šumperk; Staré Město; Stříbrnice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 13:30",
+                "ref": "78807:211"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.917277,
+                    50.1976444
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Staré Město, Nová Seninka 54, obchod u aut.zast. <br><b>Adresa:</b> Šumperk; Staré Město; Nová Seninka <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 13:50",
+                "ref": "78807:212"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9415698,
+                    50.1869208
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Staré Město, Kunčice E26, na hasič.zbrojnici <br><b>Adresa:</b> Šumperk; Staré Město; Kunčice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 13:00",
+                "ref": "78807:210"
+            }
+        }
+    ]
+}

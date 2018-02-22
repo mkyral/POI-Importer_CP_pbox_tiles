@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4784957,
+                    50.5839583
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> V obci, Heřmánky - u kapličky <br><b>Adresa:</b> Heřmánky 15, 47201, Dubá ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:25",
+                "ref": "47007:141"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4382297,
+                    50.6130235
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Zastávka, u čp.16, Litice <br><b>Adresa:</b> Litice 16, 47002, Blíževedly ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:30",
+                "ref": "47007:57"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.41432,
+                    50.5868671
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> U obchodu, čp.15,  Skalka <br><b>Adresa:</b> Skalka 15, 47002, Blíževedly ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:00",
+                "ref": "47007:41"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4971081,
+                    50.5761935
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> V obci, Dřevčice - u obchodu č.p.1 <br><b>Adresa:</b> Dřevčice 1, 47201, Dubá ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:20",
+                "ref": "47007:140"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4869446,
+                    50.5935012
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Zastávka, u čp.30, Loubí <br><b>Adresa:</b> Loubí 30, 47002, Holany ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "47007:55"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4925967,
+                    50.6174384
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> na budově knihovny, čp.12, Holany <br><b>Adresa:</b> č.p. 12, 47002, Holany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.36 m",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "47007:52"
+            }
+        }
+    ]
+}

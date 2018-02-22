@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9827541,
+                    49.506744
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> obchod, Sazomín <br><b>Adresa:</b> č.p. 1, 59101, Sazomín ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "59100:36"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9320078,
+                    49.5447393
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> náves Radonín <br><b>Adresa:</b> Radonín 1, 59101, Žďár nad Sázavou ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "59100:22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9130309,
+                    49.5350098
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> prodejna, Budeč <br><b>Adresa:</b> č.p. 17, 59214, Budeč ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 12:00",
+                "ref": "59100:76"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9685682,
+                    49.5261177
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> u obchodu ,Vatín <br><b>Adresa:</b> č.p. 12, 59101, Vatín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 159.92 m",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:10",
+                "ref": "59100:23"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9350719,
+                    49.5028055
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Jednota, Březí nad Oslavou <br><b>Adresa:</b> č.p. 3, 59214, Březí nad Oslavou ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:45",
+                "ref": "59100:77"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9093949,
+                    49.5193198
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Nové Veselí <br><b>Adresa:</b> Na Městečku 59, 59214, Nové Veselí ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 10:30",
+                "ref": "59100:87"
+            }
+        }
+    ]
+}

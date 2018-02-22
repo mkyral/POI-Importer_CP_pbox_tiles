@@ -1,0 +1,90 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5393407,
+                    49.7664606
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Koclířov u Svitav 130 - obchod <br><b>Adresa:</b> č.p. 130, 56911, Koclířov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "56707:239"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5295575,
+                    49.7391762
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Kamenná Horka 52 <br><b>Adresa:</b> č.p. 52, 56802, Kamenná Horka ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "56707:217"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5579596,
+                    49.7616061
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Koclířov 54 - ČSAD <br><b>Adresa:</b> č.p. 54, 56911, Koclířov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "56707:241"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.603487,
+                    49.7422125
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Boršov zastávka ČSAD, Moravská Třebová 3 <br><b>Adresa:</b> Boršov 198, 56921, Moravská Třebová ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "56707:540"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5441644,
+                    49.7640741
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Koclířov u Svitav <br><b>Adresa:</b> č.p. 103, 56911, Koclířov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "56707:267"
+            }
+        }
+    ]
+}

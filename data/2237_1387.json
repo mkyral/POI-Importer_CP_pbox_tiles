@@ -1,0 +1,56 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6631481,
+                    50.0974668
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> VM, Lichkov <br><b>Adresa:</b> č.p. 186, 56168, Lichkov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "56707:142"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6166742,
+                    50.0807837
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> prodejna, Celné <br><b>Adresa:</b> Celné 45, 56164, Těchonín ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "56707:345"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6263469,
+                    50.096118
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Mladkov <br><b>Adresa:</b> č.p. 12, 56167, Mladkov ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "56707:372"
+            }
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.7638612,
+                    50.3115106
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Pozorka č.23, restaurace <br><b>Adresa:</b> Pozorka 23, 36221, Nejdek ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "36207:146"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8139145,
+                    50.2945808
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Děpoltovice, obecní úřad, <br><b>Adresa:</b> Karlovy Vary; Děpoltovice; Děpoltovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "36207:61"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.7653419,
+                    50.291479
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Smolné Pece, obchod, <br><b>Adresa:</b> Karlovy Vary; Smolné Pece; Smolné Pece <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "36207:64"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.7878553,
+                    50.3018923
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Fojtov, autobusová zastávka, <br><b>Adresa:</b> Karlovy Vary; Nejdek; Fojtov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "36207:63"
+            }
+        }
+    ]
+}

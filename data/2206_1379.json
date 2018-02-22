@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9428998,
+                    50.5241108
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> náves <br><b>Adresa:</b> Kocourov 7, 41115, Třebenice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "41007:44"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9389315,
+                    50.5396582
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> pošta Milešov <br><b>Adresa:</b> Milešov 16, 41132, Velemín ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "41007:422"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9744298,
+                    50.5251854
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Březno 34, 41002, Velemín ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "41007:6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9255116,
+                    50.5172866
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> u kostela <br><b>Adresa:</b> Medvědice 11, 41115, Třebenice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:00",
+                "ref": "41007:43"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9361935,
+                    50.539929
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Domov důchodců <br><b>Adresa:</b> Milešov 1, 41132, Velemín ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:30",
+                "ref": "41007:77"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9334464,
+                    50.5678517
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> náves <br><b>Adresa:</b> Teplice; Bořislav; Bílka <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 11:00",
+                "ref": "40371:389"
+            }
+        }
+    ]
+}

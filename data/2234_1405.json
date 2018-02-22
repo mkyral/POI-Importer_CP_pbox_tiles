@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.367343,
+                    49.0951414
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Němčice , Ke Karlovu 62/10 - MaB Calibr <br><b>Adresa:</b> Ke Karlovu 62/10, Němčice, 66491, Ivančice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "60010:745"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.348655,
+                    49.0752105
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Budkovice 131 - obchod <br><b>Adresa:</b> Budkovice 131, 66491, Ivančice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "60010:751"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3557491,
+                    49.0911178
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Alexovice  1/5, Lanatex <br><b>Adresa:</b> Tovární 1/5, Alexovice, 66491, Ivančice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "60010:747"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3587152,
+                    49.095178
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Letkovice  157 - obchod <br><b>Adresa:</b> Novoveská 157/4, Letkovice, 66491, Ivančice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 08:30",
+                "ref": "60010:746"
+            }
+        }
+    ]
+}

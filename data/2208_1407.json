@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1156843,
+                    48.9686108
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Jáma <br><b>Adresa:</b> Jáma 26, 38301, Mičovice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:30",
+                "ref": "38307:37"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0679593,
+                    48.9567385
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Budova pošty  Chroboly <br><b>Adresa:</b> č.p. 84, 38404, Chroboly ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "38307:69"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1459233,
+                    48.9737798
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Vadkov <br><b>Adresa:</b> Vadkov 11, 38301, Lhenice ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:30",
+                "ref": "38307:36"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1045208,
+                    48.9476795
+                ]
+            },
+            "properties": {
+                "_note": "<br><b>Poznámka:</b> Záhoří <br><b>Adresa:</b> Záhoří 14, 38301, Chroboly ",
+                "operator": "Česká pošta, s.p.",
+                "amenity": "post_box",
+                "collection_times": "Mo-Fr 09:00",
+                "ref": "38307:35"
+            }
+        }
+    ]
+}

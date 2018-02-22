@@ -1,158 +1,158 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9035483,
-                    50.1215867
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Býšť Svoboda <br><b>Adresa:</b> č.p. 97, 53322, Býšť ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "53400:42"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.8238036,
-                    50.1246649
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Bukovina - zast. ČSAD <br><b>Adresa:</b> č.p. 61, 53352, Bukovina nad Labem ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "53000:124"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.8272102,
-                    50.1686732
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Roudnička, MHD <br><b>Adresa:</b> Roudničská 26/39, Roudnička, 50002, Hradec Králové ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "50370:140"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.8564539,
-                    50.1273954
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Borek - prodejna <br><b>Adresa:</b> č.p. 51, 53401, Borek ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "53400:37"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.8314978,
-                    50.1537545
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Vysoká nad Labem <br><b>Adresa:</b> č.p. 65, 50331, Vysoká nad Labem ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "50370:143"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.8564926,
-                    50.1758776
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Přemyslova 138 <br><b>Adresa:</b> Přemyslova 138/1, Nový Hradec Králové, 50008, Hradec Králové ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "50370:64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.8542818,
-                    50.1740708
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Domov důchodců <br><b>Adresa:</b> K Biřičce 1240, Nový Hradec Králové, 50008, Hradec Králové ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "50370:63"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.8251326,
-                    50.1537035
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Vysoká nad Labem <br><b>Adresa:</b> č.p. 115, 50331, Vysoká nad Labem ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "50370:274"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.884078,
-                    50.1239299
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hrachoviště - hostinec <br><b>Adresa:</b> Pardubice; Býšť; Hrachoviště <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "53400:36"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.8272102,
+          50.1686732
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Roudnička, MHD <br><b>Adresa:</b> Roudničská 26/39, Roudnička, 50002, Hradec Králové ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "50370:140"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8314978,
+          50.1537545
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vysoká nad Labem <br><b>Adresa:</b> č.p. 65, 50331, Vysoká nad Labem ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "50370:143"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8251326,
+          50.1537035
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Vysoká nad Labem <br><b>Adresa:</b> č.p. 115, 50331, Vysoká nad Labem ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "50370:274"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8542818,
+          50.1740708
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Domov důchodců <br><b>Adresa:</b> K Biřičce 1240, Nový Hradec Králové, 50008, Hradec Králové ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "50370:63"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8564926,
+          50.1758776
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Přemyslova 138 <br><b>Adresa:</b> Přemyslova 138/1, Nový Hradec Králové, 50008, Hradec Králové ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "50370:64"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8238036,
+          50.1246649
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bukovina - zast. ČSAD <br><b>Adresa:</b> č.p. 61, 53352, Bukovina nad Labem ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53000:124"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.884078,
+          50.1239299
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hrachoviště - hostinec <br><b>Adresa:</b> Pardubice; Býšť; Hrachoviště <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53400:36"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8564539,
+          50.1273954
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Borek - prodejna <br><b>Adresa:</b> č.p. 51, 53401, Borek ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53400:37"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9035483,
+          50.1215867
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Býšť Svoboda <br><b>Adresa:</b> č.p. 97, 53322, Býšť ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53400:42"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

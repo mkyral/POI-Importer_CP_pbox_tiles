@@ -1,158 +1,158 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3974081,
-                    50.7134113
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pošta Žandov u České Lípy <br><b>Adresa:</b> Náměstí 18, 47107, Žandov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "47007:254"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3603788,
-                    50.7150678
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Smíšenka, zastávka BUS <br><b>Adresa:</b> Děčín; Starý Šachov; Starý Šachov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:20",
-                "ref": "40507:70"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3457705,
-                    50.6915001
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Obecní úřad <br><b>Adresa:</b> č.p. 53, 40502, Merboltice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:50",
-                "ref": "40507:66"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3933607,
-                    50.7143234
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> na stojanu, Děčínská 291, Žandov <br><b>Adresa:</b> Děčínská 291, 47107, Žandov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "47007:98"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3968928,
-                    50.7305445
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Obchod u křižovatky, <br><b>Adresa:</b> č.p. 13, 40729, Velká Bukovina ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "40507:87"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3276165,
-                    50.7256403
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Františkov nad Ploučnicí <br><b>Adresa:</b> č.p. 71, 40723, Františkov nad Ploučnicí ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 16:00",
-                "ref": "40507:174"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3914607,
-                    50.7317348
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Velká Bukovina u Děčína <br><b>Adresa:</b> č.p. 178, 40729, Velká Bukovina ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 16:00",
-                "ref": "40507:176"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.405358,
-                    50.7037236
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pošta Horní Police <br><b>Adresa:</b> 9. května 167, 47106, Horní Police ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "47007:253"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.399292,
-                    50.7159209
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> na stojanu, Volfartická ul, u čp. 315., Žandov <br><b>Adresa:</b> Volfartická 315, 47107, Žandov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "47007:97"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.3276165,
+          50.7256403
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Františkov nad Ploučnicí <br><b>Adresa:</b> č.p. 71, 40723, Františkov nad Ploučnicí ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 16:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "40507:174"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3914607,
+          50.7317348
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Velká Bukovina u Děčína <br><b>Adresa:</b> č.p. 178, 40729, Velká Bukovina ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 16:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "40507:176"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3457705,
+          50.6915001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Obecní úřad <br><b>Adresa:</b> č.p. 53, 40502, Merboltice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:50",
+        "operator": "Česká pošta, s.p.",
+        "ref": "40507:66"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3603788,
+          50.7150678
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Smíšenka, zastávka BUS <br><b>Adresa:</b> Děčín; Starý Šachov; Starý Šachov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:20",
+        "operator": "Česká pošta, s.p.",
+        "ref": "40507:70"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3968928,
+          50.7305445
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Obchod u křižovatky, <br><b>Adresa:</b> č.p. 13, 40729, Velká Bukovina ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "40507:87"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.405358,
+          50.7037236
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Horní Police <br><b>Adresa:</b> 9. května 167, 47106, Horní Police ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "47007:253"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3974081,
+          50.7134113
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Žandov u České Lípy <br><b>Adresa:</b> Náměstí 18, 47107, Žandov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "47007:254"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.399292,
+          50.7159209
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> na stojanu, Volfartická ul, u čp. 315., Žandov <br><b>Adresa:</b> Volfartická 315, 47107, Žandov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "47007:97"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3933607,
+          50.7143234
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> na stojanu, Děčínská 291, Žandov <br><b>Adresa:</b> Děčínská 291, 47107, Žandov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "47007:98"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

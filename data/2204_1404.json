@@ -1,209 +1,209 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.7393593,
-                    49.1415496
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Přečín - náves <br><b>Adresa:</b> Přečín 58, 38473, Vacov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:50",
-                "ref": "38607:515"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.7832469,
-                    49.1403181
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Vacovice <br><b>Adresa:</b> č.p. 47, 38719, Vacovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:45",
-                "ref": "38607:444"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.7132498,
-                    49.1146978
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Čábuze - náves <br><b>Adresa:</b> Čábuze 1, 38473, Vacov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 14:00",
-                "ref": "38607:531"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.7460873,
-                    49.117184
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Nespice náves <br><b>Adresa:</b> Nespice 8, 38473, Vacov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:15",
-                "ref": "38607:310"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.756575,
-                    49.1431706
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Chvalšovice - náves <br><b>Adresa:</b> Chvalšovice 33, 38473, Dřešín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:20",
-                "ref": "38607:514"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.7752609,
-                    49.1110814
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Onšovice <br><b>Adresa:</b> Onšovice 6, 38481, Čkyně ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "38607:307"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.7907979,
-                    49.1252841
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Horosedly <br><b>Adresa:</b> Horosedly 2, 38481, Čkyně ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:20",
-                "ref": "38607:308"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.7479839,
-                    49.1027584
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Putkov - náves <br><b>Adresa:</b> Putkov 41, 38473, Zdíkov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 13:00",
-                "ref": "38607:530"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.7305368,
-                    49.1364266
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Budova pošty Vacov <br><b>Adresa:</b> Miřetice 29, 38486, Vacov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "38607:311"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.7963534,
-                    49.1063788
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Spůle <br><b>Adresa:</b> Spůle 5, 38481, Čkyně ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:40",
-                "ref": "38607:306"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.7160641,
-                    49.1410689
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Vrbice - čekárna <br><b>Adresa:</b> č.p. 1, 38473, Vrbice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:15",
-                "ref": "38607:511"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.7641181,
-                    49.1153791
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Žár - náves <br><b>Adresa:</b> Žár 1, 38473, Vacov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "38607:309"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.7963534,
+          49.1063788
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Spůle <br><b>Adresa:</b> Spůle 5, 38481, Čkyně ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:40",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38607:306"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.7752609,
+          49.1110814
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Onšovice <br><b>Adresa:</b> Onšovice 6, 38481, Čkyně ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38607:307"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.7907979,
+          49.1252841
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Horosedly <br><b>Adresa:</b> Horosedly 2, 38481, Čkyně ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:20",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38607:308"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.7641181,
+          49.1153791
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Žár - náves <br><b>Adresa:</b> Žár 1, 38473, Vacov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38607:309"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.7460873,
+          49.117184
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nespice náves <br><b>Adresa:</b> Nespice 8, 38473, Vacov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38607:310"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.7305368,
+          49.1364266
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Budova pošty Vacov <br><b>Adresa:</b> Miřetice 29, 38486, Vacov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38607:311"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.7832469,
+          49.1403181
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vacovice <br><b>Adresa:</b> č.p. 47, 38719, Vacovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38607:444"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.7160641,
+          49.1410689
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vrbice - čekárna <br><b>Adresa:</b> č.p. 1, 38473, Vrbice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38607:511"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.756575,
+          49.1431706
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Chvalšovice - náves <br><b>Adresa:</b> Chvalšovice 33, 38473, Dřešín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:20",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38607:514"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.7393593,
+          49.1415496
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Přečín - náves <br><b>Adresa:</b> Přečín 58, 38473, Vacov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:50",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38607:515"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.7479839,
+          49.1027584
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Putkov - náves <br><b>Adresa:</b> Putkov 41, 38473, Zdíkov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 13:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38607:530"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.7132498,
+          49.1146978
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Čábuze - náves <br><b>Adresa:</b> Čábuze 1, 38473, Vacov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 14:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38607:531"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

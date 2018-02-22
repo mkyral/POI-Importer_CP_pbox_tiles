@@ -1,107 +1,107 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.4024993,
-                    48.8297858
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Hrušovany nad Jevišovkou <br><b>Adresa:</b> náměstí Míru 707, 67167, Hrušovany nad Jevišovkou ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:30",
-                "ref": "66907:280"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.4003242,
-                    48.8276531
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hrušovany-U Svídů <br><b>Adresa:</b> Nádražní 290, 67167, Hrušovany nad Jevišovkou ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "66907:177"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3837984,
-                    48.807408
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Šanov-ZŠ - Jídelna <br><b>Adresa:</b> Komenského 241, 67168, Šanov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "66907:183"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3608408,
-                    48.8431601
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pravice - obchod <br><b>Adresa:</b> č.p. 29, 67178, Pravice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "66907:219"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3974726,
-                    48.8145063
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hrušovany-hotel cukr. <br><b>Adresa:</b> Cukrovarská 777, 67167, Hrušovany nad Jevišovkou ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "66907:178"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3978325,
-                    48.8304489
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hrušovany-OÚ <br><b>Adresa:</b> Znojemská 428, 67167, Hrušovany nad Jevišovkou ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "66907:176"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.3978325,
+          48.8304489
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hrušovany-OÚ <br><b>Adresa:</b> Znojemská 428, 67167, Hrušovany nad Jevišovkou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:176"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.4003242,
+          48.8276531
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hrušovany-U Svídů <br><b>Adresa:</b> Nádražní 290, 67167, Hrušovany nad Jevišovkou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:177"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3974726,
+          48.8145063
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hrušovany-hotel cukr. <br><b>Adresa:</b> Cukrovarská 777, 67167, Hrušovany nad Jevišovkou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:178"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3837984,
+          48.807408
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Šanov-ZŠ - Jídelna <br><b>Adresa:</b> Komenského 241, 67168, Šanov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:183"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3608408,
+          48.8431601
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pravice - obchod <br><b>Adresa:</b> č.p. 29, 67178, Pravice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:219"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.4024993,
+          48.8297858
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Hrušovany nad Jevišovkou <br><b>Adresa:</b> náměstí Míru 707, 67167, Hrušovany nad Jevišovkou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:280"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

@@ -1,90 +1,90 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.2937473,
-                    49.2214881
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Zbraslav u Brna <br><b>Adresa:</b> Komenského 105, 66484, Zbraslav ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "60012:213"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.2828437,
-                    49.2205138
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Březina č. 331, Zbraslav <br><b>Adresa:</b> Březina 331, 66484, Zbraslav ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "60012:169"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3309653,
-                    49.2418807
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Rudka, obchod <br><b>Adresa:</b> č.p. 66, 66483, Rudka <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.99 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "60012:177"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3441712,
-                    49.2438565
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta  Domašov u Brna <br><b>Adresa:</b> Brněnská 179, 66483, Domašov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 14.49 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "60012:210"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3334281,
-                    49.2268499
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Litostrov, obchod <br><b>Adresa:</b> č.p. 38, 66483, Litostrov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:55",
-                "ref": "60012:178"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.2828437,
+          49.2205138
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Březina č. 331, Zbraslav <br><b>Adresa:</b> Březina 331, 66484, Zbraslav ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60012:169"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3309653,
+          49.2418807
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Rudka, obchod <br><b>Adresa:</b> č.p. 66, 66483, Rudka <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.99 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60012:177"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3334281,
+          49.2268499
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Litostrov, obchod <br><b>Adresa:</b> č.p. 38, 66483, Litostrov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:55",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60012:178"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3441712,
+          49.2438565
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta  Domašov u Brna <br><b>Adresa:</b> Brněnská 179, 66483, Domašov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 14.49 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60012:210"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2937473,
+          49.2214881
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Zbraslav u Brna <br><b>Adresa:</b> Komenského 105, 66484, Zbraslav ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60012:213"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

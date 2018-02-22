@@ -1,124 +1,124 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.6775164,
-                    50.0584359
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> č.p. 1  Ždáry - autobus.zastávka <br><b>Adresa:</b> Žďáry 1, 27035, Hvozd ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:20",
-                "ref": "26907:149"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.6984105,
-                    50.0515058
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u prodejny, Hvozd <br><b>Adresa:</b> Rakovník; Hvozd; Hvozd <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "26907:151"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.6677593,
-                    50.0477003
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> č.p.16 Malinová - u autobus. zastávky <br><b>Adresa:</b> č.p. 16, 27035, Malinová ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "26907:147"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.6749541,
-                    50.0207117
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Rousínov č.p.20 <br><b>Adresa:</b> Rousínov 20, 27041, Slabce ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "26907:157"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.6382468,
-                    50.0188444
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Krakovec - požární zbrojnice <br><b>Adresa:</b> Rakovník; Krakovec; Krakovec <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:10",
-                "ref": "26907:145"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.6591894,
-                    50.0242744
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> č.p. 19 Zhoř - bytovky <br><b>Adresa:</b> Zhoř 19, 27035, Krakovec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:20",
-                "ref": "26907:146"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.6488242,
-                    50.0388028
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> č.p. 17 Krakov - u prodejny <br><b>Adresa:</b> č.p. 17, 27035, Krakov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "26907:144"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.6488242,
+          50.0388028
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> č.p. 17 Krakov - u prodejny <br><b>Adresa:</b> č.p. 17, 27035, Krakov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26907:144"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.6382468,
+          50.0188444
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Krakovec - požární zbrojnice <br><b>Adresa:</b> Rakovník; Krakovec; Krakovec <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:10",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26907:145"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.6591894,
+          50.0242744
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> č.p. 19 Zhoř - bytovky <br><b>Adresa:</b> Zhoř 19, 27035, Krakovec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:20",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26907:146"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.6677593,
+          50.0477003
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> č.p.16 Malinová - u autobus. zastávky <br><b>Adresa:</b> č.p. 16, 27035, Malinová ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26907:147"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.6775164,
+          50.0584359
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> č.p. 1  Ždáry - autobus.zastávka <br><b>Adresa:</b> Žďáry 1, 27035, Hvozd ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:20",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26907:149"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.6984105,
+          50.0515058
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u prodejny, Hvozd <br><b>Adresa:</b> Rakovník; Hvozd; Hvozd <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26907:151"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.6749541,
+          50.0207117
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Rousínov č.p.20 <br><b>Adresa:</b> Rousínov 20, 27041, Slabce ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26907:157"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

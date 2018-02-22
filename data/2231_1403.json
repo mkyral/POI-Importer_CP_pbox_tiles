@@ -1,175 +1,175 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1602815,
-                    49.2069101
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Náměšť nad Oslavou, Hasičský dům <br><b>Adresa:</b> U Pivovaru 21, 67571, Náměšť nad Oslavou ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "67407:230"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.087567,
-                    49.2058669
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Okarec náves <br><b>Adresa:</b> č.p. 14, 67502, Okarec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:15",
-                "ref": "67407:75"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1511156,
-                    49.2033242
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Náměšť nad Oslavou, Bří Čapků <br><b>Adresa:</b> Bří Čapků 919, 67571, Náměšť nad Oslavou ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "67407:235"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1583915,
-                    49.2087589
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Náměšť nad Oslavou, DOWO <br><b>Adresa:</b> V. Nezvala 66, 67571, Náměšť nad Oslavou ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "67407:231"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1293912,
-                    49.1595905
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Popůvky, u obchodu <br><b>Adresa:</b> č.p. 17, 67575, Popůvky ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "67407:269"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1569796,
-                    49.2062421
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Náměšť nad Oslavou <br><b>Adresa:</b> Masarykovo nám. 62, 67571, Náměšť nad Oslavou ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 16:00",
-                "ref": "67407:328"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.0896446,
-                    49.1715959
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Hartvíkovice <br><b>Adresa:</b> č.p. 31, 67576, Hartvíkovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:30",
-                "ref": "67407:333"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.14453,
-                    49.191927
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Zňátky <br><b>Adresa:</b> Zňátky 49, 67571, Náměšť nad Oslavou ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "67407:238"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1325693,
-                    49.167791
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Sedlec <br><b>Adresa:</b> č.p. 39, 67571, Sedlec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "67407:237"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1529505,
-                    49.2090627
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Náměšť nad Oslavou, Jiráskova 721 <br><b>Adresa:</b> Jiráskova 721, 67571, Náměšť nad Oslavou ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "67407:232"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.1602815,
+          49.2069101
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Náměšť nad Oslavou, Hasičský dům <br><b>Adresa:</b> U Pivovaru 21, 67571, Náměšť nad Oslavou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:230"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1583915,
+          49.2087589
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Náměšť nad Oslavou, DOWO <br><b>Adresa:</b> V. Nezvala 66, 67571, Náměšť nad Oslavou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:231"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1529505,
+          49.2090627
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Náměšť nad Oslavou, Jiráskova 721 <br><b>Adresa:</b> Jiráskova 721, 67571, Náměšť nad Oslavou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:232"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1511156,
+          49.2033242
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Náměšť nad Oslavou, Bří Čapků <br><b>Adresa:</b> Bří Čapků 919, 67571, Náměšť nad Oslavou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:235"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1325693,
+          49.167791
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Sedlec <br><b>Adresa:</b> č.p. 39, 67571, Sedlec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:237"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.14453,
+          49.191927
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Zňátky <br><b>Adresa:</b> Zňátky 49, 67571, Náměšť nad Oslavou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:238"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1293912,
+          49.1595905
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Popůvky, u obchodu <br><b>Adresa:</b> č.p. 17, 67575, Popůvky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:269"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1569796,
+          49.2062421
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Náměšť nad Oslavou <br><b>Adresa:</b> Masarykovo nám. 62, 67571, Náměšť nad Oslavou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 16:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:328"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0896446,
+          49.1715959
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Hartvíkovice <br><b>Adresa:</b> č.p. 31, 67576, Hartvíkovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:333"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.087567,
+          49.2058669
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Okarec náves <br><b>Adresa:</b> č.p. 14, 67502, Okarec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:75"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

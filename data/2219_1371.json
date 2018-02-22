@@ -1,107 +1,107 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.0476103,
-                    51.004815
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Černousy  3 u LDS <br><b>Adresa:</b> č.p. 3, 46373, Černousy ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:40",
-                "ref": "46307:312"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.0776271,
-                    50.9805291
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pertoltice č.p.64 - hostinec <br><b>Adresa:</b> Dolní Pertoltice 64, 46373, Pertoltice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:05",
-                "ref": "46307:311"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.0963558,
-                    50.9628173
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Arnoltice 94 - obchod <br><b>Adresa:</b> Arnoltice 94, 46401, Bulovka ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "46307:307"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.0378284,
-                    51.0092691
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Černousy 81- Obchod <br><b>Adresa:</b> č.p. 81, 46373, Černousy ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:45",
-                "ref": "46307:313"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.0364082,
-                    50.9698323
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> naproti Předlánce 4, Višňová u LDS <br><b>Adresa:</b> Předlánce 4, 46401, Višňová ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:15",
-                "ref": "46307:296"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.0332936,
-                    50.9585054
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Poustka 4, Višňová <br><b>Adresa:</b> Poustka 4, 46401, Višňová ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:10",
-                "ref": "46307:295"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.0332936,
+          50.9585054
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Poustka 4, Višňová <br><b>Adresa:</b> Poustka 4, 46401, Višňová ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:10",
+        "operator": "Česká pošta, s.p.",
+        "ref": "46307:295"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.0364082,
+          50.9698323
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> naproti Předlánce 4, Višňová u LDS <br><b>Adresa:</b> Předlánce 4, 46401, Višňová ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "46307:296"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.0963558,
+          50.9628173
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Arnoltice 94 - obchod <br><b>Adresa:</b> Arnoltice 94, 46401, Bulovka ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "46307:307"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.0776271,
+          50.9805291
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pertoltice č.p.64 - hostinec <br><b>Adresa:</b> Dolní Pertoltice 64, 46373, Pertoltice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:05",
+        "operator": "Česká pošta, s.p.",
+        "ref": "46307:311"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.0476103,
+          51.004815
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Černousy  3 u LDS <br><b>Adresa:</b> č.p. 3, 46373, Černousy ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:40",
+        "operator": "Česká pošta, s.p.",
+        "ref": "46307:312"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.0378284,
+          51.0092691
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Černousy 81- Obchod <br><b>Adresa:</b> č.p. 81, 46373, Černousy ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "46307:313"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

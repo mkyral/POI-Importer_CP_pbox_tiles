@@ -1,73 +1,73 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.0712478,
-                    50.015603
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pošta Rohov (stojan) <br><b>Adresa:</b> Hlavní 51, 74725, Rohov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 15:45",
-                "ref": "74907:156"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.0685834,
-                    50.0310924
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pošta Sudice (stojan) <br><b>Adresa:</b> Hlavní 148, 74725, Sudice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo 16:00; Tu 09:00; We 16:00; Th 09:00; Fr 16:00",
-                "ref": "74907:158"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.02636,
-                    50.0454283
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jednota, Třebom čp. 115 <br><b>Adresa:</b> č.p. 115, 74725, Třebom ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "74907:84"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.0770877,
-                    50.0164674
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Rohov, Horní čp. 152 (na stojanu) <br><b>Adresa:</b> Horní 152, 74725, Rohov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "74907:85"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          18.0712478,
+          50.015603
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Rohov (stojan) <br><b>Adresa:</b> Hlavní 51, 74725, Rohov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 15:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74907:156"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.0685834,
+          50.0310924
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Sudice (stojan) <br><b>Adresa:</b> Hlavní 148, 74725, Sudice ",
+        "amenity": "post_box",
+        "collection_times": "Mo 16:00; Tu 09:00; We 16:00; Th 09:00; Fr 16:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74907:158"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.02636,
+          50.0454283
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jednota, Třebom čp. 115 <br><b>Adresa:</b> č.p. 115, 74725, Třebom ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74907:84"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.0770877,
+          50.0164674
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Rohov, Horní čp. 152 (na stojanu) <br><b>Adresa:</b> Horní 152, 74725, Rohov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74907:85"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

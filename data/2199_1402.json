@@ -1,73 +1,73 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.2990906,
-                    49.2176222
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Javorná,stojan u č.p.27 <br><b>Adresa:</b> Javorná 27, 33901, Čachrov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "33907:110"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.3030203,
-                    49.2661042
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Čachrov - stojan proti prodejně u čp.9 <br><b>Adresa:</b> č.p. 9, 33901, Čachrov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "33907:67"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.3548671,
-                    49.2566658
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Chotěšov u čp. 42 <br><b>Adresa:</b> Chotěšov 42, 34142, Velhartice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "33907:143"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.3078366,
-                    49.2182363
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Javorná - hotel Stavbař čp. 5 <br><b>Adresa:</b> Javorná 5, 33901, Čachrov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "33907:68"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.2990906,
+          49.2176222
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Javorná,stojan u č.p.27 <br><b>Adresa:</b> Javorná 27, 33901, Čachrov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "33907:110"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.3548671,
+          49.2566658
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Chotěšov u čp. 42 <br><b>Adresa:</b> Chotěšov 42, 34142, Velhartice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "33907:143"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.3030203,
+          49.2661042
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Čachrov - stojan proti prodejně u čp.9 <br><b>Adresa:</b> č.p. 9, 33901, Čachrov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "33907:67"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.3078366,
+          49.2182363
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Javorná - hotel Stavbař čp. 5 <br><b>Adresa:</b> Javorná 5, 33901, Čachrov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "33907:68"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

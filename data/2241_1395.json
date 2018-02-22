@@ -1,107 +1,107 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.0267345,
-                    49.6265404
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Senice na Hané, Cakov za č.p.8, u obchodu (stojan) <br><b>Adresa:</b> Cakov 8, 78322, Senice na Hané ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "77072:457"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.0016119,
-                    49.613394
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Olbramice za č.p. 24, naproti obchodu (stojan) <br><b>Adresa:</b> Olomouc; Olbramice; Olbramice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:45",
-                "ref": "77072:456"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.9958594,
-                    49.6359983
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Vilémov 146, pošta (stojan) <br><b>Adresa:</b> č.p. 146, 78322, Vilémov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 15:10",
-                "ref": "77072:458"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.0380822,
-                    49.6192602
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Náměšť na Hané, Nové Dvory 414 (aut.zast.-stojan) <br><b>Adresa:</b> Olomouc; Náměšť na Hané; Náměšť na Hané <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "79907:172"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.0199608,
-                    49.644524
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Bílsko před č.p.11, naproti obchodu (stojan) <br><b>Adresa:</b> č.p. 11, 78322, Bílsko ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "77072:454"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.0115641,
-                    49.6572637
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Loučka za č.p. 5, naproti obchodu (stojan) <br><b>Adresa:</b> č.p. 5, 78322, Loučka ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "77072:455"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          17.0199608,
+          49.644524
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bílsko před č.p.11, naproti obchodu (stojan) <br><b>Adresa:</b> č.p. 11, 78322, Bílsko ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "77072:454"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.0115641,
+          49.6572637
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Loučka za č.p. 5, naproti obchodu (stojan) <br><b>Adresa:</b> č.p. 5, 78322, Loučka ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "77072:455"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.0016119,
+          49.613394
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Olbramice za č.p. 24, naproti obchodu (stojan) <br><b>Adresa:</b> Olomouc; Olbramice; Olbramice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "77072:456"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.0267345,
+          49.6265404
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Senice na Hané, Cakov za č.p.8, u obchodu (stojan) <br><b>Adresa:</b> Cakov 8, 78322, Senice na Hané ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "77072:457"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.9958594,
+          49.6359983
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vilémov 146, pošta (stojan) <br><b>Adresa:</b> č.p. 146, 78322, Vilémov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 15:10",
+        "operator": "Česká pošta, s.p.",
+        "ref": "77072:458"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.0380822,
+          49.6192602
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Náměšť na Hané, Nové Dvory 414 (aut.zast.-stojan) <br><b>Adresa:</b> Olomouc; Náměšť na Hané; Náměšť na Hané <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79907:172"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

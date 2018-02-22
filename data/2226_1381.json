@@ -1,175 +1,175 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.7108738,
-                    50.4326004
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Třebihošť <br><b>Adresa:</b> č.p. 75, 54401, Třebihošť ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "54107:442"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.6845106,
-                    50.4562991
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Zvičina čp. 172 <br><b>Adresa:</b> č.p. 176, 54475, Třebihošť ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "54107:452"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.6545502,
-                    50.4388707
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> OÚ Borek <br><b>Adresa:</b> č.p. 8, 50771, Borek ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "50770:297"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.7046083,
-                    50.4152971
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Zdobín <br><b>Adresa:</b> Trutnov; Zdobín; Zdobín <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "54107:440"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.6813277,
-                    50.4043761
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta  Miletín <br><b>Adresa:</b> Komenského 100, 50771, Miletín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:15",
-                "ref": "50770:310"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.6746238,
-                    50.4288991
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Chroustov <br><b>Adresa:</b> Chroustov 38, 50771, Úhlejov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "50770:295"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.7256086,
-                    50.4250419
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Dolní Dehtov <br><b>Adresa:</b> Dolní Dehtov 23, 54401, Třebihošť ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "54107:441"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.7172697,
-                    50.4100626
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Trotina <br><b>Adresa:</b> č.p. 48, 54401, Trotina ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "54107:439"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.6872043,
-                    50.4229547
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Prodejna, Úhlejov <br><b>Adresa:</b> č.p. 50, 50771, Úhlejov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "50770:296"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.7291587,
-                    50.4568935
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jednota Dolní Brusnice <br><b>Adresa:</b> č.p. 50, 54472, Dolní Brusnice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "54107:449"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.6746238,
+          50.4288991
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Chroustov <br><b>Adresa:</b> Chroustov 38, 50771, Úhlejov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "50770:295"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.6872043,
+          50.4229547
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Prodejna, Úhlejov <br><b>Adresa:</b> č.p. 50, 50771, Úhlejov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "50770:296"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.6545502,
+          50.4388707
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> OÚ Borek <br><b>Adresa:</b> č.p. 8, 50771, Borek ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "50770:297"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.6813277,
+          50.4043761
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta  Miletín <br><b>Adresa:</b> Komenského 100, 50771, Miletín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "50770:310"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7172697,
+          50.4100626
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Trotina <br><b>Adresa:</b> č.p. 48, 54401, Trotina ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54107:439"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7046083,
+          50.4152971
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Zdobín <br><b>Adresa:</b> Trutnov; Zdobín; Zdobín <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54107:440"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7256086,
+          50.4250419
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dolní Dehtov <br><b>Adresa:</b> Dolní Dehtov 23, 54401, Třebihošť ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54107:441"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7108738,
+          50.4326004
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Třebihošť <br><b>Adresa:</b> č.p. 75, 54401, Třebihošť ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54107:442"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7291587,
+          50.4568935
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jednota Dolní Brusnice <br><b>Adresa:</b> č.p. 50, 54472, Dolní Brusnice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54107:449"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.6845106,
+          50.4562991
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Zvičina čp. 172 <br><b>Adresa:</b> č.p. 176, 54475, Třebihošť ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54107:452"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

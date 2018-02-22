@@ -1,124 +1,124 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.7282475,
-                    49.4482255
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Horní Újezd 87, obchod (stojan) <br><b>Adresa:</b> č.p. 87, 75353, Horní Újezd ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:20",
-                "ref": "75007:280"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.7080499,
-                    49.4909835
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Rakov 2, bus. zastávka (stojan) <br><b>Adresa:</b> Přerov; Rakov; Rakov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:25",
-                "ref": "75007:282"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.6758364,
-                    49.4770268
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Dolní Nětčice 48 (stojan) <br><b>Adresa:</b> č.p. 48, 75354, Dolní Nětčice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:10",
-                "ref": "75007:268"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.6947895,
-                    49.4472439
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Vitonice č.82 - OÚ <br><b>Adresa:</b> č.p. 82, 76861, Vítonice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:30",
-                "ref": "76707:146"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.7323357,
-                    49.4476891
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Horní Újezd 75, bus. zastávka (stojan) <br><b>Adresa:</b> Přerov; Horní Újezd; Horní Újezd <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:20",
-                "ref": "75007:279"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.7144566,
-                    49.4676841
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Býškovice 60, obchod (stojan) <br><b>Adresa:</b> č.p. 60, 75353, Býškovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:30",
-                "ref": "75007:281"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.6867032,
-                    49.4724643
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Horní Nětčice 32 (stojan) <br><b>Adresa:</b> č.p. 32, 75354, Horní Nětčice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "75007:270"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          17.6758364,
+          49.4770268
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dolní Nětčice 48 (stojan) <br><b>Adresa:</b> č.p. 48, 75354, Dolní Nětčice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:10",
+        "operator": "Česká pošta, s.p.",
+        "ref": "75007:268"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.6867032,
+          49.4724643
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Horní Nětčice 32 (stojan) <br><b>Adresa:</b> č.p. 32, 75354, Horní Nětčice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "75007:270"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.7323357,
+          49.4476891
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Horní Újezd 75, bus. zastávka (stojan) <br><b>Adresa:</b> Přerov; Horní Újezd; Horní Újezd <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:20",
+        "operator": "Česká pošta, s.p.",
+        "ref": "75007:279"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.7282475,
+          49.4482255
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Horní Újezd 87, obchod (stojan) <br><b>Adresa:</b> č.p. 87, 75353, Horní Újezd ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:20",
+        "operator": "Česká pošta, s.p.",
+        "ref": "75007:280"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.7144566,
+          49.4676841
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Býškovice 60, obchod (stojan) <br><b>Adresa:</b> č.p. 60, 75353, Býškovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "75007:281"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.7080499,
+          49.4909835
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Rakov 2, bus. zastávka (stojan) <br><b>Adresa:</b> Přerov; Rakov; Rakov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:25",
+        "operator": "Česká pošta, s.p.",
+        "ref": "75007:282"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.6947895,
+          49.4472439
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vitonice č.82 - OÚ <br><b>Adresa:</b> č.p. 82, 76861, Vítonice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "76707:146"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

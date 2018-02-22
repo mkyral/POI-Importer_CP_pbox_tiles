@@ -1,56 +1,56 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.6336331,
-                    49.8204557
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Sklenná Huť,aut. zast. <br><b>Adresa:</b> Rokycany; Přívětice; Sklená Huť <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "30072:96"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.6989018,
-                    49.8024147
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Těškov,č. 168 <br><b>Adresa:</b> č.p. 168, 33701, Těškov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "30072:60"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.7102993,
-                    49.8272112
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Lhota pod Radčem,č. 59 <br><b>Adresa:</b> č.p. 59, 33701, Lhota pod Radčem ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "30072:61"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.6989018,
+          49.8024147
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Těškov,č. 168 <br><b>Adresa:</b> č.p. 168, 33701, Těškov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30072:60"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.7102993,
+          49.8272112
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lhota pod Radčem,č. 59 <br><b>Adresa:</b> č.p. 59, 33701, Lhota pod Radčem ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30072:61"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.6336331,
+          49.8204557
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Sklenná Huť,aut. zast. <br><b>Adresa:</b> Rokycany; Přívětice; Sklená Huť <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30072:96"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

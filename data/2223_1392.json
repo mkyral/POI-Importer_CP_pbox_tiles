@@ -1,124 +1,124 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4057819,
-                    49.7860632
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Nová Ves u Leštiny 33 - náves - BUS <br><b>Adresa:</b> č.p. 33, 58282, Nová Ves u Leštiny ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:211"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.440669,
-                    49.8311213
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Podmoky 70 - OÚ, \"S\" <br><b>Adresa:</b> č.p. 70, 58282, Podmoky ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:191"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4677363,
-                    49.8366402
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> G. Jeníkov, Nádražní 614 - nádraží ČD <br><b>Adresa:</b> Nádraží 614, 58282, Golčův Jeníkov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:189"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4475544,
-                    49.8052647
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Římovice 13 - náves - BUS, \"S\" <br><b>Adresa:</b> Římovice 13, 58282, Golčův Jeníkov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:195"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4546628,
-                    49.7838259
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kobylí Hlava 9 <br><b>Adresa:</b> Kobylí Hlava 9, 58282, Golčův Jeníkov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:196"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4139206,
-                    49.8130651
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kozohlody 11, lidová knihovna /kříž/ <br><b>Adresa:</b> Kozohlody 11, 28601, Vlkaneč ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:15",
-                "ref": "28600:50"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4017671,
-                    49.8038017
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta /kříž/ Vlkaneč <br><b>Adresa:</b> č.p. 44, 28564, Vlkaneč ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "28600:97"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.4139206,
+          49.8130651
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kozohlody 11, lidová knihovna /kříž/ <br><b>Adresa:</b> Kozohlody 11, 28601, Vlkaneč ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28600:50"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4017671,
+          49.8038017
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta /kříž/ Vlkaneč <br><b>Adresa:</b> č.p. 44, 28564, Vlkaneč ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28600:97"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4677363,
+          49.8366402
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> G. Jeníkov, Nádražní 614 - nádraží ČD <br><b>Adresa:</b> Nádraží 614, 58282, Golčův Jeníkov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:189"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.440669,
+          49.8311213
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Podmoky 70 - OÚ, \"S\" <br><b>Adresa:</b> č.p. 70, 58282, Podmoky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:191"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4475544,
+          49.8052647
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Římovice 13 - náves - BUS, \"S\" <br><b>Adresa:</b> Římovice 13, 58282, Golčův Jeníkov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:195"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4546628,
+          49.7838259
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kobylí Hlava 9 <br><b>Adresa:</b> Kobylí Hlava 9, 58282, Golčův Jeníkov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:196"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4057819,
+          49.7860632
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nová Ves u Leštiny 33 - náves - BUS <br><b>Adresa:</b> č.p. 33, 58282, Nová Ves u Leštiny ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:211"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

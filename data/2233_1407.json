@@ -1,124 +1,124 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3216754,
-                    48.9779939
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Miroslavské Knínice <br><b>Adresa:</b> č.p. 4, 67172, Miroslavské Knínice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "66907:191"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3231091,
-                    48.9408052
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Miroslav-Nádražní 31 <br><b>Adresa:</b> Nádražní 481/31, 67172, Miroslav ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "66907:194"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3156464,
-                    48.9519727
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Družstevní, Miroslav <br><b>Adresa:</b> Větrná 1024/124, 67172, Miroslav ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "66907:190"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3116887,
-                    48.9492003
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kostelní č.p.187/6, Miroslav <br><b>Adresa:</b> Kostelní 187/6, 67172, Miroslav ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "66907:189"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.2619408,
-                    48.9614333
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Míšovice obchod <br><b>Adresa:</b> Míšovice 389, 67171, Hostěradice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "66907:196"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3124767,
-                    48.9460037
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Miroslav <br><b>Adresa:</b> nám. Svobody 22/22, 67172, Miroslav ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "66907:284"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.2598476,
-                    48.9520793
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Hostěradice <br><b>Adresa:</b> č.p. 48, 67171, Hostěradice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "66907:283"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.3116887,
+          48.9492003
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kostelní č.p.187/6, Miroslav <br><b>Adresa:</b> Kostelní 187/6, 67172, Miroslav ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:189"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3156464,
+          48.9519727
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Družstevní, Miroslav <br><b>Adresa:</b> Větrná 1024/124, 67172, Miroslav ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:190"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3225917,
+          48.9778376
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Miroslavské Knínice <br><b>Adresa:</b> č.p. 4, 67172, Miroslavské Knínice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 69.12 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:191"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3231091,
+          48.9408052
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Miroslav-Nádražní 31 <br><b>Adresa:</b> Nádražní 481/31, 67172, Miroslav ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:194"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2619408,
+          48.9614333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Míšovice obchod <br><b>Adresa:</b> Míšovice 389, 67171, Hostěradice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:196"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2598476,
+          48.9520793
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Hostěradice <br><b>Adresa:</b> č.p. 48, 67171, Hostěradice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:283"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3124767,
+          48.9460037
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Miroslav <br><b>Adresa:</b> nám. Svobody 22/22, 67172, Miroslav ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:284"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

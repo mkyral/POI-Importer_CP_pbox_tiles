@@ -1,90 +1,90 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.035619,
-                    49.4377948
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u Pavlů, Velká Lhota <br><b>Adresa:</b> Vsetín; Velká Lhota; Velká Lhota <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "75707:138"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.0371267,
-                    49.4353374
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> obchod,Velká Lhota <br><b>Adresa:</b> č.p. 15, 75701, Velká Lhota ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "75707:62"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.0182958,
-                    49.3859051
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Dušná - U Buka, Vsetín <br><b>Adresa:</b> Vsetín; Vsetín; Vsetín <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "75707:16"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.0204862,
-                    49.4208841
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Bystřička, U Hráze <br><b>Adresa:</b> č.p. 35, 75624, Bystřička ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "75707:88"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.0513282,
-                    49.4007065
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> restaurace u Kočíbů, Malá Bystřice <br><b>Adresa:</b> č.p. 120, 75627, Malá Bystřice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "75707:139"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          18.035619,
+          49.4377948
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u Pavlů, Velká Lhota <br><b>Adresa:</b> Vsetín; Velká Lhota; Velká Lhota <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "75707:138"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.0513282,
+          49.4007065
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> restaurace u Kočíbů, Malá Bystřice <br><b>Adresa:</b> č.p. 120, 75627, Malá Bystřice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "75707:139"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.0182958,
+          49.3859051
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dušná - U Buka, Vsetín <br><b>Adresa:</b> Vsetín; Vsetín; Vsetín <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "75707:16"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.0371267,
+          49.4353374
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> obchod,Velká Lhota <br><b>Adresa:</b> č.p. 15, 75701, Velká Lhota ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "75707:62"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.0204862,
+          49.4208841
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bystřička, U Hráze <br><b>Adresa:</b> č.p. 35, 75624, Bystřička ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "75707:88"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

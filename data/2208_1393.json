@@ -1,107 +1,107 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.1090238,
-                    49.7567911
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta, Rosovice <br><b>Adresa:</b> č.p. 60, 26211, Rosovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 23.07 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "26107:377"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.0928775,
-                    49.7362718
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kotenčice - u obchodu č.p. E34 <br><b>Adresa:</b> č.p. 69, 26223, Kotenčice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.61 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "26107:335"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.0660148,
-                    49.7542959
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Buková pož.zbrojnice č.p.52 <br><b>Adresa:</b> č.p. 52, 26223, Buková u Příbramě ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "26107:122"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.096662,
-                    49.7572511
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Holšiny č.p. 182 <br><b>Adresa:</b> č.p. 182, 26301, Rosovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 13.99 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "26107:36"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.0669664,
-                    49.7546237
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Buková - u obchodu č.p.137 <br><b>Adresa:</b> č.p. 21, 26223, Buková u Příbramě <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 7.75 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "26107:336"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.082911,
-                    49.7245656
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Suchodol - prodejna č.p.51 <br><b>Adresa:</b> č.p. 51, 26101, Suchodol <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.64 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "26107:139"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.0660148,
+          49.7542959
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Buková pož.zbrojnice č.p.52 <br><b>Adresa:</b> č.p. 52, 26223, Buková u Příbramě ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:122"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.082911,
+          49.7245656
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Suchodol - prodejna č.p.51 <br><b>Adresa:</b> č.p. 51, 26101, Suchodol <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.64 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:139"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.0928775,
+          49.7362718
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kotenčice - u obchodu č.p. E34 <br><b>Adresa:</b> č.p. 69, 26223, Kotenčice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.61 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:335"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.0669664,
+          49.7546237
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Buková - u obchodu č.p.137 <br><b>Adresa:</b> č.p. 21, 26223, Buková u Příbramě <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 7.75 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:336"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.096662,
+          49.7572511
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Holšiny č.p. 182 <br><b>Adresa:</b> č.p. 182, 26301, Rosovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 13.99 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:36"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.1090238,
+          49.7567911
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta, Rosovice <br><b>Adresa:</b> č.p. 60, 26211, Rosovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 23.07 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:377"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

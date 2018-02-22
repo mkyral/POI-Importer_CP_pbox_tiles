@@ -1,175 +1,175 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.4473995,
-                    50.5003606
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Jirkov 1 <br><b>Adresa:</b> nám. Dr. E. Beneše 3, 43111, Jirkov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 16:00",
-                "ref": "43007:227"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.5032645,
-                    50.472598
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> restaurace <br><b>Adresa:</b> Okořín 46, 43114, Strupčice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "43007:170"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.4967739,
-                    50.488511
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Výdejní místo <br><b>Adresa:</b> č.p. 46, 43115, Vrskmaň ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "43007:7"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.5290255,
-                    50.4708381
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Strupčice <br><b>Adresa:</b> č.p. 300, 43114, Strupčice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "43007:238"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.4489662,
-                    50.5040632
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> ul. Budovatelů - škola Jirkov na stojanu <br><b>Adresa:</b> Budovatelů 1563, 43111, Jirkov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 16:00",
-                "ref": "43007:125"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.4505705,
-                    50.480344
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Stará 230, 43111, Otvice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "43007:165"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.4836302,
-                    50.4629393
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 48, 43111, Pesvice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "43007:166"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.4478877,
-                    50.5030828
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Domov důchodců, Jirkov <br><b>Adresa:</b> U Dubu 1562, 43111, Jirkov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 16:00",
-                "ref": "43007:124"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.450781,
-                    50.4991355
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> stojan <br><b>Adresa:</b> Mostecká 1501, 43111, Jirkov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 16:00",
-                "ref": "43007:123"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.4497299,
-                    50.5120887
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Červený Hrádek 24, 43111, Jirkov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "43007:163"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.450781,
+          50.4991355
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> stojan <br><b>Adresa:</b> Mostecká 1501, 43111, Jirkov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 16:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43007:123"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.4478877,
+          50.5030828
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Domov důchodců, Jirkov <br><b>Adresa:</b> U Dubu 1562, 43111, Jirkov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 16:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43007:124"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.4489662,
+          50.5040632
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> ul. Budovatelů - škola Jirkov na stojanu <br><b>Adresa:</b> Budovatelů 1563, 43111, Jirkov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 16:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43007:125"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.4497299,
+          50.5120887
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Červený Hrádek 24, 43111, Jirkov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43007:163"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.4505705,
+          50.480344
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Stará 230, 43111, Otvice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43007:165"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.4836302,
+          50.4629393
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 48, 43111, Pesvice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43007:166"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.5032645,
+          50.472598
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> restaurace <br><b>Adresa:</b> Okořín 46, 43114, Strupčice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43007:170"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.4473995,
+          50.5003606
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Jirkov 1 <br><b>Adresa:</b> nám. Dr. E. Beneše 3, 43111, Jirkov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 16:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43007:227"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.5290255,
+          50.4708381
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Strupčice <br><b>Adresa:</b> č.p. 300, 43114, Strupčice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43007:238"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.4967739,
+          50.488511
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Výdejní místo <br><b>Adresa:</b> č.p. 46, 43115, Vrskmaň ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43007:7"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

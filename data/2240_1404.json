@@ -1,158 +1,158 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.912396,
-                    49.1420882
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hodějice - market Červinka <br><b>Adresa:</b> č.p. 5, 68401, Hodějice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:20",
-                "ref": "68207:126"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.9482285,
-                    49.1209643
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Rašovice zastávka <br><b>Adresa:</b> Vyškov; Rašovice; Rašovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "68207:93"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.9194178,
-                    49.1397806
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hodějice obchod <br><b>Adresa:</b> č.p. 320, 68401, Hodějice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "68207:123"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.8831687,
-                    49.1514412
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Smetanova ul.  u chodníku,Slavkov u Brna <br><b>Adresa:</b> Vyškov; Slavkov u Brna; Slavkov u Brna <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:30",
-                "ref": "68207:120"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.9012273,
-                    49.10971
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta  Nížkovice <br><b>Adresa:</b> č.p. 39, 68401, Nížkovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "68207:168"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.9476721,
-                    49.1215075
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Rašovice  u školy č. 66 <br><b>Adresa:</b> č.p. 66, 68501, Rašovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "68207:94"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.9124993,
-                    49.1199365
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Heršpice obchod č. 75 <br><b>Adresa:</b> č.p. 75, 68401, Heršpice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "68207:127"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.8766188,
-                    49.1441977
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Slavkov u Brna, sídliště nádražní  č.1160 <br><b>Adresa:</b> sídliště Nádražní 1160, 68401, Slavkov u Brna ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "68207:119"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.9374488,
-                    49.1440602
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Křižanovice u Bučovic <br><b>Adresa:</b> č.p. 85, 68501, Křižanovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "68207:169"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.8766188,
+          49.1441977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Slavkov u Brna, sídliště nádražní  č.1160 <br><b>Adresa:</b> sídliště Nádražní 1160, 68401, Slavkov u Brna ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68207:119"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.8831687,
+          49.1514412
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Smetanova ul.  u chodníku,Slavkov u Brna <br><b>Adresa:</b> Vyškov; Slavkov u Brna; Slavkov u Brna <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68207:120"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.9194178,
+          49.1397806
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hodějice obchod <br><b>Adresa:</b> č.p. 320, 68401, Hodějice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68207:123"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.912396,
+          49.1420882
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hodějice - market Červinka <br><b>Adresa:</b> č.p. 5, 68401, Hodějice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:20",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68207:126"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.9124993,
+          49.1199365
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Heršpice obchod č. 75 <br><b>Adresa:</b> č.p. 75, 68401, Heršpice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68207:127"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.9012273,
+          49.10971
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta  Nížkovice <br><b>Adresa:</b> č.p. 39, 68401, Nížkovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68207:168"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.9374488,
+          49.1440602
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Křižanovice u Bučovic <br><b>Adresa:</b> č.p. 85, 68501, Křižanovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68207:169"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.9482285,
+          49.1209643
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Rašovice zastávka <br><b>Adresa:</b> Vyškov; Rašovice; Rašovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68207:93"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.9476721,
+          49.1215075
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Rašovice  u školy č. 66 <br><b>Adresa:</b> č.p. 66, 68501, Rašovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68207:94"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

@@ -1,73 +1,73 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.6971865,
-                    50.4829234
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u zdi na stojanu <br><b>Adresa:</b> Bezdědice 16, 29425, Bělá pod Bezdězem <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 41.59 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "29407:29"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.6889805,
-                    50.4616391
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> zastávka <br><b>Adresa:</b> Doubravice 11, 29426, Katusice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 20.72 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:20",
-                "ref": "29407:140"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.7325175,
-                    50.4704954
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Březovice <br><b>Adresa:</b> č.p. 84, 29424, Březovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.15 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "29407:37"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.7161737,
-                    50.4730211
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> na objektu <br><b>Adresa:</b> Víska 3, 29425, Březovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.41 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "29407:28"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.6889805,
+          50.4616391
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> zastávka <br><b>Adresa:</b> Doubravice 11, 29426, Katusice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 20.72 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:20",
+        "operator": "Česká pošta, s.p.",
+        "ref": "29407:140"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.7161737,
+          50.4730211
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> na objektu <br><b>Adresa:</b> Víska 3, 29425, Březovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.41 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "29407:28"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.6971865,
+          50.4829234
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u zdi na stojanu <br><b>Adresa:</b> Bezdědice 16, 29425, Bělá pod Bezdězem <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 41.59 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "29407:29"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.7325175,
+          50.4704954
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Březovice <br><b>Adresa:</b> č.p. 84, 29424, Březovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.15 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "29407:37"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

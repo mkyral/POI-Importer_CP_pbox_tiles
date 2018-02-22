@@ -1,39 +1,39 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.2957312,
-                    50.5722028
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Načetín 2, 43132, Kalek ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "43007:181"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.3178616,
-                    50.5786586
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 37, 43132, Kalek ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "43007:180"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.3178616,
+          50.5786586
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 37, 43132, Kalek ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43007:180"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.2957312,
+          50.5722028
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Načetín 2, 43132, Kalek ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43007:181"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

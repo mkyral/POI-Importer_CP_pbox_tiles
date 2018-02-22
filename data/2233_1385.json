@@ -1,141 +1,141 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.2772333,
-                    50.2176238
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hostinec U Zlatého soudku, Kvasiny <br><b>Adresa:</b> č.p. 109, 51702, Kvasiny ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "51707:73"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.2932726,
-                    50.2002751
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Lukavice <br><b>Adresa:</b> č.p. 190, 51603, Lukavice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "51707:106"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.2920912,
-                    50.229129
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Skuhrov nad Bělou <br><b>Adresa:</b> č.p. 84, 51703, Skuhrov nad Bělou ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "51707:109"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3371704,
-                    50.2097884
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Prorubky u č.p. 4, na budově dílen statku <br><b>Adresa:</b> Prorubky 5, 51601, Liberk ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "51707:47"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.2920912,
-                    50.229129
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Obecní úřad, Skuhrov nad Bělou <br><b>Adresa:</b> č.p. 84, 51703, Skuhrov nad Bělou ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "51707:65"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.2629657,
-                    50.2134475
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Kvasiny <br><b>Adresa:</b> č.p. 81, 51702, Kvasiny ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "51707:108"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3425026,
-                    50.199282
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> prodejna, Liberk <br><b>Adresa:</b> č.p. 67, 51712, Liberk ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "51707:54"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3450982,
-                    50.1988924
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Liberk <br><b>Adresa:</b> č.p. 92, 51712, Liberk ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "51707:112"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.2932726,
+          50.2002751
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Lukavice <br><b>Adresa:</b> č.p. 190, 51603, Lukavice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51707:106"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2629657,
+          50.2134475
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Kvasiny <br><b>Adresa:</b> č.p. 81, 51702, Kvasiny ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51707:108"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2920912,
+          50.229129
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Skuhrov nad Bělou <br><b>Adresa:</b> č.p. 84, 51703, Skuhrov nad Bělou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51707:109"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3450982,
+          50.1988924
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Liberk <br><b>Adresa:</b> č.p. 92, 51712, Liberk ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51707:112"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3371704,
+          50.2097884
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Prorubky u č.p. 4, na budově dílen statku <br><b>Adresa:</b> Prorubky 5, 51601, Liberk ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51707:47"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3425026,
+          50.199282
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> prodejna, Liberk <br><b>Adresa:</b> č.p. 67, 51712, Liberk ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51707:54"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2920912,
+          50.229129
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Obecní úřad, Skuhrov nad Bělou <br><b>Adresa:</b> č.p. 84, 51703, Skuhrov nad Bělou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51707:65"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2772333,
+          50.2176238
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hostinec U Zlatého soudku, Kvasiny <br><b>Adresa:</b> č.p. 109, 51702, Kvasiny ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51707:73"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

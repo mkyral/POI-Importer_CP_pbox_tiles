@@ -1,56 +1,56 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3932662,
-                    50.8521153
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Obecní úřad <br><b>Adresa:</b> č.p. 24, 40716, Jetřichovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 14:00",
-                "ref": "40507:170"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3503026,
-                    50.855525
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hotel Lípa, <br><b>Adresa:</b> Vysoká Lípa 43, 40502, Jetřichovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:20",
-                "ref": "40507:99"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3542941,
-                    50.8618552
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Vysoká Lípa 46, 40502, Jetřichovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "40507:100"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.3542941,
+          50.8618552
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Vysoká Lípa 46, 40502, Jetřichovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "40507:100"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3932662,
+          50.8521153
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Obecní úřad <br><b>Adresa:</b> č.p. 24, 40716, Jetřichovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 14:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "40507:170"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3503026,
+          50.855525
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hotel Lípa, <br><b>Adresa:</b> Vysoká Lípa 43, 40502, Jetřichovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:20",
+        "operator": "Česká pošta, s.p.",
+        "ref": "40507:99"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

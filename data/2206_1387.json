@@ -1,39 +1,39 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.8952903,
-                    50.0708383
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Požáry č.p.171 <br><b>Adresa:</b> č.p. 171, 27023, Městečko ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:20",
-                "ref": "26907:91"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.9448693,
-                    50.1200578
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Lány, Lesní ul., u čp. 125 (u brány) <br><b>Adresa:</b> Lesní 125, 27061, Lány ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "26907:210"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.9448693,
+          50.1200578
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lány, Lesní ul., u čp. 125 (u brány) <br><b>Adresa:</b> Lesní 125, 27061, Lány ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26907:210"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.8952903,
+          50.0708383
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Požáry č.p.171 <br><b>Adresa:</b> č.p. 171, 27023, Městečko ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:20",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26907:91"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

@@ -1,56 +1,56 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.2760819,
-                    50.9490677
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Dětřichovec 60 <br><b>Adresa:</b> Dětřichovec 60, 46365, Jindřichovice pod Smrkem ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "46307:316"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.2284313,
-                    50.9287437
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Nové Město p. S. - textilana vrátnice <br><b>Adresa:</b> Frýdlantská 422, 46365, Nové Město pod Smrkem ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "46307:320"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.2300531,
-                    50.925968
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Nové Město pod Smrkem <br><b>Adresa:</b> Mírové náměstí 274, 46365, Nové Město pod Smrkem ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "46307:269"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.2300531,
+          50.925968
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Nové Město pod Smrkem <br><b>Adresa:</b> Mírové náměstí 274, 46365, Nové Město pod Smrkem ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "46307:269"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2760819,
+          50.9490677
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dětřichovec 60 <br><b>Adresa:</b> Dětřichovec 60, 46365, Jindřichovice pod Smrkem ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "46307:316"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2284313,
+          50.9287437
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nové Město p. S. - textilana vrátnice <br><b>Adresa:</b> Frýdlantská 422, 46365, Nové Město pod Smrkem ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "46307:320"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

@@ -1,90 +1,90 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.0169362,
-                    49.0787723
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> obchod u Machačů, Brumov-Bylnice <br><b>Adresa:</b> Široká 87, Bylnice, 76331, Brumov-Bylnice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "75707:185"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.9664348,
-                    49.0821778
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> smíšené zboží, Popov <br><b>Adresa:</b> Popov 109, 76333, Štítná nad Vláří-Popov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "75707:173"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.9550207,
-                    49.0688189
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> obchod, Jestřabí <br><b>Adresa:</b> č.p. 128, 76333, Jestřabí ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "75707:172"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.0130188,
-                    49.0717659
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> obchod Šerý, Loučky, Brumov-Bylnice <br><b>Adresa:</b> Vlárská 264, Bylnice, 76331, Brumov-Bylnice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "75707:182"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.9772281,
-                    49.0690419
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Štítná nad Vláří <br><b>Adresa:</b> Štítná nad Vláří 72, 76333, Štítná nad Vláří-Popov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "75707:270"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          17.9550207,
+          49.0688189
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> obchod, Jestřabí <br><b>Adresa:</b> č.p. 128, 76333, Jestřabí ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "75707:172"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.9664348,
+          49.0821778
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> smíšené zboží, Popov <br><b>Adresa:</b> Popov 109, 76333, Štítná nad Vláří-Popov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "75707:173"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.0130188,
+          49.0717659
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> obchod Šerý, Loučky, Brumov-Bylnice <br><b>Adresa:</b> Vlárská 264, Bylnice, 76331, Brumov-Bylnice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "75707:182"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.0169362,
+          49.0787723
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> obchod u Machačů, Brumov-Bylnice <br><b>Adresa:</b> Široká 87, Bylnice, 76331, Brumov-Bylnice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "75707:185"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.9772281,
+          49.0690419
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Štítná nad Vláří <br><b>Adresa:</b> Štítná nad Vláří 72, 76333, Štítná nad Vláří-Popov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "75707:270"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

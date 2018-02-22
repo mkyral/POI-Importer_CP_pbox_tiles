@@ -1,22 +1,22 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.3868056,
-                    49.3765184
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> hotel \"Pod Javorem\" Leskové, Velké Karlovice <br><b>Adresa:</b> č.p. 943, 75606, Velké Karlovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "75707:224"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          18.3868056,
+          49.3765184
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> hotel \"Pod Javorem\" Leskové, Velké Karlovice <br><b>Adresa:</b> č.p. 943, 75606, Velké Karlovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "75707:224"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

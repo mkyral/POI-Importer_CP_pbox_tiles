@@ -1,124 +1,124 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.7516286,
-                    50.691414
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Prodejna čp.121, Noviny pod Ralskem <br><b>Adresa:</b> č.p. 121, 47124, Noviny pod Ralskem ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:10",
-                "ref": "47007:84"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.7100225,
-                    50.7037611
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Č.p. 109, Velký Grunov <br><b>Adresa:</b> Velký Grunov 109, 47129, Brniště ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:50",
-                "ref": "47007:208"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.6788117,
-                    50.6953355
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u čp.15, Kamenice (u obchodu) <br><b>Adresa:</b> Kamenice 15, 47002, Zákupy ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "47007:62"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.7466418,
-                    50.6929675
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u dětského hřiště, čp.119, Noviny pod Ralskem <br><b>Adresa:</b> č.p. 119, 47124, Noviny pod Ralskem ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:05",
-                "ref": "47007:85"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.7545267,
-                    50.7360632
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> na stojanu u č.p. 28, Postřelná <br><b>Adresa:</b> Postřelná 28, 47125, Jablonné v Podještědí ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:30",
-                "ref": "47007:210"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.739925,
-                    50.7139245
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Prodejna, Luhov 2 <br><b>Adresa:</b> Luhov 2, 47129, Brniště ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "47007:207"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.7088334,
-                    50.7221323
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Brniště <br><b>Adresa:</b> č.p. 102, 47129, Brniště ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "47007:271"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.739925,
+          50.7139245
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Prodejna, Luhov 2 <br><b>Adresa:</b> Luhov 2, 47129, Brniště ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "47007:207"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.7100225,
+          50.7037611
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Č.p. 109, Velký Grunov <br><b>Adresa:</b> Velký Grunov 109, 47129, Brniště ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:50",
+        "operator": "Česká pošta, s.p.",
+        "ref": "47007:208"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.7545267,
+          50.7360632
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> na stojanu u č.p. 28, Postřelná <br><b>Adresa:</b> Postřelná 28, 47125, Jablonné v Podještědí ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "47007:210"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.7088334,
+          50.7221323
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Brniště <br><b>Adresa:</b> č.p. 102, 47129, Brniště ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "47007:271"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.6788117,
+          50.6953355
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u čp.15, Kamenice (u obchodu) <br><b>Adresa:</b> Kamenice 15, 47002, Zákupy ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "47007:62"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.7516286,
+          50.691414
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Prodejna čp.121, Noviny pod Ralskem <br><b>Adresa:</b> č.p. 121, 47124, Noviny pod Ralskem ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:10",
+        "operator": "Česká pošta, s.p.",
+        "ref": "47007:84"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.7466418,
+          50.6929675
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u dětského hřiště, čp.119, Noviny pod Ralskem <br><b>Adresa:</b> č.p. 119, 47124, Noviny pod Ralskem ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:05",
+        "operator": "Česká pošta, s.p.",
+        "ref": "47007:85"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

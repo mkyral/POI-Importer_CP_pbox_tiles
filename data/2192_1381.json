@@ -1,39 +1,39 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.7409845,
-                    50.4276309
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Potůčky - pošta <br><b>Adresa:</b> č.p. 54, 36235, Potůčky ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "36207:162"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.7364184,
-                    50.4282053
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Potůčky č.85, infocentrum <br><b>Adresa:</b> č.p. 85, 36235, Potůčky ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "36207:153"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          12.7364184,
+          50.4282053
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Potůčky č.85, infocentrum <br><b>Adresa:</b> č.p. 85, 36235, Potůčky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "36207:153"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.7409845,
+          50.4276309
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Potůčky - pošta <br><b>Adresa:</b> č.p. 54, 36235, Potůčky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "36207:162"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

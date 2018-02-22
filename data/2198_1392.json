@@ -1,90 +1,90 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.2531817,
-                    49.7998625
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Čemíny - OÚ č.p.37 <br><b>Adresa:</b> č.p. 37, 33033, Čeminy ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "30071:182"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.183684,
-                    49.8305847
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Líšťany - pošta <br><b>Adresa:</b> č.p. 2, 33035, Líšťany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.63 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "30071:350"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.1887327,
-                    49.8102737
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Písek - vedle čekárny ČSAD <br><b>Adresa:</b> Plzeň-sever; Líšťany; Písek <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "30071:328"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.2051429,
-                    49.834689
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hunčice č.p. 5 <br><b>Adresa:</b> Hunčice 5, 33035, Líšťany ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "30071:334"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.1967783,
-                    49.7895962
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Újezd nade Mží u č.p. 20 <br><b>Adresa:</b> č.p. 20, 33033, Újezd nade Mží ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "30071:180"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.1967783,
+          49.7895962
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Újezd nade Mží u č.p. 20 <br><b>Adresa:</b> č.p. 20, 33033, Újezd nade Mží ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30071:180"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.2531817,
+          49.7998625
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Čemíny - OÚ č.p.37 <br><b>Adresa:</b> č.p. 37, 33033, Čeminy ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30071:182"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.1887327,
+          49.8102737
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Písek - vedle čekárny ČSAD <br><b>Adresa:</b> Plzeň-sever; Líšťany; Písek <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30071:328"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.2051429,
+          49.834689
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hunčice č.p. 5 <br><b>Adresa:</b> Hunčice 5, 33035, Líšťany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30071:334"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.183684,
+          49.8305847
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Líšťany - pošta <br><b>Adresa:</b> č.p. 2, 33035, Líšťany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.63 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30071:350"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

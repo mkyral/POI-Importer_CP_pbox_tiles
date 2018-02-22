@@ -1,141 +1,141 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.4263402,
-                    50.0384089
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> prodejna, Žampach <br><b>Adresa:</b> č.p. 61, 56401, Žampach ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:318"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.4090614,
-                    50.0328896
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hlavná - Zastávka BUS <br><b>Adresa:</b> Hlavná 14, 56401, Žampach ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:323"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3842151,
-                    50.0116426
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> čp.20 Horní Libchavy, Libchavy <br><b>Adresa:</b> Horní Libchavy 20, 56116, Libchavy ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:89"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3731774,
-                    50.0323658
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> České Libchavy bývalá pošta <br><b>Adresa:</b> č.p. 160, 56114, České Libchavy ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:86"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3701126,
-                    50.0227538
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Dařilka-Mráz, Libchavy <br><b>Adresa:</b> Horní Libchavy 169, 56116, Libchavy ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:91"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3992831,
-                    50.0557406
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pohostinství, Hejnice <br><b>Adresa:</b> č.p. 52, 56401, Hejnice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:319"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3722125,
-                    50.0293008
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> České Libchavy Křižovatka u č.p. 14 <br><b>Adresa:</b> č.p. 14, 56114, České Libchavy ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:84"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.377642,
-                    50.0176465
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> KONZUM Horní Libchavy, Libchavy <br><b>Adresa:</b> Horní Libchavy 68, 56116, Libchavy ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:90"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.4263402,
+          50.0384089
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> prodejna, Žampach <br><b>Adresa:</b> č.p. 61, 56401, Žampach ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:318"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3992831,
+          50.0557406
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pohostinství, Hejnice <br><b>Adresa:</b> č.p. 52, 56401, Hejnice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:319"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.4090614,
+          50.0328896
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hlavná - Zastávka BUS <br><b>Adresa:</b> Hlavná 14, 56401, Žampach ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:323"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3722125,
+          50.0293008
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> České Libchavy Křižovatka u č.p. 14 <br><b>Adresa:</b> č.p. 14, 56114, České Libchavy ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:84"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3731774,
+          50.0323658
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> České Libchavy bývalá pošta <br><b>Adresa:</b> č.p. 160, 56114, České Libchavy ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:86"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3842151,
+          50.0116426
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> čp.20 Horní Libchavy, Libchavy <br><b>Adresa:</b> Horní Libchavy 20, 56116, Libchavy ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:89"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.377642,
+          50.0176465
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> KONZUM Horní Libchavy, Libchavy <br><b>Adresa:</b> Horní Libchavy 68, 56116, Libchavy ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:90"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3701126,
+          50.0227538
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dařilka-Mráz, Libchavy <br><b>Adresa:</b> Horní Libchavy 169, 56116, Libchavy ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:91"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

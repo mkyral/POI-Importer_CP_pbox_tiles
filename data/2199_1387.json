@@ -1,39 +1,39 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.315062,
-                    50.0905445
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kračín,aut. zastávka <br><b>Adresa:</b> Plzeň-sever; Tis u Blatna; Kračín <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "30071:443"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.3469156,
-                    50.0857365
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Tis u Blatna,OÚ <br><b>Adresa:</b> č.p. 1, 33165, Tis u Blatna ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "30071:439"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.3469156,
+          50.0857365
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Tis u Blatna,OÚ <br><b>Adresa:</b> č.p. 1, 33165, Tis u Blatna ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30071:439"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.315062,
+          50.0905445
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kračín,aut. zastávka <br><b>Adresa:</b> Plzeň-sever; Tis u Blatna; Kračín <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30071:443"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

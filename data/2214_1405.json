@@ -1,39 +1,39 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.6650467,
-                    49.0485774
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Dolní Slověnice 21 <br><b>Adresa:</b> Dolní Slověnice 21, 37372, Lišov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 79.14 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "37271:359"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.6701475,
-                    49.0481743
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> CAMP Dvořiště, Slověnice <br><b>Adresa:</b> Horní Slověnice 3, 37372, Lišov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "37271:366"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.6650467,
+          49.0485774
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dolní Slověnice 21 <br><b>Adresa:</b> Dolní Slověnice 21, 37372, Lišov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 79.14 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:359"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.6701475,
+          49.0481743
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> CAMP Dvořiště, Slověnice <br><b>Adresa:</b> Horní Slověnice 3, 37372, Lišov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:366"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

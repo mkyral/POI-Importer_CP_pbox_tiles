@@ -1,124 +1,124 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.2659399,
-                    49.0117747
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Strýčice č. 1 <br><b>Adresa:</b> č.p. 1, 37341, Strýčice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 7.83 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "37271:339"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.2468292,
-                    48.981069
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Lipanovice č.13 <br><b>Adresa:</b> Lipanovice 13, 37384, Záboří <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 25.67 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:45",
-                "ref": "37271:187"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.2718366,
-                    49.0318536
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> U zastávky ČSAD   Němčice <br><b>Adresa:</b> č.p. 1, 38411, Němčice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 63.7 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "37271:832"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.2961342,
-                    49.0244722
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Tupesy č. 25 <br><b>Adresa:</b> Tupesy 25, 37341, Radošovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 27.58 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "37271:337"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.2736963,
-                    49.0205261
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Radošovice č.  36 <br><b>Adresa:</b> č.p. 36, 37341, Radošovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 23.01 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:15",
-                "ref": "37271:338"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3121953,
-                    49.009668
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Dehtáře č. 4 <br><b>Adresa:</b> Dehtáře 4, 37341, Žabovřesky <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 45.99 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "37271:336"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.2696175,
-                    48.9904198
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Záboří č.8 <br><b>Adresa:</b> č.p. 8, 37384, Záboří ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "37271:189"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.2468292,
+          48.981069
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lipanovice č.13 <br><b>Adresa:</b> Lipanovice 13, 37384, Záboří <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 25.67 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:187"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2696175,
+          48.9904198
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Záboří č.8 <br><b>Adresa:</b> č.p. 8, 37384, Záboří ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:189"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3121953,
+          49.009668
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dehtáře č. 4 <br><b>Adresa:</b> Dehtáře 4, 37341, Žabovřesky <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 45.99 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:336"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2961342,
+          49.0244722
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Tupesy č. 25 <br><b>Adresa:</b> Tupesy 25, 37341, Radošovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 27.58 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:337"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2736963,
+          49.0205261
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Radošovice č.  36 <br><b>Adresa:</b> č.p. 36, 37341, Radošovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 23.01 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:338"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2659399,
+          49.0117747
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Strýčice č. 1 <br><b>Adresa:</b> č.p. 1, 37341, Strýčice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 7.83 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:339"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2718366,
+          49.0318536
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> U zastávky ČSAD   Němčice <br><b>Adresa:</b> č.p. 1, 38411, Němčice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 63.7 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:832"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

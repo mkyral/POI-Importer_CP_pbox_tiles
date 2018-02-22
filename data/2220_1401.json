@@ -1,141 +1,141 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.1791403,
-                    49.3091204
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jakubín <br><b>Adresa:</b> č.p. 29, 39463, Častrov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "39307:188"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.1698789,
-                    49.2942383
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Metánov <br><b>Adresa:</b> Metánov 19, 39470, Častrov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:15",
-                "ref": "39307:161"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.1797111,
-                    49.3075502
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> budova pošty <br><b>Adresa:</b> č.p. 141, 39463, Častrov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "39307:368"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.1308703,
-                    49.2950143
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Lhota <br><b>Adresa:</b> Lhota 18, 39470, Lhota-Vlasenice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 07:30",
-                "ref": "39307:149"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.1537289,
-                    49.273129
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Stranná <br><b>Adresa:</b> Stranná 37, 39468, Žirovnice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "39307:193"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.1838432,
-                    49.309129
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Častrov čp.67 <br><b>Adresa:</b> č.p. 67, 39463, Častrov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "39307:171"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.1977245,
-                    49.3050156
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Perky <br><b>Adresa:</b> Perky 7, 39470, Častrov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:45",
-                "ref": "39307:162"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.1391125,
-                    49.3196964
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pelec <br><b>Adresa:</b> Pelec 14, 39470, Častrov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:15",
-                "ref": "39307:160"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.1308703,
+          49.2950143
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lhota <br><b>Adresa:</b> Lhota 18, 39470, Lhota-Vlasenice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 07:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:149"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.1391125,
+          49.3196964
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pelec <br><b>Adresa:</b> Pelec 14, 39470, Častrov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:160"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.1698789,
+          49.2942383
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Metánov <br><b>Adresa:</b> Metánov 19, 39470, Častrov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:161"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.1977245,
+          49.3050156
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Perky <br><b>Adresa:</b> Perky 7, 39470, Častrov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:162"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.1838432,
+          49.309129
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Častrov čp.67 <br><b>Adresa:</b> č.p. 67, 39463, Častrov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:171"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.1791403,
+          49.3091204
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jakubín <br><b>Adresa:</b> č.p. 29, 39463, Častrov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:188"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.1537289,
+          49.273129
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Stranná <br><b>Adresa:</b> Stranná 37, 39468, Žirovnice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:193"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.1797111,
+          49.3075502
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> budova pošty <br><b>Adresa:</b> č.p. 141, 39463, Častrov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:368"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

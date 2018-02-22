@@ -1,39 +1,39 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.5027851,
-                    50.3737978
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Bublava - pošta <br><b>Adresa:</b> č.p. 686, 35801, Bublava ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "35007:228"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.5251756,
-                    50.3586223
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Stříbrná č.7 - pošta <br><b>Adresa:</b> č.p. 7, 35801, Stříbrná ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "35007:229"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          12.5027851,
+          50.3737978
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bublava - pošta <br><b>Adresa:</b> č.p. 686, 35801, Bublava ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "35007:228"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.5251756,
+          50.3586223
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Stříbrná č.7 - pošta <br><b>Adresa:</b> č.p. 7, 35801, Stříbrná ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "35007:229"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

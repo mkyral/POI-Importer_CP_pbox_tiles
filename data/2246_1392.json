@@ -1,107 +1,107 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.4426029,
-                    49.7932764
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> nám.9.května 6,Mor.Beroun (stojan u obchodu) <br><b>Adresa:</b> náměstí 9. května 6, 79305, Moravský Beroun ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 14:20",
-                "ref": "79207:103"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.4376088,
-                    49.7948425
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> na zdi hřbitova,ul.Horní vedle čp.560, Mor. Beroun <br><b>Adresa:</b> Olomouc; Moravský Beroun; Moravský Beroun <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 14:20",
-                "ref": "79207:104"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.4683518,
-                    49.806288
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Čabová, napr.čp.23, Mor.Beroun (stojan u zast.BUS) <br><b>Adresa:</b> Olomouc; Moravský Beroun; Čabová <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 13:10",
-                "ref": "79207:110"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.4395618,
-                    49.7923053
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Masarykova 330, Mor.Beroun (stojan před nemocnicí) <br><b>Adresa:</b> Masarykova 330, 79305, Moravský Beroun ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 14:20",
-                "ref": "79207:102"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.4413811,
-                    49.7932343
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pošta Moravský Beroun <br><b>Adresa:</b> Masarykova 200, 79305, Moravský Beroun ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 14:30",
-                "ref": "79207:123"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.4452925,
-                    49.7980271
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Mlýnský vrch 121,Mor.Beroun (stojan před obchodem) <br><b>Adresa:</b> Mlýnský vrch 121, 79305, Moravský Beroun ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 14:20",
-                "ref": "79207:106"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          17.4395618,
+          49.7923053
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Masarykova 330, Mor.Beroun (stojan před nemocnicí) <br><b>Adresa:</b> Masarykova 330, 79305, Moravský Beroun ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 14:20",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79207:102"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.4426029,
+          49.7932764
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> nám.9.května 6,Mor.Beroun (stojan u obchodu) <br><b>Adresa:</b> náměstí 9. května 6, 79305, Moravský Beroun ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 14:20",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79207:103"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.4376088,
+          49.7948425
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> na zdi hřbitova,ul.Horní vedle čp.560, Mor. Beroun <br><b>Adresa:</b> Olomouc; Moravský Beroun; Moravský Beroun <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 14:20",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79207:104"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.4452925,
+          49.7980271
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Mlýnský vrch 121,Mor.Beroun (stojan před obchodem) <br><b>Adresa:</b> Mlýnský vrch 121, 79305, Moravský Beroun ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 14:20",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79207:106"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.4683518,
+          49.806288
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Čabová, napr.čp.23, Mor.Beroun (stojan u zast.BUS) <br><b>Adresa:</b> Olomouc; Moravský Beroun; Čabová <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 13:10",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79207:110"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.4413811,
+          49.7932343
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Moravský Beroun <br><b>Adresa:</b> Masarykova 200, 79305, Moravský Beroun ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 14:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79207:123"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

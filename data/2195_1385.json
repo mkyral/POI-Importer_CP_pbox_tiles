@@ -1,73 +1,73 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.9286687,
-                    50.1838321
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pila č.99,  hostinec <br><b>Adresa:</b> č.p. 99, 36001, Pila ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "36207:43"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.9892549,
-                    50.1866384
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Žalmanov č.87 <br><b>Adresa:</b> č.p. 87, 36471, Stružná ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "36207:76"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.9625515,
-                    50.2046024
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Andělská Hora č.36 <br><b>Adresa:</b> č.p. 36, 36471, Andělská Hora ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "36207:75"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.0061224,
-                    50.1832653
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Stružná - pošta <br><b>Adresa:</b> č.p. 83, 36471, Stružná ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "36207:205"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.0061224,
+          50.1832653
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Stružná - pošta <br><b>Adresa:</b> č.p. 83, 36471, Stružná ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "36207:205"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.9286687,
+          50.1838321
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pila č.99,  hostinec <br><b>Adresa:</b> č.p. 99, 36001, Pila ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "36207:43"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.9625515,
+          50.2046024
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Andělská Hora č.36 <br><b>Adresa:</b> č.p. 36, 36471, Andělská Hora ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "36207:75"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.9892549,
+          50.1866384
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Žalmanov č.87 <br><b>Adresa:</b> č.p. 87, 36471, Stružná ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "36207:76"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

@@ -1,158 +1,158 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.8371186,
-                    49.8640247
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> čp. 119, Drozdov <br><b>Adresa:</b> č.p. 119, 26761, Drozdov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "17704:956"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.8841434,
-                    49.8488153
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u prodejny, č.p.32 Tlustice <br><b>Adresa:</b> č.p. 32, 26801, Tlustice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "17704:908"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.8830713,
-                    49.8870576
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> čp. 1, Točník <br><b>Adresa:</b> č.p. 1, 26751, Točník ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "17704:888"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.8048894,
-                    49.8852155
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Líšná,prodejna <br><b>Adresa:</b> Rokycany; Líšná; Líšná <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:50",
-                "ref": "30072:342"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.8354654,
-                    49.8506531
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> čp. 72, pošta Cerhovice <br><b>Adresa:</b> nám.Kapitána Kučery 72, 26761, Cerhovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "17704:37"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.8613019,
-                    49.8457444
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Zaluží u školky č.p. 42 <br><b>Adresa:</b> č.p. 42, 26761, Záluží ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "17704:919"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.8596224,
-                    49.8412708
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Zaluží č.p. 75 <br><b>Adresa:</b> č.p. 75, 26761, Záluží ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "17704:920"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.8386619,
-                    49.8643841
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> čp. 85, Drozdov <br><b>Adresa:</b> č.p. 85, 26761, Drozdov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "17704:955"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.8275652,
-                    49.8560821
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> čp. 14, Třenice <br><b>Adresa:</b> Kymličkova 14, Třenice, 26761, Cerhovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "17704:954"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.8354654,
+          49.8506531
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> čp. 72, pošta Cerhovice <br><b>Adresa:</b> nám.Kapitána Kučery 72, 26761, Cerhovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "17704:37"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.8830713,
+          49.8870576
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> čp. 1, Točník <br><b>Adresa:</b> č.p. 1, 26751, Točník ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "17704:888"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.8841434,
+          49.8488153
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u prodejny, č.p.32 Tlustice <br><b>Adresa:</b> č.p. 32, 26801, Tlustice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "17704:908"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.8613019,
+          49.8457444
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Zaluží u školky č.p. 42 <br><b>Adresa:</b> č.p. 42, 26761, Záluží ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "17704:919"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.8596224,
+          49.8412708
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Zaluží č.p. 75 <br><b>Adresa:</b> č.p. 75, 26761, Záluží ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "17704:920"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.8275652,
+          49.8560821
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> čp. 14, Třenice <br><b>Adresa:</b> Kymličkova 14, Třenice, 26761, Cerhovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "17704:954"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.8386619,
+          49.8643841
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> čp. 85, Drozdov <br><b>Adresa:</b> č.p. 85, 26761, Drozdov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "17704:955"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.8371186,
+          49.8640247
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> čp. 119, Drozdov <br><b>Adresa:</b> č.p. 119, 26761, Drozdov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "17704:956"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.8048894,
+          49.8852155
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Líšná,prodejna <br><b>Adresa:</b> Rokycany; Líšná; Líšná <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:50",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30072:342"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

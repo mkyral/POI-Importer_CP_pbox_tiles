@@ -1,124 +1,124 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4436503,
-                    49.47914
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kalhov, obchod <br><b>Adresa:</b> č.p. 12, 58842, Kalhov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:45",
-                "ref": "58607:57"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4337923,
-                    49.4663616
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Ústí, Jednota <br><b>Adresa:</b> Branišov 8, 58842, Ústí ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:45",
-                "ref": "58607:56"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4228061,
-                    49.444228
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Zbilidy, křižovatka <br><b>Adresa:</b> č.p. 32, 58805, Zbilidy ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "58607:53"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4507224,
-                    49.4856617
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Velešov, zastávka ICOM <br><b>Adresa:</b> Velešov 7, 58842, Větrný Jeníkov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "58607:58"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4327495,
-                    49.4669514
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Branišov č.p. 23 <br><b>Adresa:</b> Branišov 23, 58842, Ústí ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:15",
-                "ref": "58607:55"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.3996107,
-                    49.4496045
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Dudín, obchod <br><b>Adresa:</b> č.p. 11, 58805, Dudín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:15",
-                "ref": "58607:52"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4497305,
-                    49.4580009
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Šimanov, Jednota <br><b>Adresa:</b> č.p. 109, 58842, Šimanov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58607:54"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.3996107,
+          49.4496045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dudín, obchod <br><b>Adresa:</b> č.p. 11, 58805, Dudín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:52"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4228061,
+          49.444228
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Zbilidy, křižovatka <br><b>Adresa:</b> č.p. 32, 58805, Zbilidy ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:53"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4497305,
+          49.4580009
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Šimanov, Jednota <br><b>Adresa:</b> č.p. 109, 58842, Šimanov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:54"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4327495,
+          49.4669514
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Branišov č.p. 23 <br><b>Adresa:</b> Branišov 23, 58842, Ústí ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:55"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4337923,
+          49.4663616
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Ústí, Jednota <br><b>Adresa:</b> Branišov 8, 58842, Ústí ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:56"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4436503,
+          49.47914
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kalhov, obchod <br><b>Adresa:</b> č.p. 12, 58842, Kalhov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:57"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4507224,
+          49.4856617
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Velešov, zastávka ICOM <br><b>Adresa:</b> Velešov 7, 58842, Větrný Jeníkov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:58"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

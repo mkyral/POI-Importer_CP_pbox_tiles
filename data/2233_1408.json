@@ -1,107 +1,107 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3441263,
-                    48.8676945
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Břežany - U Papoušků <br><b>Adresa:</b> č.p. 48, 67165, Břežany ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "66907:223"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3092834,
-                    48.882998
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Mackovice - zastávka <br><b>Adresa:</b> č.p. 49, 67178, Mackovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:10",
-                "ref": "66907:221"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3298112,
-                    48.9190324
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kašenec č.p. 837 <br><b>Adresa:</b> Kašenec 837, 67172, Miroslav ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "66907:192"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3425798,
-                    48.869998
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Břežany u Znojma <br><b>Adresa:</b> č.p. 103, 67165, Břežany ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "66907:278"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.312239,
-                    48.8833103
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Mackovice - obchod <br><b>Adresa:</b> č.p. 60, 67178, Mackovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "66907:220"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.287313,
-                    48.877074
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Čejkovice - obchod <br><b>Adresa:</b> č.p. 90, 67178, Čejkovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "66907:222"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.3298112,
+          48.9190324
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kašenec č.p. 837 <br><b>Adresa:</b> Kašenec 837, 67172, Miroslav ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:192"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.312239,
+          48.8833103
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Mackovice - obchod <br><b>Adresa:</b> č.p. 60, 67178, Mackovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:220"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3092834,
+          48.882998
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Mackovice - zastávka <br><b>Adresa:</b> č.p. 49, 67178, Mackovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:10",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:221"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.287313,
+          48.877074
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Čejkovice - obchod <br><b>Adresa:</b> č.p. 90, 67178, Čejkovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:222"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3441263,
+          48.8676945
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Břežany - U Papoušků <br><b>Adresa:</b> č.p. 48, 67165, Břežany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:223"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3425798,
+          48.869998
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Břežany u Znojma <br><b>Adresa:</b> č.p. 103, 67165, Břežany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:278"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

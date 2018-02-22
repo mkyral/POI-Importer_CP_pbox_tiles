@@ -1,141 +1,141 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.9742327,
-                    49.5026516
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jetřichovec <br><b>Adresa:</b> Jetřichovec 57, 39501, Pacov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:15",
-                "ref": "39307:216"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.9800134,
-                    49.5240705
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Salačova Lhota <br><b>Adresa:</b> č.p. 32, 39501, Salačova Lhota ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:05",
-                "ref": "39307:219"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.9586545,
-                    49.5451547
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Zelená Ves <br><b>Adresa:</b> Zelená Ves 16, 39501, Mezilesí ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:30",
-                "ref": "39307:223"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.9627961,
-                    49.5180712
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Velká Černá <br><b>Adresa:</b> Velká Černá 7, 39501, Salačova Lhota ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:25",
-                "ref": "39307:226"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.9992978,
-                    49.516261
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Bratřice <br><b>Adresa:</b> č.p. 11, 39501, Bratřice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:45",
-                "ref": "39307:217"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.9488671,
-                    49.5408702
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Mezilesí <br><b>Adresa:</b> č.p. 26, 39501, Mezilesí ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:35",
-                "ref": "39307:224"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.0122139,
-                    49.5117434
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Cetule <br><b>Adresa:</b> Cetule 8, 39501, Bratřice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:50",
-                "ref": "39307:218"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.9798385,
-                    49.5514244
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Týmova Ves <br><b>Adresa:</b> Týmova Ves 12, 39501, Lukavec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "39307:222"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.9742327,
+          49.5026516
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jetřichovec <br><b>Adresa:</b> Jetřichovec 57, 39501, Pacov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:216"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.9992978,
+          49.516261
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bratřice <br><b>Adresa:</b> č.p. 11, 39501, Bratřice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:217"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.0122139,
+          49.5117434
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Cetule <br><b>Adresa:</b> Cetule 8, 39501, Bratřice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:50",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:218"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.9800134,
+          49.5240705
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Salačova Lhota <br><b>Adresa:</b> č.p. 32, 39501, Salačova Lhota ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:05",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:219"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.9798385,
+          49.5514244
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Týmova Ves <br><b>Adresa:</b> Týmova Ves 12, 39501, Lukavec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:222"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.9586545,
+          49.5451547
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Zelená Ves <br><b>Adresa:</b> Zelená Ves 16, 39501, Mezilesí ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:223"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.9488671,
+          49.5408702
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Mezilesí <br><b>Adresa:</b> č.p. 26, 39501, Mezilesí ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:35",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:224"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.9627961,
+          49.5180712
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Velká Černá <br><b>Adresa:</b> Velká Černá 7, 39501, Salačova Lhota ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:25",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:226"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

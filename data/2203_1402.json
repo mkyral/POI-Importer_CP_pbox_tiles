@@ -1,158 +1,158 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.6797125,
-                    49.2265574
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Mačice u čp. 15 <br><b>Adresa:</b> Mačice 15, 34201, Soběšice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "33907:358"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.7080291,
-                    49.2251785
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Vojnice, na návsi <br><b>Adresa:</b> Vojnice 12, 38716, Volenice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:05",
-                "ref": "38607:78"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.7072241,
-                    49.2494199
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Frymburk u čp. 2 <br><b>Adresa:</b> č.p. 2, 34201, Frymburk ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "33907:353"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.6613275,
-                    49.2224879
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Bukovník u čp. 22 <br><b>Adresa:</b> Klatovy; Bukovník; Bukovník <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "33907:359"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.6749287,
-                    49.2624067
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Nezamyslice u Horažďovic - pošta <br><b>Adresa:</b> Klatovy; Nezamyslice; Nezamyslice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "33907:372"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.6293784,
-                    49.2675854
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Žichovice u čp. 20 <br><b>Adresa:</b> č.p. 20, 34201, Žichovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "33907:370"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.6617352,
-                    49.25118
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Domoraz u čp. 28 <br><b>Adresa:</b> č.p. 28, 34201, Domoraz ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "33907:352"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.6315043,
-                    49.2146868
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Žihobce - pošta <br><b>Adresa:</b> č.p. 73, 34201, Žihobce ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "33907:291"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.6422489,
-                    49.2385973
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Bílenice u čp. 52 <br><b>Adresa:</b> Bílenice 52, 34201, Žihobce <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 69.98 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "33907:357"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.6315043,
+          49.2146868
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Žihobce - pošta <br><b>Adresa:</b> č.p. 73, 34201, Žihobce ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "33907:291"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.6617352,
+          49.25118
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Domoraz u čp. 28 <br><b>Adresa:</b> č.p. 28, 34201, Domoraz ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "33907:352"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.7072241,
+          49.2494199
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Frymburk u čp. 2 <br><b>Adresa:</b> č.p. 2, 34201, Frymburk ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "33907:353"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.6422489,
+          49.2385973
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bílenice u čp. 52 <br><b>Adresa:</b> Bílenice 52, 34201, Žihobce <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 69.98 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "33907:357"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.6797125,
+          49.2265574
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Mačice u čp. 15 <br><b>Adresa:</b> Mačice 15, 34201, Soběšice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "33907:358"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.6613275,
+          49.2224879
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bukovník u čp. 22 <br><b>Adresa:</b> Klatovy; Bukovník; Bukovník <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "33907:359"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.6293784,
+          49.2675854
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Žichovice u čp. 20 <br><b>Adresa:</b> č.p. 20, 34201, Žichovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "33907:370"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.6749287,
+          49.2624067
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nezamyslice u Horažďovic - pošta <br><b>Adresa:</b> Klatovy; Nezamyslice; Nezamyslice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "33907:372"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.7080291,
+          49.2251785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vojnice, na návsi <br><b>Adresa:</b> Vojnice 12, 38716, Volenice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:05",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38607:78"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

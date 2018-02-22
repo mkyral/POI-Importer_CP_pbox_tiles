@@ -1,175 +1,175 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3572942,
-                    50.7771317
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Obecní úřad, <br><b>Adresa:</b> č.p. 60, 40742, Markvartice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "40507:132"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3341292,
-                    50.7453774
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Obecní úřad <br><b>Adresa:</b> č.p. 187, 40502, Dolní Habartice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "40507:63"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3762193,
-                    50.7814423
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Obecní úřad, <br><b>Adresa:</b> č.p. 153, 40502, Veselé ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "40507:52"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3403347,
-                    50.757402
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 112, 40502, Horní Habartice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "40507:64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3497252,
-                    50.7717606
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u č.p. 352 směrem k nádraží ČD <br><b>Adresa:</b> Děčín; Markvartice; Markvartice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:10",
-                "ref": "40507:133"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3617864,
-                    50.7831236
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> partner Markvartice u Děčína <br><b>Adresa:</b> č.p. 280, 40742, Markvartice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 16:00",
-                "ref": "40507:178"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3728159,
-                    50.7453708
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Malá Bukovina 51, 40729, Velká Bukovina ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:30",
-                "ref": "40507:126"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.4029079,
-                    50.7652246
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> U obchodu, <br><b>Adresa:</b> Kerhartice 77, 40502, Česká Kamenice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:10",
-                "ref": "40507:71"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3924937,
-                    50.7436849
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Karlovka 57, 40729, Velká Bukovina ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:45",
-                "ref": "40507:127"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3354161,
-                    50.7481588
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Obecní úřad <br><b>Adresa:</b> č.p. 178, 40502, Dolní Habartice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "40507:62"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.3728159,
+          50.7453708
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Malá Bukovina 51, 40729, Velká Bukovina ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "40507:126"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3924937,
+          50.7436849
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Karlovka 57, 40729, Velká Bukovina ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "40507:127"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3572942,
+          50.7771317
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Obecní úřad, <br><b>Adresa:</b> č.p. 60, 40742, Markvartice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "40507:132"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3497252,
+          50.7717606
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u č.p. 352 směrem k nádraží ČD <br><b>Adresa:</b> Děčín; Markvartice; Markvartice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:10",
+        "operator": "Česká pošta, s.p.",
+        "ref": "40507:133"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3617864,
+          50.7831236
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> partner Markvartice u Děčína <br><b>Adresa:</b> č.p. 280, 40742, Markvartice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 16:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "40507:178"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3762193,
+          50.7814423
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Obecní úřad, <br><b>Adresa:</b> č.p. 153, 40502, Veselé ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "40507:52"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3354161,
+          50.7481588
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Obecní úřad <br><b>Adresa:</b> č.p. 178, 40502, Dolní Habartice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "40507:62"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3341292,
+          50.7453774
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Obecní úřad <br><b>Adresa:</b> č.p. 187, 40502, Dolní Habartice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "40507:63"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3403347,
+          50.757402
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 112, 40502, Horní Habartice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "40507:64"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.4029079,
+          50.7652246
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> U obchodu, <br><b>Adresa:</b> Kerhartice 77, 40502, Česká Kamenice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:10",
+        "operator": "Česká pošta, s.p.",
+        "ref": "40507:71"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

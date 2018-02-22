@@ -1,90 +1,90 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4861692,
-                    49.2101319
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> před obchodem, Mysliboř <br><b>Adresa:</b> č.p. 1, 58862, Mysliboř ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:05",
-                "ref": "58607:181"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.5058449,
-                    49.1634606
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> zastávka ICOM, Zvolenovice <br><b>Adresa:</b> č.p. 28, 58856, Zvolenovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "58607:208"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.5086977,
-                    49.2063692
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Žatec, náves <br><b>Adresa:</b> č.p. 19, 58862, Žatec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:10",
-                "ref": "58607:179"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4930392,
-                    49.1743059
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> tf. budka, Dyjice <br><b>Adresa:</b> č.p. 3, 58856, Dyjice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:05",
-                "ref": "58607:199"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.5309943,
-                    49.1999265
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> náves, Ořechov <br><b>Adresa:</b> č.p. 3, 58862, Ořechov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:50",
-                "ref": "58607:205"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.5086977,
+          49.2063692
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Žatec, náves <br><b>Adresa:</b> č.p. 19, 58862, Žatec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:10",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:179"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4861692,
+          49.2101319
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> před obchodem, Mysliboř <br><b>Adresa:</b> č.p. 1, 58862, Mysliboř ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:05",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:181"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4930392,
+          49.1743059
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> tf. budka, Dyjice <br><b>Adresa:</b> č.p. 3, 58856, Dyjice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:05",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:199"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.5309943,
+          49.1999265
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> náves, Ořechov <br><b>Adresa:</b> č.p. 3, 58862, Ořechov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:50",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:205"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.5058449,
+          49.1634606
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> zastávka ICOM, Zvolenovice <br><b>Adresa:</b> č.p. 28, 58856, Zvolenovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:208"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

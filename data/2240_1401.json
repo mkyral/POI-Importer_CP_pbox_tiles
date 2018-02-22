@@ -1,141 +1,141 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.9486466,
-                    49.3114429
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Lhota 112 - hor. zastávka <br><b>Adresa:</b> Lhota 112, 68201, Vyškov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "68207:38"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.9539089,
-                    49.3025297
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Opatovice 22 <br><b>Adresa:</b> Opatovice 22, 68201, Vyškov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "68207:34"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.9498961,
-                    49.2762375
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta  Drnovice <br><b>Adresa:</b> č.p. 435, 68304, Drnovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "68207:145"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.9505544,
-                    49.2706412
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> před budovou Klempo 630,Drnovice <br><b>Adresa:</b> č.p. 630, 68304, Drnovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "68207:48"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.9325729,
-                    49.3173269
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pařezovice 22 <br><b>Adresa:</b> Pařezovice 22, 68201, Vyškov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "68207:37"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.9422385,
-                    49.2758235
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> před budovou Davo 575,Drnovice <br><b>Adresa:</b> č.p. 575, 68304, Drnovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "68207:49"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.8889657,
-                    49.3000254
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Ježkovice 93  obchod <br><b>Adresa:</b> č.p. 93, 68304, Ježkovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "68207:50"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.8968789,
-                    49.2748974
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pístovice  prodejna  č. 100 <br><b>Adresa:</b> Pístovice 100, 68305, Račice-Pístovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "68207:54"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.9498961,
+          49.2762375
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta  Drnovice <br><b>Adresa:</b> č.p. 435, 68304, Drnovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68207:145"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.9539089,
+          49.3025297
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Opatovice 22 <br><b>Adresa:</b> Opatovice 22, 68201, Vyškov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68207:34"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.9325729,
+          49.3173269
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pařezovice 22 <br><b>Adresa:</b> Pařezovice 22, 68201, Vyškov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68207:37"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.9486466,
+          49.3114429
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lhota 112 - hor. zastávka <br><b>Adresa:</b> Lhota 112, 68201, Vyškov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68207:38"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.9505544,
+          49.2706412
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> před budovou Klempo 630,Drnovice <br><b>Adresa:</b> č.p. 630, 68304, Drnovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68207:48"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.9422385,
+          49.2758235
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> před budovou Davo 575,Drnovice <br><b>Adresa:</b> č.p. 575, 68304, Drnovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68207:49"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.8889657,
+          49.3000254
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Ježkovice 93  obchod <br><b>Adresa:</b> č.p. 93, 68304, Ježkovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68207:50"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.8968789,
+          49.2748974
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pístovice  prodejna  č. 100 <br><b>Adresa:</b> Pístovice 100, 68305, Račice-Pístovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68207:54"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

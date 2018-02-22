@@ -1,73 +1,73 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.5066324,
-                    49.1146145
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Svojše - autobusová zastávka <br><b>Adresa:</b> Klatovy; Rejštejn; Svojše <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 06:30",
-                "ref": "33907:380"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.5151719,
-                    49.1405397
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Rejštejn - autobusová zastávka <br><b>Adresa:</b> Klatovy; Rejštejn; Rejštejn <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "33907:379"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.5163724,
-                    49.1406903
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Rejštejn - pošta <br><b>Adresa:</b> Kašperskohorská 27, 34192, Rejštejn ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "33907:375"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.4931627,
-                    49.1077431
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Rejštejn-Čeňkova Pila rekr.střed.Bystřina <br><b>Adresa:</b> Klatovy; Rejštejn; Rejštejn <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "33907:385"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.5163724,
+          49.1406903
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Rejštejn - pošta <br><b>Adresa:</b> Kašperskohorská 27, 34192, Rejštejn ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "33907:375"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.5151719,
+          49.1405397
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Rejštejn - autobusová zastávka <br><b>Adresa:</b> Klatovy; Rejštejn; Rejštejn <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "33907:379"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.5066324,
+          49.1146145
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Svojše - autobusová zastávka <br><b>Adresa:</b> Klatovy; Rejštejn; Svojše <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 06:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "33907:380"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.4931627,
+          49.1077431
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Rejštejn-Čeňkova Pila rekr.střed.Bystřina <br><b>Adresa:</b> Klatovy; Rejštejn; Rejštejn <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "33907:385"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

@@ -1,141 +1,141 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4339331,
-                    50.3085098
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> zast. ČSAD, Hrobičany <br><b>Adresa:</b> Hrobičany 22, 50703, Sběř ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "50770:131"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.399391,
-                    50.3345213
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Prodejna COOP Volanice <br><b>Adresa:</b> č.p. 141, 50703, Volanice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 53.06 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "50770:136"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4349622,
-                    50.3310692
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta  Vysoké Veselí <br><b>Adresa:</b> Mírové náměstí 6, 50703, Vysoké Veselí <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.54 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "50770:210"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4082901,
-                    50.2916928
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> zast. ČSAD, Kozojídky <br><b>Adresa:</b> Kozojídky 28, 50703, Vinary ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:15",
-                "ref": "50770:132"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.3830147,
-                    50.3026042
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta  Žlunice <br><b>Adresa:</b> č.p. 138, 50734, Žlunice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "50770:224"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.428204,
-                    50.2896701
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Vinary, dřevěná budova naproti škole č.p. 71 <br><b>Adresa:</b> č.p. 71, 50353, Vinary ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "50370:438"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4268195,
-                    50.3188356
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jednota, Sběř <br><b>Adresa:</b> č.p. 37, 50703, Sběř <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.83 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:15",
-                "ref": "50770:130"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4393494,
-                    50.3402629
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> zastávka ČSAD, Veselská Lhota <br><b>Adresa:</b> Veselská Lhota 16, 50703, Vysoké Veselí <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 15.72 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "50770:140"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.428204,
+          50.2896701
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vinary, dřevěná budova naproti škole č.p. 71 <br><b>Adresa:</b> č.p. 71, 50353, Vinary ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "50370:438"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4268195,
+          50.3188356
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jednota, Sběř <br><b>Adresa:</b> č.p. 37, 50703, Sběř <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.83 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "50770:130"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4339331,
+          50.3085098
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> zast. ČSAD, Hrobičany <br><b>Adresa:</b> Hrobičany 22, 50703, Sběř ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "50770:131"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4082901,
+          50.2916928
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> zast. ČSAD, Kozojídky <br><b>Adresa:</b> Kozojídky 28, 50703, Vinary ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "50770:132"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.399391,
+          50.3345213
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Prodejna COOP Volanice <br><b>Adresa:</b> č.p. 141, 50703, Volanice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 53.06 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "50770:136"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4393494,
+          50.3402629
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> zastávka ČSAD, Veselská Lhota <br><b>Adresa:</b> Veselská Lhota 16, 50703, Vysoké Veselí <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 15.72 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "50770:140"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4349622,
+          50.3310692
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta  Vysoké Veselí <br><b>Adresa:</b> Mírové náměstí 6, 50703, Vysoké Veselí <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.54 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "50770:210"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.3830147,
+          50.3026042
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta  Žlunice <br><b>Adresa:</b> č.p. 138, 50734, Žlunice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "50770:224"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

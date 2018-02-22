@@ -1,56 +1,56 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3519644,
-                    50.2518299
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> prodejna, Uhřínov <br><b>Adresa:</b> Rychnov nad Kněž; Liberk; Uhřínov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "51707:50"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.4075992,
-                    50.2456789
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> zastávka ČSAD - hotel, Zdobnice <br><b>Adresa:</b> č.p. 79, 51601, Zdobnice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "51707:43"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.4048668,
-                    50.2332974
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Zdobnice budova Obecního úřadu <br><b>Adresa:</b> č.p. 1, 51601, Zdobnice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "51707:53"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.4075992,
+          50.2456789
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> zastávka ČSAD - hotel, Zdobnice <br><b>Adresa:</b> č.p. 79, 51601, Zdobnice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51707:43"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3519644,
+          50.2518299
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> prodejna, Uhřínov <br><b>Adresa:</b> Rychnov nad Kněž; Liberk; Uhřínov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51707:50"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.4048668,
+          50.2332974
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Zdobnice budova Obecního úřadu <br><b>Adresa:</b> č.p. 1, 51601, Zdobnice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51707:53"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

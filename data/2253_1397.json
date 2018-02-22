@@ -1,90 +1,90 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.0594419,
-                    49.5312634
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Mořkov, Horní 511, prodejna <br><b>Adresa:</b> Horní 511, 74272, Mořkov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "74207:46"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.0260096,
-                    49.5495723
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hodslavice u č.p.275, prodejna (stojan) <br><b>Adresa:</b> Nový Jičín; Hodslavice; Hodslavice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "74207:44"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.0605362,
-                    49.5367191
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pošta Mořkov (stojan) <br><b>Adresa:</b> Mlýnská 61, 74272, Mořkov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 16:00",
-                "ref": "74207:88"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.0236518,
-                    49.5385902
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hodslavice 304, Partner <br><b>Adresa:</b> č.p. 304, 74271, Hodslavice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 59.79 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 16:00",
-                "ref": "74207:87"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.059794,
-                    49.5377227
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Mořkov, Dolní 74, zdravotní středisko <br><b>Adresa:</b> Dolní 74, 74272, Mořkov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "74207:47"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          18.0260096,
+          49.5495723
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hodslavice u č.p.275, prodejna (stojan) <br><b>Adresa:</b> Nový Jičín; Hodslavice; Hodslavice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74207:44"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.0594419,
+          49.5312634
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Mořkov, Horní 511, prodejna <br><b>Adresa:</b> Horní 511, 74272, Mořkov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74207:46"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.059794,
+          49.5377227
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Mořkov, Dolní 74, zdravotní středisko <br><b>Adresa:</b> Dolní 74, 74272, Mořkov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74207:47"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.0236518,
+          49.5385902
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hodslavice 304, Partner <br><b>Adresa:</b> č.p. 304, 74271, Hodslavice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 59.79 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 16:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74207:87"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.0605362,
+          49.5367191
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Mořkov (stojan) <br><b>Adresa:</b> Mlýnská 61, 74272, Mořkov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 16:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74207:88"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

@@ -1,124 +1,141 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.9461038,
-                    49.0922181
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Vydří - u kapličky <br><b>Adresa:</b> č.p. 10, 37802, Vydří ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:20",
-                "ref": "37702:65"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.0098959,
-                    49.0951878
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Malíkov nad Nežárkou <br><b>Adresa:</b> Malíkov nad Nežárkou 29, 37701, Horní Pěna <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 34.62 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "37702:48"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.9419746,
-                    49.0704143
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> č. 10, Dvorce <br><b>Adresa:</b> Dvorce 10, 37802, Stráž nad Nežárkou ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:15",
-                "ref": "37702:67"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.0119757,
-                    49.0734464
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> č. 1, Nová Ves <br><b>Adresa:</b> Nová Ves 43, 37802, Číměř ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:45",
-                "ref": "37702:62"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.9444337,
-                    49.0624516
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> hasičská zbrojnice, Dolní Lhota <br><b>Adresa:</b> Dolní Lhota 9, 37802, Stráž nad Nežárkou ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:20",
-                "ref": "37702:68"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.9698787,
-                    49.0742585
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Lásenice - prodejna <br><b>Adresa:</b> č.p. 138, 37801, Lásenice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:15",
-                "ref": "37702:63"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.9834022,
-                    49.0929218
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> č. 18, Horní Lhota <br><b>Adresa:</b> Horní Lhota 18, 37802, Dolní Žďár ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 07:40",
-                "ref": "37702:61"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.0098959,
+          49.0951878
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Malíkov nad Nežárkou <br><b>Adresa:</b> Malíkov nad Nežárkou 29, 37701, Horní Pěna <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 34.62 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:48"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.9834022,
+          49.0929218
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> č. 18, Horní Lhota <br><b>Adresa:</b> Horní Lhota 18, 37802, Dolní Žďár ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 07:40",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:61"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.0119757,
+          49.0734464
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> č. 1, Nová Ves <br><b>Adresa:</b> Nová Ves 43, 37802, Číměř ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:62"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.9698787,
+          49.0742585
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lásenice - prodejna <br><b>Adresa:</b> č.p. 138, 37801, Lásenice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:63"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.9665321,
+          49.0732979
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> budova pošty, Lásenice <br><b>Adresa:</b> č.p. 11, 37801, Lásenice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 23.98 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:64"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.9461038,
+          49.0922181
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vydří - u kapličky <br><b>Adresa:</b> č.p. 10, 37802, Vydří ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:20",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:65"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.9419746,
+          49.0704143
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> č. 10, Dvorce <br><b>Adresa:</b> Dvorce 10, 37802, Stráž nad Nežárkou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:67"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.9444337,
+          49.0624516
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> hasičská zbrojnice, Dolní Lhota <br><b>Adresa:</b> Dolní Lhota 9, 37802, Stráž nad Nežárkou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:20",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:68"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

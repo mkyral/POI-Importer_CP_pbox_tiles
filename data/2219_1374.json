@@ -1,73 +1,73 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.0687559,
-                    50.8409082
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Partner Oldřichov v Hájích <br><b>Adresa:</b> č.p. 5, 46331, Oldřichov v Hájích ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "46307:456"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.0523503,
-                    50.8323383
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Mníšek u Liberce <br><b>Adresa:</b> Poštovní 275, 46331, Mníšek ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "46307:327"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.0602782,
-                    50.801863
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> na stojanu u  Výletní 162, LB - Radčice <br><b>Adresa:</b> Liberec; Liberec; Liberec XXXII-Radčice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u></p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "46307:76"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.0772415,
-                    50.7986466
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> stojan u MHD naproti Kateřinská 98, LB-Kateřinky <br><b>Adresa:</b> Liberec; Liberec; Liberec XVII-Kateřinky <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u></p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "46307:77"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.0524285,
+          50.8322392
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Mníšek u Liberce <br><b>Adresa:</b> Poštovní 275, 46331, Mníšek <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 12.32 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "46307:327"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.0687559,
+          50.8409082
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Partner Oldřichov v Hájích <br><b>Adresa:</b> č.p. 5, 46331, Oldřichov v Hájích ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "46307:456"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.0602782,
+          50.801863
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> na stojanu u  Výletní 162, LB - Radčice <br><b>Adresa:</b> Liberec; Liberec; Liberec XXXII-Radčice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "46307:76"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.0772415,
+          50.7986466
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> stojan u MHD naproti Kateřinská 98, LB-Kateřinky <br><b>Adresa:</b> Liberec; Liberec; Liberec XVII-Kateřinky <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "46307:77"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

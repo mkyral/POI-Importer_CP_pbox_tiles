@@ -1,158 +1,158 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.639396,
-                    49.8321592
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> nákupní středisko č.p.197, Rychnov na Moravě <br><b>Adresa:</b> č.p. 197, 56934, Rychnov na Moravě ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:535"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.6369936,
-                    49.8277439
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Rychnov na Moravě <br><b>Adresa:</b> č.p. 168, 56934, Rychnov na Moravě ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:545"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.6976052,
-                    49.7885284
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> zastávka ČSAD, Staré Město u M.Třeb.. <br><b>Adresa:</b> č.p. 68, 56932, Staré Město ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:534"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.6246473,
-                    49.827846
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u č. 188, Rychnov na Moravě <br><b>Adresa:</b> č.p. 188, 56934, Rychnov na Moravě ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:536"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.6402952,
-                    49.7898332
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> zastávka ČSAD, Kunčina <br><b>Adresa:</b> č.p. 26, 56924, Kunčina ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:538"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.6625079,
-                    49.804731
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Radišov prodejna č.63 <br><b>Adresa:</b> Radišov 63, 57101, Staré Město ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:518"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.6747932,
-                    49.7938173
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jednota č.p. 121, Staré Město u M.Třeb. <br><b>Adresa:</b> č.p. 121, 56932, Staré Město ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:533"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.6727089,
-                    49.7924326
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Staré Město u Mor.Třebové <br><b>Adresa:</b> č.p. 153, 56932, Staré Město ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:544"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.6331116,
-                    49.7942086
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Kunčina <br><b>Adresa:</b> č.p. 244, 56924, Kunčina ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:543"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.6625079,
+          49.804731
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Radišov prodejna č.63 <br><b>Adresa:</b> Radišov 63, 57101, Staré Město ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:518"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.6747932,
+          49.7938173
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jednota č.p. 121, Staré Město u M.Třeb. <br><b>Adresa:</b> č.p. 121, 56932, Staré Město ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:533"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.6976052,
+          49.7885284
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> zastávka ČSAD, Staré Město u M.Třeb.. <br><b>Adresa:</b> č.p. 68, 56932, Staré Město ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:534"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.639396,
+          49.8321592
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> nákupní středisko č.p.197, Rychnov na Moravě <br><b>Adresa:</b> č.p. 197, 56934, Rychnov na Moravě ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:535"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.6246473,
+          49.827846
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u č. 188, Rychnov na Moravě <br><b>Adresa:</b> č.p. 188, 56934, Rychnov na Moravě ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:536"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.6402952,
+          49.7898332
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> zastávka ČSAD, Kunčina <br><b>Adresa:</b> č.p. 26, 56924, Kunčina ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:538"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.6331116,
+          49.7942086
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Kunčina <br><b>Adresa:</b> č.p. 244, 56924, Kunčina ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:543"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.6727089,
+          49.7924326
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Staré Město u Mor.Třebové <br><b>Adresa:</b> č.p. 153, 56932, Staré Město ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:544"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.6369936,
+          49.8277439
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Rychnov na Moravě <br><b>Adresa:</b> č.p. 168, 56934, Rychnov na Moravě ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:545"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

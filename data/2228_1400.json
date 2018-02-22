@@ -1,107 +1,107 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9012505,
-                    49.3531015
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> zastávka autobusu, Pohořílky <br><b>Adresa:</b> Pohořílky 19, 59401, Otín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "59402:42"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9070156,
-                    49.3609393
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> náves, Otín <br><b>Adresa:</b> č.p. 37, 59401, Otín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:15",
-                "ref": "59402:41"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.882289,
-                    49.3665493
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> náves, Geršov <br><b>Adresa:</b> Geršov 5, 59442, Otín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "59402:50"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.8570236,
-                    49.3741752
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> zastávka ZDAR, Chlumek <br><b>Adresa:</b> č.p. 75, 59442, Chlumek ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "59402:51"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9009537,
-                    49.3387402
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> náves, Horní Radslavice <br><b>Adresa:</b> č.p. 8, 59401, Horní Radslavice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:10",
-                "ref": "59402:44"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.8787298,
-                    49.3483643
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Obecní úřad, Pavlínov <br><b>Adresa:</b> č.p. 21, 59401, Pavlínov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:45",
-                "ref": "59402:43"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.9070156,
+          49.3609393
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> náves, Otín <br><b>Adresa:</b> č.p. 37, 59401, Otín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59402:41"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9012505,
+          49.3531015
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> zastávka autobusu, Pohořílky <br><b>Adresa:</b> Pohořílky 19, 59401, Otín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59402:42"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8787298,
+          49.3483643
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Obecní úřad, Pavlínov <br><b>Adresa:</b> č.p. 21, 59401, Pavlínov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59402:43"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9009537,
+          49.3387402
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> náves, Horní Radslavice <br><b>Adresa:</b> č.p. 8, 59401, Horní Radslavice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:10",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59402:44"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.882289,
+          49.3665493
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> náves, Geršov <br><b>Adresa:</b> Geršov 5, 59442, Otín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59402:50"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8570236,
+          49.3741752
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> zastávka ZDAR, Chlumek <br><b>Adresa:</b> č.p. 75, 59442, Chlumek ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59402:51"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

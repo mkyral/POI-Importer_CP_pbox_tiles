@@ -1,175 +1,175 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.4642187,
-                    50.3433302
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u obecního úřadu <br><b>Adresa:</b> č.p. 19, 27601, Hořín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "27607:64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.4251602,
-                    50.3124271
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> náves, u č. p. 22 <br><b>Adresa:</b> Kozárovice 22, 27745, Zálezlice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:30",
-                "ref": "27607:54"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.494715,
-                    50.342649
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Italská ul. - obchod <br><b>Adresa:</b> Mělník; Mělník; Mělník <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 13:00",
-                "ref": "27607:3"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.4706471,
-                    50.2986051
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u autobusové zastávky <br><b>Adresa:</b> Bedřicha Smetany 23, Dušníky, 27742, Obříství ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "27607:91"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.4970856,
-                    50.3328237
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Pražská 2205, 27601, Mělník ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "27607:59"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.4376732,
-                    50.3075853
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> autobusová zastávka, u č.p. 8 <br><b>Adresa:</b> č.p. 8, 27745, Zálezlice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:45",
-                "ref": "27607:55"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.4792802,
-                    50.2953625
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Obříství <br><b>Adresa:</b> Svatopluka Čecha 18, 27742, Obříství ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 13:00",
-                "ref": "27607:242"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.4947931,
-                    50.33777
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> hotel Ludmila <br><b>Adresa:</b> Pražská 2639, 27601, Mělník ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "27607:60"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.4517543,
-                    50.3248205
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> zastávka  BUS <br><b>Adresa:</b> Vrbno 46, 27601, Hořín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:30",
-                "ref": "27607:72"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.490773,
-                    50.3442058
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> obchod, <br><b>Adresa:</b> Sportovní 2810, 27601, Mělník ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "27607:65"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.4792802,
+          50.2953625
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Obříství <br><b>Adresa:</b> Svatopluka Čecha 18, 27742, Obříství ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 13:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "27607:242"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.494715,
+          50.342649
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Italská ul. - obchod <br><b>Adresa:</b> Mělník; Mělník; Mělník <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 13:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "27607:3"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.4251602,
+          50.3124271
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> náves, u č. p. 22 <br><b>Adresa:</b> Kozárovice 22, 27745, Zálezlice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "27607:54"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.4376732,
+          50.3075853
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> autobusová zastávka, u č.p. 8 <br><b>Adresa:</b> č.p. 8, 27745, Zálezlice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "27607:55"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.4970856,
+          50.3328237
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Pražská 2205, 27601, Mělník ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "27607:59"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.4947931,
+          50.33777
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> hotel Ludmila <br><b>Adresa:</b> Pražská 2639, 27601, Mělník ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "27607:60"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.4642187,
+          50.3433302
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u obecního úřadu <br><b>Adresa:</b> č.p. 19, 27601, Hořín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "27607:64"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.490773,
+          50.3442058
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> obchod, <br><b>Adresa:</b> Sportovní 2810, 27601, Mělník ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "27607:65"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.4517543,
+          50.3248205
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> zastávka  BUS <br><b>Adresa:</b> Vrbno 46, 27601, Hořín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "27607:72"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.4706471,
+          50.2986051
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u autobusové zastávky <br><b>Adresa:</b> Bedřicha Smetany 23, Dušníky, 27742, Obříství ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "27607:91"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

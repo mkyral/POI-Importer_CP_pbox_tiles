@@ -1,56 +1,56 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.7571955,
-                    49.2833724
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Březina Jednota <br><b>Adresa:</b> č.p. 122, 67905, Březina ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "68007:134"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.7235886,
-                    49.3035285
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Habrůvka OÚ <br><b>Adresa:</b> č.p. 100, 67905, Habrůvka ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "68007:133"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.7438073,
-                    49.2973782
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Křtiny <br><b>Adresa:</b> č.p. 26, 67905, Křtiny ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "68007:132"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.7438073,
+          49.2973782
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Křtiny <br><b>Adresa:</b> č.p. 26, 67905, Křtiny ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68007:132"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.7235886,
+          49.3035285
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Habrůvka OÚ <br><b>Adresa:</b> č.p. 100, 67905, Habrůvka ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68007:133"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.7571955,
+          49.2833724
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Březina Jednota <br><b>Adresa:</b> č.p. 122, 67905, Březina ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68007:134"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

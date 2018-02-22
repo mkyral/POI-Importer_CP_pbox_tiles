@@ -1,90 +1,90 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.8623247,
-                    49.9765008
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pošta Vávrovice <br><b>Adresa:</b> Jantarová 49/40, Vávrovice, 74773, Opava ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 15:00",
-                "ref": "74907:220"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.8764076,
-                    49.9585865
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Předměstí, stojan naproti Vodárenská 2690/10 <br><b>Adresa:</b> Opava; Opava; Předměstí <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "74907:215"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.8454098,
-                    49.9854513
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Vávrovice,stojan u kapličky,napr. Povodňová 185/2 <br><b>Adresa:</b> Opava; Opava; Vávrovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:45",
-                "ref": "74907:210"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.870876,
-                    49.951362
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jaktař, na stojanu před Přemyslovců 344/6 <br><b>Adresa:</b> Přemyslovců 344/6, Jaktař, 74707, Opava ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "74907:217"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.8715768,
-                    49.9628188
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Vávrovice, Vávrovická 244/44, Palhanec (na zídce) <br><b>Adresa:</b> Vávrovická 244/44, Vávrovice, 74707, Opava ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "74907:216"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          17.8454098,
+          49.9854513
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vávrovice,stojan u kapličky,napr. Povodňová 185/2 <br><b>Adresa:</b> Opava; Opava; Vávrovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74907:210"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.8764076,
+          49.9585865
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Předměstí, stojan naproti Vodárenská 2690/10 <br><b>Adresa:</b> Opava; Opava; Předměstí <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74907:215"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.8715768,
+          49.9628188
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vávrovice, Vávrovická 244/44, Palhanec (na zídce) <br><b>Adresa:</b> Vávrovická 244/44, Vávrovice, 74707, Opava ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74907:216"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.870876,
+          49.951362
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jaktař, na stojanu před Přemyslovců 344/6 <br><b>Adresa:</b> Přemyslovců 344/6, Jaktař, 74707, Opava ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74907:217"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.8623247,
+          49.9765008
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Vávrovice <br><b>Adresa:</b> Jantarová 49/40, Vávrovice, 74773, Opava ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 15:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74907:220"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

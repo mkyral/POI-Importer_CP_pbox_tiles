@@ -1,90 +1,90 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.8191879,
-                    50.7874631
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Rynoltice <br><b>Adresa:</b> č.p. 4, 46353, Rynoltice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "46307:82"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.7659133,
-                    50.7689621
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> na stojanu u tf.budky u Liberecká č.p.32, Jablonné <br><b>Adresa:</b> Liberecká 32, Markvartice, 47125, Jablonné v Podještědí ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "47007:228"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.7905354,
-                    50.7825137
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> na E17, Lvová (vedle zastávky) <br><b>Adresa:</b> Lvová E17, 47125, Jablonné v Podještědí ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "47007:201"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.8205861,
-                    50.7647409
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Janovice č.p. 89 <br><b>Adresa:</b> č.p. 89, 46353, Janovice v Podještědí <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.21 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "46307:88"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.7713315,
-                    50.768285
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> na stojanu u Potoční č.p. 149,  Markvartice <br><b>Adresa:</b> Potoční 149, Markvartice, 47125, Jablonné v Podještědí ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "47007:227"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.8192278,
+          50.7875465
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Rynoltice <br><b>Adresa:</b> č.p. 4, 46353, Rynoltice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.69 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "46307:82"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.8205861,
+          50.7647409
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Janovice č.p. 89 <br><b>Adresa:</b> č.p. 89, 46353, Janovice v Podještědí <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.21 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "46307:88"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.7905354,
+          50.7825137
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> na E17, Lvová (vedle zastávky) <br><b>Adresa:</b> Lvová E17, 47125, Jablonné v Podještědí ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "47007:201"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.7713315,
+          50.768285
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> na stojanu u Potoční č.p. 149,  Markvartice <br><b>Adresa:</b> Potoční 149, Markvartice, 47125, Jablonné v Podještědí ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "47007:227"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.7659133,
+          50.7689621
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> na stojanu u tf.budky u Liberecká č.p.32, Jablonné <br><b>Adresa:</b> Liberecká 32, Markvartice, 47125, Jablonné v Podještědí ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "47007:228"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

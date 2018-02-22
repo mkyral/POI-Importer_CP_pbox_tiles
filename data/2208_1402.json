@@ -1,158 +1,158 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.1030372,
-                    49.2428888
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta, Ražice <br><b>Adresa:</b> č.p. 89, 39822, Ražice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "39707:177"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.0683901,
-                    49.2157768
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Sedliště <br><b>Adresa:</b> Sedliště 4, 38901, Čejetice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 28.65 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "37271:784"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.0767765,
-                    49.260923
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Lhota u Kestřan <br><b>Adresa:</b> Lhota u Kestřan 3, 39701, Kestřany ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "39707:64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.108588,
-                    49.2448472
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Ražice nádraží ČD <br><b>Adresa:</b> č.p. 36, 39822, Ražice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "39707:165"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.1355596,
-                    49.2319486
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Heřmaň <br><b>Adresa:</b> č.p. 101, 39811, Heřmaň ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:15",
-                "ref": "39707:121"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.118174,
-                    49.2639424
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Putim <br><b>Adresa:</b> č.p. 37, 39701, Putim ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:10",
-                "ref": "39707:63"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.1313273,
-                    49.2640273
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Putim ČD <br><b>Adresa:</b> č.p. 115, 39701, Putim ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "39707:62"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.0966733,
-                    49.2263094
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Štětice <br><b>Adresa:</b> Štětice 20, 39811, Ražice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "39707:120"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.1107837,
-                    49.2261121
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Humňany <br><b>Adresa:</b> Štětice 38, 39811, Ražice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "39707:119"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.0683901,
+          49.2157768
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Sedliště <br><b>Adresa:</b> Sedliště 4, 38901, Čejetice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 28.65 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:784"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.1107837,
+          49.2261121
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Humňany <br><b>Adresa:</b> Štětice 38, 39811, Ražice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39707:119"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.0966733,
+          49.2263094
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Štětice <br><b>Adresa:</b> Štětice 20, 39811, Ražice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39707:120"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.1355596,
+          49.2319486
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Heřmaň <br><b>Adresa:</b> č.p. 101, 39811, Heřmaň ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39707:121"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.108588,
+          49.2448472
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Ražice nádraží ČD <br><b>Adresa:</b> č.p. 36, 39822, Ražice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39707:165"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.1030372,
+          49.2428888
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta, Ražice <br><b>Adresa:</b> č.p. 89, 39822, Ražice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39707:177"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.1313273,
+          49.2640273
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Putim ČD <br><b>Adresa:</b> č.p. 115, 39701, Putim ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39707:62"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.118174,
+          49.2639424
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Putim <br><b>Adresa:</b> č.p. 37, 39701, Putim ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:10",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39707:63"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.0767765,
+          49.260923
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lhota u Kestřan <br><b>Adresa:</b> Lhota u Kestřan 3, 39701, Kestřany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39707:64"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

@@ -1,73 +1,73 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.5600155,
-                    50.2519827
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Oloví - pošta <br><b>Adresa:</b> Hory 42, 35707, Oloví ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "35007:225"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.5600298,
-                    50.2521666
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kraslice, ulice ČSA, naproti 951/4 <br><b>Adresa:</b> Sokolov; Kraslice; Kraslice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "35007:209"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.558183,
-                    50.2449889
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Oloví, náměstí Horní 16 <br><b>Adresa:</b> náměstí Horní 16, 35707, Oloví ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "35007:227"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.5605452,
-                    50.2546855
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Oloví, Hory č.129 <br><b>Adresa:</b> Hory 129, 35707, Oloví ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "35007:226"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          12.5600298,
+          50.2521666
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kraslice, ulice ČSA, naproti 951/4 <br><b>Adresa:</b> Sokolov; Kraslice; Kraslice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "35007:209"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.5600155,
+          50.2519827
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Oloví - pošta <br><b>Adresa:</b> Hory 42, 35707, Oloví ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "35007:225"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.5605452,
+          50.2546855
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Oloví, Hory č.129 <br><b>Adresa:</b> Hory 129, 35707, Oloví ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "35007:226"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.558183,
+          50.2449889
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Oloví, náměstí Horní 16 <br><b>Adresa:</b> náměstí Horní 16, 35707, Oloví ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "35007:227"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

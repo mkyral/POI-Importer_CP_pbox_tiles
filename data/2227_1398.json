@@ -1,124 +1,124 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.771964,
-                    49.4913549
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> č.p. 1 - u přístřešku, Skrýšov <br><b>Adresa:</b> Skrýšov 1, 58813, Polná ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "58607:87"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.7429675,
-                    49.4490452
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> zastávka ICOM, Lipina <br><b>Adresa:</b> Lipina 6, 58827, Jamné ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:30",
-                "ref": "58607:99"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.7843195,
-                    49.4800407
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> proti kapličce, Janovice <br><b>Adresa:</b> Janovice 11, 58813, Polná ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "58607:88"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.7699949,
-                    49.4447389
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Zhoř u Jihlavy <br><b>Adresa:</b> č.p. 106, 58826, Zhoř ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 15:30",
-                "ref": "58607:254"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.7567685,
-                    49.487072
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u Jednoty, Záborná <br><b>Adresa:</b> č.p. 8, 58813, Záborná ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:20",
-                "ref": "58607:86"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.73404,
-                    49.4621717
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u telefonní budky, Dobroutov <br><b>Adresa:</b> č.p. 100, 58813, Dobroutov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:20",
-                "ref": "58607:93"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.8033816,
-                    49.4584322
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> uprostřed vsi, Staj <br><b>Adresa:</b> č.p. 33, 58827, Stáj ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:40",
-                "ref": "58607:106"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.8033816,
+          49.4584322
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> uprostřed vsi, Staj <br><b>Adresa:</b> č.p. 33, 58827, Stáj ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:40",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:106"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7699949,
+          49.4447389
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Zhoř u Jihlavy <br><b>Adresa:</b> č.p. 106, 58826, Zhoř ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 15:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:254"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7567685,
+          49.487072
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u Jednoty, Záborná <br><b>Adresa:</b> č.p. 8, 58813, Záborná ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:20",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:86"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.771964,
+          49.4913549
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> č.p. 1 - u přístřešku, Skrýšov <br><b>Adresa:</b> Skrýšov 1, 58813, Polná ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:87"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7843195,
+          49.4800407
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> proti kapličce, Janovice <br><b>Adresa:</b> Janovice 11, 58813, Polná ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:88"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.73404,
+          49.4621717
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u telefonní budky, Dobroutov <br><b>Adresa:</b> č.p. 100, 58813, Dobroutov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:20",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:93"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7429675,
+          49.4490452
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> zastávka ICOM, Lipina <br><b>Adresa:</b> Lipina 6, 58827, Jamné ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:99"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

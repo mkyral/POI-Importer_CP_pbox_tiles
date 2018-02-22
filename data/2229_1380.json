@@ -1,107 +1,107 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9598315,
-                    50.4651563
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Proruby, u kontejnerů <br><b>Adresa:</b> Proruby 33, 55205, Brzice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "54707:209"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9873767,
-                    50.5083276
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Radeč, autobus. zastávka Rozcestí <br><b>Adresa:</b> Trutnov; Úpice; Radeč <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "54107:132"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9754971,
-                    50.4846961
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> prodejna Maršov u Úpice <br><b>Adresa:</b> č.p. 34, 54232, Maršov u Úpice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "54107:134"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9086007,
-                    50.4878564
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hajnice zastávka BUS <br><b>Adresa:</b> Trutnov; Hajnice; Hajnice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "54107:486"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9922448,
-                    50.4813343
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Libňatov <br><b>Adresa:</b> č.p. 164, 54236, Libňatov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "54107:181"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.911022,
-                    50.4877779
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Partner Hajnice, č.p. 119 <br><b>Adresa:</b> č.p. 119, 54466, Hajnice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "54107:406"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.9873767,
+          50.5083276
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Radeč, autobus. zastávka Rozcestí <br><b>Adresa:</b> Trutnov; Úpice; Radeč <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54107:132"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9754971,
+          50.4846961
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> prodejna Maršov u Úpice <br><b>Adresa:</b> č.p. 34, 54232, Maršov u Úpice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54107:134"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9922448,
+          50.4813343
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Libňatov <br><b>Adresa:</b> č.p. 164, 54236, Libňatov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54107:181"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.911022,
+          50.4877779
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Partner Hajnice, č.p. 119 <br><b>Adresa:</b> č.p. 119, 54466, Hajnice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54107:406"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9086007,
+          50.4878564
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hajnice zastávka BUS <br><b>Adresa:</b> Trutnov; Hajnice; Hajnice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54107:486"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9598315,
+          50.4651563
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Proruby, u kontejnerů <br><b>Adresa:</b> Proruby 33, 55205, Brzice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54707:209"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

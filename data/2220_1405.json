@@ -1,90 +1,90 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.1688662,
-                    49.0576373
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Klenová <br><b>Adresa:</b> Klenová 6, 37833, Nová Bystřice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "37702:135"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.126365,
-                    49.0843987
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> č. 33, Kunějov <br><b>Adresa:</b> Kunějov 1, 37833, Člunek ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "37702:138"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.1353589,
-                    49.0500401
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hůrky u N.Bystřice <br><b>Adresa:</b> Hůrky 33, 37833, Nová Bystřice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "37702:133"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.1450095,
-                    49.0640548
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Senotín <br><b>Adresa:</b> Senotín 30, 37833, Nová Bystřice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:10",
-                "ref": "37702:136"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.1693294,
-                    49.040365
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Blato <br><b>Adresa:</b> Blato 28, 37833, Nová Bystřice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:45",
-                "ref": "37702:134"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.1353589,
+          49.0500401
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hůrky u N.Bystřice <br><b>Adresa:</b> Hůrky 33, 37833, Nová Bystřice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:133"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.1693294,
+          49.040365
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Blato <br><b>Adresa:</b> Blato 28, 37833, Nová Bystřice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:134"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.1688662,
+          49.0576373
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Klenová <br><b>Adresa:</b> Klenová 6, 37833, Nová Bystřice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:135"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.1453018,
+          49.0641177
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Senotín <br><b>Adresa:</b> Senotín 30, 37833, Nová Bystřice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 22.42 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:10",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:136"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.126365,
+          49.0843987
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> č. 33, Kunějov <br><b>Adresa:</b> Kunějov 1, 37833, Člunek ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:138"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

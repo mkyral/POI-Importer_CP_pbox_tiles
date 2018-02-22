@@ -1,73 +1,73 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.2939696,
-                    49.7645019
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Vysoký Les č.7 <br><b>Adresa:</b> Vysoký Les 7, 57201, Sebranice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:420"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3361548,
-                    49.772563
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Chmelík, zast. ČSAD č.p. 19, <br><b>Adresa:</b> č.p. 19, 57001, Chmelík ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:658"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3299137,
-                    49.7758749
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Chmelík č. 78 <br><b>Adresa:</b> č.p. 78, 57001, Chmelík ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:659"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.267342,
-                    49.7519826
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Lezník č. 68, Polička <br><b>Adresa:</b> Lezník 68, 57201, Polička ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:412"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.267342,
+          49.7519826
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lezník č. 68, Polička <br><b>Adresa:</b> Lezník 68, 57201, Polička ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:412"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2939696,
+          49.7645019
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vysoký Les č.7 <br><b>Adresa:</b> Vysoký Les 7, 57201, Sebranice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:420"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3361548,
+          49.772563
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Chmelík, zast. ČSAD č.p. 19, <br><b>Adresa:</b> č.p. 19, 57001, Chmelík ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:658"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3299137,
+          49.7758749
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Chmelík č. 78 <br><b>Adresa:</b> č.p. 78, 57001, Chmelík ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:659"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

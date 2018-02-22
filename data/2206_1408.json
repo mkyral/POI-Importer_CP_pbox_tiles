@@ -1,124 +1,124 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.8904112,
-                    48.9098187
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Nádraží ČSAD, č.p. 36, Volary <br><b>Adresa:</b> Tovární 36, 38451, Volary ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:30",
-                "ref": "38307:105"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.8876201,
-                    48.9085736
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Samoobsluha čp.378 <br><b>Adresa:</b> Tolarova 378, 38451, Volary ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:30",
-                "ref": "38307:104"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.8973436,
-                    48.8915038
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Volary - Mlýn náves č.p. 182 <br><b>Adresa:</b> Budějovická 182, 38451, Volary ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "38307:115"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.8967303,
-                    48.9118723
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Sídliště Míru č.p. 116, Volary <br><b>Adresa:</b> Nová kolonie 116, 38451, Volary ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 13:00",
-                "ref": "38307:108"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.8927034,
-                    48.9109549
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Parkoviště u kostela č.p. 23, Volary <br><b>Adresa:</b> Náměstí 23, 38451, Volary ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 13:00",
-                "ref": "38307:106"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.8924772,
-                    48.9106188
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Budova pošty, Náměstí 25,  Volary <br><b>Adresa:</b> Náměstí 25, 38451, Volary ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 13:00",
-                "ref": "38307:102"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.9088305,
-                    48.8671544
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> U kapličky, Chlum č.p. 4 <br><b>Adresa:</b> Chlum 4, 38451, Volary ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:30",
-                "ref": "38307:110"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.8924772,
+          48.9106188
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Budova pošty, Náměstí 25,  Volary <br><b>Adresa:</b> Náměstí 25, 38451, Volary ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 13:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38307:102"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.8876201,
+          48.9085736
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Samoobsluha čp.378 <br><b>Adresa:</b> Tolarova 378, 38451, Volary ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38307:104"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.8904112,
+          48.9098187
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nádraží ČSAD, č.p. 36, Volary <br><b>Adresa:</b> Tovární 36, 38451, Volary ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38307:105"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.8927034,
+          48.9109549
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Parkoviště u kostela č.p. 23, Volary <br><b>Adresa:</b> Náměstí 23, 38451, Volary ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 13:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38307:106"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.8967303,
+          48.9118723
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Sídliště Míru č.p. 116, Volary <br><b>Adresa:</b> Nová kolonie 116, 38451, Volary ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 13:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38307:108"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.9088305,
+          48.8671544
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> U kapličky, Chlum č.p. 4 <br><b>Adresa:</b> Chlum 4, 38451, Volary ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38307:110"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.8973436,
+          48.8915038
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Volary - Mlýn náves č.p. 182 <br><b>Adresa:</b> Budějovická 182, 38451, Volary ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38307:115"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

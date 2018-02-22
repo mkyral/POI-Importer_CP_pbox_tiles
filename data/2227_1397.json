@@ -1,141 +1,141 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.7451907,
-                    49.5450835
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Česká Jablonná - čekárna BUS <br><b>Adresa:</b> Česká Jablonná 32, 58222, Přibyslav ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:154"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.7988234,
-                    49.5084708
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jednota Poděšín <br><b>Adresa:</b> č.p. 91, 59212, Poděšín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "59100:66"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.8177121,
-                    49.5043036
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> zastávka, Sirákov <br><b>Adresa:</b> č.p. 31, 59212, Sirákov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "59100:67"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.8054813,
-                    49.5319745
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Nížkov <br><b>Adresa:</b> č.p. 107, 59212, Nížkov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "59100:85"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.7656664,
-                    49.5488001
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Olešenka 42 - prodejna <br><b>Adresa:</b> č.p. 42, 58222, Olešenka ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:153"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.7820321,
-                    49.5336592
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> autobusová zastávka, Špinov <br><b>Adresa:</b> Špinov 5, 59212, Nížkov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:15",
-                "ref": "59100:73"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.7908211,
-                    49.5441088
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jednota, Buková <br><b>Adresa:</b> Buková 17, 59212, Nížkov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "59100:72"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.7447041,
-                    49.5056629
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> zastávka ICOM, Hrbov <br><b>Adresa:</b> Hrbov 42, 58813, Polná ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:10",
-                "ref": "58607:94"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.7656664,
+          49.5488001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Olešenka 42 - prodejna <br><b>Adresa:</b> č.p. 42, 58222, Olešenka ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:153"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7451907,
+          49.5450835
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Česká Jablonná - čekárna BUS <br><b>Adresa:</b> Česká Jablonná 32, 58222, Přibyslav ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:154"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7447041,
+          49.5056629
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> zastávka ICOM, Hrbov <br><b>Adresa:</b> Hrbov 42, 58813, Polná ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:10",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:94"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7988234,
+          49.5084708
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jednota Poděšín <br><b>Adresa:</b> č.p. 91, 59212, Poděšín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59100:66"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8177121,
+          49.5043036
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> zastávka, Sirákov <br><b>Adresa:</b> č.p. 31, 59212, Sirákov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59100:67"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7908211,
+          49.5441088
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jednota, Buková <br><b>Adresa:</b> Buková 17, 59212, Nížkov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59100:72"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7820321,
+          49.5336592
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> autobusová zastávka, Špinov <br><b>Adresa:</b> Špinov 5, 59212, Nížkov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59100:73"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8054813,
+          49.5319745
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Nížkov <br><b>Adresa:</b> č.p. 107, 59212, Nížkov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59100:85"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

@@ -1,56 +1,56 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.9244981,
-                    50.8232582
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Bílý Kostel nad Nisou <br><b>Adresa:</b> č.p. 206, 46331, Bílý Kostel nad Nisou <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 4.82 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "46307:330"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.8549259,
-                    50.7924314
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> naproti Hotelu Jítrava - stan.LDS -čp. 70 <br><b>Adresa:</b> Liberec; Rynoltice; Jítrava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u></p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:15",
-                "ref": "46307:86"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.8699564,
-                    50.837444
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Chotyně <br><b>Adresa:</b> č.p. 217, 46334, Chotyně <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.86 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "46307:339"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.9244981,
+          50.8232582
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Bílý Kostel nad Nisou <br><b>Adresa:</b> č.p. 206, 46331, Bílý Kostel nad Nisou <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 4.82 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "46307:330"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.8699564,
+          50.837444
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Chotyně <br><b>Adresa:</b> č.p. 217, 46334, Chotyně <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.86 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "46307:339"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.8549259,
+          50.7924314
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> naproti Hotelu Jítrava - stan.LDS -čp. 70 <br><b>Adresa:</b> Liberec; Rynoltice; Jítrava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "46307:86"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

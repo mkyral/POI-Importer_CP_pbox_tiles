@@ -1,90 +1,90 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.9977635,
-                    49.287562
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Leskovec - jednota SET <br><b>Adresa:</b> č.p. 184, 75611, Leskovec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "75707:37"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.0031113,
-                    49.3082363
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jednota, Ústí u Vsetína <br><b>Adresa:</b> Vsetín; Ústí; Ústí <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "75707:23"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.9578104,
-                    49.3048831
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> U samoobsluhy, Lhota u Vsetína <br><b>Adresa:</b> č.p. 53, 75501, Lhota u Vsetína ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "75707:19"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.9699528,
-                    49.2734753
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> č. 28, Seninka <br><b>Adresa:</b> Vsetín; Seninka; Seninka <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "75707:39"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.9384751,
-                    49.2972676
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Obchod, Liptál <br><b>Adresa:</b> č.p. 374, 75631, Liptál ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "75707:35"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          17.9578104,
+          49.3048831
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> U samoobsluhy, Lhota u Vsetína <br><b>Adresa:</b> č.p. 53, 75501, Lhota u Vsetína ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "75707:19"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.0031113,
+          49.3082363
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jednota, Ústí u Vsetína <br><b>Adresa:</b> Vsetín; Ústí; Ústí <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "75707:23"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.9384751,
+          49.2972676
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Obchod, Liptál <br><b>Adresa:</b> č.p. 374, 75631, Liptál ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "75707:35"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.9977635,
+          49.287562
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Leskovec - jednota SET <br><b>Adresa:</b> č.p. 184, 75611, Leskovec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "75707:37"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.9699528,
+          49.2734753
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> č. 28, Seninka <br><b>Adresa:</b> Vsetín; Seninka; Seninka <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "75707:39"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

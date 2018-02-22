@@ -1,141 +1,141 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.197538,
-                    49.4056292
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Tetětice - autobusová zastávka <br><b>Adresa:</b> Klatovy; Bezděkov; Tetětice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "33907:72"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.2146665,
-                    49.3898853
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Koryta-stojan u autobusové zastávky <br><b>Adresa:</b> Klatovy; Bezděkov; Koryta <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "33907:114"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.2619403,
-                    49.3907969
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Beňovy u čp. 8 <br><b>Adresa:</b> Beňovy 8, 33901, Klatovy ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "33907:112"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.2185172,
-                    49.4196264
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Drslavice u čp. 24 <br><b>Adresa:</b> Drslavice 24, 33901, Klatovy ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "33907:121"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.2451717,
-                    49.4245876
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Svrčovec - hasičská zbrojnice <br><b>Adresa:</b> Klatovy; Dolany; Svrčovec <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "33907:122"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.2548696,
-                    49.3945695
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kal u čp. 1 <br><b>Adresa:</b> Kal 1, 33901, Klatovy ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "33907:111"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.2275217,
-                    49.4037702
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Tupadly, prodejna čp. 15 <br><b>Adresa:</b> Tupadly 15, 33901, Klatovy ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "33907:120"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.2551394,
-                    49.4023308
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Tajanov, prodejna <br><b>Adresa:</b> Klatovy; Klatovy; Tajanov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "33907:119"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.2548696,
+          49.3945695
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kal u čp. 1 <br><b>Adresa:</b> Kal 1, 33901, Klatovy ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "33907:111"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.2619403,
+          49.3907969
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Beňovy u čp. 8 <br><b>Adresa:</b> Beňovy 8, 33901, Klatovy ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "33907:112"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.2146665,
+          49.3898853
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Koryta-stojan u autobusové zastávky <br><b>Adresa:</b> Klatovy; Bezděkov; Koryta <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "33907:114"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.2551394,
+          49.4023308
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Tajanov, prodejna <br><b>Adresa:</b> Klatovy; Klatovy; Tajanov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "33907:119"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.2275217,
+          49.4037702
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Tupadly, prodejna čp. 15 <br><b>Adresa:</b> Tupadly 15, 33901, Klatovy ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "33907:120"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.2185172,
+          49.4196264
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Drslavice u čp. 24 <br><b>Adresa:</b> Drslavice 24, 33901, Klatovy ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "33907:121"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.2451717,
+          49.4245876
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Svrčovec - hasičská zbrojnice <br><b>Adresa:</b> Klatovy; Dolany; Svrčovec <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "33907:122"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.197538,
+          49.4056292
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Tetětice - autobusová zastávka <br><b>Adresa:</b> Klatovy; Bezděkov; Tetětice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "33907:72"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

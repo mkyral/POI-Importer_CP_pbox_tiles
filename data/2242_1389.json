@@ -1,22 +1,22 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.0763878,
-                    49.9760524
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hraběšice 23, u aut.zastávky (stojan) <br><b>Adresa:</b> Šumperk; Hraběšice; Hraběšice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "78807:42"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          17.0763878,
+          49.9760524
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hraběšice 23, u aut.zastávky (stojan) <br><b>Adresa:</b> Šumperk; Hraběšice; Hraběšice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "78807:42"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

@@ -1,107 +1,107 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.094415,
-                    49.2402424
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Orlovice <br><b>Adresa:</b> č.p. 161, 68201, Orlovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "68207:154"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.059921,
-                    49.2123733
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pavlovice u kapličky <br><b>Adresa:</b> Pavlovice 11, 68341, Bohdalice-Pavlovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:15",
-                "ref": "68207:64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.0578534,
-                    49.2520006
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Moravské Prusy <br><b>Adresa:</b> Moravské Prusy 40, 68201, Prusy-Boškůvky ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "68207:156"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.0512523,
-                    49.2447765
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Vážany 186 - zastávka <br><b>Adresa:</b> č.p. 186, 68201, Vážany ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "68207:47"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.073167,
-                    49.2587544
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Boškůvky 42- obchod <br><b>Adresa:</b> Boškůvky 42, 68201, Prusy-Boškůvky ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "68207:46"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.0901684,
-                    49.2576487
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Moravské Málkovice 73 <br><b>Adresa:</b> č.p. 73, 68201, Moravské Málkovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "68207:39"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          17.094415,
+          49.2402424
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Orlovice <br><b>Adresa:</b> č.p. 161, 68201, Orlovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68207:154"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.0578534,
+          49.2520006
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Moravské Prusy <br><b>Adresa:</b> Moravské Prusy 40, 68201, Prusy-Boškůvky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68207:156"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.0901684,
+          49.2576487
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Moravské Málkovice 73 <br><b>Adresa:</b> č.p. 73, 68201, Moravské Málkovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68207:39"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.073167,
+          49.2587544
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Boškůvky 42- obchod <br><b>Adresa:</b> Boškůvky 42, 68201, Prusy-Boškůvky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68207:46"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.0512523,
+          49.2447765
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vážany 186 - zastávka <br><b>Adresa:</b> č.p. 186, 68201, Vážany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68207:47"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.059921,
+          49.2123733
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pavlovice u kapličky <br><b>Adresa:</b> Pavlovice 11, 68341, Bohdalice-Pavlovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68207:64"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

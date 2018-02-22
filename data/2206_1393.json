@@ -1,56 +1,56 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.954801,
-                    49.7811226
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Ohrazenice - V luhu č.p.27 <br><b>Adresa:</b> č.p. 27, 26223, Ohrazenice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "26107:328"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.9513768,
-                    49.7315344
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Malý Drahlín č.p.52 <br><b>Adresa:</b> č.p. 52, 26101, Drahlín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "26107:156"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.9688846,
-                    49.7321694
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Drahlín čp.92 <br><b>Adresa:</b> č.p. 92, 26101, Drahlín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "26107:157"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.9513768,
+          49.7315344
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Malý Drahlín č.p.52 <br><b>Adresa:</b> č.p. 52, 26101, Drahlín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:156"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.9688846,
+          49.7321694
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Drahlín čp.92 <br><b>Adresa:</b> č.p. 92, 26101, Drahlín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:157"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.954801,
+          49.7811226
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Ohrazenice - V luhu č.p.27 <br><b>Adresa:</b> č.p. 27, 26223, Ohrazenice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:328"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

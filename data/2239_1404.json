@@ -1,158 +1,158 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.8057713,
-                    49.1316542
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Zbýšov OÚ <br><b>Adresa:</b> č.p. 7, 68352, Zbýšov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:30",
-                "ref": "68207:136"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.830075,
-                    49.1409747
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Křenovice  u Slavkova <br><b>Adresa:</b> Svárovská 679, 68352, Křenovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "68207:166"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.8276134,
-                    49.1447854
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kopečná, Křenovice <br><b>Adresa:</b> Kopečná 98, 68352, Křenovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "68207:134"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.8006389,
-                    49.1159425
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta  Šaratice <br><b>Adresa:</b> Náves 299, 68352, Šaratice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "68207:167"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.8534622,
-                    49.1298104
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Vážany nad Litavou  č. 257 u pekárny <br><b>Adresa:</b> č.p. 257, 68401, Vážany nad Litavou ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:45",
-                "ref": "68207:124"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.7994693,
-                    49.1138774
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Šaratice 69 <br><b>Adresa:</b> Náves 69, 68352, Šaratice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "68207:137"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.831032,
-                    49.1275209
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hrušky  prodejna <br><b>Adresa:</b> č.p. 117, 68352, Hrušky ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:15",
-                "ref": "68207:135"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.8563397,
-                    49.1298857
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Vážany nad Litavou <br><b>Adresa:</b> č.p. 14, 68401, Vážany nad Litavou ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "68207:125"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.8312581,
-                    49.1426814
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Křenovice  - trafika <br><b>Adresa:</b> Sokolská 109, 68352, Křenovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "68207:133"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.8534622,
+          49.1298104
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vážany nad Litavou  č. 257 u pekárny <br><b>Adresa:</b> č.p. 257, 68401, Vážany nad Litavou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68207:124"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.8563397,
+          49.1298857
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vážany nad Litavou <br><b>Adresa:</b> č.p. 14, 68401, Vážany nad Litavou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68207:125"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.8312581,
+          49.1426814
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Křenovice  - trafika <br><b>Adresa:</b> Sokolská 109, 68352, Křenovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68207:133"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.8276134,
+          49.1447854
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kopečná, Křenovice <br><b>Adresa:</b> Kopečná 98, 68352, Křenovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68207:134"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.831032,
+          49.1275209
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hrušky  prodejna <br><b>Adresa:</b> č.p. 117, 68352, Hrušky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68207:135"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.8057713,
+          49.1316542
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Zbýšov OÚ <br><b>Adresa:</b> č.p. 7, 68352, Zbýšov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68207:136"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.7994693,
+          49.1138774
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Šaratice 69 <br><b>Adresa:</b> Náves 69, 68352, Šaratice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68207:137"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.830075,
+          49.1409747
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Křenovice  u Slavkova <br><b>Adresa:</b> Svárovská 679, 68352, Křenovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68207:166"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.8006389,
+          49.1159425
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta  Šaratice <br><b>Adresa:</b> Náves 299, 68352, Šaratice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68207:167"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

@@ -1,158 +1,158 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.7670533,
-                    49.8022631
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Travná - náves, \"S\" <br><b>Adresa:</b> Travná 4, 53825, Horní Bradlo ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "53900:67"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.8135189,
-                    49.8056744
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Rohozná - BUS, \"S\" <br><b>Adresa:</b> Rohozná 25, 53901, Trhová Kamenice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "53900:25"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.7460781,
-                    49.8212554
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Krásné - BUS, \"S\" <br><b>Adresa:</b> č.p. 6, 53825, Krásné ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "53900:71"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.7399533,
-                    49.802949
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Horní Bradlo <br><b>Adresa:</b> Dolní Bradlo 7, 53953, Horní Bradlo ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "53900:79"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.7348372,
-                    49.7865377
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Velká Střítež - BUS, \"S\" <br><b>Adresa:</b> Velká Střítež 3, 53825, Horní Bradlo ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "53900:68"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.8138664,
-                    49.7850471
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> T. Kamenice, Husova 25 - u prodejny, \"S\" <br><b>Adresa:</b> Husova 25, 53952, Trhová Kamenice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "53900:42"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.7860909,
-                    49.8369681
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hodonín - zbrojnice <br><b>Adresa:</b> č.p. 37, 53825, Hodonín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "53900:65"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.7666104,
-                    49.817452
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Javorné - BUS, \"S\" <br><b>Adresa:</b> Javorné 9, 53825, Horní Bradlo ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "53900:66"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.8178428,
-                    49.7870282
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Trhová Kamenice <br><b>Adresa:</b> Raisovo náměstí 4, 53952, Trhová Kamenice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "53900:78"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.8135189,
+          49.8056744
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Rohozná - BUS, \"S\" <br><b>Adresa:</b> Rohozná 25, 53901, Trhová Kamenice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53900:25"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8138664,
+          49.7850471
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> T. Kamenice, Husova 25 - u prodejny, \"S\" <br><b>Adresa:</b> Husova 25, 53952, Trhová Kamenice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53900:42"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7860909,
+          49.8369681
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hodonín - zbrojnice <br><b>Adresa:</b> č.p. 37, 53825, Hodonín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53900:65"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7666104,
+          49.817452
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Javorné - BUS, \"S\" <br><b>Adresa:</b> Javorné 9, 53825, Horní Bradlo ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53900:66"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7670533,
+          49.8022631
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Travná - náves, \"S\" <br><b>Adresa:</b> Travná 4, 53825, Horní Bradlo ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53900:67"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7348372,
+          49.7865377
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Velká Střítež - BUS, \"S\" <br><b>Adresa:</b> Velká Střítež 3, 53825, Horní Bradlo ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53900:68"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7460781,
+          49.8212554
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Krásné - BUS, \"S\" <br><b>Adresa:</b> č.p. 6, 53825, Krásné ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53900:71"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8178428,
+          49.7870282
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Trhová Kamenice <br><b>Adresa:</b> Raisovo náměstí 4, 53952, Trhová Kamenice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53900:78"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7399533,
+          49.802949
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Horní Bradlo <br><b>Adresa:</b> Dolní Bradlo 7, 53953, Horní Bradlo ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53900:79"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

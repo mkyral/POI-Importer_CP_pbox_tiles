@@ -1,73 +1,73 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3046376,
-                    50.3725588
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> bytovky na dolním konci, Olešnice v Orl. horách <br><b>Adresa:</b> č.p. 59, 51783, Olešnice v Orlických horách ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "51707:563"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3102849,
-                    50.3730065
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> zastávka ČSAD náměstí, Olešnice v Orl. horách <br><b>Adresa:</b> č.p. 15, 51783, Olešnice v Orlických horách ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "51707:562"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.2767473,
-                    50.3647229
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Penzion <br><b>Adresa:</b> Rzy 19, 54901, Nový Hrádek ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "54707:402"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.310282,
-                    50.3737294
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Olešnice v Orl. horách <br><b>Adresa:</b> č.p. 5, 51783, Olešnice v Orlických horách ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "51707:506"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.310282,
+          50.3737294
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Olešnice v Orl. horách <br><b>Adresa:</b> č.p. 5, 51783, Olešnice v Orlických horách ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51707:506"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3102849,
+          50.3730065
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> zastávka ČSAD náměstí, Olešnice v Orl. horách <br><b>Adresa:</b> č.p. 15, 51783, Olešnice v Orlických horách ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51707:562"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3046376,
+          50.3725588
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> bytovky na dolním konci, Olešnice v Orl. horách <br><b>Adresa:</b> č.p. 59, 51783, Olešnice v Orlických horách ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51707:563"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2767473,
+          50.3647229
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Penzion <br><b>Adresa:</b> Rzy 19, 54901, Nový Hrádek ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54707:402"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

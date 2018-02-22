@@ -1,141 +1,141 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.8780518,
-                    49.2602076
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Vícemil <br><b>Adresa:</b> č.p. 15, 37821, Vícemil ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:50",
-                "ref": "37702:118"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.8971043,
-                    49.2455198
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jižná <br><b>Adresa:</b> Jižná 44, 37821, Pluhův Žďár ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "37702:116"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.9226676,
-                    49.2369096
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Mostečný 3 <br><b>Adresa:</b> Mostečný 3, 37821, Pluhův Žďár ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "37702:114"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.8848986,
-                    49.247785
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Červená Lhota 8 <br><b>Adresa:</b> Červená Lhota 8, 37821, Pluhův Žďár ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 13:00",
-                "ref": "37702:117"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.8709338,
-                    49.2321415
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Samosoly <br><b>Adresa:</b> Samosoly 8, 37821, Pluhův Žďár ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "37702:115"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.8944526,
-                    49.2235702
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> budova pošty, Pluhův Žďár <br><b>Adresa:</b> č.p. 66, 37824, Pluhův Žďár ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "37702:124"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.9249231,
-                    49.2654936
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Budova pošty Deštná u Jindřichova Hradce <br><b>Adresa:</b> nám. Míru 15, 37825, Deštná <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.22 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "37702:125"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.9227053,
-                    49.2652324
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Deštná <br><b>Adresa:</b> nám. Míru 61, 37825, Deštná ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:30",
-                "ref": "37702:293"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.9226676,
+          49.2369096
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Mostečný 3 <br><b>Adresa:</b> Mostečný 3, 37821, Pluhův Žďár ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:114"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.8709338,
+          49.2321415
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Samosoly <br><b>Adresa:</b> Samosoly 8, 37821, Pluhův Žďár ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:115"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.8971043,
+          49.2455198
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jižná <br><b>Adresa:</b> Jižná 44, 37821, Pluhův Žďár ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:116"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.8848986,
+          49.247785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Červená Lhota 8 <br><b>Adresa:</b> Červená Lhota 8, 37821, Pluhův Žďár ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 13:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:117"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.8780518,
+          49.2602076
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vícemil <br><b>Adresa:</b> č.p. 15, 37821, Vícemil ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:50",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:118"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.8944526,
+          49.2235702
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> budova pošty, Pluhův Žďár <br><b>Adresa:</b> č.p. 66, 37824, Pluhův Žďár ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:124"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.9249231,
+          49.2654936
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Budova pošty Deštná u Jindřichova Hradce <br><b>Adresa:</b> nám. Míru 15, 37825, Deštná <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.22 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:125"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.9227053,
+          49.2652324
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Deštná <br><b>Adresa:</b> nám. Míru 61, 37825, Deštná ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:293"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

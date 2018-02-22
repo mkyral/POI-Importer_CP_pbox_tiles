@@ -1,175 +1,175 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.7229189,
-                    49.2587431
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Zašovice, prodejna <br><b>Adresa:</b> č.p. 12, 67521, Zašovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "67407:141"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.6809366,
-                    49.2551514
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hrutov 33 <br><b>Adresa:</b> č.p. 33, 67527, Hrutov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "67407:146"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.6610056,
-                    49.2241577
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Opatov na Moravě <br><b>Adresa:</b> č.p. 148, 67528, Opatov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "67407:306"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.7290086,
-                    49.2226241
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Podheraltice, autobusová zastávka <br><b>Adresa:</b> č.p. 68, 67521, Heraltice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "67407:123"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.6710391,
-                    49.2662803
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Kněžice u Třebíče <br><b>Adresa:</b> č.p. 2, 67529, Kněžice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "67407:307"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.6690628,
-                    49.2624723
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kněžice 248 <br><b>Adresa:</b> č.p. 248, 67529, Kněžice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "67407:151"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.6709514,
-                    49.2572214
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Brodce, čekárna <br><b>Adresa:</b> Brodce 2, 67529, Kněžice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "67407:150"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.6574664,
-                    49.225285
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Opatov 141 <br><b>Adresa:</b> č.p. 141, 67528, Opatov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "67407:142"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.730965,
-                    49.2301746
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Heraltice, autobusová zastávka <br><b>Adresa:</b> č.p. 78, 67521, Heraltice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:10",
-                "ref": "67407:122"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.6642813,
-                    49.2213452
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Opatov 162 <br><b>Adresa:</b> č.p. 162, 67528, Opatov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "67407:143"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.730965,
+          49.2301746
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Heraltice, autobusová zastávka <br><b>Adresa:</b> č.p. 78, 67521, Heraltice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:10",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:122"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7290086,
+          49.2226241
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Podheraltice, autobusová zastávka <br><b>Adresa:</b> č.p. 68, 67521, Heraltice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:123"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7229189,
+          49.2587431
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Zašovice, prodejna <br><b>Adresa:</b> č.p. 12, 67521, Zašovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:141"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.6574664,
+          49.225285
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Opatov 141 <br><b>Adresa:</b> č.p. 141, 67528, Opatov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:142"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.6642813,
+          49.2213452
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Opatov 162 <br><b>Adresa:</b> č.p. 162, 67528, Opatov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:143"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.6809366,
+          49.2551514
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hrutov 33 <br><b>Adresa:</b> č.p. 33, 67527, Hrutov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:146"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.6709514,
+          49.2572214
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Brodce, čekárna <br><b>Adresa:</b> Brodce 2, 67529, Kněžice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:150"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.6690628,
+          49.2624723
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kněžice 248 <br><b>Adresa:</b> č.p. 248, 67529, Kněžice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:151"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.6610056,
+          49.2241577
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Opatov na Moravě <br><b>Adresa:</b> č.p. 148, 67528, Opatov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:306"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.6710391,
+          49.2662803
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Kněžice u Třebíče <br><b>Adresa:</b> č.p. 2, 67529, Kněžice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:307"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

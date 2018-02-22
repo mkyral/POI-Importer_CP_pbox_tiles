@@ -1,141 +1,141 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.5907262,
-                    50.3127511
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pohostinství <br><b>Adresa:</b> č.p. 30, 27732, Liblice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 21.25 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "27607:194"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.611196,
-                    50.309712
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Byšice <br><b>Adresa:</b> Nádražní 19, 27732, Byšice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 14.07 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "27607:258"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.6175459,
-                    50.3104915
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> 5. května 40, 27732, Byšice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 13.31 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "27607:193"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.6702718,
-                    50.3173476
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> na křižovatce na stojanu <br><b>Adresa:</b> č.p. 10, 29479, Košátky <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 31.7 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "29407:80"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.6572469,
-                    50.3051816
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> prodejna <br><b>Adresa:</b> Kojovice 36, 29479, Kropáčova Vrutice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 12.09 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "29407:82"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.6113696,
-                    50.310444
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> aut. zastávka <br><b>Adresa:</b> Mělník; Byšice; Byšice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "27607:192"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.6182829,
-                    50.2938833
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Obecní úřad <br><b>Adresa:</b> Všetatská 41/1, 27732, Čečelice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 46.19 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "27607:196"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.6610992,
-                    50.3157215
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> na stojanu u křižovatky <br><b>Adresa:</b> č.p. 34, 29479, Košátky <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 16.47 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "29407:81"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.6113696,
+          50.310444
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> aut. zastávka <br><b>Adresa:</b> Mělník; Byšice; Byšice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "27607:192"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.6175459,
+          50.3104915
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> 5. května 40, 27732, Byšice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 13.31 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "27607:193"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5907262,
+          50.3127511
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pohostinství <br><b>Adresa:</b> č.p. 30, 27732, Liblice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 21.25 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "27607:194"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.6182829,
+          50.2938833
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Obecní úřad <br><b>Adresa:</b> Všetatská 41/1, 27732, Čečelice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 46.19 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "27607:196"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.611196,
+          50.309712
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Byšice <br><b>Adresa:</b> Nádražní 19, 27732, Byšice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 14.07 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "27607:258"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.6702718,
+          50.3173476
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> na křižovatce na stojanu <br><b>Adresa:</b> č.p. 10, 29479, Košátky <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 31.7 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "29407:80"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.6610992,
+          50.3157215
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> na stojanu u křižovatky <br><b>Adresa:</b> č.p. 34, 29479, Košátky <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 16.47 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "29407:81"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.6572469,
+          50.3051816
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> prodejna <br><b>Adresa:</b> Kojovice 36, 29479, Kropáčova Vrutice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 12.09 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "29407:82"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

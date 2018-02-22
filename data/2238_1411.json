@@ -1,107 +1,107 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.7592123,
-                    48.7424168
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> budova nákupního  střediska <br><b>Adresa:</b> Břeclavská 1100, 69142, Valtice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "69007:68"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.761988,
-                    48.7482047
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> nádražní restaurace č. 522 <br><b>Adresa:</b> P. Bezruče 522, 69142, Valtice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "69007:69"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.7677396,
-                    48.7443807
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> ul. Břeclavská  č. 578 <br><b>Adresa:</b> Břeclavská 578, 69142, Valtice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "69007:70"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.7555826,
-                    48.7416771
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Valtice <br><b>Adresa:</b> nám. Svobody 18, 69142, Valtice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "69007:72"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.7555775,
-                    48.7395047
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> hotel Hubertus (sezónní schránka od 1.5. do 30.9.) <br><b>Adresa:</b> Zámek 1, 69142, Valtice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "69007:71"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.6993521,
-                    48.7424344
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> naproti - Úvaly 39, Valtice <br><b>Adresa:</b> Úvaly 39, 69142, Valtice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "69007:54"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.6993521,
+          48.7424344
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> naproti - Úvaly 39, Valtice <br><b>Adresa:</b> Úvaly 39, 69142, Valtice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69007:54"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.7592123,
+          48.7424168
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> budova nákupního  střediska <br><b>Adresa:</b> Břeclavská 1100, 69142, Valtice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69007:68"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.761988,
+          48.7482047
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> nádražní restaurace č. 522 <br><b>Adresa:</b> P. Bezruče 522, 69142, Valtice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69007:69"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.7677396,
+          48.7443807
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> ul. Břeclavská  č. 578 <br><b>Adresa:</b> Břeclavská 578, 69142, Valtice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69007:70"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.7555775,
+          48.7395047
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> hotel Hubertus (sezónní schránka od 1.5. do 30.9.) <br><b>Adresa:</b> Zámek 1, 69142, Valtice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69007:71"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.7555826,
+          48.7416771
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Valtice <br><b>Adresa:</b> nám. Svobody 18, 69142, Valtice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69007:72"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

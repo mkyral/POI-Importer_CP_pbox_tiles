@@ -1,56 +1,56 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4788369,
-                    49.4751775
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Větrný Jeníkov <br><b>Adresa:</b> č.p. 198, 58842, Větrný Jeníkov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 15:00",
-                "ref": "58607:261"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.5368706,
-                    49.4709333
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Smrčná <br><b>Adresa:</b> č.p. 22, 58801, Smrčná ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "58607:244"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4815546,
-                    49.487154
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Zbinohy, u telefonní budky <br><b>Adresa:</b> č.p. 38, 58842, Zbinohy ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:15",
-                "ref": "58607:59"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.5368706,
+          49.4709333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Smrčná <br><b>Adresa:</b> č.p. 22, 58801, Smrčná ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:244"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4788369,
+          49.4751775
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Větrný Jeníkov <br><b>Adresa:</b> č.p. 198, 58842, Větrný Jeníkov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 15:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:261"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4815546,
+          49.487154
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Zbinohy, u telefonní budky <br><b>Adresa:</b> č.p. 38, 58842, Zbinohy ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:59"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

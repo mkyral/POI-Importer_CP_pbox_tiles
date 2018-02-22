@@ -1,141 +1,141 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.7878516,
-                    49.7188314
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Nový Studenec - BUS, \"S\" <br><b>Adresa:</b> Nový Studenec 125, 58264, Ždírec nad Doubravou ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:181"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.8104503,
-                    49.6976
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Ždírec n/D., BUS - DIP <br><b>Adresa:</b> Družstevní 404, 58263, Ždírec nad Doubravou ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:169"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.8134349,
-                    49.6975318
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Ždírec nad Doubravou <br><b>Adresa:</b> Družstevní 569, 58263, Ždírec nad Doubravou ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:168"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.7978359,
-                    49.6905925
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Nové Ransko - náves, \"S\" <br><b>Adresa:</b> Nové Ransko 238, 58263, Ždírec nad Doubravou ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:171"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.7662461,
-                    49.7009045
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Sobíňov <br><b>Adresa:</b> č.p. 200, 58262, Sobíňov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:25"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.792913,
-                    49.7174879
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> VM Horní Studenec <br><b>Adresa:</b> Horní Studenec 107, 58264, Ždírec nad Doubravou ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:182"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.7724867,
-                    49.7210302
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Podmoklany - BUS, \"S\" <br><b>Adresa:</b> č.p. 35, 58264, Podmoklany ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:180"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.7725409,
-                    49.6689322
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Slavětín - náves, \"S\" <br><b>Adresa:</b> č.p. 5, 58263, Slavětín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:177"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.8134349,
+          49.6975318
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Ždírec nad Doubravou <br><b>Adresa:</b> Družstevní 569, 58263, Ždírec nad Doubravou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:168"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8104503,
+          49.6976
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Ždírec n/D., BUS - DIP <br><b>Adresa:</b> Družstevní 404, 58263, Ždírec nad Doubravou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:169"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7978359,
+          49.6905925
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nové Ransko - náves, \"S\" <br><b>Adresa:</b> Nové Ransko 238, 58263, Ždírec nad Doubravou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:171"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7725409,
+          49.6689322
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Slavětín - náves, \"S\" <br><b>Adresa:</b> č.p. 5, 58263, Slavětín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:177"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7724867,
+          49.7210302
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Podmoklany - BUS, \"S\" <br><b>Adresa:</b> č.p. 35, 58264, Podmoklany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:180"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7878516,
+          49.7188314
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nový Studenec - BUS, \"S\" <br><b>Adresa:</b> Nový Studenec 125, 58264, Ždírec nad Doubravou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:181"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.792913,
+          49.7174879
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> VM Horní Studenec <br><b>Adresa:</b> Horní Studenec 107, 58264, Ždírec nad Doubravou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:182"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7662461,
+          49.7009045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Sobíňov <br><b>Adresa:</b> č.p. 200, 58262, Sobíňov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:25"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

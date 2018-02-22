@@ -1,141 +1,141 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.505769,
-                    49.17097
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Troubsko <br><b>Adresa:</b> Zámecká 150/8, 66441, Troubsko <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 13.97 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "60010:5"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.4909208,
-                    49.1815318
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Popůvky, Vintrovna <br><b>Adresa:</b> Vintrovna 33/7, 66441, Popůvky <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 36.43 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "60010:22"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.5183381,
-                    49.1668251
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> U kostela, Troubsko <br><b>Adresa:</b> Nár. odboje 365/129, 66441, Troubsko <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 132.47 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "60010:21"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.4884894,
-                    49.178402
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Popůvky, Náves 25 <br><b>Adresa:</b> Náves 32/25, 66441, Popůvky <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.37 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "60010:26"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.487505,
-                    49.2075192
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> hotel Nový dvůr <br><b>Adresa:</b> Brno-venkov; Veverská Bítýška; Veverská Bítýška <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "60012:58"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.4859925,
-                    49.2070349
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Brno 41 <br><b>Adresa:</b> Helenčina 976/1a, Žebětín, 64100, Brno <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 29.16 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 16:00",
-                "ref": "60010:356"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.4511839,
-                    49.170091
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Omice, potraviny <br><b>Adresa:</b> Armádní 225, 66441, Omice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.32 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "60010:24"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.502078,
-                    49.1770027
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> U kapličky, Veselka <br><b>Adresa:</b> Jihlavská 109/44, 66441, Troubsko <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 24.86 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "60010:23"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.5183381,
+          49.1668251
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> U kostela, Troubsko <br><b>Adresa:</b> Nár. odboje 365/129, 66441, Troubsko <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 132.47 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60010:21"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.4909208,
+          49.1815318
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Popůvky, Vintrovna <br><b>Adresa:</b> Vintrovna 33/7, 66441, Popůvky <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 36.43 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60010:22"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.502078,
+          49.1770027
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> U kapličky, Veselka <br><b>Adresa:</b> Jihlavská 109/44, 66441, Troubsko <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 24.86 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60010:23"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.4511839,
+          49.170091
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Omice, potraviny <br><b>Adresa:</b> Armádní 225, 66441, Omice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.32 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60010:24"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.4884894,
+          49.178402
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Popůvky, Náves 25 <br><b>Adresa:</b> Náves 32/25, 66441, Popůvky <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.37 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60010:26"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.4859925,
+          49.2070349
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Brno 41 <br><b>Adresa:</b> Helenčina 976/1a, Žebětín, 64100, Brno <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 29.16 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 16:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60010:356"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.505769,
+          49.17097
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Troubsko <br><b>Adresa:</b> Zámecká 150/8, 66441, Troubsko <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 13.97 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60010:5"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.487505,
+          49.2075192
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> hotel Nový dvůr <br><b>Adresa:</b> Brno-venkov; Veverská Bítýška; Veverská Bítýška <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60012:58"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

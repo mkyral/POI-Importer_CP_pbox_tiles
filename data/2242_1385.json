@@ -1,73 +1,73 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.0631289,
-                    50.1934054
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Ostružná, Ramzová 302, hotel (stojan) <br><b>Adresa:</b> Ramzová 302, 78825, Ostružná ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 13:00",
-                "ref": "78807:215"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.0519906,
-                    50.1855408
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Ostružná 135, OÚ <br><b>Adresa:</b> č.p. 135, 78825, Ostružná ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "78807:213"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.0664563,
-                    50.1929274
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Ostružná, Ramzová E327 (stojan) <br><b>Adresa:</b> Ramzová E327, 78825, Ostružná ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 13:00",
-                "ref": "78807:214"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.1068766,
-                    50.2225414
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pošta Lipová-lázně 3 <br><b>Adresa:</b> Horní Lipová 38, 79063, Lipová-lázně ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "79007:58"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          17.0519906,
+          50.1855408
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Ostružná 135, OÚ <br><b>Adresa:</b> č.p. 135, 78825, Ostružná ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "78807:213"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.0664563,
+          50.1929274
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Ostružná, Ramzová E327 (stojan) <br><b>Adresa:</b> Ramzová E327, 78825, Ostružná ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 13:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "78807:214"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.0631289,
+          50.1934054
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Ostružná, Ramzová 302, hotel (stojan) <br><b>Adresa:</b> Ramzová 302, 78825, Ostružná ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 13:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "78807:215"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.1068766,
+          50.2225414
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Lipová-lázně 3 <br><b>Adresa:</b> Horní Lipová 38, 79063, Lipová-lázně ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79007:58"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

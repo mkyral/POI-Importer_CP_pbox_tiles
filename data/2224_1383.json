@@ -1,158 +1,158 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.5383426,
-                    50.3151636
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Šaplava - stojam u prodejny, č.p. 51 <br><b>Adresa:</b> č.p. 51, 50353, Šaplava ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "50370:435"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4945921,
-                    50.3377683
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> prodejna Staré Smrkovice <br><b>Adresa:</b> č.p. 19, 50801, Staré Smrkovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "50770:286"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.5007783,
-                    50.3030809
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Loučná Hora , naproti hostinci, č.p. 22 <br><b>Adresa:</b> Hradec Králové; Smidary; Loučná Hora <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "50370:434"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4775791,
-                    50.2924001
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> OÚ, Smidary <br><b>Adresa:</b> Náměstí Prof. Babáka 106, 50353, Smidary ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "50370:443"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4716113,
-                    50.3095739
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Chotělice, pohostinství Zelený háj, č.p. 75 <br><b>Adresa:</b> Chotělice 75, 50353, Smidary ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "50370:436"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.5124348,
-                    50.3299234
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pošta Ohnišťany <br><b>Adresa:</b> č.p. 91, 50354, Ohnišťany ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "50370:439"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.5286323,
-                    50.3409677
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> prodejna Tereziny Dary <br><b>Adresa:</b> Tereziny Dary 18, 50801, Lískovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "50770:287"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.5542776,
-                    50.3365035
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Lískovice  u obecní knihovny <br><b>Adresa:</b> č.p. 72, 50801, Lískovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "50770:292"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4799173,
-                    50.2928372
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Smidary <br><b>Adresa:</b> Poštovní 2, 50353, Smidary ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "50370:456"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.5007783,
+          50.3030809
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Loučná Hora , naproti hostinci, č.p. 22 <br><b>Adresa:</b> Hradec Králové; Smidary; Loučná Hora <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "50370:434"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.5383426,
+          50.3151636
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Šaplava - stojam u prodejny, č.p. 51 <br><b>Adresa:</b> č.p. 51, 50353, Šaplava ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "50370:435"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4716113,
+          50.3095739
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Chotělice, pohostinství Zelený háj, č.p. 75 <br><b>Adresa:</b> Chotělice 75, 50353, Smidary ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "50370:436"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.5124348,
+          50.3299234
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Ohnišťany <br><b>Adresa:</b> č.p. 91, 50354, Ohnišťany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "50370:439"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4775791,
+          50.2924001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> OÚ, Smidary <br><b>Adresa:</b> Náměstí Prof. Babáka 106, 50353, Smidary ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "50370:443"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4799173,
+          50.2928372
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Smidary <br><b>Adresa:</b> Poštovní 2, 50353, Smidary ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "50370:456"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4945921,
+          50.3377683
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> prodejna Staré Smrkovice <br><b>Adresa:</b> č.p. 19, 50801, Staré Smrkovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "50770:286"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.5286323,
+          50.3409677
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> prodejna Tereziny Dary <br><b>Adresa:</b> Tereziny Dary 18, 50801, Lískovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "50770:287"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.5542776,
+          50.3365035
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lískovice  u obecní knihovny <br><b>Adresa:</b> č.p. 72, 50801, Lískovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "50770:292"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

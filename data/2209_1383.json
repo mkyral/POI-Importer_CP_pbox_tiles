@@ -1,107 +1,107 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.234181,
-                    50.3040548
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Miletice čp. 63 <br><b>Adresa:</b> Miletice 63, 27324, Černuc ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "27207:152"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.2025032,
-                    50.3011446
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Černuc - parkoviště, schránka na stojanu směr obec <br><b>Adresa:</b> Kladno; Černuc; Černuc <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "27207:160"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.2031322,
-                    50.3008838
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Černuc - budova pošty čp. 17 <br><b>Adresa:</b> č.p. 17, 27323, Černuc ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "27207:60"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.1707858,
-                    50.3039275
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hospozín 176 (budova pošty) <br><b>Adresa:</b> č.p. 176, 27322, Hospozín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "27207:59"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.1570064,
-                    50.3091853
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kmetiněves u autobus. zastávky <br><b>Adresa:</b> Kladno; Kmetiněves; Kmetiněves <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "27207:158"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.1877158,
-                    50.3321986
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hospozínek, u čp. 6 <br><b>Adresa:</b> Hospozínek 1, 27322, Hospozín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "27207:159"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.234181,
+          50.3040548
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Miletice čp. 63 <br><b>Adresa:</b> Miletice 63, 27324, Černuc ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "27207:152"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.1570064,
+          50.3091853
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kmetiněves u autobus. zastávky <br><b>Adresa:</b> Kladno; Kmetiněves; Kmetiněves <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "27207:158"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.1877158,
+          50.3321986
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hospozínek, u čp. 6 <br><b>Adresa:</b> Hospozínek 1, 27322, Hospozín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "27207:159"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2025032,
+          50.3011446
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Černuc - parkoviště, schránka na stojanu směr obec <br><b>Adresa:</b> Kladno; Černuc; Černuc <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "27207:160"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.1707858,
+          50.3039275
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hospozín 176 (budova pošty) <br><b>Adresa:</b> č.p. 176, 27322, Hospozín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "27207:59"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2031322,
+          50.3008838
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Černuc - budova pošty čp. 17 <br><b>Adresa:</b> č.p. 17, 27323, Černuc ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "27207:60"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

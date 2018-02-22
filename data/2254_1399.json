@@ -1,56 +1,56 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.1095856,
-                    49.4147074
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Valašská Bystřice <br><b>Adresa:</b> č.p. 316, 75627, Valašská Bystřice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 15:50",
-                "ref": "75707:249"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.109785,
-                    49.4150717
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jednota paseky, Valašská  Bystřice <br><b>Adresa:</b> Vsetín; Valašská Bystřice; Valašská Bystřice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "75707:137"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.1094066,
-                    49.4144256
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kulturní zařízení č.p. 318, Valašská Bystřice <br><b>Adresa:</b> č.p. 318, 75627, Valašská Bystřice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "75707:130"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          18.1094066,
+          49.4144256
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kulturní zařízení č.p. 318, Valašská Bystřice <br><b>Adresa:</b> č.p. 318, 75627, Valašská Bystřice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "75707:130"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.109785,
+          49.4150717
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jednota paseky, Valašská  Bystřice <br><b>Adresa:</b> Vsetín; Valašská Bystřice; Valašská Bystřice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "75707:137"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.1095856,
+          49.4147074
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Valašská Bystřice <br><b>Adresa:</b> č.p. 316, 75627, Valašská Bystřice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 15:50",
+        "operator": "Česká pošta, s.p.",
+        "ref": "75707:249"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

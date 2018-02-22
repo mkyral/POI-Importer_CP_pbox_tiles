@@ -1,124 +1,124 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.9261901,
-                    48.9601443
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> sídl. č. 357, Chlum u Třeboně <br><b>Adresa:</b> Sídliště F. Hrubína 357, 37804, Chlum u Třeboně <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.8 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "37271:538"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.9334589,
-                    48.9589382
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Chlum u Třeboně-obchodní středisko <br><b>Adresa:</b> Třeboňská 10, 37804, Chlum u Třeboně <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 180.09 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "37271:539"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.868533,
-                    48.9509806
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Majdalena , nádraží ČD <br><b>Adresa:</b> č.p. 37, 37803, Majdalena <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 40.9 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:15",
-                "ref": "37271:520"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.8851842,
-                    48.9494905
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kosky, vodárna <br><b>Adresa:</b> č.p. 158, 37806, Hamr <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 57.01 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "37271:519"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.8602446,
-                    48.9634873
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> budova pošty, Majdalena <br><b>Adresa:</b> č.p. 6, 37803, Majdalena <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 27.27 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "37271:528"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.9311215,
-                    48.957357
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> budova pošty, Chlum u Třeboně <br><b>Adresa:</b> Třeboňská 374, 37804, Chlum u Třeboně <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 39.98 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "37271:537"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.9154643,
-                    48.9508698
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hamr u č.p. 7 <br><b>Adresa:</b> č.p. 7, 37806, Hamr <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 40.78 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "37271:525"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.8851842,
+          48.9494905
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kosky, vodárna <br><b>Adresa:</b> č.p. 158, 37806, Hamr <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 57.01 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:519"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.868533,
+          48.9509806
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Majdalena , nádraží ČD <br><b>Adresa:</b> č.p. 37, 37803, Majdalena <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 40.9 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:520"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.9154643,
+          48.9508698
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hamr u č.p. 7 <br><b>Adresa:</b> č.p. 7, 37806, Hamr <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 40.78 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:525"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.8602446,
+          48.9634873
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> budova pošty, Majdalena <br><b>Adresa:</b> č.p. 6, 37803, Majdalena <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 27.27 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:528"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.9311215,
+          48.957357
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> budova pošty, Chlum u Třeboně <br><b>Adresa:</b> Třeboňská 374, 37804, Chlum u Třeboně <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 39.98 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:537"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.9261901,
+          48.9601443
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> sídl. č. 357, Chlum u Třeboně <br><b>Adresa:</b> Sídliště F. Hrubína 357, 37804, Chlum u Třeboně <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.8 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:538"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.9334589,
+          48.9589382
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Chlum u Třeboně-obchodní středisko <br><b>Adresa:</b> Třeboňská 10, 37804, Chlum u Třeboně <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 180.09 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:539"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

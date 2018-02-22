@@ -1,56 +1,56 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.474621,
-                    49.7702396
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Nová Véska, naproti čp.27,Norberčany (na stojanu) <br><b>Adresa:</b> Olomouc; Norberčany; Nová Véska <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "79207:107"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.4452383,
-                    49.7424747
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Domašov nad Bystřicí, Náměstí 76, budova pošty <br><b>Adresa:</b> Náměstí 76, 78306, Domašov nad Bystřicí ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo 16:50; Tu 15:35; We 16:50; Th 15:55; Fr 11:00",
-                "ref": "77072:533"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.4870696,
-                    49.7373455
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Libavá, Heroltovice 1522 <br><b>Adresa:</b> Heroltovice 1522, 78307, Město Libavá ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "77072:524"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          17.4870696,
+          49.7373455
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Libavá, Heroltovice 1522 <br><b>Adresa:</b> Heroltovice 1522, 78307, Město Libavá ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "77072:524"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.4452383,
+          49.7424747
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Domašov nad Bystřicí, Náměstí 76, budova pošty <br><b>Adresa:</b> Náměstí 76, 78306, Domašov nad Bystřicí ",
+        "amenity": "post_box",
+        "collection_times": "Mo 16:50; Tu 15:35; We 16:50; Th 15:55; Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "77072:533"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.474621,
+          49.7702396
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nová Véska, naproti čp.27,Norberčany (na stojanu) <br><b>Adresa:</b> Olomouc; Norberčany; Nová Véska <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79207:107"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

@@ -1,90 +1,90 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.851252,
-                    49.7417222
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pavlov, Veselí 46, Vacetín (stojan) <br><b>Adresa:</b> Šumperk; Pavlov; Veselí <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:30",
-                "ref": "78807:415"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.8745138,
-                    49.7680955
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Líšnice, Vyšehorky 4 (stojan) <br><b>Adresa:</b> Šumperk; Líšnice; Vyšehorky <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "78807:405"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.8671295,
-                    49.7471658
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pavlov 117, Zavadilka (stojan) <br><b>Adresa:</b> Šumperk; Pavlov; Pavlov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "78807:416"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.8176806,
-                    49.7689433
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Mohelnice, Studená Loučka 14 (stojan) <br><b>Adresa:</b> Šumperk; Mohelnice; Studená Loučka <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:15",
-                "ref": "78807:404"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.8480027,
-                    49.7311376
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pavlov, Veselí 2 (stojan) <br><b>Adresa:</b> Šumperk; Pavlov; Veselí <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 13:00",
-                "ref": "78807:414"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.8176806,
+          49.7689433
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Mohelnice, Studená Loučka 14 (stojan) <br><b>Adresa:</b> Šumperk; Mohelnice; Studená Loučka <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "78807:404"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.8745138,
+          49.7680955
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Líšnice, Vyšehorky 4 (stojan) <br><b>Adresa:</b> Šumperk; Líšnice; Vyšehorky <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "78807:405"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.8480027,
+          49.7311376
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pavlov, Veselí 2 (stojan) <br><b>Adresa:</b> Šumperk; Pavlov; Veselí <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 13:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "78807:414"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.851252,
+          49.7417222
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pavlov, Veselí 46, Vacetín (stojan) <br><b>Adresa:</b> Šumperk; Pavlov; Veselí <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "78807:415"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.8671295,
+          49.7471658
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pavlov 117, Zavadilka (stojan) <br><b>Adresa:</b> Šumperk; Pavlov; Pavlov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "78807:416"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

@@ -1,141 +1,141 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.5803677,
-                    49.1208216
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Obchodní dům, Březolupy <br><b>Adresa:</b> č.p. 403, 68713, Březolupy ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "68607:79"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.6461205,
-                    49.111075
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kelníky - zastávka ČSAD <br><b>Adresa:</b> č.p. 31, 76307, Kelníky ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "76607:64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.6286586,
-                    49.1295069
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> zastávka ČSAD, Zlámanec <br><b>Adresa:</b> č.p. 39, 68712, Zlámanec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:15",
-                "ref": "68607:77"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.6198427,
-                    49.1057847
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u obchodu, Částkov <br><b>Adresa:</b> č.p. 6, 68712, Částkov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "68607:78"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.6069607,
-                    49.1481825
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> aut. zastávka, Šarovy <br><b>Adresa:</b> č.p. 100, 76351, Šarovy ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "76607:178"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.5815791,
-                    49.1218554
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Březolupy <br><b>Adresa:</b> č.p. 434, 68713, Březolupy ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "68607:243"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.6244864,
-                    49.1162629
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> před obchodem, Svárov <br><b>Adresa:</b> č.p. 74, 68712, Svárov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "68607:76"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.5914887,
-                    49.1006021
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Nedachlebice <br><b>Adresa:</b> č.p. 250, 68712, Nedachlebice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "68607:244"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          17.5815791,
+          49.1218554
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Březolupy <br><b>Adresa:</b> č.p. 434, 68713, Březolupy ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68607:243"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.5914887,
+          49.1006021
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Nedachlebice <br><b>Adresa:</b> č.p. 250, 68712, Nedachlebice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68607:244"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.6244864,
+          49.1162629
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> před obchodem, Svárov <br><b>Adresa:</b> č.p. 74, 68712, Svárov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68607:76"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.6286586,
+          49.1295069
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> zastávka ČSAD, Zlámanec <br><b>Adresa:</b> č.p. 39, 68712, Zlámanec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68607:77"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.6198427,
+          49.1057847
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u obchodu, Částkov <br><b>Adresa:</b> č.p. 6, 68712, Částkov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68607:78"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.5803677,
+          49.1208216
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Obchodní dům, Březolupy <br><b>Adresa:</b> č.p. 403, 68713, Březolupy ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68607:79"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.6069607,
+          49.1481825
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> aut. zastávka, Šarovy <br><b>Adresa:</b> č.p. 100, 76351, Šarovy ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "76607:178"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.6461205,
+          49.111075
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kelníky - zastávka ČSAD <br><b>Adresa:</b> č.p. 31, 76307, Kelníky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "76607:64"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

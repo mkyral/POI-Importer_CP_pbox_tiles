@@ -1,124 +1,124 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.2480162,
-                    48.9480356
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Nová Ves  č. 112 <br><b>Adresa:</b> č.p. 112, 38203, Nová Ves <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 38.66 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "37271:625"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3216482,
-                    48.9691354
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Čakovec č.10 <br><b>Adresa:</b> Čakovec 10, 37384, Čakov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 18.35 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "37271:183"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.272378,
-                    48.969673
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Holašovice č.10 <br><b>Adresa:</b> Holašovice 17, 37384, Jankov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 41.43 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "37271:185"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.2971854,
-                    48.9663085
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jankov č.13 <br><b>Adresa:</b> č.p. 13, 37384, Jankov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.4 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:15",
-                "ref": "37271:184"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.2780934,
-                    48.9351397
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Chmelná  - zastávka autobusu <br><b>Adresa:</b> Chmelná 13, 38203, Křemže <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 57.18 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "37271:618"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.2729391,
-                    48.9708356
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Infocentrum Holašovice č.63 <br><b>Adresa:</b> č.p. 63, 37384, Jankov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 1.9 km",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "37271:186"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3080866,
-                    48.9797714
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Čakov 67 <br><b>Adresa:</b> č.p. 67, 37384, Čakov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 25.64 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:15",
-                "ref": "37271:190"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.3216482,
+          48.9691354
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Čakovec č.10 <br><b>Adresa:</b> Čakovec 10, 37384, Čakov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 18.35 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:183"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2971854,
+          48.9663085
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jankov č.13 <br><b>Adresa:</b> č.p. 13, 37384, Jankov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.4 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:184"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.272378,
+          48.969673
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Holašovice č.10 <br><b>Adresa:</b> Holašovice 17, 37384, Jankov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 41.43 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:185"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2968319,
+          48.9646743
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Infocentrum Holašovice č.63 <br><b>Adresa:</b> č.p. 63, 37384, Jankov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:186"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3080866,
+          48.9797714
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Čakov 67 <br><b>Adresa:</b> č.p. 67, 37384, Čakov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 25.64 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:190"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2780934,
+          48.9351397
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Chmelná  - zastávka autobusu <br><b>Adresa:</b> Chmelná 13, 38203, Křemže <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 57.18 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:618"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2480162,
+          48.9480356
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nová Ves  č. 112 <br><b>Adresa:</b> č.p. 112, 38203, Nová Ves <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 38.66 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:625"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

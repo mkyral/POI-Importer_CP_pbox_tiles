@@ -1,73 +1,73 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.1501735,
-                    49.5457755
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Bordovice 130, obecní úřad, výdejní místo <br><b>Adresa:</b> č.p. 130, 74401, Bordovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "74207:101"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.1625777,
-                    49.5490251
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Bordovice 99, rozcestí (stojan) <br><b>Adresa:</b> Nový Jičín; Bordovice; Bordovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "74207:100"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.1232403,
-                    49.5389861
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Veřovice 118 (stojan) <br><b>Adresa:</b> Nový Jičín; Veřovice; Veřovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "74207:121"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.1105878,
-                    49.5390779
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pošta Veřovice <br><b>Adresa:</b> č.p. 6, 74273, Veřovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "74207:136"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          18.1625777,
+          49.5490251
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bordovice 99, rozcestí (stojan) <br><b>Adresa:</b> Nový Jičín; Bordovice; Bordovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74207:100"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.1501735,
+          49.5457755
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bordovice 130, obecní úřad, výdejní místo <br><b>Adresa:</b> č.p. 130, 74401, Bordovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74207:101"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.1232403,
+          49.5389861
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Veřovice 118 (stojan) <br><b>Adresa:</b> Nový Jičín; Veřovice; Veřovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74207:121"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.1105878,
+          49.5390779
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Veřovice <br><b>Adresa:</b> č.p. 6, 74273, Veřovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74207:136"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

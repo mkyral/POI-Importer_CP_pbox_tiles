@@ -1,90 +1,90 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.3530204,
-                    49.3835475
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Zářičí - pohostinství <br><b>Adresa:</b> č.p. 74, 76811, Záříčí ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "76707:42"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.350146,
-                    49.4327459
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Troubky, Dědina 759/12 (stojan) <br><b>Adresa:</b> Přerov; Troubky; Troubky <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:50",
-                "ref": "75007:58"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.3481786,
-                    49.4301568
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pošta Troubky (stojan) <br><b>Adresa:</b> Vrbí 425/13, 75102, Troubky ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 15:30",
-                "ref": "75007:101"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.3427033,
-                    49.4302847
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Troubky, Kozlovská 764/2 (stojan) <br><b>Adresa:</b> Kozlovská 764/2, 75102, Troubky ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "75007:59"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.3922345,
-                    49.4362009
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Přerov, Henčlov, Zakladatelů 159/3, obchod <br><b>Adresa:</b> Zakladatelů 159/3, Přerov VIII-Henčlov, 75002, Přerov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "75007:412"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          17.3481786,
+          49.4301568
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Troubky (stojan) <br><b>Adresa:</b> Vrbí 425/13, 75102, Troubky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 15:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "75007:101"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.3922345,
+          49.4362009
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Přerov, Henčlov, Zakladatelů 159/3, obchod <br><b>Adresa:</b> Zakladatelů 159/3, Přerov VIII-Henčlov, 75002, Přerov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "75007:412"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.350146,
+          49.4327459
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Troubky, Dědina 759/12 (stojan) <br><b>Adresa:</b> Přerov; Troubky; Troubky <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:50",
+        "operator": "Česká pošta, s.p.",
+        "ref": "75007:58"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.3427033,
+          49.4302847
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Troubky, Kozlovská 764/2 (stojan) <br><b>Adresa:</b> Kozlovská 764/2, 75102, Troubky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "75007:59"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.3530204,
+          49.3835475
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Zářičí - pohostinství <br><b>Adresa:</b> č.p. 74, 76811, Záříčí ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "76707:42"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

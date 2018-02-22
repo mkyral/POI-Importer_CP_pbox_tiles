@@ -1,124 +1,124 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.08103,
-                    49.0421345
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> autobusová zastávka, Ostrovánky <br><b>Adresa:</b> č.p. 1, 69631, Ostrovánky ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "69507:165"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.1311436,
-                    49.0924365
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jestřabice č.p. 10 <br><b>Adresa:</b> Jestřabice 10, 76805, Koryčany ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "76707:169"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.1018518,
-                    49.0411851
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta  Bukovany u Hodonína <br><b>Adresa:</b> č.p. 222, 69631, Bukovany ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "69507:158"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.0555339,
-                    49.0648302
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta  Lovčice u Kyjova <br><b>Adresa:</b> č.p. 119, 69639, Lovčice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "69507:90"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.1230433,
-                    49.0496073
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Kyjov 3 <br><b>Adresa:</b> Bohuslavice 4177, 69655, Kyjov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "69507:163"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.0622149,
-                    49.0671102
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> zastávka ČSAD, Lovčice u Kyjova <br><b>Adresa:</b> č.p. 68, 69639, Lovčice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:15",
-                "ref": "69507:91"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.0810442,
-                    49.0541037
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> smíšené zboží Malíková, Nechvalín <br><b>Adresa:</b> č.p. 17, 69631, Nechvalín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "69507:164"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          17.1018518,
+          49.0411851
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta  Bukovany u Hodonína <br><b>Adresa:</b> č.p. 222, 69631, Bukovany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69507:158"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.1230433,
+          49.0496073
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Kyjov 3 <br><b>Adresa:</b> Bohuslavice 4177, 69655, Kyjov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69507:163"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.0810442,
+          49.0541037
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> smíšené zboží Malíková, Nechvalín <br><b>Adresa:</b> č.p. 17, 69631, Nechvalín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69507:164"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.08103,
+          49.0421345
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> autobusová zastávka, Ostrovánky <br><b>Adresa:</b> č.p. 1, 69631, Ostrovánky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69507:165"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.0555339,
+          49.0648302
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta  Lovčice u Kyjova <br><b>Adresa:</b> č.p. 119, 69639, Lovčice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69507:90"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.0622149,
+          49.0671102
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> zastávka ČSAD, Lovčice u Kyjova <br><b>Adresa:</b> č.p. 68, 69639, Lovčice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69507:91"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.1311436,
+          49.0924365
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jestřabice č.p. 10 <br><b>Adresa:</b> Jestřabice 10, 76805, Koryčany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "76707:169"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

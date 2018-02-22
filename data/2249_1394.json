@@ -1,90 +1,90 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.7210542,
-                    49.6681211
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Luboměř, Heltínov 21, bus. zastávka (stojan) <br><b>Adresa:</b> Nový Jičín; Luboměř; Heltínov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "74207:317"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.7047189,
-                    49.6870321
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Luboměř 31 (stojan) <br><b>Adresa:</b> Nový Jičín; Luboměř; Luboměř <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "74207:316"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.7483009,
-                    49.7215485
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Odry, Klokočůvek 327 - obecní škola <br><b>Adresa:</b> Klokočůvek 327, 74235, Odry ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:30",
-                "ref": "74207:315"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.7288829,
-                    49.7036335
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Spálov 311, bus. zastávka (stojan) <br><b>Adresa:</b> Nový Jičín; Spálov; Spálov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "74207:324"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.7220702,
-                    49.7041651
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pošta Spálov <br><b>Adresa:</b> č.p. 62, 74237, Spálov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 14:30",
-                "ref": "74207:94"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          17.7483009,
+          49.7215485
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Odry, Klokočůvek 327 - obecní škola <br><b>Adresa:</b> Klokočůvek 327, 74235, Odry ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74207:315"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.7047189,
+          49.6870321
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Luboměř 31 (stojan) <br><b>Adresa:</b> Nový Jičín; Luboměř; Luboměř <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74207:316"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.7210542,
+          49.6681211
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Luboměř, Heltínov 21, bus. zastávka (stojan) <br><b>Adresa:</b> Nový Jičín; Luboměř; Heltínov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74207:317"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.7288829,
+          49.7036335
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Spálov 311, bus. zastávka (stojan) <br><b>Adresa:</b> Nový Jičín; Spálov; Spálov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74207:324"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.7220702,
+          49.7041651
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Spálov <br><b>Adresa:</b> č.p. 62, 74237, Spálov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 14:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74207:94"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

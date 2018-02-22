@@ -1,124 +1,124 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.2046013,
-                    49.1631274
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> č. 437, Strmilov <br><b>Adresa:</b> Popelínská 437, 37853, Strmilov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "37702:153"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.1707397,
-                    49.1961453
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Česká Olešná u č.p. 95 <br><b>Adresa:</b> Česká Olešná 95, 37853, Strmilov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "37702:158"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.1600593,
-                    49.1750249
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Nová Olešná <br><b>Adresa:</b> č.p. 61, 37853, Nová Olešná ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:55",
-                "ref": "37702:182"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.1260011,
-                    49.1633001
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Mutyněves <br><b>Adresa:</b> Mutyněves 15, 37701, Blažejov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:50",
-                "ref": "37702:55"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.1994625,
-                    49.1599039
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Strmilov, potraviny <br><b>Adresa:</b> Dlouhá 250, 37853, Strmilov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "37702:152"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.2022236,
-                    49.1593184
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Budova pošty Strmilov <br><b>Adresa:</b> Náměstí 267, 37853, Strmilov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.35 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 14:00",
-                "ref": "37702:148"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.1706147,
-                    49.1915569
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Česká Olešná - požární zbrojnice <br><b>Adresa:</b> Česká Olešná 30, 37853, Strmilov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:10",
-                "ref": "37702:157"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.2022236,
+          49.1593184
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Budova pošty Strmilov <br><b>Adresa:</b> Náměstí 267, 37853, Strmilov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.35 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 14:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:148"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.1994625,
+          49.1599039
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Strmilov, potraviny <br><b>Adresa:</b> Dlouhá 250, 37853, Strmilov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:152"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2046013,
+          49.1631274
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> č. 437, Strmilov <br><b>Adresa:</b> Popelínská 437, 37853, Strmilov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:153"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.1706147,
+          49.1915569
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Česká Olešná - požární zbrojnice <br><b>Adresa:</b> Česká Olešná 30, 37853, Strmilov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:10",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:157"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.1707397,
+          49.1961453
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Česká Olešná u č.p. 95 <br><b>Adresa:</b> Česká Olešná 95, 37853, Strmilov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:158"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.1600593,
+          49.1750249
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nová Olešná <br><b>Adresa:</b> č.p. 61, 37853, Nová Olešná ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:55",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:182"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.1260011,
+          49.1633001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Mutyněves <br><b>Adresa:</b> Mutyněves 15, 37701, Blažejov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:50",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:55"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

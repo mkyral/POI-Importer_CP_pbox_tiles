@@ -1,90 +1,90 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.0884285,
-                    49.5172808
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Lety <br><b>Adresa:</b> č.p. 25, 39804, Lety ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:15",
-                "ref": "39707:145"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.1464387,
-                    49.515993
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kožlí <br><b>Adresa:</b> č.p. 1, 39804, Kožlí ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "39707:143"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.0639222,
-                    49.4995353
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Dolní Nerestce <br><b>Adresa:</b> Dolní Nerestce 33, 39804, Nerestce ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "39707:161"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.1082721,
-                    49.5236052
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Šerkov <br><b>Adresa:</b> Šerkov 15, 39804, Lety ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "39707:144"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.0859461,
-                    49.5417138
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Zalužany <br><b>Adresa:</b> č.p. 30, 26284, Zalužany ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "26107:401"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.0859461,
+          49.5417138
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Zalužany <br><b>Adresa:</b> č.p. 30, 26284, Zalužany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:401"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.1464387,
+          49.515993
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kožlí <br><b>Adresa:</b> č.p. 1, 39804, Kožlí ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39707:143"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.1082721,
+          49.5236052
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Šerkov <br><b>Adresa:</b> Šerkov 15, 39804, Lety ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39707:144"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.0884285,
+          49.5172808
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lety <br><b>Adresa:</b> č.p. 25, 39804, Lety ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39707:145"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.0639222,
+          49.4995353
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dolní Nerestce <br><b>Adresa:</b> Dolní Nerestce 33, 39804, Nerestce ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39707:161"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

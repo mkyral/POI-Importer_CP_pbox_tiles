@@ -1,73 +1,73 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.0195367,
-                    50.0427622
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Polikno, zídka u č. 10, <br><b>Adresa:</b> Políkno 10, 36401, Toužim ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "30071:497"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.0875709,
-                    50.0104843
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Služetín - autobusová zastávka <br><b>Adresa:</b> Plzeň-sever; Bezvěrov; Služetín <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "30071:324"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.0145081,
-                    50.0227803
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Třebouň, zastávka ČSAD, <br><b>Adresa:</b> Karlovy Vary; Toužim; Třebouň <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "30071:495"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.0691835,
-                    50.0595779
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Brložec, autobusová zastávka, <br><b>Adresa:</b> Karlovy Vary; Štědrá; Brložec <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "30071:535"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.0875709,
+          50.0104843
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Služetín - autobusová zastávka <br><b>Adresa:</b> Plzeň-sever; Bezvěrov; Služetín <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30071:324"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.0145081,
+          50.0227803
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Třebouň, zastávka ČSAD, <br><b>Adresa:</b> Karlovy Vary; Toužim; Třebouň <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30071:495"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.0195367,
+          50.0427622
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Polikno, zídka u č. 10, <br><b>Adresa:</b> Políkno 10, 36401, Toužim ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30071:497"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.0691835,
+          50.0595779
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Brložec, autobusová zastávka, <br><b>Adresa:</b> Karlovy Vary; Štědrá; Brložec <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30071:535"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

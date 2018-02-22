@@ -1,107 +1,107 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3600066,
-                    49.1225634
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Velice č. 36 <br><b>Adresa:</b> Velice 36, 37348, Dříteň <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 29.01 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:15",
-                "ref": "37271:822"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.4106361,
-                    49.1177628
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Chlumec č. 1 <br><b>Adresa:</b> Chlumec 1, 37341, Olešník <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 32.86 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "37271:314"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.364834,
-                    49.1080866
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Budova pošty Olešník <br><b>Adresa:</b> č.p. 15, 37350, Olešník ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:15",
-                "ref": "37271:829"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3305681,
-                    49.1163845
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Nákří č. 23 <br><b>Adresa:</b> č.p. 23, 37348, Nákří <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 71.38 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:15",
-                "ref": "37271:813"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3444852,
-                    49.1422903
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Před budovou pošty Dříteň 152 <br><b>Adresa:</b> č.p. 152, 37351, Dříteň <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 14.07 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:15",
-                "ref": "37271:830"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3850576,
-                    49.1372781
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Nová Ves <br><b>Adresa:</b> Nová Ves 2, 37501, Olešník <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 31.2 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:30",
-                "ref": "37271:245"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.3850576,
+          49.1372781
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nová Ves <br><b>Adresa:</b> Nová Ves 2, 37501, Olešník <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 31.2 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:245"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.4106361,
+          49.1177628
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Chlumec č. 1 <br><b>Adresa:</b> Chlumec 1, 37341, Olešník <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 32.86 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:314"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3305681,
+          49.1163845
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nákří č. 23 <br><b>Adresa:</b> č.p. 23, 37348, Nákří <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 71.38 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:813"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3600066,
+          49.1225634
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Velice č. 36 <br><b>Adresa:</b> Velice 36, 37348, Dříteň <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 29.01 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:822"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.364834,
+          49.1080866
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Budova pošty Olešník <br><b>Adresa:</b> č.p. 15, 37350, Olešník ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:829"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3444852,
+          49.1422903
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Před budovou pošty Dříteň 152 <br><b>Adresa:</b> č.p. 152, 37351, Dříteň <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 14.07 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:830"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

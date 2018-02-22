@@ -1,158 +1,158 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.0754678,
-                    48.9854257
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Stupešice OÚ <br><b>Adresa:</b> Stupešice 2, 67140, Běhařovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "66907:137"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.0177194,
-                    49.0202226
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Slatina-hasičská zbrojnice <br><b>Adresa:</b> Znojmo; Slatina; Slatina <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u></p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "66907:169"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.0548952,
-                    48.9956114
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Ratišovice - Jednota <br><b>Adresa:</b> Ratišovice 15, 67140, Běhařovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "66907:138"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.0241959,
-                    49.0210563
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Slatina- na kopci <br><b>Adresa:</b> č.p. 82, 67153, Slatina ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "66907:168"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.0771822,
-                    49.0208487
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Dobronice - čekárna <br><b>Adresa:</b> Dobronice 27, 67140, Tavíkovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "66907:136"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.0536602,
-                    49.0229397
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Újezd  č.p. 1 <br><b>Adresa:</b> č.p. 1, 67140, Újezd ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "66907:139"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.0794049,
-                    49.0032221
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Běhařovice, č.p.43 <br><b>Adresa:</b> č.p. 43, 67139, Běhařovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "66907:146"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.0105365,
-                    49.0360192
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Biskupice, náměstí <br><b>Adresa:</b> Biskupice 101, 67557, Biskupice-Pulkov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "67407:225"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.0175165,
-                    48.984478
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Černín-obchod <br><b>Adresa:</b> č.p. 49, 67153, Černín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "66907:170"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.0771822,
+          49.0208487
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dobronice - čekárna <br><b>Adresa:</b> Dobronice 27, 67140, Tavíkovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:136"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0754678,
+          48.9854257
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Stupešice OÚ <br><b>Adresa:</b> Stupešice 2, 67140, Běhařovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:137"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0548952,
+          48.9956114
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Ratišovice - Jednota <br><b>Adresa:</b> Ratišovice 15, 67140, Běhařovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:138"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0536602,
+          49.0229397
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Újezd  č.p. 1 <br><b>Adresa:</b> č.p. 1, 67140, Újezd ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:139"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0794049,
+          49.0032221
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Běhařovice, č.p.43 <br><b>Adresa:</b> č.p. 43, 67139, Běhařovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:146"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0241959,
+          49.0210563
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Slatina- na kopci <br><b>Adresa:</b> č.p. 82, 67153, Slatina ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:168"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0177194,
+          49.0202226
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Slatina-hasičská zbrojnice <br><b>Adresa:</b> Znojmo; Slatina; Slatina <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:169"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0175165,
+          48.984478
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Černín-obchod <br><b>Adresa:</b> č.p. 49, 67153, Černín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:170"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0105365,
+          49.0360192
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Biskupice, náměstí <br><b>Adresa:</b> Biskupice 101, 67557, Biskupice-Pulkov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:225"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

@@ -1,73 +1,73 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.5899547,
-                    49.7970729
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Nová Ves obchod č.p. 59, Kunčina <br><b>Adresa:</b> Nová Ves 59, 56924, Kunčina ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:539"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.5355381,
-                    49.7996227
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Dětřichov 116 - obchod <br><b>Adresa:</b> č.p. 116, 56802, Dětřichov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:223"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.5920648,
-                    49.8241182
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> samoobsluha č.p. 138, Mladějov na Moravě <br><b>Adresa:</b> č.p. 138, 56935, Mladějov na Moravě ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:537"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.5953526,
-                    49.8246449
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Mladějov na Moravě <br><b>Adresa:</b> č.p. 56, 56935, Mladějov na Moravě ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:546"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.5355381,
+          49.7996227
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dětřichov 116 - obchod <br><b>Adresa:</b> č.p. 116, 56802, Dětřichov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:223"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.5920648,
+          49.8241182
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> samoobsluha č.p. 138, Mladějov na Moravě <br><b>Adresa:</b> č.p. 138, 56935, Mladějov na Moravě ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:537"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.5899547,
+          49.7970729
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nová Ves obchod č.p. 59, Kunčina <br><b>Adresa:</b> Nová Ves 59, 56924, Kunčina ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:539"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.5953526,
+          49.8246449
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Mladějov na Moravě <br><b>Adresa:</b> č.p. 56, 56935, Mladějov na Moravě ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:546"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

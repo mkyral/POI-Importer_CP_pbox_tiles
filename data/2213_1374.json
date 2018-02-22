@@ -1,56 +1,56 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.5352741,
-                    50.8125916
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> v blízkosti domu č.p. 24 <br><b>Adresa:</b> Děčín; Kytlice; Kytlice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "40507:149"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.5322803,
-                    50.8148193
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 37, 40745, Kytlice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "40507:179"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.5859929,
-                    50.7932941
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> č.p. 79, Svor <br><b>Adresa:</b> č.p. 79, 47151, Svor <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 16.76 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:20",
-                "ref": "47007:190"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.5352741,
+          50.8125916
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> v blízkosti domu č.p. 24 <br><b>Adresa:</b> Děčín; Kytlice; Kytlice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "40507:149"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5322803,
+          50.8148193
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 37, 40745, Kytlice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "40507:179"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5859929,
+          50.7932941
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> č.p. 79, Svor <br><b>Adresa:</b> č.p. 79, 47151, Svor <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 16.76 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:20",
+        "operator": "Česká pošta, s.p.",
+        "ref": "47007:190"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

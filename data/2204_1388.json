@@ -1,141 +1,141 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.7822099,
-                    50.0549604
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Lašovice - u zastávky <br><b>Adresa:</b> Rakovník; Lašovice; Lašovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "26907:78"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.7632095,
-                    50.0234805
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Skřivan - zast. ČSAD <br><b>Adresa:</b> Rakovník; Pavlíkov; Skřivaň <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:20",
-                "ref": "26907:80"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.757651,
-                    50.0461011
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Všetaty - u býv. obvhodu <br><b>Adresa:</b> Rakovník; Všetaty; Všetaty <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "26907:77"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.7168181,
-                    50.0360028
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Panoší Újezd - u obchodu <br><b>Adresa:</b> Rakovník; Panoší Újezd; Panoší Újezd <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "26907:79"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.7218445,
-                    50.0175933
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Prodejna, Skupá č.p.1 <br><b>Adresa:</b> Skupá 1, 27041, Slabce ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:10",
-                "ref": "26907:156"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.7370076,
-                    50.0570488
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pavlíkov - pošta <br><b>Adresa:</b> č.p. 106, 27021, Pavlíkov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "26907:82"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.735838,
-                    50.0301891
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Tytry - na návsi <br><b>Adresa:</b> Rakovník; Pavlíkov; Tytry <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:40",
-                "ref": "26907:81"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.7558709,
-                    50.0084457
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Novosedly č.p. 16 <br><b>Adresa:</b> Novosedly 16, 27041, Hřebečníky ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:10",
-                "ref": "26907:162"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.7218445,
+          50.0175933
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Prodejna, Skupá č.p.1 <br><b>Adresa:</b> Skupá 1, 27041, Slabce ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:10",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26907:156"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.7558709,
+          50.0084457
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Novosedly č.p. 16 <br><b>Adresa:</b> Novosedly 16, 27041, Hřebečníky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:10",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26907:162"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.757651,
+          50.0461011
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Všetaty - u býv. obvhodu <br><b>Adresa:</b> Rakovník; Všetaty; Všetaty <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26907:77"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.7822099,
+          50.0549604
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lašovice - u zastávky <br><b>Adresa:</b> Rakovník; Lašovice; Lašovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26907:78"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.7168181,
+          50.0360028
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Panoší Újezd - u obchodu <br><b>Adresa:</b> Rakovník; Panoší Újezd; Panoší Újezd <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26907:79"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.7632095,
+          50.0234805
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Skřivan - zast. ČSAD <br><b>Adresa:</b> Rakovník; Pavlíkov; Skřivaň <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:20",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26907:80"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.735838,
+          50.0301891
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Tytry - na návsi <br><b>Adresa:</b> Rakovník; Pavlíkov; Tytry <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:40",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26907:81"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.7370076,
+          50.0570488
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pavlíkov - pošta <br><b>Adresa:</b> č.p. 106, 27021, Pavlíkov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26907:82"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

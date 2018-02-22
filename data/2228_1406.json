@@ -1,158 +1,158 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.8400003,
-                    48.9980137
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Blížkovice-obchod <br><b>Adresa:</b> č.p. 424, 67155, Blížkovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "66907:162"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.8635477,
-                    49.0251426
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Zvěrkovice, č.p. l - stojan <br><b>Adresa:</b> č.p. 2, 67602, Zvěrkovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:15",
-                "ref": "67407:276"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.8394316,
-                    48.9997155
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Blížkovice <br><b>Adresa:</b> č.p. 129, 67155, Blížkovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "66907:273"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.8344305,
-                    49.0352593
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Lažínky, prodejna Jednoty <br><b>Adresa:</b> Lažínky 65, 67602, Moravské Budějovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "67407:275"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.8353462,
-                    49.0224497
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Vesce, prodejna Jednoty <br><b>Adresa:</b> Vesce 49, 67602, Moravské Budějovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "67407:277"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.8836694,
-                    48.9913139
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Blanné <br><b>Adresa:</b> č.p. 13, 67154, Blanné ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "66907:160"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.8615315,
-                    48.9821785
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Ctidružice <br><b>Adresa:</b> č.p. 66, 67154, Ctidružice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "66907:161"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.8970929,
-                    49.0168006
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Hostim <br><b>Adresa:</b> č.p. 165, 67154, Hostim ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "66907:272"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.8945464,
-                    48.9984681
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Prokopov <br><b>Adresa:</b> č.p. 17, 67154, Prokopov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "66907:159"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.8945464,
+          48.9984681
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Prokopov <br><b>Adresa:</b> č.p. 17, 67154, Prokopov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:159"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8836694,
+          48.9913139
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Blanné <br><b>Adresa:</b> č.p. 13, 67154, Blanné ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:160"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8615315,
+          48.9821785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Ctidružice <br><b>Adresa:</b> č.p. 66, 67154, Ctidružice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:161"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8400003,
+          48.9980137
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Blížkovice-obchod <br><b>Adresa:</b> č.p. 424, 67155, Blížkovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:162"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8970929,
+          49.0168006
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Hostim <br><b>Adresa:</b> č.p. 165, 67154, Hostim ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:272"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8394316,
+          48.9997155
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Blížkovice <br><b>Adresa:</b> č.p. 129, 67155, Blížkovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:273"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8344305,
+          49.0352593
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lažínky, prodejna Jednoty <br><b>Adresa:</b> Lažínky 65, 67602, Moravské Budějovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:275"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8635477,
+          49.0251426
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Zvěrkovice, č.p. l - stojan <br><b>Adresa:</b> č.p. 2, 67602, Zvěrkovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:276"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8353462,
+          49.0224497
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vesce, prodejna Jednoty <br><b>Adresa:</b> Vesce 49, 67602, Moravské Budějovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:277"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

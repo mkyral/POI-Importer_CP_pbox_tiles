@@ -1,277 +1,277 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.9616059,
-                    49.1453978
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kakovice <br><b>Adresa:</b> Kakovice 5, 38701, Předslavice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:45",
-                "ref": "38607:416"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.9259815,
-                    49.1273337
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Úlehle <br><b>Adresa:</b> Úlehle 17, 38701, Předslavice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "38607:409"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.8952501,
-                    49.1038626
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kovanín <br><b>Adresa:</b> Kovanín 7, 38481, Zálezly ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:10",
-                "ref": "38607:440"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.9037087,
-                    49.0955026
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Setěchovice <br><b>Adresa:</b> Setěchovice 2, 38481, Zálezly ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "38607:431"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.9288587,
-                    49.09924
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Dolní Nakvasovice <br><b>Adresa:</b> Dolní Nakvasovice 17, 38422, Bušanovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:20",
-                "ref": "38307:101"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.9314723,
-                    49.1149441
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Bušanovice <br><b>Adresa:</b> č.p. 47, 38422, Bušanovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:50",
-                "ref": "38307:98"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.9725036,
-                    49.132592
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Bohunice <br><b>Adresa:</b> č.p. 10, 38422, Bohunice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "38307:92"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.9069323,
-                    49.143888
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Černětice <br><b>Adresa:</b> Černětice 12, 38701, Volyně ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "38607:407"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.9591553,
-                    49.132712
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Všechlapy <br><b>Adresa:</b> Všechlapy 4, 38701, Předslavice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:15",
-                "ref": "38607:417"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.8948411,
-                    49.1075183
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Zálezly <br><b>Adresa:</b> č.p. 7, 38481, Zálezly ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "38607:430"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.9213822,
-                    49.0966575
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Horní Nakvasovice <br><b>Adresa:</b> Horní Nakvasovice 3, 38422, Bušanovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:10",
-                "ref": "38307:100"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.9642562,
-                    49.1075268
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Újezdec <br><b>Adresa:</b> č.p. 14, 38422, Újezdec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:45",
-                "ref": "38307:91"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.9454956,
-                    49.139156
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Marčovice <br><b>Adresa:</b> Marčovice 5, 38701, Předslavice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "38607:415"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.9153458,
-                    49.1107777
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Beneda <br><b>Adresa:</b> Beneda 10, 38422, Bušanovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "38307:99"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.9670903,
-                    49.1216238
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Tvrzice <br><b>Adresa:</b> č.p. 44, 38422, Tvrzice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:15",
-                "ref": "38307:93"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.9359292,
-                    49.1318013
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Předslavice <br><b>Adresa:</b> č.p. 18, 38701, Předslavice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:45",
-                "ref": "38607:408"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.9213822,
+          49.0966575
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Horní Nakvasovice <br><b>Adresa:</b> Horní Nakvasovice 3, 38422, Bušanovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:10",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38307:100"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.9288587,
+          49.09924
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dolní Nakvasovice <br><b>Adresa:</b> Dolní Nakvasovice 17, 38422, Bušanovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:20",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38307:101"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.9642562,
+          49.1075268
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Újezdec <br><b>Adresa:</b> č.p. 14, 38422, Újezdec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38307:91"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.9725036,
+          49.132592
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bohunice <br><b>Adresa:</b> č.p. 10, 38422, Bohunice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38307:92"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.9670903,
+          49.1216238
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Tvrzice <br><b>Adresa:</b> č.p. 44, 38422, Tvrzice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38307:93"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.9314723,
+          49.1149441
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bušanovice <br><b>Adresa:</b> č.p. 47, 38422, Bušanovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:50",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38307:98"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.9153458,
+          49.1107777
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Beneda <br><b>Adresa:</b> Beneda 10, 38422, Bušanovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38307:99"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.9069323,
+          49.143888
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Černětice <br><b>Adresa:</b> Černětice 12, 38701, Volyně ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38607:407"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.9359292,
+          49.1318013
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Předslavice <br><b>Adresa:</b> č.p. 18, 38701, Předslavice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38607:408"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.9259815,
+          49.1273337
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Úlehle <br><b>Adresa:</b> Úlehle 17, 38701, Předslavice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38607:409"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.9454956,
+          49.139156
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Marčovice <br><b>Adresa:</b> Marčovice 5, 38701, Předslavice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38607:415"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.9616059,
+          49.1453978
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kakovice <br><b>Adresa:</b> Kakovice 5, 38701, Předslavice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38607:416"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.9591553,
+          49.132712
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Všechlapy <br><b>Adresa:</b> Všechlapy 4, 38701, Předslavice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38607:417"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.8948411,
+          49.1075183
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Zálezly <br><b>Adresa:</b> č.p. 7, 38481, Zálezly ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38607:430"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.9037087,
+          49.0955026
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Setěchovice <br><b>Adresa:</b> Setěchovice 2, 38481, Zálezly ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38607:431"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.8952501,
+          49.1038626
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kovanín <br><b>Adresa:</b> Kovanín 7, 38481, Zálezly ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:10",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38607:440"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

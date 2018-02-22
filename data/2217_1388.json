@@ -1,141 +1,141 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.9010251,
-                    50.0194873
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u tf. budky, Chotýš 19 <br><b>Adresa:</b> Chotýš 19, 28163, Vitice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "25107:233"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.9398885,
-                    50.0342417
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u ČSAD, Lipany 3 <br><b>Adresa:</b> Lipany 3, 28163, Vitice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "25107:229"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.8875953,
-                    50.0281489
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u ČSAD, Syneč 6 <br><b>Adresa:</b> Syneč 6, 28163, Krupá ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "25107:234"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.9103972,
-                    50.0184856
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> U autobusové zastávky Vitice, Močedník <br><b>Adresa:</b> Močedník 6, 28163, Vitice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "25107:232"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.870828,
-                    50.0177174
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Krupá 29 <br><b>Adresa:</b> č.p. 29, 28163, Krupá ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "25107:213"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.8769379,
-                    50.0544042
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Přistoupim u čp. 152 <br><b>Adresa:</b> č.p. 152, 28201, Přistoupim ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "25107:279"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.9151864,
-                    50.0301677
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> budova pošty, Vitice <br><b>Adresa:</b> č.p. 95, 28106, Vitice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "25107:242"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.90556,
-                    50.0481327
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> obchod, Kšely 16 <br><b>Adresa:</b> č.p. 16, 28201, Kšely ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "25107:272"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.870828,
+          50.0177174
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Krupá 29 <br><b>Adresa:</b> č.p. 29, 28163, Krupá ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "25107:213"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.9398885,
+          50.0342417
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u ČSAD, Lipany 3 <br><b>Adresa:</b> Lipany 3, 28163, Vitice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "25107:229"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.9103972,
+          50.0184856
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> U autobusové zastávky Vitice, Močedník <br><b>Adresa:</b> Močedník 6, 28163, Vitice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "25107:232"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.9010251,
+          50.0194873
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u tf. budky, Chotýš 19 <br><b>Adresa:</b> Chotýš 19, 28163, Vitice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "25107:233"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.8875953,
+          50.0281489
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u ČSAD, Syneč 6 <br><b>Adresa:</b> Syneč 6, 28163, Krupá ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "25107:234"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.9151864,
+          50.0301677
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> budova pošty, Vitice <br><b>Adresa:</b> č.p. 95, 28106, Vitice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "25107:242"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.90556,
+          50.0481327
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> obchod, Kšely 16 <br><b>Adresa:</b> č.p. 16, 28201, Kšely ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "25107:272"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.8769379,
+          50.0544042
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Přistoupim u čp. 152 <br><b>Adresa:</b> č.p. 152, 28201, Přistoupim ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "25107:279"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

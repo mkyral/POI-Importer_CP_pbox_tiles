@@ -1,90 +1,90 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.2051299,
-                    50.0395656
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Novosedly č.100, obchod <br><b>Adresa:</b> Novosedly 100, 36452, Pšov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "30071:524"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.2617278,
-                    50.0085865
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hrádek č.p. 12 <br><b>Adresa:</b> Hrádek 12, 33162, Manětín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "30071:370"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.2084884,
-                    50.0181877
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Chlum č.60 <br><b>Adresa:</b> Chlum 60, 36452, Pšov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "30071:536"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.2527936,
-                    50.0344
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Stvolny, prodejna č.55 <br><b>Adresa:</b> Stvolny 55, 33162, Manětín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "30071:371"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.2245664,
-                    50.0560164
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Močidlec, autobusová zastávka <br><b>Adresa:</b> Karlovy Vary; Pšov; Močidlec <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "30071:523"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.2617278,
+          50.0085865
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hrádek č.p. 12 <br><b>Adresa:</b> Hrádek 12, 33162, Manětín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30071:370"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.2527936,
+          50.0344
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Stvolny, prodejna č.55 <br><b>Adresa:</b> Stvolny 55, 33162, Manětín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30071:371"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.2245664,
+          50.0560164
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Močidlec, autobusová zastávka <br><b>Adresa:</b> Karlovy Vary; Pšov; Močidlec <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30071:523"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.2051299,
+          50.0395656
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Novosedly č.100, obchod <br><b>Adresa:</b> Novosedly 100, 36452, Pšov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30071:524"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.2084884,
+          50.0181877
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Chlum č.60 <br><b>Adresa:</b> Chlum 60, 36452, Pšov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30071:536"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

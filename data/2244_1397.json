@@ -1,175 +1,175 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.2516973,
-                    49.5334198
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kožušany-Tážaly, Tážaly 60 (OÚ-stojan) <br><b>Adresa:</b> Tážaly 60, 78375, Kožušany-Tážaly ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "79907:152"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.2578913,
-                    49.5097902
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Charváty, Čertoryje 210 (Smíšené zboží-stojan) <br><b>Adresa:</b> Čertoryje 210, 78375, Charváty ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 13:00",
-                "ref": "79907:149"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.2520879,
-                    49.5394981
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pošta Kožušany-Tážaly (stojan) <br><b>Adresa:</b> Kožušany 79, 78375, Kožušany-Tážaly ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:30",
-                "ref": "79907:412"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.3080533,
-                    49.5382836
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pošta Grygov <br><b>Adresa:</b> U Parku 119, 78373, Grygov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 14:00",
-                "ref": "79907:408"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.2516582,
-                    49.5189024
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pošta Charváty <br><b>Adresa:</b> č.p. 3, 78375, Charváty ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 13:00",
-                "ref": "79907:409"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.2515118,
-                    49.5105339
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Charváty, Drahlov 180 (pneuservis) <br><b>Adresa:</b> Drahlov 180, 78375, Charváty ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:30",
-                "ref": "79907:150"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.2537843,
-                    49.5396822
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kožušany-Tážaly, Kožušany 8 <br><b>Adresa:</b> Kožušany 8, 78375, Kožušany-Tážaly ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "79907:153"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.3114008,
-                    49.5380346
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Grygov, Masarykova náves 79 (stojan) <br><b>Adresa:</b> Masarykova náves 79, 78373, Grygov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 14:00",
-                "ref": "79907:142"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.2797834,
-                    49.529281
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Blatec 117 (Cukrářská výrobna-stojan) <br><b>Adresa:</b> č.p. 117, 78375, Blatec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:15",
-                "ref": "79907:151"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.3137195,
-                    49.5335
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Grygov, Komenského 221 (Genoservis-stojan) <br><b>Adresa:</b> Komenského 221, 78373, Grygov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 14:05",
-                "ref": "79907:143"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          17.3114008,
+          49.5380346
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Grygov, Masarykova náves 79 (stojan) <br><b>Adresa:</b> Masarykova náves 79, 78373, Grygov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 14:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79907:142"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.3137195,
+          49.5335
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Grygov, Komenského 221 (Genoservis-stojan) <br><b>Adresa:</b> Komenského 221, 78373, Grygov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 14:05",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79907:143"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.2578913,
+          49.5097902
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Charváty, Čertoryje 210 (Smíšené zboží-stojan) <br><b>Adresa:</b> Čertoryje 210, 78375, Charváty ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 13:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79907:149"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.2515118,
+          49.5105339
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Charváty, Drahlov 180 (pneuservis) <br><b>Adresa:</b> Drahlov 180, 78375, Charváty ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79907:150"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.2797834,
+          49.529281
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Blatec 117 (Cukrářská výrobna-stojan) <br><b>Adresa:</b> č.p. 117, 78375, Blatec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79907:151"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.2516973,
+          49.5334198
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kožušany-Tážaly, Tážaly 60 (OÚ-stojan) <br><b>Adresa:</b> Tážaly 60, 78375, Kožušany-Tážaly ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79907:152"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.2537843,
+          49.5396822
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kožušany-Tážaly, Kožušany 8 <br><b>Adresa:</b> Kožušany 8, 78375, Kožušany-Tážaly ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79907:153"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.3080533,
+          49.5382836
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Grygov <br><b>Adresa:</b> U Parku 119, 78373, Grygov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 14:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79907:408"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.2516582,
+          49.5189024
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Charváty <br><b>Adresa:</b> č.p. 3, 78375, Charváty ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 13:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79907:409"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.2520879,
+          49.5394981
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Kožušany-Tážaly (stojan) <br><b>Adresa:</b> Kožušany 79, 78375, Kožušany-Tážaly ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79907:412"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

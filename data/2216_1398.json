@@ -1,158 +1,158 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.7987451,
-                    49.4860785
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Dolní Hrachovice <br><b>Adresa:</b> č.p. 10, 39143, Dolní Hrachovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:15",
-                "ref": "39007:524"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.8161054,
-                    49.4941662
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Mostek - náves <br><b>Adresa:</b> Mostek 5, 39143, Dolní Hrachovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "39007:522"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.810487,
-                    49.4775073
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pohnání č. 2 <br><b>Adresa:</b> č.p. 2, 39143, Pohnání ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:35",
-                "ref": "39007:526"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.8033522,
-                    49.4736741
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pohnánec u č. 14 <br><b>Adresa:</b> č.p. 14, 39143, Pohnánec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "39007:525"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.7701457,
-                    49.4642863
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Budova pošty Ratibořské Hory <br><b>Adresa:</b> č.p. 42, 39142, Ratibořské Hory ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "39007:520"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.8127715,
-                    49.4448456
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Mašovice <br><b>Adresa:</b> Mašovice 11, 39155, Dolní Hořice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 07:55",
-                "ref": "39007:142"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.8316082,
-                    49.4460696
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Chotčiny <br><b>Adresa:</b> Chotčiny 23, 39155, Dolní Hořice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:05",
-                "ref": "39007:141"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.8403339,
-                    49.4904549
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Rodná - u vývěsní plochy <br><b>Adresa:</b> č.p. 37, 39143, Rodná ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:15",
-                "ref": "39007:514"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.7926088,
-                    49.4545621
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Dub <br><b>Adresa:</b> Dub 5, 39143, Ratibořské Hory ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:45",
-                "ref": "39007:527"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.8316082,
+          49.4460696
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Chotčiny <br><b>Adresa:</b> Chotčiny 23, 39155, Dolní Hořice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:05",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:141"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.8127715,
+          49.4448456
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Mašovice <br><b>Adresa:</b> Mašovice 11, 39155, Dolní Hořice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 07:55",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:142"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.8403339,
+          49.4904549
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Rodná - u vývěsní plochy <br><b>Adresa:</b> č.p. 37, 39143, Rodná ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:514"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.7701457,
+          49.4642863
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Budova pošty Ratibořské Hory <br><b>Adresa:</b> č.p. 42, 39142, Ratibořské Hory ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:520"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.8161054,
+          49.4941662
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Mostek - náves <br><b>Adresa:</b> Mostek 5, 39143, Dolní Hrachovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:522"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.7987451,
+          49.4860785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dolní Hrachovice <br><b>Adresa:</b> č.p. 10, 39143, Dolní Hrachovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:524"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.8033522,
+          49.4736741
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pohnánec u č. 14 <br><b>Adresa:</b> č.p. 14, 39143, Pohnánec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:525"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.810487,
+          49.4775073
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pohnání č. 2 <br><b>Adresa:</b> č.p. 2, 39143, Pohnání ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:35",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:526"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.7926088,
+          49.4545621
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dub <br><b>Adresa:</b> Dub 5, 39143, Ratibořské Hory ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:527"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

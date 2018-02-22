@@ -1,90 +1,90 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.2671217,
-                    50.1341247
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Libkovice, poblíž č.p. 22 <br><b>Adresa:</b> Louny; Lubenec; Libkovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "43807:121"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.2337388,
-                    50.1495497
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Vrbice, u autobusové zastávky, <br><b>Adresa:</b> Karlovy Vary; Vrbice; Vrbice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "30071:530"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.26228,
-                    50.1508483
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kostrčany, autobusová zastávka, <br><b>Adresa:</b> Karlovy Vary; Valeč; Kostrčany <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "30071:533"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.2322896,
-                    50.1350532
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Bošov za č.17 <br><b>Adresa:</b> Bošov 17, 36453, Vrbice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "30071:531"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.2538678,
-                    50.1747205
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Valeč v Čechách, před budovou pošty <br><b>Adresa:</b> Náměstí 119, 36453, Valeč ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "30071:541"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.2337388,
+          50.1495497
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vrbice, u autobusové zastávky, <br><b>Adresa:</b> Karlovy Vary; Vrbice; Vrbice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30071:530"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.2322896,
+          50.1350532
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bošov za č.17 <br><b>Adresa:</b> Bošov 17, 36453, Vrbice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30071:531"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.26228,
+          50.1508483
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kostrčany, autobusová zastávka, <br><b>Adresa:</b> Karlovy Vary; Valeč; Kostrčany <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30071:533"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.2538678,
+          50.1747205
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Valeč v Čechách, před budovou pošty <br><b>Adresa:</b> Náměstí 119, 36453, Valeč ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30071:541"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.2671217,
+          50.1341247
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Libkovice, poblíž č.p. 22 <br><b>Adresa:</b> Louny; Lubenec; Libkovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43807:121"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

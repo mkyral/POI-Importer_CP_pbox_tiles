@@ -1,73 +1,73 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.7641234,
-                    49.0296654
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Solná Lhota <br><b>Adresa:</b> Solná Lhota 15, 38501, Vimperk ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "38307:139"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.7341258,
-                    49.0206649
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Lipka 25, 385 01 Vimperk <br><b>Adresa:</b> Lipka 25, 38501, Vimperk ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "38307:137"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.7717456,
-                    48.9831079
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kubova Huť <br><b>Adresa:</b> č.p. 26, 38501, Kubova Huť ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "38307:140"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.7577646,
-                    49.0342599
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Klášterec <br><b>Adresa:</b> Klášterec 11, 38501, Vimperk ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "38307:136"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.7577646,
+          49.0342599
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Klášterec <br><b>Adresa:</b> Klášterec 11, 38501, Vimperk ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38307:136"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.7341258,
+          49.0206649
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lipka 25, 385 01 Vimperk <br><b>Adresa:</b> Lipka 25, 38501, Vimperk ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38307:137"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.7641234,
+          49.0296654
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Solná Lhota <br><b>Adresa:</b> Solná Lhota 15, 38501, Vimperk ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38307:139"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.7717456,
+          48.9831079
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kubova Huť <br><b>Adresa:</b> č.p. 26, 38501, Kubova Huť ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38307:140"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

@@ -1,124 +1,124 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.0569818,
-                    50.2619293
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Obecní úřad, Jíkev čp. 58 <br><b>Adresa:</b> č.p. 58, 28932, Jíkev ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "28800:32"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.0981862,
-                    50.2682201
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Prodejna, Mečíř 18 <br><b>Adresa:</b> Mečíř 18, 28933, Křinec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "28800:37"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.0832811,
-                    50.240111
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Oskořínek <br><b>Adresa:</b> Novodvorská 100, 28932, Oskořínek ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "28800:68"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.1146037,
-                    50.2806734
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Potraviny, Bošín 18 <br><b>Adresa:</b> Bošín 18, 28933, Křinec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "28800:35"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.0946219,
-                    50.2508762
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Obecní úřad, Hrubý Jeseník čp. 30 <br><b>Adresa:</b> č.p. 30, 28932, Hrubý Jeseník ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "28800:67"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.0544524,
-                    50.2840423
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> č.p.9,Studečky <br><b>Adresa:</b> Studečky 9, 28937, Loučeň <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 67.04 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "28800:39"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.1013724,
-                    50.2836505
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hostinec, Sovenice 6 <br><b>Adresa:</b> Sovenice 6, 28933, Křinec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "28800:36"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.0569818,
+          50.2619293
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Obecní úřad, Jíkev čp. 58 <br><b>Adresa:</b> č.p. 58, 28932, Jíkev ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28800:32"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.1146037,
+          50.2806734
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Potraviny, Bošín 18 <br><b>Adresa:</b> Bošín 18, 28933, Křinec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28800:35"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.1013724,
+          50.2836505
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hostinec, Sovenice 6 <br><b>Adresa:</b> Sovenice 6, 28933, Křinec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28800:36"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.0981862,
+          50.2682201
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Prodejna, Mečíř 18 <br><b>Adresa:</b> Mečíř 18, 28933, Křinec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28800:37"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.0544524,
+          50.2840423
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> č.p.9,Studečky <br><b>Adresa:</b> Studečky 9, 28937, Loučeň <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 67.04 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28800:39"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.0946219,
+          50.2508762
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Obecní úřad, Hrubý Jeseník čp. 30 <br><b>Adresa:</b> č.p. 30, 28932, Hrubý Jeseník ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28800:67"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.0832811,
+          50.240111
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Oskořínek <br><b>Adresa:</b> Novodvorská 100, 28932, Oskořínek ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28800:68"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

@@ -1,39 +1,39 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.5649097,
-                    50.6285382
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> EMERAN <br><b>Adresa:</b> Rašov E210, 43601, Klíny ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "43407:122"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.5572688,
-                    50.635211
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> budova Obecního úřadu <br><b>Adresa:</b> č.p. 61, 43601, Klíny ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "43407:120"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.5572688,
+          50.635211
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> budova Obecního úřadu <br><b>Adresa:</b> č.p. 61, 43601, Klíny ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43407:120"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.5649097,
+          50.6285382
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> EMERAN <br><b>Adresa:</b> Rašov E210, 43601, Klíny ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43407:122"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

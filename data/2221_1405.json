@@ -1,90 +1,90 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.2635716,
-                    49.0807564
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Nový Svět <br><b>Adresa:</b> Nový Svět 5, 37853, Český Rudolec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:50",
-                "ref": "37702:181"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.2872722,
-                    49.0841616
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Horní Radíkov <br><b>Adresa:</b> Horní Radíkov 27, 38001, Český Rudolec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "37702:241"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.2449917,
-                    49.0830581
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Terezín <br><b>Adresa:</b> Terezín 27, 37853, Kunžak <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 14.64 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:30",
-                "ref": "37702:180"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.2676004,
-                    49.0612624
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Matějovec <br><b>Adresa:</b> Matějovec 105, 37881, Český Rudolec <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 34.25 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:20",
-                "ref": "37702:245"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.2878622,
-                    49.0757769
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Dolní Radíkov <br><b>Adresa:</b> Radíkov 8, 38001, Český Rudolec <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 43.72 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "37702:242"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.2449917,
+          49.0830581
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Terezín <br><b>Adresa:</b> Terezín 27, 37853, Kunžak <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 14.64 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:180"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2635716,
+          49.0807564
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nový Svět <br><b>Adresa:</b> Nový Svět 5, 37853, Český Rudolec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:50",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:181"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2872722,
+          49.0841616
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Horní Radíkov <br><b>Adresa:</b> Horní Radíkov 27, 38001, Český Rudolec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:241"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2878622,
+          49.0757769
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dolní Radíkov <br><b>Adresa:</b> Radíkov 8, 38001, Český Rudolec <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 43.72 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:242"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2676004,
+          49.0612624
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Matějovec <br><b>Adresa:</b> Matějovec 105, 37881, Český Rudolec <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 34.25 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:20",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:245"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

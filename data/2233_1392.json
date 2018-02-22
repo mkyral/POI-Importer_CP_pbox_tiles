@@ -1,158 +1,158 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3447533,
-                    49.7926257
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Trstěnice u Litomyšle <br><b>Adresa:</b> č.p. 238, 56957, Trstěnice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:670"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3442682,
-                    49.7868232
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Trstěnice, zastávka ČSAD <br><b>Adresa:</b> č.p. 73, 56957, Trstěnice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:657"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3431749,
-                    49.8038541
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Trstěnice, zastávka ČSAD, č. 180 <br><b>Adresa:</b> č.p. 180, 56957, Trstěnice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:655"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3472438,
-                    49.8135561
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Čistá, Jednota č. 150 <br><b>Adresa:</b> č.p. 150, 56956, Čistá ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:654"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.2945025,
-                    49.8187814
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pohodlí č. 100, Litomyšl <br><b>Adresa:</b> Pohodlí 100, 57001, Litomyšl ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:606"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3303339,
-                    49.8255677
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Čistá, u budovy OU č. 376 <br><b>Adresa:</b> č.p. 376, 56956, Čistá ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:652"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3416805,
-                    49.8229867
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Čistá u Litomyšle <br><b>Adresa:</b> č.p. 314, 56956, Čistá ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:669"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3462852,
-                    49.7859849
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Trstěnice, Jednota č.p. 187 <br><b>Adresa:</b> č.p. 187, 56957, Trstěnice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:656"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3070013,
-                    49.8298492
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Nová Ves u Litomyšle 26 <br><b>Adresa:</b> Nová Ves u Litomyšle 26, 57001, Litomyšl ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:607"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.2945025,
+          49.8187814
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pohodlí č. 100, Litomyšl <br><b>Adresa:</b> Pohodlí 100, 57001, Litomyšl ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:606"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3070013,
+          49.8298492
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nová Ves u Litomyšle 26 <br><b>Adresa:</b> Nová Ves u Litomyšle 26, 57001, Litomyšl ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:607"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3303339,
+          49.8255677
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Čistá, u budovy OU č. 376 <br><b>Adresa:</b> č.p. 376, 56956, Čistá ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:652"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3472438,
+          49.8135561
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Čistá, Jednota č. 150 <br><b>Adresa:</b> č.p. 150, 56956, Čistá ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:654"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3431749,
+          49.8038541
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Trstěnice, zastávka ČSAD, č. 180 <br><b>Adresa:</b> č.p. 180, 56957, Trstěnice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:655"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3462852,
+          49.7859849
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Trstěnice, Jednota č.p. 187 <br><b>Adresa:</b> č.p. 187, 56957, Trstěnice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:656"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3442682,
+          49.7868232
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Trstěnice, zastávka ČSAD <br><b>Adresa:</b> č.p. 73, 56957, Trstěnice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:657"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3416805,
+          49.8229867
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Čistá u Litomyšle <br><b>Adresa:</b> č.p. 314, 56956, Čistá ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:669"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3447533,
+          49.7926257
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Trstěnice u Litomyšle <br><b>Adresa:</b> č.p. 238, 56957, Trstěnice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:670"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

@@ -1,22 +1,22 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.0065323,
-                    50.8968728
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Heřmanice 139, obchod <br><b>Adresa:</b> č.p. 139, 46401, Heřmanice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "46307:291"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.0065323,
+          50.8968728
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Heřmanice 139, obchod <br><b>Adresa:</b> č.p. 139, 46401, Heřmanice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "46307:291"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

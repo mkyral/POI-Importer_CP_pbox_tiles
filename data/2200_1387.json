@@ -1,124 +1,124 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.4193225,
-                    50.1170723
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Stebno, u obchodu , poblíž č.p. 1 <br><b>Adresa:</b> Louny; Kryry; Stebno <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "43807:123"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.402039,
-                    50.0744542
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Velečín,na návsi č.p. 9 <br><b>Adresa:</b> č.p. 9, 33165, Velečín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "30071:437"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.4324332,
-                    50.0914456
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Krty, před čp. 12 <br><b>Adresa:</b> č.p. 12, 27033, Krty ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:20",
-                "ref": "26907:112"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.3845233,
-                    50.1168091
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Malměřice, poblíž vodní nádrže u BUS zastávky <br><b>Adresa:</b> Louny; Blatno; Malměřice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "43807:122"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.3854788,
-                    50.0692613
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pastuchovice,OÚ <br><b>Adresa:</b> č.p. 33, 33165, Pastuchovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "30071:436"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.4225359,
-                    50.0730561
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Ostrovec,na návsi č.p. 9 <br><b>Adresa:</b> Ostrovec 9, 33165, Velečín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "30071:438"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.3889082,
-                    50.0990545
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Blatno u Podbořan <br><b>Adresa:</b> č.p. 63, 43984, Blatno ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "43807:286"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.4324332,
+          50.0914456
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Krty, před čp. 12 <br><b>Adresa:</b> č.p. 12, 27033, Krty ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:20",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26907:112"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.3854788,
+          50.0692613
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pastuchovice,OÚ <br><b>Adresa:</b> č.p. 33, 33165, Pastuchovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30071:436"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.402039,
+          50.0744542
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Velečín,na návsi č.p. 9 <br><b>Adresa:</b> č.p. 9, 33165, Velečín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30071:437"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.4225359,
+          50.0730561
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Ostrovec,na návsi č.p. 9 <br><b>Adresa:</b> Ostrovec 9, 33165, Velečín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30071:438"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.3845233,
+          50.1168091
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Malměřice, poblíž vodní nádrže u BUS zastávky <br><b>Adresa:</b> Louny; Blatno; Malměřice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43807:122"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.4193225,
+          50.1170723
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Stebno, u obchodu , poblíž č.p. 1 <br><b>Adresa:</b> Louny; Kryry; Stebno <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43807:123"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.3889082,
+          50.0990545
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Blatno u Podbořan <br><b>Adresa:</b> č.p. 63, 43984, Blatno ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43807:286"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

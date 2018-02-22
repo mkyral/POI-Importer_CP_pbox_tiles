@@ -1,124 +1,124 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.5561008,
-                    48.7896948
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Před budovou pošty Besednice č.52 <br><b>Adresa:</b> Náměstí 52, 38281, Besednice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 16.7 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:30",
-                "ref": "37271:696"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.5487087,
-                    48.804854
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Nesmeň <br><b>Adresa:</b> Nesměň 94, 37401, Ločenice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 113.64 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "37271:416"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.5248158,
-                    48.7717184
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Smrhov 3 <br><b>Adresa:</b> Smrhov 3, 38241, Soběnov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 34.86 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "37271:683"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.5484865,
-                    48.7610617
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Soběnov  53 <br><b>Adresa:</b> č.p. 64, 38241, Soběnov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 29.37 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "37271:666"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.5148556,
-                    48.8005629
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Chlum <br><b>Adresa:</b> Chlum 17, 37401, Svatý Jan nad Malší <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 35.79 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "37271:415"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.5242708,
-                    48.7882696
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Malče 5 <br><b>Adresa:</b> Malče 5, 38241, Besednice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 34.56 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "37271:682"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.5031802,
-                    48.7777292
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pořešín 25 <br><b>Adresa:</b> Pořešín 25, 38241, Kaplice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 28.65 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:15",
-                "ref": "37271:667"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.5148556,
+          48.8005629
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Chlum <br><b>Adresa:</b> Chlum 17, 37401, Svatý Jan nad Malší <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 35.79 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:415"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5487087,
+          48.804854
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nesmeň <br><b>Adresa:</b> Nesměň 94, 37401, Ločenice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 113.64 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:416"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5484865,
+          48.7610617
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Soběnov  53 <br><b>Adresa:</b> č.p. 64, 38241, Soběnov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 29.37 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:666"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5031802,
+          48.7777292
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pořešín 25 <br><b>Adresa:</b> Pořešín 25, 38241, Kaplice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 28.65 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:667"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5242708,
+          48.7882696
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Malče 5 <br><b>Adresa:</b> Malče 5, 38241, Besednice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 34.56 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:682"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5248158,
+          48.7717184
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Smrhov 3 <br><b>Adresa:</b> Smrhov 3, 38241, Soběnov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 34.86 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:683"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5561008,
+          48.7896948
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Před budovou pošty Besednice č.52 <br><b>Adresa:</b> Náměstí 52, 38281, Besednice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 16.7 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:696"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

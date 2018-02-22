@@ -1,158 +1,158 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.3901275,
-                    50.6779557
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> na stojanu u pomníku, poblíž č.p. 14 <br><b>Adresa:</b> Semily; Vysoké nad Jizerou; Stará Ves <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u></p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "51300:47"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4510674,
-                    50.6779038
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> na stojanu u Hradsko č.p.191 <br><b>Adresa:</b> Hradsko 191, 51243, Jablonec nad Jizerou ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "51400:43"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.452306,
-                    50.6524775
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Poniklá <br><b>Adresa:</b> č.p. 55, 51242, Poniklá ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "51400:71"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.3852408,
-                    50.6554314
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u hasičské zbrojnice, Helkovice <br><b>Adresa:</b> Semily; Vysoké nad Jizerou; Helkovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "51300:44"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.3905104,
-                    50.6425986
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u hasičské zbrojnice Škodějov <br><b>Adresa:</b> Semily; Příkrý; Škodějov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u></p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:45",
-                "ref": "51300:18"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.463249,
-                    50.6615696
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u kanceláří ZD, Poniklá <br><b>Adresa:</b> č.p. 224, 51242, Poniklá ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "51400:20"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4176567,
-                    50.6467401
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pohostinství  Roprachtice <br><b>Adresa:</b> č.p. 211, 51301, Roprachtice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 4.0 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:15",
-                "ref": "51300:49"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4162895,
-                    50.6614404
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> zastávka BUS, poblíž Roprachtice č.p. 92 <br><b>Adresa:</b> Semily; Roprachtice; Roprachtice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u></p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "51300:50"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4593227,
-                    50.6583638
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> čp. 104, Poniklá <br><b>Adresa:</b> č.p. 104, 51242, Poniklá ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "51400:18"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.3905104,
+          50.6425986
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u hasičské zbrojnice Škodějov <br><b>Adresa:</b> Semily; Příkrý; Škodějov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51300:18"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.3852408,
+          50.6554314
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u hasičské zbrojnice, Helkovice <br><b>Adresa:</b> Semily; Vysoké nad Jizerou; Helkovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51300:44"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.3901275,
+          50.6779557
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> na stojanu u pomníku, poblíž č.p. 14 <br><b>Adresa:</b> Semily; Vysoké nad Jizerou; Stará Ves <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51300:47"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4176567,
+          50.6467401
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pohostinství  Roprachtice <br><b>Adresa:</b> č.p. 211, 51301, Roprachtice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 4.0 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51300:49"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4162895,
+          50.6614404
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> zastávka BUS, poblíž Roprachtice č.p. 92 <br><b>Adresa:</b> Semily; Roprachtice; Roprachtice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51300:50"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4593227,
+          50.6583638
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> čp. 104, Poniklá <br><b>Adresa:</b> č.p. 104, 51242, Poniklá ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51400:18"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.463249,
+          50.6615696
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u kanceláří ZD, Poniklá <br><b>Adresa:</b> č.p. 224, 51242, Poniklá ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51400:20"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4510674,
+          50.6779038
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> na stojanu u Hradsko č.p.191 <br><b>Adresa:</b> Hradsko 191, 51243, Jablonec nad Jizerou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51400:43"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.452306,
+          50.6524775
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Poniklá <br><b>Adresa:</b> č.p. 55, 51242, Poniklá ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51400:71"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

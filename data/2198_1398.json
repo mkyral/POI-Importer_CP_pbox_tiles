@@ -1,90 +1,90 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.2545714,
-                    49.4884058
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Mezihoří - na vývěsní tabuli OÚ <br><b>Adresa:</b> Klatovy; Mezihoří; Mezihoří <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "33907:156"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.188244,
-                    49.4459946
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Slatina u čp. 1 <br><b>Adresa:</b> Slatina 1, 33901, Chudenice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "33907:57"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.2612966,
-                    49.4562616
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Malechov u čp. 9 <br><b>Adresa:</b> Malechov 9, 33901, Dolany ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "33907:63"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.2483458,
-                    49.4433556
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Dolany u čp. 33 <br><b>Adresa:</b> č.p. 33, 33901, Dolany ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "33907:192"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.2284034,
-                    49.4910621
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Ježovy - na návsi <br><b>Adresa:</b> Klatovy; Ježovy; Ježovy <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "33907:161"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.2545714,
+          49.4884058
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Mezihoří - na vývěsní tabuli OÚ <br><b>Adresa:</b> Klatovy; Mezihoří; Mezihoří <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "33907:156"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.2284034,
+          49.4910621
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Ježovy - na návsi <br><b>Adresa:</b> Klatovy; Ježovy; Ježovy <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "33907:161"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.2483458,
+          49.4433556
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dolany u čp. 33 <br><b>Adresa:</b> č.p. 33, 33901, Dolany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "33907:192"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.188244,
+          49.4459946
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Slatina u čp. 1 <br><b>Adresa:</b> Slatina 1, 33901, Chudenice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "33907:57"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.2612966,
+          49.4562616
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Malechov u čp. 9 <br><b>Adresa:</b> Malechov 9, 33901, Dolany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "33907:63"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

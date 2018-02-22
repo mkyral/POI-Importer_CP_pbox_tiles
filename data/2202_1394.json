@@ -1,56 +1,56 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.5823046,
-                    49.7005372
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Raková,č.p. 17 <br><b>Adresa:</b> č.p. 17, 33701, Raková <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 25.76 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "30072:66"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.6070236,
-                    49.6858748
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Nevid,autob. zastávka Nevid <br><b>Adresa:</b> Rokycany; Nevid; Nevid <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u></p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "30072:65"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.6020317,
-                    49.696372
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Veselá,autob. zastávka Veselá <br><b>Adresa:</b> Rokycany; Veselá; Veselá <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u></p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "30072:64"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.6020317,
+          49.696372
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Veselá,autob. zastávka Veselá <br><b>Adresa:</b> Rokycany; Veselá; Veselá <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30072:64"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.6070236,
+          49.6858748
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nevid,autob. zastávka Nevid <br><b>Adresa:</b> Rokycany; Nevid; Nevid <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30072:65"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.5823046,
+          49.7005372
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Raková,č.p. 17 <br><b>Adresa:</b> č.p. 17, 33701, Raková <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 25.76 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30072:66"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

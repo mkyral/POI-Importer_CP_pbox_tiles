@@ -1,158 +1,158 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.2246153,
-                    49.614359
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jednota, Strachujov <br><b>Adresa:</b> č.p. 30, 59242, Strachujov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:55",
-                "ref": "59230:66"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.2013792,
-                    49.6151657
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> čekárna, Jimramovské Pavlovice <br><b>Adresa:</b> Jimramovské Pavlovice 24, 59242, Věcov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:55",
-                "ref": "59230:58"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.2268516,
-                    49.6367899
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> park - vedle bývalé školy, Jimramov <br><b>Adresa:</b> náměstí Jana Karafiáta 27, 59242, Jimramov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:45",
-                "ref": "59230:53"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.2234779,
-                    49.6347452
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Jimramov <br><b>Adresa:</b> Pavlovická 181, 59242, Jimramov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "59230:71"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.2286696,
-                    49.6135126
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u mostu, Unčín <br><b>Adresa:</b> č.p. 31, 59242, Strachujov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:20",
-                "ref": "59230:65"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1740668,
-                    49.649016
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jednota, Javorek <br><b>Adresa:</b> č.p. 5, 59203, Javorek ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:55",
-                "ref": "59230:41"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.2281737,
-                    49.6482253
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> čekárna ZDAR, Sedliště <br><b>Adresa:</b> Sedliště 1, 59242, Jimramov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:20",
-                "ref": "59230:62"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1875008,
-                    49.6346774
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> budova OÚ, Nový Jimramov <br><b>Adresa:</b> č.p. 5, 59242, Nový Jimramov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:40",
-                "ref": "59230:60"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.2495344,
-                    49.6339833
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jednota, Trhonice <br><b>Adresa:</b> Trhonice 53, 59242, Jimramov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:50",
-                "ref": "59230:63"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.1740668,
+          49.649016
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jednota, Javorek <br><b>Adresa:</b> č.p. 5, 59203, Javorek ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:55",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59230:41"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2268516,
+          49.6367899
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> park - vedle bývalé školy, Jimramov <br><b>Adresa:</b> náměstí Jana Karafiáta 27, 59242, Jimramov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59230:53"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2013792,
+          49.6151657
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> čekárna, Jimramovské Pavlovice <br><b>Adresa:</b> Jimramovské Pavlovice 24, 59242, Věcov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:55",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59230:58"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1875008,
+          49.6346774
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> budova OÚ, Nový Jimramov <br><b>Adresa:</b> č.p. 5, 59242, Nový Jimramov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:40",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59230:60"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2281737,
+          49.6482253
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> čekárna ZDAR, Sedliště <br><b>Adresa:</b> Sedliště 1, 59242, Jimramov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:20",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59230:62"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2495344,
+          49.6339833
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jednota, Trhonice <br><b>Adresa:</b> Trhonice 53, 59242, Jimramov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:50",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59230:63"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2286696,
+          49.6135126
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u mostu, Unčín <br><b>Adresa:</b> č.p. 31, 59242, Strachujov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:20",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59230:65"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2246153,
+          49.614359
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jednota, Strachujov <br><b>Adresa:</b> č.p. 30, 59242, Strachujov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:55",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59230:66"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2234779,
+          49.6347452
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Jimramov <br><b>Adresa:</b> Pavlovická 181, 59242, Jimramov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59230:71"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

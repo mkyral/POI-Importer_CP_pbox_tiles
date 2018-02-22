@@ -1,22 +1,22 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9871091,
-                    48.7972041
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hnanice - Jednota <br><b>Adresa:</b> nám. sv. Wolfganga 97, 66902, Hnanice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "66907:58"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.9867781,
+          48.797299
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hnanice - Jednota <br><b>Adresa:</b> nám. sv. Wolfganga 97, 66902, Hnanice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 26.45 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:58"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

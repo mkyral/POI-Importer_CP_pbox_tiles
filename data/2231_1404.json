@@ -1,39 +1,39 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1332884,
-                    49.1332214
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Kramolín <br><b>Adresa:</b> č.p. 46, 67577, Kramolín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "67407:334"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1078427,
-                    49.1036429
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Slavětice, Jednota <br><b>Adresa:</b> č.p. 62, 67555, Slavětice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "67407:218"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.1078427,
+          49.1036429
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Slavětice, Jednota <br><b>Adresa:</b> č.p. 62, 67555, Slavětice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:218"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1332884,
+          49.1332214
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Kramolín <br><b>Adresa:</b> č.p. 46, 67577, Kramolín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:334"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

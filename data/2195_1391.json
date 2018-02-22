@@ -1,107 +1,107 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.9813631,
-                    49.8814876
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Konstantinovy Lázně, Lázeňská 5, policie <br><b>Adresa:</b> Lázeňská 5, 34952, Konstantinovy Lázně <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 46.25 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "34707:158"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.977883,
-                    49.8811628
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Konstantinovy Lázně-chatový tábor, sezonní <br><b>Adresa:</b> Tachov; Konstantinovy Lázně; Konstantinovy Lázně <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "34707:164"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.9748839,
-                    49.8800122
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Konstantinovy Lázně - pošta <br><b>Adresa:</b> Plzeňská 87, 34952, Konstantinovy Lázně ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "34707:237"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.9472275,
-                    49.8782964
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kokašice <br><b>Adresa:</b> Tachov; Kokašice; Kokašice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "34707:160"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.9556625,
-                    49.8529598
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Strahov <br><b>Adresa:</b> Tachov; Horní Kozolupy; Strahov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "34707:162"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.9934677,
-                    49.8663089
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Okrouhlé Hradiště <br><b>Adresa:</b> Tachov; Konstantinovy Lázně; Okrouhlé Hradiště <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "34707:159"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          12.9813631,
+          49.8814876
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Konstantinovy Lázně, Lázeňská 5, policie <br><b>Adresa:</b> Lázeňská 5, 34952, Konstantinovy Lázně <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 46.25 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "34707:158"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.9934677,
+          49.8663089
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Okrouhlé Hradiště <br><b>Adresa:</b> Tachov; Konstantinovy Lázně; Okrouhlé Hradiště <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "34707:159"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.9472275,
+          49.8782964
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kokašice <br><b>Adresa:</b> Tachov; Kokašice; Kokašice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "34707:160"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.9556625,
+          49.8529598
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Strahov <br><b>Adresa:</b> Tachov; Horní Kozolupy; Strahov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "34707:162"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.977883,
+          49.8811628
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Konstantinovy Lázně-chatový tábor, sezonní <br><b>Adresa:</b> Tachov; Konstantinovy Lázně; Konstantinovy Lázně <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "34707:164"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.9748839,
+          49.8800122
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Konstantinovy Lázně - pošta <br><b>Adresa:</b> Plzeňská 87, 34952, Konstantinovy Lázně ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "34707:237"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

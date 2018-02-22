@@ -1,22 +1,22 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.9575438,
-                    48.8636839
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Spáleniště, aut. zastávka <br><b>Adresa:</b> ; ;  <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u></p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "37271:512"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.9575438,
+          48.8636839
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Spáleniště, aut. zastávka <br><b>Adresa:</b> ; ;  <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:512"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

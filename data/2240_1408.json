@@ -1,107 +1,107 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.8915166,
-                    48.9110036
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Vrbice u Břeclavě-samoobsluha JEDNOTA <br><b>Adresa:</b> č.p. 360, 69109, Vrbice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "60011:57"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.9343715,
-                    48.9021995
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Okružní, Čejkovice <br><b>Adresa:</b> Okružní 869, 69615, Čejkovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "69507:31"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.9425521,
-                    48.9065333
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> potraviny COOP, Čejkovice <br><b>Adresa:</b> Peckova 25, 69615, Čejkovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "69507:32"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.9395606,
-                    48.8999249
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Masarykova, Čejkovice <br><b>Adresa:</b> Bílovická 421, 69615, Čejkovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "69507:30"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.8925606,
-                    48.9126482
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Vrbice <br><b>Adresa:</b> č.p. 8, 69109, Vrbice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "60011:136"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.9448052,
-                    48.9041378
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Čejkovice <br><b>Adresa:</b> Templářská 159, 69615, Čejkovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "69507:29"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.8925606,
+          48.9126482
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Vrbice <br><b>Adresa:</b> č.p. 8, 69109, Vrbice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60011:136"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.8915166,
+          48.9110036
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vrbice u Břeclavě-samoobsluha JEDNOTA <br><b>Adresa:</b> č.p. 360, 69109, Vrbice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60011:57"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.9448052,
+          48.9041378
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Čejkovice <br><b>Adresa:</b> Templářská 159, 69615, Čejkovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69507:29"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.9395606,
+          48.8999249
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Masarykova, Čejkovice <br><b>Adresa:</b> Bílovická 421, 69615, Čejkovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69507:30"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.9343715,
+          48.9021995
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Okružní, Čejkovice <br><b>Adresa:</b> Okružní 869, 69615, Čejkovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69507:31"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.9425521,
+          48.9065333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> potraviny COOP, Čejkovice <br><b>Adresa:</b> Peckova 25, 69615, Čejkovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69507:32"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

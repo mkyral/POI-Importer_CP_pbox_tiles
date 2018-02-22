@@ -1,107 +1,107 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.8416784,
-                    49.7672096
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> čp. 236, pošta Zaječov <br><b>Adresa:</b> č.p. 236, 26763, Zaječov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "17704:39"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.8573712,
-                    49.7683
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u pohostinství č.p.59, Horní Kvaň <br><b>Adresa:</b> Kvaň 59, 26762, Zaječov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "17704:936"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.8733166,
-                    49.7755584
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u prodejny č.p.18, Malá Víska <br><b>Adresa:</b> č.p. 18, 26762, Malá Víska ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "17704:935"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.8502448,
-                    49.7740726
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u prodejny č.p.151, Kozojedy <br><b>Adresa:</b> Kvaň 151, 26763, Zaječov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "17704:925"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.8485128,
-                    49.7617642
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u prodejny č.p.86, Dolní Kvaň <br><b>Adresa:</b> Kvaň 86, 26763, Zaječov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "17704:922"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.8091576,
-                    49.7791189
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> čp. 111, Olešná u Hořovic <br><b>Adresa:</b> č.p. 111, 26764, Olešná ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "17704:921"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.8416784,
+          49.7672096
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> čp. 236, pošta Zaječov <br><b>Adresa:</b> č.p. 236, 26763, Zaječov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "17704:39"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.8091576,
+          49.7791189
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> čp. 111, Olešná u Hořovic <br><b>Adresa:</b> č.p. 111, 26764, Olešná ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "17704:921"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.8485128,
+          49.7617642
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u prodejny č.p.86, Dolní Kvaň <br><b>Adresa:</b> Kvaň 86, 26763, Zaječov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "17704:922"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.8502448,
+          49.7740726
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u prodejny č.p.151, Kozojedy <br><b>Adresa:</b> Kvaň 151, 26763, Zaječov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "17704:925"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.8733166,
+          49.7755584
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u prodejny č.p.18, Malá Víska <br><b>Adresa:</b> č.p. 18, 26762, Malá Víska ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "17704:935"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.8573712,
+          49.7683
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u pohostinství č.p.59, Horní Kvaň <br><b>Adresa:</b> Kvaň 59, 26762, Zaječov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "17704:936"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

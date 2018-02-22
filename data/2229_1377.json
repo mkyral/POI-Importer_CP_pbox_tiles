@@ -1,158 +1,158 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9747778,
-                    50.6779982
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Královec pošta <br><b>Adresa:</b> č.p. 78, 54203, Královec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "54107:214"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9744619,
-                    50.6398469
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Bernartice č. 55 <br><b>Adresa:</b> č.p. 55, 54204, Bernartice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "54107:212"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9352067,
-                    50.6410939
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Křenov, na zastávce <br><b>Adresa:</b> Trutnov; Bernartice; Křenov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "54107:207"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9477458,
-                    50.6662547
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Lampertice 132 <br><b>Adresa:</b> č.p. 132, 54101, Lampertice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "54107:216"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9651052,
-                    50.647308
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Bernartice u Trutnova <br><b>Adresa:</b> č.p. 205, 54204, Bernartice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "54107:211"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9098433,
-                    50.6550298
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Žacléř Na Pilíři 193 - prodejna TUTY <br><b>Adresa:</b> Na Pilíři 193, 54201, Žacléř ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "54107:202"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9543452,
-                    50.6577159
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Lampertice 188 <br><b>Adresa:</b> č.p. 188, 54101, Lampertice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "54107:215"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9682118,
-                    50.6501107
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Bernartice Juta <br><b>Adresa:</b> č.p. 185, 54204, Bernartice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "54107:213"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9145467,
-                    50.6664394
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Žacléř K. H. Borovského Fa ONYX <br><b>Adresa:</b> K. H. Borovského 56, 54201, Žacléř ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "54107:203"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.9098433,
+          50.6550298
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Žacléř Na Pilíři 193 - prodejna TUTY <br><b>Adresa:</b> Na Pilíři 193, 54201, Žacléř ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54107:202"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9145467,
+          50.6664394
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Žacléř K. H. Borovského Fa ONYX <br><b>Adresa:</b> K. H. Borovského 56, 54201, Žacléř ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54107:203"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9352067,
+          50.6410939
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Křenov, na zastávce <br><b>Adresa:</b> Trutnov; Bernartice; Křenov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54107:207"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9651052,
+          50.647308
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Bernartice u Trutnova <br><b>Adresa:</b> č.p. 205, 54204, Bernartice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54107:211"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9744619,
+          50.6398469
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bernartice č. 55 <br><b>Adresa:</b> č.p. 55, 54204, Bernartice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54107:212"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9682118,
+          50.6501107
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bernartice Juta <br><b>Adresa:</b> č.p. 185, 54204, Bernartice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54107:213"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9747778,
+          50.6779982
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Královec pošta <br><b>Adresa:</b> č.p. 78, 54203, Královec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54107:214"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9543452,
+          50.6577159
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lampertice 188 <br><b>Adresa:</b> č.p. 188, 54101, Lampertice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54107:215"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9477458,
+          50.6662547
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lampertice 132 <br><b>Adresa:</b> č.p. 132, 54101, Lampertice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54107:216"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

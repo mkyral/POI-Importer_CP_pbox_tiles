@@ -1,107 +1,107 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9881559,
-                    48.8561708
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Mašovice <br><b>Adresa:</b> č.p. 69, 66902, Mašovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:25",
-                "ref": "66907:47"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9104532,
-                    48.8586395
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Lukov - obchod <br><b>Adresa:</b> č.p. 23, 66902, Lukov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 61.05 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "66907:60"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9767721,
-                    48.8571976
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Mešovice <br><b>Adresa:</b> č.p. 16, 66902, Mašovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "66907:100"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9401706,
-                    48.8503136
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Podmolí <br><b>Adresa:</b> č.p. 31, 66902, Podmolí <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 15.59 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:20",
-                "ref": "66907:49"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9729202,
-                    48.858775
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Morašice č.p. 43 <br><b>Adresa:</b> č.p. 43, 66902, Mašovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "66907:198"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9112569,
-                    48.8623604
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Lukov - kostel <br><b>Adresa:</b> č.p. 5, 66902, Lukov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 27.29 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:25",
-                "ref": "66907:50"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.9767721,
+          48.8571976
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Mešovice <br><b>Adresa:</b> č.p. 16, 66902, Mašovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:100"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9729202,
+          48.858775
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Morašice č.p. 43 <br><b>Adresa:</b> č.p. 43, 66902, Mašovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:198"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9881559,
+          48.8561708
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Mašovice <br><b>Adresa:</b> č.p. 69, 66902, Mašovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:25",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:47"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9401706,
+          48.8503136
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Podmolí <br><b>Adresa:</b> č.p. 31, 66902, Podmolí <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 15.59 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:20",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:49"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9112569,
+          48.8623604
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lukov - kostel <br><b>Adresa:</b> č.p. 5, 66902, Lukov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 27.29 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:25",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:50"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9104532,
+          48.8586395
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lukov - obchod <br><b>Adresa:</b> č.p. 23, 66902, Lukov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 61.05 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:60"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

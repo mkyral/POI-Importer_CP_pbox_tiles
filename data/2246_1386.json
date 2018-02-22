@@ -1,90 +1,90 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.4695849,
-                    50.163337
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Penzion Lesní Zátiší, Komora, na čp.35, Holčovice <br><b>Adresa:</b> Komora 35, 79371, Holčovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:50",
-                "ref": "79207:215"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.4867014,
-                    50.1570586
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pošta Holčovice <br><b>Adresa:</b> č.p. 175, 79371, Holčovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 13:30",
-                "ref": "79207:202"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.4753502,
-                    50.1393307
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jelení, č.p. 20, Holčovice (na stojanu) <br><b>Adresa:</b> Bruntál; Holčovice; Jelení <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "79207:232"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.4478261,
-                    50.1575031
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Spálené,u čp.59, Holčovice (na zast.BUS) <br><b>Adresa:</b> Bruntál; Holčovice; Spálené <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 13:15",
-                "ref": "79207:217"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.4336682,
-                    50.1613224
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Spálené,napr.243,Holčovice (stoj.zast.BUS Ptáčník) <br><b>Adresa:</b> Bruntál; Holčovice; Spálené <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 13:30",
-                "ref": "79207:216"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          17.4867014,
+          50.1570586
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Holčovice <br><b>Adresa:</b> č.p. 175, 79371, Holčovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 13:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79207:202"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.4695849,
+          50.163337
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Penzion Lesní Zátiší, Komora, na čp.35, Holčovice <br><b>Adresa:</b> Komora 35, 79371, Holčovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:50",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79207:215"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.4336682,
+          50.1613224
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Spálené,napr.243,Holčovice (stoj.zast.BUS Ptáčník) <br><b>Adresa:</b> Bruntál; Holčovice; Spálené <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 13:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79207:216"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.4478261,
+          50.1575031
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Spálené,u čp.59, Holčovice (na zast.BUS) <br><b>Adresa:</b> Bruntál; Holčovice; Spálené <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 13:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79207:217"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.4753502,
+          50.1393307
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jelení, č.p. 20, Holčovice (na stojanu) <br><b>Adresa:</b> Bruntál; Holčovice; Jelení <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79207:232"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

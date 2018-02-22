@@ -1,175 +1,175 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4885918,
-                    49.3552371
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> nádraží ČD, Kostelec u Jihlavy <br><b>Adresa:</b> č.p. 69, 58861, Kostelec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:15",
-                "ref": "58607:168"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4893198,
-                    49.3743176
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pohostinství, Dvorce <br><b>Adresa:</b> č.p. 21, 58851, Dvorce ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:55",
-                "ref": "58607:166"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4929691,
-                    49.3594123
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Kostelec u Jihlavy <br><b>Adresa:</b> č.p. 100, 58861, Kostelec <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 36.83 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "58607:269"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4699309,
-                    49.3693682
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jednota, Cejle <br><b>Adresa:</b> č.p. 125, 58851, Cejle ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58607:167"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4696573,
-                    49.3451421
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> zastávka ICOM, Nový Svět <br><b>Adresa:</b> Nový Svět 3, 58851, Dolní Cerekev ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:50",
-                "ref": "58607:164"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4696573,
-                    49.3451421
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> zastávka ICOM, Nová Ves <br><b>Adresa:</b> Nový Svět 3, 58851, Dolní Cerekev ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:15",
-                "ref": "58607:157"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.5415646,
-                    49.3505194
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> zastávka ICOM, Popice <br><b>Adresa:</b> Popice 2, 58601, Jihlava ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:40",
-                "ref": "58607:68"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4898733,
-                    49.3564353
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> zastávka ICOM, Kostelec u Ji <br><b>Adresa:</b> č.p. 60, 58861, Kostelec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "58607:152"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4914701,
-                    49.3620191
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Masna, Kostelec u Ji <br><b>Adresa:</b> č.p. 3, 58861, Kostelec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "58607:153"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.534299,
-                    49.3719097
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hasičská zbrojnice, Vysoká <br><b>Adresa:</b> Vysoká 16, 58601, Jihlava ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:10",
-                "ref": "58607:69"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.4898733,
+          49.3564353
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> zastávka ICOM, Kostelec u Ji <br><b>Adresa:</b> č.p. 60, 58861, Kostelec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:152"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4914701,
+          49.3620191
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Masna, Kostelec u Ji <br><b>Adresa:</b> č.p. 3, 58861, Kostelec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:153"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4696573,
+          49.3451421
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> zastávka ICOM, Nová Ves <br><b>Adresa:</b> Nový Svět 3, 58851, Dolní Cerekev ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:157"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4696573,
+          49.3451421
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> zastávka ICOM, Nový Svět <br><b>Adresa:</b> Nový Svět 3, 58851, Dolní Cerekev ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:50",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:164"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4893198,
+          49.3743176
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pohostinství, Dvorce <br><b>Adresa:</b> č.p. 21, 58851, Dvorce ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:55",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:166"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4699309,
+          49.3693682
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jednota, Cejle <br><b>Adresa:</b> č.p. 125, 58851, Cejle ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:167"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4885918,
+          49.3552371
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> nádraží ČD, Kostelec u Jihlavy <br><b>Adresa:</b> č.p. 69, 58861, Kostelec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:168"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4929691,
+          49.3594123
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Kostelec u Jihlavy <br><b>Adresa:</b> č.p. 100, 58861, Kostelec <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 36.83 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:269"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.5415646,
+          49.3505194
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> zastávka ICOM, Popice <br><b>Adresa:</b> Popice 2, 58601, Jihlava ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:40",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:68"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.534299,
+          49.3719097
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hasičská zbrojnice, Vysoká <br><b>Adresa:</b> Vysoká 16, 58601, Jihlava ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:10",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:69"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

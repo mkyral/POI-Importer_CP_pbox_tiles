@@ -1,73 +1,73 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3438176,
-                    50.5483392
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Martínkovice <br><b>Adresa:</b> č.p. 277, 54973, Martínkovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "54707:323"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3269267,
-                    50.5437698
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> ZD Martínkovice <br><b>Adresa:</b> č.p. 88, 54973, Martínkovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "54707:322"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.2847843,
-                    50.5370128
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Slavný, zast. BUS <br><b>Adresa:</b> Náchod; Suchý Důl; Slavný <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u></p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "54707:175"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.2635197,
-                    50.5392019
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> partner <br><b>Adresa:</b> č.p. 145, 54962, Suchý Důl <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 203.91 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "54707:171"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.2635197,
+          50.5392019
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> partner <br><b>Adresa:</b> č.p. 145, 54962, Suchý Důl <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 203.91 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54707:171"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2847843,
+          50.5370128
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Slavný, zast. BUS <br><b>Adresa:</b> Náchod; Suchý Důl; Slavný <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54707:175"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3269267,
+          50.5437698
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> ZD Martínkovice <br><b>Adresa:</b> č.p. 88, 54973, Martínkovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54707:322"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3438176,
+          50.5483392
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Martínkovice <br><b>Adresa:</b> č.p. 277, 54973, Martínkovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54707:323"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

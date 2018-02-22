@@ -1,124 +1,124 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.0856313,
-                    49.756092
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pustá Kamenice hostinec, č.p. 2, Borová u Poličky <br><b>Adresa:</b> č.p. 2, 56982, Pustá Kamenice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:446"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.147271,
-                    49.7810714
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Bílý Kámen - BUS, \"S\" <br><b>Adresa:</b> Chrudim; Podhořany u Ronova; Bílý Kámen <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "53800:30"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1655247,
-                    49.7368871
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Borová u Poličky <br><b>Adresa:</b> č.p. 100, 56982, Borová ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:469"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1616169,
-                    49.7429648
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> ČD č.p. 170, Borová u Poličky <br><b>Adresa:</b> č.p. 170, 56982, Borová ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:436"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1023167,
-                    49.7637261
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Františky č.p. 37, Borová u Poličky <br><b>Adresa:</b> Františky 37, 56982, Krouna ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:442"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.155669,
-                    49.744621
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Autokemp (červen-září), č.p. 339, Borová u Poličky <br><b>Adresa:</b> č.p. 339, 56982, Borová ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:441"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1551792,
-                    49.7560107
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Svatá Kateřina č. 240, Borová u Poličky <br><b>Adresa:</b> č.p. 240, 56982, Borová ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:437"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.147271,
+          49.7810714
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bílý Kámen - BUS, \"S\" <br><b>Adresa:</b> Chrudim; Podhořany u Ronova; Bílý Kámen <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53800:30"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1616169,
+          49.7429648
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> ČD č.p. 170, Borová u Poličky <br><b>Adresa:</b> č.p. 170, 56982, Borová ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:436"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1551792,
+          49.7560107
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Svatá Kateřina č. 240, Borová u Poličky <br><b>Adresa:</b> č.p. 240, 56982, Borová ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:437"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.155669,
+          49.744621
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Autokemp (červen-září), č.p. 339, Borová u Poličky <br><b>Adresa:</b> č.p. 339, 56982, Borová ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:441"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1023167,
+          49.7637261
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Františky č.p. 37, Borová u Poličky <br><b>Adresa:</b> Františky 37, 56982, Krouna ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:442"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0856313,
+          49.756092
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pustá Kamenice hostinec, č.p. 2, Borová u Poličky <br><b>Adresa:</b> č.p. 2, 56982, Pustá Kamenice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:446"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1655247,
+          49.7368871
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Borová u Poličky <br><b>Adresa:</b> č.p. 100, 56982, Borová ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:469"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

@@ -1,56 +1,56 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.7851538,
-                    49.8090047
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pavlovice, náves <br><b>Adresa:</b> Tachov; Planá; Pavlovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "34707:94"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.7851538,
-                    49.8090047
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pavlovice, obchod <br><b>Adresa:</b> Tachov; Planá; Pavlovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "34707:95"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.7968632,
-                    49.7874149
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Damnov č.41 <br><b>Adresa:</b> Damnov 41, 34815, Bor <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 2.65 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "34707:109"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          12.7968632,
+          49.7874149
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Damnov č.41 <br><b>Adresa:</b> Damnov 41, 34815, Bor <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 2.65 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "34707:109"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.7851538,
+          49.8090047
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pavlovice, náves <br><b>Adresa:</b> Tachov; Planá; Pavlovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "34707:94"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.7851538,
+          49.8090047
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pavlovice, obchod <br><b>Adresa:</b> Tachov; Planá; Pavlovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "34707:95"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

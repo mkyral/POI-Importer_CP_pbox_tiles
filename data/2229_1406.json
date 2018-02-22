@@ -1,141 +1,141 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9289517,
-                    48.9824823
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Boskovštejn <br><b>Adresa:</b> č.p. 29, 67154, Boskovštejn ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "66907:158"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9776591,
-                    49.0285958
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Rozkoš-obchod <br><b>Adresa:</b> Znojmo; Rozkoš; Rozkoš <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "66907:167"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9860863,
-                    48.9911819
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jevišovice č.p. 182 <br><b>Adresa:</b> č.p. 182, 67153, Jevišovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "66907:164"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9870387,
-                    48.9881952
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Jevišovice <br><b>Adresa:</b> č.p. 90, 67153, Jevišovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 14:00",
-                "ref": "66907:271"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9257758,
-                    48.9941701
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jiřice u Mor.Budějovic <br><b>Adresa:</b> č.p. 1, 67154, Jiřice u Moravských Budějovic ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "66907:157"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9860863,
-                    48.9911819
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Střelice <br><b>Adresa:</b> č.p. 182, 67153, Jevišovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "66907:165"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.988021,
-                    49.0378062
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pulkov <br><b>Adresa:</b> Pulkov 12, 67557, Biskupice-Pulkov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "67407:224"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9891408,
-                    48.98846
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jevišovice-náměstí <br><b>Adresa:</b> č.p. 29, 67153, Jevišovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "66907:163"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.9257758,
+          48.9941701
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jiřice u Mor.Budějovic <br><b>Adresa:</b> č.p. 1, 67154, Jiřice u Moravských Budějovic ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:157"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9289517,
+          48.9824823
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Boskovštejn <br><b>Adresa:</b> č.p. 29, 67154, Boskovštejn ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:158"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9891408,
+          48.98846
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jevišovice-náměstí <br><b>Adresa:</b> č.p. 29, 67153, Jevišovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:163"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9860863,
+          48.9911819
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jevišovice č.p. 182 <br><b>Adresa:</b> č.p. 182, 67153, Jevišovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:164"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9860863,
+          48.9911819
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Střelice <br><b>Adresa:</b> č.p. 182, 67153, Jevišovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:165"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9776591,
+          49.0285958
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Rozkoš-obchod <br><b>Adresa:</b> Znojmo; Rozkoš; Rozkoš <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:167"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9870387,
+          48.9881952
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Jevišovice <br><b>Adresa:</b> č.p. 90, 67153, Jevišovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 14:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:271"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.988021,
+          49.0378062
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pulkov <br><b>Adresa:</b> Pulkov 12, 67557, Biskupice-Pulkov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:224"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

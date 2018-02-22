@@ -1,124 +1,124 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.8909248,
-                    48.9327869
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> budova - prodejna JEDNOTA COOP 134 <br><b>Adresa:</b> č.p. 134, 69110, Kobylí ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "60011:90"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.8955099,
-                    48.9682649
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Brumovice - Na drahách <br><b>Adresa:</b> č.p. 336, 69111, Brumovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "60011:83"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.8835149,
-                    48.9320382
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> budova  - JEDNOTA  COOP <br><b>Adresa:</b> č.p. 673, 69110, Kobylí ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "60011:89"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.8813279,
-                    48.9347342
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Kobylí na Moravě <br><b>Adresa:</b> č.p. 500, 69110, Kobylí ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "60011:137"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.9410848,
-                    48.9571343
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u Obecního úřadu,Terezín <br><b>Adresa:</b> č.p. 78, 69614, Terezín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "69507:83"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.8963812,
-                    48.9634302
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Brumovice - Pod kostelem <br><b>Adresa:</b> č.p. 60, 69111, Brumovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "60011:82"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.8961113,
-                    48.9591504
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Brumovice na Moravě <br><b>Adresa:</b> č.p. 26, 69111, Brumovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "60011:138"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.8813279,
+          48.9347342
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Kobylí na Moravě <br><b>Adresa:</b> č.p. 500, 69110, Kobylí ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60011:137"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.8961113,
+          48.9591504
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Brumovice na Moravě <br><b>Adresa:</b> č.p. 26, 69111, Brumovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60011:138"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.8963812,
+          48.9634302
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Brumovice - Pod kostelem <br><b>Adresa:</b> č.p. 60, 69111, Brumovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60011:82"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.8955099,
+          48.9682649
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Brumovice - Na drahách <br><b>Adresa:</b> č.p. 336, 69111, Brumovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60011:83"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.8835149,
+          48.9320382
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> budova  - JEDNOTA  COOP <br><b>Adresa:</b> č.p. 673, 69110, Kobylí ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60011:89"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.8909248,
+          48.9327869
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> budova - prodejna JEDNOTA COOP 134 <br><b>Adresa:</b> č.p. 134, 69110, Kobylí ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60011:90"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.9410848,
+          48.9571343
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u Obecního úřadu,Terezín <br><b>Adresa:</b> č.p. 78, 69614, Terezín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69507:83"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

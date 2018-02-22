@@ -1,39 +1,39 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.8592954,
-                    50.8694549
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Oldřichov na Hr. 52, Hrádek n.N. <br><b>Adresa:</b> Oldřichov na Hranicích 52, 46334, Hrádek nad Nisou <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 15.43 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "46307:346"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.92046,
-                    50.8547862
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Restaurace U Slunce,Václavice 161/0 Hrádek n. N. <br><b>Adresa:</b> Václavice 161, 46334, Hrádek nad Nisou <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.57 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "46307:347"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.8592954,
+          50.8694549
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Oldřichov na Hr. 52, Hrádek n.N. <br><b>Adresa:</b> Oldřichov na Hranicích 52, 46334, Hrádek nad Nisou <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 15.43 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "46307:346"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.92046,
+          50.8547862
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Restaurace U Slunce,Václavice 161/0 Hrádek n. N. <br><b>Adresa:</b> Václavice 161, 46334, Hrádek nad Nisou <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.57 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "46307:347"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

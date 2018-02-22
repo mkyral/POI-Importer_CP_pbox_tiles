@@ -1,175 +1,175 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9666434,
-                    50.0561644
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Roveňsko - kult. místnost <br><b>Adresa:</b> Roveňsko 6, 53401, Holice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "53400:11"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9735928,
-                    50.0264499
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u zdravotního střediska <br><b>Adresa:</b> č.p. 147, 53371, Dolní Roveň ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "53400:6"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9425965,
-                    50.0408843
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Komárov - č.p. 61 - stojan <br><b>Adresa:</b> Komárov 61, 53002, Dolní Roveň ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "53000:89"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9127292,
-                    50.0271937
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Nákupní středisko, Dašice v Čechách - držák <br><b>Adresa:</b> Husovo náměstí 32, 53303, Dašice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "53000:135"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9849497,
-                    50.0223164
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jednota, Horní Roveň - držák <br><b>Adresa:</b> Horní Roveň 163, 53371, Dolní Roveň ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "53400:19"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9136799,
-                    50.0292072
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Dašice v Čechách - držák <br><b>Adresa:</b> Komenského 25, 53303, Dašice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "53000:180"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9382015,
-                    50.0246283
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> zastávka ČSAD, Prachovice - stojan <br><b>Adresa:</b> Prachovice 5, 53002, Dašice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "53000:78"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9536805,
-                    50.0112787
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Platěnice - has. zbrojnice - stojan <br><b>Adresa:</b> Platěnice 37, 53002, Moravany ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "53000:79"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9678847,
-                    50.029989
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Dolní Roveň - stojan <br><b>Adresa:</b> č.p. 1, 53371, Dolní Roveň ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "53400:46"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9171872,
-                    50.0122269
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Moravanský - zast. ČSAD - stojan <br><b>Adresa:</b> Moravanský 3, 53002, Moravany ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "53000:77"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.9127292,
+          50.0271937
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nákupní středisko, Dašice v Čechách - držák <br><b>Adresa:</b> Husovo náměstí 32, 53303, Dašice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53000:135"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9136799,
+          50.0292072
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Dašice v Čechách - držák <br><b>Adresa:</b> Komenského 25, 53303, Dašice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53000:180"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9171872,
+          50.0122269
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Moravanský - zast. ČSAD - stojan <br><b>Adresa:</b> Moravanský 3, 53002, Moravany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53000:77"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9382015,
+          50.0246283
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> zastávka ČSAD, Prachovice - stojan <br><b>Adresa:</b> Prachovice 5, 53002, Dašice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53000:78"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9536805,
+          50.0112787
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Platěnice - has. zbrojnice - stojan <br><b>Adresa:</b> Platěnice 37, 53002, Moravany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53000:79"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9425965,
+          50.0408843
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Komárov - č.p. 61 - stojan <br><b>Adresa:</b> Komárov 61, 53002, Dolní Roveň ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53000:89"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9666434,
+          50.0561644
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Roveňsko - kult. místnost <br><b>Adresa:</b> Roveňsko 6, 53401, Holice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53400:11"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9849497,
+          50.0223164
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jednota, Horní Roveň - držák <br><b>Adresa:</b> Horní Roveň 163, 53371, Dolní Roveň ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53400:19"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9678847,
+          50.029989
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Dolní Roveň - stojan <br><b>Adresa:</b> č.p. 1, 53371, Dolní Roveň ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53400:46"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9735928,
+          50.0264499
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u zdravotního střediska <br><b>Adresa:</b> č.p. 147, 53371, Dolní Roveň ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53400:6"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

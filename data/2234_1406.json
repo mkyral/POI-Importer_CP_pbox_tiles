@@ -1,141 +1,141 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.4293759,
-                    49.0351771
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Maršovice - č.p.163 <br><b>Adresa:</b> č.p. 163, 67175, Jezeřany-Maršovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:20",
-                "ref": "66907:208"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.4118505,
-                    49.0012786
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kubšice č.p. 40 <br><b>Adresa:</b> č.p. 40, 67176, Kubšice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:15",
-                "ref": "66907:203"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.380978,
-                    49.0218911
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Vedrovice <br><b>Adresa:</b> č.p. 171, 67175, Vedrovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "66907:210"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3766753,
-                    49.0203727
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Vedrovice <br><b>Adresa:</b> č.p. 326, 67175, Vedrovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:15",
-                "ref": "66907:286"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3927924,
-                    48.990871
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Olbramovice-OÚ <br><b>Adresa:</b> č.p. 80, 67176, Olbramovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:45",
-                "ref": "66907:202"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3603183,
-                    48.9908954
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Bohutice-hostinec <br><b>Adresa:</b> č.p. 4, 67176, Bohutice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "66907:206"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.400034,
-                    48.9846997
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Olbramovice u Mor.Krumlova <br><b>Adresa:</b> č.p. 148, 67176, Olbramovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "66907:288"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3561853,
-                    48.9905156
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Bohutice- č.p. 68 <br><b>Adresa:</b> č.p. 68, 67176, Bohutice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "66907:205"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.3927924,
+          48.990871
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Olbramovice-OÚ <br><b>Adresa:</b> č.p. 80, 67176, Olbramovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:202"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.4118505,
+          49.0012786
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kubšice č.p. 40 <br><b>Adresa:</b> č.p. 40, 67176, Kubšice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:203"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3561853,
+          48.9905156
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bohutice- č.p. 68 <br><b>Adresa:</b> č.p. 68, 67176, Bohutice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:205"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3603183,
+          48.9908954
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bohutice-hostinec <br><b>Adresa:</b> č.p. 4, 67176, Bohutice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:206"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.4293759,
+          49.0351771
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Maršovice - č.p.163 <br><b>Adresa:</b> č.p. 163, 67175, Jezeřany-Maršovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:20",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:208"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.380978,
+          49.0218911
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vedrovice <br><b>Adresa:</b> č.p. 171, 67175, Vedrovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:210"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3766753,
+          49.0203727
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Vedrovice <br><b>Adresa:</b> č.p. 326, 67175, Vedrovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:286"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.400034,
+          48.9846997
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Olbramovice u Mor.Krumlova <br><b>Adresa:</b> č.p. 148, 67176, Olbramovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:288"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

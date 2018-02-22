@@ -1,175 +1,175 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.5035492,
-                    49.4499349
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Lačnov <br><b>Adresa:</b> Lačnov 19, 67971, Štěchov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:15",
-                "ref": "68007:243"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.496171,
-                    49.4915309
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Touboř - náves <br><b>Adresa:</b> Touboř 4, 67972, Kunštát ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:40",
-                "ref": "68007:253"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.473105,
-                    49.4958672
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hluboké u Kunštátu-aut. zastávka <br><b>Adresa:</b> Hluboké u Kunštátu 7, 67972, Kunštát ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:20",
-                "ref": "68007:256"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.4412897,
-                    49.4963288
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Obecní úřad, Tasovice <br><b>Adresa:</b> č.p. 41, 67975, Tasovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "68007:244"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.5062172,
-                    49.4519829
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Štěchov <br><b>Adresa:</b> č.p. 1, 67971, Štěchov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "68007:238"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.496113,
-                    49.4693942
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Lhota u Lysic <br><b>Adresa:</b> č.p. 40, 67971, Lhota u Lysic ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "68007:240"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.4758742,
-                    49.4467052
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> obchod Kunčina Ves <br><b>Adresa:</b> č.p. 32, 67971, Kunčina Ves ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "68007:241"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.4624137,
-                    49.4620984
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Bedřichov <br><b>Adresa:</b> č.p. 98, 67971, Bedřichov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "68007:242"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.4907475,
-                    49.4790465
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kunice <br><b>Adresa:</b> č.p. 19, 67971, Kunice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "68007:239"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.4581872,
-                    49.4432423
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kozárov <br><b>Adresa:</b> č.p. 44, 67971, Kozárov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "68007:234"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.4581872,
+          49.4432423
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kozárov <br><b>Adresa:</b> č.p. 44, 67971, Kozárov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68007:234"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.5062172,
+          49.4519829
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Štěchov <br><b>Adresa:</b> č.p. 1, 67971, Štěchov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68007:238"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.4907475,
+          49.4790465
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kunice <br><b>Adresa:</b> č.p. 19, 67971, Kunice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68007:239"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.496113,
+          49.4693942
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lhota u Lysic <br><b>Adresa:</b> č.p. 40, 67971, Lhota u Lysic ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68007:240"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.4758742,
+          49.4467052
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> obchod Kunčina Ves <br><b>Adresa:</b> č.p. 32, 67971, Kunčina Ves ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68007:241"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.4624137,
+          49.4620984
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bedřichov <br><b>Adresa:</b> č.p. 98, 67971, Bedřichov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68007:242"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.5035492,
+          49.4499349
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lačnov <br><b>Adresa:</b> Lačnov 19, 67971, Štěchov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68007:243"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.4412897,
+          49.4963288
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Obecní úřad, Tasovice <br><b>Adresa:</b> č.p. 41, 67975, Tasovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68007:244"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.496171,
+          49.4915309
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Touboř - náves <br><b>Adresa:</b> Touboř 4, 67972, Kunštát ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:40",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68007:253"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.473105,
+          49.4958672
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hluboké u Kunštátu-aut. zastávka <br><b>Adresa:</b> Hluboké u Kunštátu 7, 67972, Kunštát ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:20",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68007:256"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

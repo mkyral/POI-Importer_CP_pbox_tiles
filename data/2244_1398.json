@@ -1,158 +1,158 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.2857794,
-                    49.4696019
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Věrovany, Nenakonice 398 (Jednota) <br><b>Adresa:</b> Nenakonice 398, 78375, Věrovany ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "79907:145"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.2774329,
-                    49.4828958
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pošta Dub nad Moravou (stojan) <br><b>Adresa:</b> Náměstí 94, 78375, Dub nad Moravou ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 14:00",
-                "ref": "79907:410"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.2908839,
-                    49.4642025
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pošta Věrovany <br><b>Adresa:</b> č.p. 125, 78375, Věrovany ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 15:15",
-                "ref": "79907:411"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.2736611,
-                    49.4895749
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Dub nad Mor., Tučapy 435 (zastávka-stojan) <br><b>Adresa:</b> Olomouc; Dub nad Moravou; Tučapy <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:45",
-                "ref": "79907:147"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.23625,
-                    49.4606978
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Biskupice 21 (stojan) <br><b>Adresa:</b> č.p. 21, 79812, Biskupice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "79907:47"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.2722791,
-                    49.4931542
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Dub nad Mor., Bolelouc 551 (COOP-stojan) <br><b>Adresa:</b> Bolelouc 551, 78375, Dub nad Moravou ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 13:15",
-                "ref": "79907:148"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.2487349,
-                    49.4469
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Klopotovice 3 (obchod - stojan) <br><b>Adresa:</b> č.p. 3, 79821, Klopotovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "79907:45"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.2872172,
-                    49.466767
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Věrovany, Rakodavy 281 (prod. smíšené zboží) <br><b>Adresa:</b> Rakodavy 281, 78375, Věrovany ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "79907:144"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.2877861,
-                    49.4627475
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Věrovany 106 (Jednota) <br><b>Adresa:</b> č.p. 106, 78375, Věrovany ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "79907:146"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          17.2872172,
+          49.466767
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Věrovany, Rakodavy 281 (prod. smíšené zboží) <br><b>Adresa:</b> Rakodavy 281, 78375, Věrovany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79907:144"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.2857794,
+          49.4696019
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Věrovany, Nenakonice 398 (Jednota) <br><b>Adresa:</b> Nenakonice 398, 78375, Věrovany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79907:145"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.2877861,
+          49.4627475
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Věrovany 106 (Jednota) <br><b>Adresa:</b> č.p. 106, 78375, Věrovany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79907:146"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.2736611,
+          49.4895749
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dub nad Mor., Tučapy 435 (zastávka-stojan) <br><b>Adresa:</b> Olomouc; Dub nad Moravou; Tučapy <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79907:147"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.2722791,
+          49.4931542
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dub nad Mor., Bolelouc 551 (COOP-stojan) <br><b>Adresa:</b> Bolelouc 551, 78375, Dub nad Moravou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 13:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79907:148"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.2774329,
+          49.4828958
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Dub nad Moravou (stojan) <br><b>Adresa:</b> Náměstí 94, 78375, Dub nad Moravou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 14:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79907:410"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.2908839,
+          49.4642025
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Věrovany <br><b>Adresa:</b> č.p. 125, 78375, Věrovany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 15:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79907:411"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.2487349,
+          49.4469
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Klopotovice 3 (obchod - stojan) <br><b>Adresa:</b> č.p. 3, 79821, Klopotovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79907:45"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.23625,
+          49.4606978
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Biskupice 21 (stojan) <br><b>Adresa:</b> č.p. 21, 79812, Biskupice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79907:47"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

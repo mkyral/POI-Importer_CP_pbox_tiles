@@ -1,141 +1,141 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.813256,
-                    49.763547
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Větřkovice,Nové Vrbno, na zděné zastávce u čp. 186 <br><b>Adresa:</b> Opava; Větřkovice; Nové Vrbno <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:05",
-                "ref": "74907:333"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.7953246,
-                    49.7355407
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Odry, Kamenka E15 (stojan) <br><b>Adresa:</b> Nový Jičín; Odry; Kamenka <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:30",
-                "ref": "74207:319"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.7556145,
-                    49.7729198
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Vítkov, Skřivančí pole 586,(na stojanu) u Hřbitova <br><b>Adresa:</b> Opava; Vítkov; Vítkov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:05",
-                "ref": "74907:147"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.8319458,
-                    49.7247771
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Fulnek, Vlkovice 105, potraviny (stojan) <br><b>Adresa:</b> Nový Jičín; Fulnek; Vlkovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "74207:337"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.8198736,
-                    49.780197
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pošta Větřkovice u Vítkova <br><b>Adresa:</b> č.p. 197, 74743, Větřkovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 15:00",
-                "ref": "74907:186"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.7553351,
-                    49.7765702
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pošta Vítkov 1 (stojan) <br><b>Adresa:</b> Dělnická 664, 74901, Vítkov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 16:00",
-                "ref": "74907:151"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.8344505,
-                    49.7468745
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Fulnek, Dolejší Kunčice 56, bus. zastávka <br><b>Adresa:</b> Nový Jičín; Fulnek; Dolejší Kunčice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:45",
-                "ref": "74207:338"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.7552,
-                    49.7793278
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Vítkov, autobusové nádraží, Opavská  27 <br><b>Adresa:</b> Opavská 27, 74901, Vítkov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:15",
-                "ref": "74907:149"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          17.7953246,
+          49.7355407
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Odry, Kamenka E15 (stojan) <br><b>Adresa:</b> Nový Jičín; Odry; Kamenka <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74207:319"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.8319458,
+          49.7247771
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Fulnek, Vlkovice 105, potraviny (stojan) <br><b>Adresa:</b> Nový Jičín; Fulnek; Vlkovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74207:337"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.8344505,
+          49.7468745
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Fulnek, Dolejší Kunčice 56, bus. zastávka <br><b>Adresa:</b> Nový Jičín; Fulnek; Dolejší Kunčice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74207:338"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.7556145,
+          49.7729198
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vítkov, Skřivančí pole 586,(na stojanu) u Hřbitova <br><b>Adresa:</b> Opava; Vítkov; Vítkov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:05",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74907:147"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.7552,
+          49.7793278
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vítkov, autobusové nádraží, Opavská  27 <br><b>Adresa:</b> Opavská 27, 74901, Vítkov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74907:149"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.7553351,
+          49.7765702
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Vítkov 1 (stojan) <br><b>Adresa:</b> Dělnická 664, 74901, Vítkov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 16:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74907:151"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.8198736,
+          49.780197
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Větřkovice u Vítkova <br><b>Adresa:</b> č.p. 197, 74743, Větřkovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 15:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74907:186"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.813256,
+          49.763547
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Větřkovice,Nové Vrbno, na zděné zastávce u čp. 186 <br><b>Adresa:</b> Opava; Větřkovice; Nové Vrbno <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:05",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74907:333"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

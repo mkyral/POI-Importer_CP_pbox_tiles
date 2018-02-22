@@ -1,22 +1,22 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9340433,
-                    49.074018
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Příštpo, sokolovna <br><b>Adresa:</b> č.p. 57, 67551, Příštpo ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "67407:195"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.9340433,
+          49.074018
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Příštpo, sokolovna <br><b>Adresa:</b> č.p. 57, 67551, Příštpo ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:195"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

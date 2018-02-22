@@ -1,22 +1,22 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.1359666,
-                    50.5025519
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> mezi č. 18 a 63 <br><b>Adresa:</b> č.p. 63, 43191, Kryštofovy Hamry ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "43007:212"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.1359666,
+          50.5025519
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> mezi č. 18 a 63 <br><b>Adresa:</b> č.p. 63, 43191, Kryštofovy Hamry ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43007:212"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

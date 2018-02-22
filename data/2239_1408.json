@@ -1,141 +1,141 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.8184585,
-                    48.904736
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Velké Pavlovice <br><b>Adresa:</b> Hlavní 49/89, 69106, Velké Pavlovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 15:00",
-                "ref": "60011:133"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.8134115,
-                    48.9008373
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u mateřské školy <br><b>Adresa:</b> V Sadech 930/48, 69106, Velké Pavlovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "60011:68"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.8159827,
-                    48.9062646
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Úvoz 1 - potraviny Herman <br><b>Adresa:</b> Úvoz 380/1, 69106, Velké Pavlovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "60011:70"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.816368,
-                    48.8958293
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Zahradní 1 - prodejna Dudkové <br><b>Adresa:</b> Zahradní 726/1, 69106, Velké Pavlovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:20",
-                "ref": "60011:69"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.8547355,
-                    48.9136174
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Bořetice <br><b>Adresa:</b> č.p. 503, 69108, Bořetice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "60011:135"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.8532847,
-                    48.9114658
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Bořetice u Hustopečí, č.p.276 <br><b>Adresa:</b> č.p. 276, 69108, Bořetice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "60011:56"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.8174672,
-                    48.9021616
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> nákupní středisko COOP <br><b>Adresa:</b> Hlavní 30/55, 69106, Velké Pavlovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "60011:66"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.8188995,
-                    48.898048
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hlavní 10 AGRICO <br><b>Adresa:</b> Hlavní 187/10, 69106, Velké Pavlovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "60011:67"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.8184585,
+          48.904736
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Velké Pavlovice <br><b>Adresa:</b> Hlavní 49/89, 69106, Velké Pavlovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 15:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60011:133"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.8547355,
+          48.9136174
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Bořetice <br><b>Adresa:</b> č.p. 503, 69108, Bořetice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60011:135"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.8532847,
+          48.9114658
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bořetice u Hustopečí, č.p.276 <br><b>Adresa:</b> č.p. 276, 69108, Bořetice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60011:56"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.8174672,
+          48.9021616
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> nákupní středisko COOP <br><b>Adresa:</b> Hlavní 30/55, 69106, Velké Pavlovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60011:66"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.8188995,
+          48.898048
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hlavní 10 AGRICO <br><b>Adresa:</b> Hlavní 187/10, 69106, Velké Pavlovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60011:67"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.8134115,
+          48.9008373
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u mateřské školy <br><b>Adresa:</b> V Sadech 930/48, 69106, Velké Pavlovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60011:68"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.816368,
+          48.8958293
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Zahradní 1 - prodejna Dudkové <br><b>Adresa:</b> Zahradní 726/1, 69106, Velké Pavlovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:20",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60011:69"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.8159827,
+          48.9062646
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Úvoz 1 - potraviny Herman <br><b>Adresa:</b> Úvoz 380/1, 69106, Velké Pavlovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60011:70"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

@@ -1,22 +1,22 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.5640039,
-                    49.0541402
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Horská Kvilda <br><b>Adresa:</b> č.p. 40, 38501, Horská Kvilda ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "38307:141"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.5640039,
+          49.0541402
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Horská Kvilda <br><b>Adresa:</b> č.p. 40, 38501, Horská Kvilda ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38307:141"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

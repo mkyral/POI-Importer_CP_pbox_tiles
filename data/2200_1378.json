@@ -1,39 +1,39 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.4379158,
-                    50.6056454
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Hora Svaté Kateřiny <br><b>Adresa:</b> Dlouhá 50, 43546, Hora Svaté Kateřiny ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "43407:153"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.4310617,
-                    50.6064826
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> na stojanu <br><b>Adresa:</b> Dolní 274, 43546, Hora Svaté Kateřiny ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "43407:128"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.4310617,
+          50.6064826
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> na stojanu <br><b>Adresa:</b> Dolní 274, 43546, Hora Svaté Kateřiny ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43407:128"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.4379158,
+          50.6056454
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Hora Svaté Kateřiny <br><b>Adresa:</b> Dlouhá 50, 43546, Hora Svaté Kateřiny ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43407:153"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

@@ -1,124 +1,124 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.5875686,
-                    50.3753475
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u obchodu <br><b>Adresa:</b> Jenichov 9, 27734, Střemy <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.79 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "27607:186"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.5505476,
-                    50.3458061
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Mělnická Vrutice 87, 27731, Velký Borek ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "27607:74"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.5633909,
-                    50.364809
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> naproti č.p. 15, <br><b>Adresa:</b> Hleďsebe 15, 27731, Lhotka <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 53.45 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "27607:75"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.5097008,
-                    50.3690007
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> autobusová zastávka <br><b>Adresa:</b> Kokořínská 1615/86, 27601, Mělník <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 35.78 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "27607:67"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.5059928,
-                    50.3717375
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Chloumek <br><b>Adresa:</b> Trojická 1654, 27601, Mělník <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 19.74 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "27607:66"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.5660135,
-                    50.3843348
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u obchodu <br><b>Adresa:</b> č.p. 22, 27734, Střemy ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "27607:187"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.5478925,
-                    50.3716282
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 22, 27731, Lhotka <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 0.0 cm",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "27607:76"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.5875686,
+          50.3753475
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u obchodu <br><b>Adresa:</b> Jenichov 9, 27734, Střemy <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.79 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "27607:186"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5660135,
+          50.3843348
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u obchodu <br><b>Adresa:</b> č.p. 22, 27734, Střemy ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "27607:187"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5059928,
+          50.3717375
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Chloumek <br><b>Adresa:</b> Trojická 1654, 27601, Mělník <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 19.74 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "27607:66"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5097008,
+          50.3690007
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> autobusová zastávka <br><b>Adresa:</b> Kokořínská 1615/86, 27601, Mělník <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 35.78 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "27607:67"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5505476,
+          50.3458061
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Mělnická Vrutice 87, 27731, Velký Borek ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "27607:74"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5633909,
+          50.364809
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> naproti č.p. 15, <br><b>Adresa:</b> Hleďsebe 15, 27731, Lhotka <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 53.45 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "27607:75"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5478925,
+          50.3716282
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 22, 27731, Lhotka <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 0.0 cm",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "27607:76"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

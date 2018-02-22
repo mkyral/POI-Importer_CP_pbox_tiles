@@ -1,39 +1,39 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.4841017,
-                    50.1807712
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Dlouhá Voda,čp.21,M.Albrechtice(stojan u rekr.stř) <br><b>Adresa:</b> Bruntál; Město Albrechtice; Dlouhá Voda <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:15",
-                "ref": "79207:221"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.4451052,
-                    50.2287789
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> čp.65 - Penzion Hájenka, Petrovice <br><b>Adresa:</b> č.p. 65, 79384, Petrovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:30",
-                "ref": "79207:227"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          17.4841017,
+          50.1807712
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dlouhá Voda,čp.21,M.Albrechtice(stojan u rekr.stř) <br><b>Adresa:</b> Bruntál; Město Albrechtice; Dlouhá Voda <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79207:221"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.4451052,
+          50.2287789
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> čp.65 - Penzion Hájenka, Petrovice <br><b>Adresa:</b> č.p. 65, 79384, Petrovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79207:227"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

@@ -1,39 +1,39 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.829,
-                    48.9088103
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Soumarský most u hospody, č.p. 375 <br><b>Adresa:</b> Soumarský Most 375, 38451, Volary ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 13:00",
-                "ref": "38307:117"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.8832024,
-                    48.907232
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Nádraží ČD, č.p 355 <br><b>Adresa:</b> Tolarova 355, 38451, Volary ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 13:00",
-                "ref": "38307:103"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.8832024,
+          48.907232
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nádraží ČD, č.p 355 <br><b>Adresa:</b> Tolarova 355, 38451, Volary ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 13:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38307:103"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.829,
+          48.9088103
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Soumarský most u hospody, č.p. 375 <br><b>Adresa:</b> Soumarský Most 375, 38451, Volary ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 13:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38307:117"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

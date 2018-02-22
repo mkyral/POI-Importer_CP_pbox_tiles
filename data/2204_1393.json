@@ -1,158 +1,158 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.756312,
-                    49.7370318
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Strašice - pošta <br><b>Adresa:</b> č.p. 566, 33845, Strašice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "30072:401"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.7630004,
-                    49.7441924
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Strašice 218/II Dvůr-křižovatka <br><b>Adresa:</b> č.p. 218, 33845, Strašice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "30072:396"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.7535789,
-                    49.7290054
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Strašice,smíšené zboží- Huť 97/III <br><b>Adresa:</b> č.p. 97, 33845, Strašice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:15",
-                "ref": "30072:395"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.7539068,
-                    49.7409984
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Strašice - dvůr E39 <br><b>Adresa:</b> č.ev. 39, 33845, Strašice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "30072:394"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.7190846,
-                    49.773849
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Medový Újezd,dolní část náves <br><b>Adresa:</b> Rokycany; Medový Újezd; Medový Újezd <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "30072:54"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.7959956,
-                    49.7511946
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Těně - Obecní úřad <br><b>Adresa:</b> č.p. 91, 33845, Těně ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:45",
-                "ref": "30072:397"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.757444,
-                    49.7348607
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Strašice - Obecní úřad <br><b>Adresa:</b> č.p. 276, 33845, Strašice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "30072:393"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.7172545,
-                    49.7673301
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Medový Újezd,horní část č.p. 119 <br><b>Adresa:</b> č.p. 119, 33701, Medový Újezd ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "30072:51"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.7851909,
-                    49.7789099
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Cheznovice - pošta <br><b>Adresa:</b> č.p. 16, 33806, Cheznovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "30072:400"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.757444,
+          49.7348607
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Strašice - Obecní úřad <br><b>Adresa:</b> č.p. 276, 33845, Strašice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30072:393"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.7539068,
+          49.7409984
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Strašice - dvůr E39 <br><b>Adresa:</b> č.ev. 39, 33845, Strašice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30072:394"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.7535789,
+          49.7290054
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Strašice,smíšené zboží- Huť 97/III <br><b>Adresa:</b> č.p. 97, 33845, Strašice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30072:395"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.7630004,
+          49.7441924
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Strašice 218/II Dvůr-křižovatka <br><b>Adresa:</b> č.p. 218, 33845, Strašice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30072:396"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.7959956,
+          49.7511946
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Těně - Obecní úřad <br><b>Adresa:</b> č.p. 91, 33845, Těně ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30072:397"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.7851909,
+          49.7789099
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Cheznovice - pošta <br><b>Adresa:</b> č.p. 16, 33806, Cheznovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30072:400"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.756312,
+          49.7370318
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Strašice - pošta <br><b>Adresa:</b> č.p. 566, 33845, Strašice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30072:401"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.7172545,
+          49.7673301
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Medový Újezd,horní část č.p. 119 <br><b>Adresa:</b> č.p. 119, 33701, Medový Újezd ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30072:51"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.7190846,
+          49.773849
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Medový Újezd,dolní část náves <br><b>Adresa:</b> Rokycany; Medový Újezd; Medový Újezd <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30072:54"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

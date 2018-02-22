@@ -1,73 +1,73 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.3239826,
-                    49.7425834
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Lipina 73, u aut.zastávky (stojan) <br><b>Adresa:</b> Olomouc; Lipina; Lipina <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:30",
-                "ref": "77072:516"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.4011432,
-                    49.7393006
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hraničné Petrovice u čp. 62, na aut.zast. <br><b>Adresa:</b> Olomouc; Hraničné Petrovice; Hraničné Petrovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "77072:526"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.3475897,
-                    49.7395391
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Šternberk, Těšíkov 13, obchod (stojan) <br><b>Adresa:</b> Těšíkov 13, 78501, Šternberk ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:10",
-                "ref": "77072:517"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.3727463,
-                    49.7710584
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Horní Loděnice 114, Partner I <br><b>Adresa:</b> č.p. 114, 78305, Horní Loděnice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo 13:00; Tu 13:00; We 13:00; Th 13:00; Fr 11:30",
-                "ref": "77072:534"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          17.3239826,
+          49.7425834
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lipina 73, u aut.zastávky (stojan) <br><b>Adresa:</b> Olomouc; Lipina; Lipina <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "77072:516"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.3475897,
+          49.7395391
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Šternberk, Těšíkov 13, obchod (stojan) <br><b>Adresa:</b> Těšíkov 13, 78501, Šternberk ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:10",
+        "operator": "Česká pošta, s.p.",
+        "ref": "77072:517"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.4011432,
+          49.7393006
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hraničné Petrovice u čp. 62, na aut.zast. <br><b>Adresa:</b> Olomouc; Hraničné Petrovice; Hraničné Petrovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "77072:526"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.3727463,
+          49.7710584
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Horní Loděnice 114, Partner I <br><b>Adresa:</b> č.p. 114, 78305, Horní Loděnice ",
+        "amenity": "post_box",
+        "collection_times": "Mo 13:00; Tu 13:00; We 13:00; Th 13:00; Fr 11:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "77072:534"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

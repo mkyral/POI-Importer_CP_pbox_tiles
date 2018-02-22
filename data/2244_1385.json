@@ -1,22 +1,22 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.2981161,
-                    50.2291447
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Zlaté Hory, Rejvíz 29, Noskova chata <br><b>Adresa:</b> Rejvíz 29, 79376, Zlaté Hory ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:40",
-                "ref": "79007:205"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          17.2981161,
+          50.2291447
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Zlaté Hory, Rejvíz 29, Noskova chata <br><b>Adresa:</b> Rejvíz 29, 79376, Zlaté Hory ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:40",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79007:205"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

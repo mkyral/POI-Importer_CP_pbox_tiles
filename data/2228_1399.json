@@ -1,141 +1,141 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.901768,
-                    49.3851585
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> kaplička, Pustina <br><b>Adresa:</b> Pustina 404, 59442, Měřín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:15",
-                "ref": "59402:46"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.8220673,
-                    49.436698
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> zastávka ICOM, Arnolec <br><b>Adresa:</b> č.p. 27, 58827, Arnolec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:05",
-                "ref": "58607:105"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.8817371,
-                    49.3939327
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Obecní úřad, Měřín <br><b>Adresa:</b> Náměstí 58, 59442, Měřín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "59402:45"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.8797051,
-                    49.4327711
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> náves - kaple, Milíkov <br><b>Adresa:</b> Milíkov 21, 59442, Černá ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:10",
-                "ref": "59402:53"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.8868729,
-                    49.3920191
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Měřín <br><b>Adresa:</b> Poštovní 265, 59442, Měřín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "59402:67"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.8656594,
-                    49.4234782
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> zastávka ZDAR, Černá <br><b>Adresa:</b> č.p. 47, 59442, Černá ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "59402:52"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.8289257,
-                    49.4218161
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Jersín <br><b>Adresa:</b> č.p. 36, 58825, Jersín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 15:30",
-                "ref": "58607:253"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.843985,
-                    49.4054008
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> zastávka ICOM, Meziříčko <br><b>Adresa:</b> č.p. 4, 58827, Meziříčko ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:40",
-                "ref": "58607:104"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.843985,
+          49.4054008
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> zastávka ICOM, Meziříčko <br><b>Adresa:</b> č.p. 4, 58827, Meziříčko ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:40",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:104"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8220673,
+          49.436698
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> zastávka ICOM, Arnolec <br><b>Adresa:</b> č.p. 27, 58827, Arnolec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:05",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:105"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8289257,
+          49.4218161
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Jersín <br><b>Adresa:</b> č.p. 36, 58825, Jersín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 15:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:253"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8817371,
+          49.3939327
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Obecní úřad, Měřín <br><b>Adresa:</b> Náměstí 58, 59442, Měřín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59402:45"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.901768,
+          49.3851585
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> kaplička, Pustina <br><b>Adresa:</b> Pustina 404, 59442, Měřín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59402:46"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8656594,
+          49.4234782
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> zastávka ZDAR, Černá <br><b>Adresa:</b> č.p. 47, 59442, Černá ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59402:52"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8797051,
+          49.4327711
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> náves - kaple, Milíkov <br><b>Adresa:</b> Milíkov 21, 59442, Černá ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:10",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59402:53"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8868729,
+          49.3920191
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Měřín <br><b>Adresa:</b> Poštovní 265, 59442, Měřín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59402:67"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

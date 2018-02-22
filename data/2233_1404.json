@@ -1,158 +1,158 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.2802955,
-                    49.1001926
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Biskoupky 26 <br><b>Adresa:</b> č.p. 26, 66491, Biskoupky ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "60010:757"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3271539,
-                    49.1314191
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Havířská 10, Oslavany <br><b>Adresa:</b> Havířská 109/10, 66412, Oslavany ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "60010:771"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.2770882,
-                    49.1399323
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Čučice 71 <br><b>Adresa:</b> Brno-venkov; Čučice; Čučice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "60010:758"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3357135,
-                    49.1209248
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hlavní 84, Oslavany <br><b>Adresa:</b> Hlavní 1069/84, 66412, Oslavany ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "60010:773"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3328733,
-                    49.1245562
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Oslavany <br><b>Adresa:</b> Hlavní 36/24, 66412, Oslavany ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "60010:2"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3095674,
-                    49.1095448
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Nová Ves  150 <br><b>Adresa:</b> č.p. 150, 66491, Nová Ves ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "60010:756"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3149823,
-                    49.1062436
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Nová Ves u Oslavan <br><b>Adresa:</b> č.p. 67, 66491, Nová Ves ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "60010:3"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3434643,
-                    49.1362996
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Oslavany, Havírna 194/2 <br><b>Adresa:</b> Havírna 194/2, 66491, Oslavany ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "60010:754"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3225294,
-                    49.1289536
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> V  Hájku 18, Oslavany <br><b>Adresa:</b> V Hájku 1038/18, 66412, Oslavany ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "60010:774"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.3328733,
+          49.1245562
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Oslavany <br><b>Adresa:</b> Hlavní 36/24, 66412, Oslavany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60010:2"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3149823,
+          49.1062436
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Nová Ves u Oslavan <br><b>Adresa:</b> č.p. 67, 66491, Nová Ves ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60010:3"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3434643,
+          49.1362996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Oslavany, Havírna 194/2 <br><b>Adresa:</b> Havírna 194/2, 66491, Oslavany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60010:754"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3095674,
+          49.1095448
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nová Ves  150 <br><b>Adresa:</b> č.p. 150, 66491, Nová Ves ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60010:756"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2802955,
+          49.1001926
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Biskoupky 26 <br><b>Adresa:</b> č.p. 26, 66491, Biskoupky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60010:757"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2770882,
+          49.1399323
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Čučice 71 <br><b>Adresa:</b> Brno-venkov; Čučice; Čučice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60010:758"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3271539,
+          49.1314191
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Havířská 10, Oslavany <br><b>Adresa:</b> Havířská 109/10, 66412, Oslavany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60010:771"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3357135,
+          49.1209248
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hlavní 84, Oslavany <br><b>Adresa:</b> Hlavní 1069/84, 66412, Oslavany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60010:773"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3225294,
+          49.1289536
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> V  Hájku 18, Oslavany <br><b>Adresa:</b> V Hájku 1038/18, 66412, Oslavany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60010:774"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

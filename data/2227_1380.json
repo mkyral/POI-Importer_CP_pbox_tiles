@@ -1,124 +1,124 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.8044626,
-                    50.4854577
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Vítězná <br><b>Adresa:</b> Kocléřov 219, 54462, Vítězná ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "54107:467"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.8053926,
-                    50.4796264
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Vítězná-Huntířov bytovky <br><b>Adresa:</b> Huntířov 308, 54401, Vítězná ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "54107:468"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.7998612,
-                    50.4872547
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Vítězná-Kocléřov továrna <br><b>Adresa:</b> Kocléřov 123, 54462, Vítězná ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "54107:466"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.7503889,
-                    50.4774737
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Starobucké Debrné obchod <br><b>Adresa:</b> Starobucké Debrné 173, 54401, Nemojov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "54107:463"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.7528818,
-                    50.4674043
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Nemojov č.p. 13 <br><b>Adresa:</b> Dolní Nemojov 13, 54461, Nemojov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "54107:465"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.7549133,
-                    50.4657621
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Nemojov obchod <br><b>Adresa:</b> Dolní Nemojov 41, 54461, Nemojov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "54107:464"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.7396356,
-                    50.4966967
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Debrné, zastávka <br><b>Adresa:</b> Debrné 27, 54371, Mostek ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "54107:722"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.7503889,
+          50.4774737
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Starobucké Debrné obchod <br><b>Adresa:</b> Starobucké Debrné 173, 54401, Nemojov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54107:463"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7549133,
+          50.4657621
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nemojov obchod <br><b>Adresa:</b> Dolní Nemojov 41, 54461, Nemojov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54107:464"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7528818,
+          50.4674043
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nemojov č.p. 13 <br><b>Adresa:</b> Dolní Nemojov 13, 54461, Nemojov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54107:465"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7998612,
+          50.4872547
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vítězná-Kocléřov továrna <br><b>Adresa:</b> Kocléřov 123, 54462, Vítězná ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54107:466"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8044626,
+          50.4854577
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Vítězná <br><b>Adresa:</b> Kocléřov 219, 54462, Vítězná ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54107:467"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8053926,
+          50.4796264
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vítězná-Huntířov bytovky <br><b>Adresa:</b> Huntířov 308, 54401, Vítězná ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54107:468"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7396356,
+          50.4966967
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Debrné, zastávka <br><b>Adresa:</b> Debrné 27, 54371, Mostek ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54107:722"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

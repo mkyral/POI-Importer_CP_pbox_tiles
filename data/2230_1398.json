@@ -1,90 +1,90 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.0119446,
-                    49.4752695
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> na kapličce, Suky <br><b>Adresa:</b> Suky 9, 59101, Ostrov nad Oslavou ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:30",
-                "ref": "59100:38"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.0819508,
-                    49.4840059
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> kulturní dům, Podolí <br><b>Adresa:</b> č.p. 43, 59255, Podolí ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "59230:48"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.0168215,
-                    49.46599
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u kapličky,  Laštovičky <br><b>Adresa:</b> Laštovičky 7, 59101, Rousměrov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:15",
-                "ref": "59100:31"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.0579333,
-                    49.4755812
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jednota, Bohdalec <br><b>Adresa:</b> č.p. 75, 59255, Bohdalec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:05",
-                "ref": "59230:51"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.0336164,
-                    49.4566865
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> obchod,  Rousměrov <br><b>Adresa:</b> č.p. 12, 59101, Rousměrov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:15",
-                "ref": "59100:35"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.0168215,
+          49.46599
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u kapličky,  Laštovičky <br><b>Adresa:</b> Laštovičky 7, 59101, Rousměrov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59100:31"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0336164,
+          49.4566865
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> obchod,  Rousměrov <br><b>Adresa:</b> č.p. 12, 59101, Rousměrov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59100:35"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0119446,
+          49.4752695
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> na kapličce, Suky <br><b>Adresa:</b> Suky 9, 59101, Ostrov nad Oslavou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59100:38"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0819508,
+          49.4840059
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> kulturní dům, Podolí <br><b>Adresa:</b> č.p. 43, 59255, Podolí ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59230:48"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0579333,
+          49.4755812
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jednota, Bohdalec <br><b>Adresa:</b> č.p. 75, 59255, Bohdalec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:05",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59230:51"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

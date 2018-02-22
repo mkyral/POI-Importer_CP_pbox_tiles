@@ -1,73 +1,73 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.5301469,
-                    49.9835916
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> čp.96, Milotice n.Opavou (stojan před MŠ) <br><b>Adresa:</b> č.p. 96, 79201, Milotice nad Opavou ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:15",
-                "ref": "79207:37"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.492544,
-                    50.0011311
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> čp. 95, (horní část), Oborná <br><b>Adresa:</b> č.p. 95, 79201, Oborná ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:20",
-                "ref": "79207:26"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.5015836,
-                    49.9616971
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> čp.47-OÚ, Dlouhá Stráň (stojan před objektem) <br><b>Adresa:</b> č.p. 47, 79201, Dlouhá Stráň ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:55",
-                "ref": "79207:35"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.5376228,
-                    49.9898591
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Okály,čp.143, Milotice n.Op.(stojan před objektem) <br><b>Adresa:</b> č.p. 143, 79201, Milotice nad Opavou ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:15",
-                "ref": "79207:21"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          17.5376228,
+          49.9898591
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Okály,čp.143, Milotice n.Op.(stojan před objektem) <br><b>Adresa:</b> č.p. 143, 79201, Milotice nad Opavou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79207:21"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.492544,
+          50.0011311
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> čp. 95, (horní část), Oborná <br><b>Adresa:</b> č.p. 95, 79201, Oborná ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:20",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79207:26"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.5015836,
+          49.9616971
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> čp.47-OÚ, Dlouhá Stráň (stojan před objektem) <br><b>Adresa:</b> č.p. 47, 79201, Dlouhá Stráň ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:55",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79207:35"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.5301469,
+          49.9835916
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> čp.96, Milotice n.Opavou (stojan před MŠ) <br><b>Adresa:</b> č.p. 96, 79201, Milotice nad Opavou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79207:37"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

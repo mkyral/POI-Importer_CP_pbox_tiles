@@ -1,73 +1,73 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.9532138,
-                    48.7881631
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Budova pošty,  Nová Pec <br><b>Adresa:</b> Nové Chalupy 41, 38462, Nová Pec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "38307:82"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.9619804,
-                    48.796096
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Autobusová zastávka, Bělá č.p. 7 <br><b>Adresa:</b> Bělá 7, 38451, Nová Pec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:30",
-                "ref": "38307:119"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.9320529,
-                    48.7781447
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Nová Pec - Jednota <br><b>Adresa:</b> Láz 13, 38462, Nová Pec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "38307:122"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.9531367,
-                    48.7882648
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Nová Pec -  statky <br><b>Adresa:</b> Nové Chalupy 19, 38462, Nová Pec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "38307:121"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.9619804,
+          48.796096
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Autobusová zastávka, Bělá č.p. 7 <br><b>Adresa:</b> Bělá 7, 38451, Nová Pec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38307:119"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.9531367,
+          48.7882648
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nová Pec -  statky <br><b>Adresa:</b> Nové Chalupy 19, 38462, Nová Pec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38307:121"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.9320529,
+          48.7781447
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nová Pec - Jednota <br><b>Adresa:</b> Láz 13, 38462, Nová Pec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38307:122"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.9532138,
+          48.7881631
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Budova pošty,  Nová Pec <br><b>Adresa:</b> Nové Chalupy 41, 38462, Nová Pec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38307:82"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

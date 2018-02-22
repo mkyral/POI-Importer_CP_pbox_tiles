@@ -1,124 +1,124 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.6582478,
-                    49.1264911
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Náves,  Lhota č. 17 <br><b>Adresa:</b> Lhota 17, 37365, Dynín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "37271:271"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.6022207,
-                    49.1296972
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Obchod,  Neplachov č. 52 <br><b>Adresa:</b> č.p. 52, 37365, Neplachov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 14.39 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "37271:269"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.5940476,
-                    49.1517955
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Náves  Pelejovice č. 16 <br><b>Adresa:</b> Pelejovice 16, 37365, Dolní Bukovsko ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "37271:268"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.6179723,
-                    49.1024451
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Mazelov č. 40 <br><b>Adresa:</b> č.p. 40, 37363, Mazelov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 23.52 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "37271:87"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.6294429,
-                    49.1378686
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Před budovou pošty Dynín 48 <br><b>Adresa:</b> č.p. 48, 37364, Dynín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:45",
-                "ref": "37271:91"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.6715118,
-                    49.1146393
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Lhota č.  27 <br><b>Adresa:</b> Lhota 27, 37365, Dynín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 20.34 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "37271:273"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.6461183,
-                    49.1485774
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Obchod, Bošilec č. 51 <br><b>Adresa:</b> č.p. 51, 37365, Bošilec <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.85 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "37271:270"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.5940476,
+          49.1517955
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Náves  Pelejovice č. 16 <br><b>Adresa:</b> Pelejovice 16, 37365, Dolní Bukovsko ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:268"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.6022207,
+          49.1296972
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Obchod,  Neplachov č. 52 <br><b>Adresa:</b> č.p. 52, 37365, Neplachov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 14.39 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:269"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.6461183,
+          49.1485774
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Obchod, Bošilec č. 51 <br><b>Adresa:</b> č.p. 51, 37365, Bošilec <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.85 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:270"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.6582478,
+          49.1264911
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Náves,  Lhota č. 17 <br><b>Adresa:</b> Lhota 17, 37365, Dynín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:271"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.6715118,
+          49.1146393
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lhota č.  27 <br><b>Adresa:</b> Lhota 27, 37365, Dynín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 20.34 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:273"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.6179723,
+          49.1024451
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Mazelov č. 40 <br><b>Adresa:</b> č.p. 40, 37363, Mazelov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 23.52 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:87"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.6294429,
+          49.1378686
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Před budovou pošty Dynín 48 <br><b>Adresa:</b> č.p. 48, 37364, Dynín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:91"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

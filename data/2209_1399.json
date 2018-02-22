@@ -1,158 +1,158 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.1654138,
-                    49.3937867
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Dědovice <br><b>Adresa:</b> Dědovice 3, 39701, Ostrovec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "39707:76"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.1776835,
-                    49.4210388
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Štědronín - Jitex č.p. 22 <br><b>Adresa:</b> Štědronín-Plazy 22, 39701, Varvažov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "39707:83"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.185928,
-                    49.4220403
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Štědronín - Jitex, č.p. 5 <br><b>Adresa:</b> Štědronín-Plazy 5, 39701, Varvažov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "39707:82"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.2007509,
-                    49.3842339
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Tukleky <br><b>Adresa:</b> Tukleky 5, 39701, Oslov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "39707:100"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.2119006,
-                    49.3982028
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta, Oslov <br><b>Adresa:</b> č.p. 86, 39835, Oslov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "39707:181"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.1776835,
-                    49.4210388
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Štědronín <br><b>Adresa:</b> Štědronín-Plazy 22, 39701, Varvažov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "39707:81"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.198299,
-                    49.4308034
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Zvíkovské Podhradí - pivovar <br><b>Adresa:</b> č.p. 92, 39701, Zvíkovské Podhradí ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "39707:102"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.2007472,
-                    49.4265467
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Zvíkovské Podhradí <br><b>Adresa:</b> č.p. 17, 39701, Zvíkovské Podhradí ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "39707:101"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.1924959,
-                    49.4389836
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Zvíkovské Podhradí - hrad <br><b>Adresa:</b> č.p. 1, 39701, Zvíkovské Podhradí ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "39707:104"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.2007509,
+          49.3842339
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Tukleky <br><b>Adresa:</b> Tukleky 5, 39701, Oslov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39707:100"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2007472,
+          49.4265467
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Zvíkovské Podhradí <br><b>Adresa:</b> č.p. 17, 39701, Zvíkovské Podhradí ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39707:101"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.198299,
+          49.4308034
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Zvíkovské Podhradí - pivovar <br><b>Adresa:</b> č.p. 92, 39701, Zvíkovské Podhradí ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39707:102"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.1924959,
+          49.4389836
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Zvíkovské Podhradí - hrad <br><b>Adresa:</b> č.p. 1, 39701, Zvíkovské Podhradí ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39707:104"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2119006,
+          49.3982028
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta, Oslov <br><b>Adresa:</b> č.p. 86, 39835, Oslov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39707:181"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.1654138,
+          49.3937867
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dědovice <br><b>Adresa:</b> Dědovice 3, 39701, Ostrovec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39707:76"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.1776835,
+          49.4210388
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Štědronín <br><b>Adresa:</b> Štědronín-Plazy 22, 39701, Varvažov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39707:81"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.185928,
+          49.4220403
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Štědronín - Jitex, č.p. 5 <br><b>Adresa:</b> Štědronín-Plazy 5, 39701, Varvažov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39707:82"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.1776835,
+          49.4210388
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Štědronín - Jitex č.p. 22 <br><b>Adresa:</b> Štědronín-Plazy 22, 39701, Varvažov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39707:83"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

@@ -1,56 +1,56 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.6047901,
-                    50.2814768
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jindřichovice -pošta <br><b>Adresa:</b> č.p. 170, 35801, Jindřichovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "35007:218"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.6525026,
-                    50.2737795
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jindřichovice č.73, Mezihorská <br><b>Adresa:</b> č.p. 73, 35801, Jindřichovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "35007:217"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.6370579,
-                    50.2431184
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Dolní Nivy, obecní úřad <br><b>Adresa:</b> Sokolov; Dolní Nivy; Dolní Nivy <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "35007:170"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          12.6370579,
+          50.2431184
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dolní Nivy, obecní úřad <br><b>Adresa:</b> Sokolov; Dolní Nivy; Dolní Nivy <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "35007:170"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.6525026,
+          50.2737795
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jindřichovice č.73, Mezihorská <br><b>Adresa:</b> č.p. 73, 35801, Jindřichovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "35007:217"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.6047901,
+          50.2814768
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jindřichovice -pošta <br><b>Adresa:</b> č.p. 170, 35801, Jindřichovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "35007:218"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

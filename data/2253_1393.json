@@ -1,107 +1,107 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.0454561,
-                    49.7514476
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pošta Velké Albrechtice (stojan) <br><b>Adresa:</b> č.p. 248, 74291, Velké Albrechtice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "72572:541"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.0319421,
-                    49.7510025
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Velké Albrechtice 281 <br><b>Adresa:</b> č.p. 281, 74291, Velké Albrechtice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "72572:530"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.0680394,
-                    49.7782071
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Bílovec, Lhotka 8 - kult.středisko (stojan u zast) <br><b>Adresa:</b> Lhotka 8, 74301, Bílovec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "72572:528"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.0839344,
-                    49.7572068
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Partner Bravantice (stojan) <br><b>Adresa:</b> č.p. 223, 74281, Bravantice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo 11:00; Tu 11:00; We 11:00; Th 11:00; Fr 11:00",
-                "ref": "72572:539"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.0188827,
-                    49.7613776
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Bílovec, 17.listopadu 373/36 (stojan) <br><b>Adresa:</b> 17. listopadu 373/36, 74301, Bílovec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "72572:517"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.0836835,
-                    49.7662075
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Bravantice 41 - aut. zastávka (stojan) <br><b>Adresa:</b> Nový Jičín; Bravantice; Bravantice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "72572:529"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          18.0188827,
+          49.7613776
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bílovec, 17.listopadu 373/36 (stojan) <br><b>Adresa:</b> 17. listopadu 373/36, 74301, Bílovec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "72572:517"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.0680394,
+          49.7782071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bílovec, Lhotka 8 - kult.středisko (stojan u zast) <br><b>Adresa:</b> Lhotka 8, 74301, Bílovec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "72572:528"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.0836835,
+          49.7662075
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bravantice 41 - aut. zastávka (stojan) <br><b>Adresa:</b> Nový Jičín; Bravantice; Bravantice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "72572:529"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.0319421,
+          49.7510025
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Velké Albrechtice 281 <br><b>Adresa:</b> č.p. 281, 74291, Velké Albrechtice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "72572:530"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.0839344,
+          49.7572068
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Partner Bravantice (stojan) <br><b>Adresa:</b> č.p. 223, 74281, Bravantice ",
+        "amenity": "post_box",
+        "collection_times": "Mo 11:00; Tu 11:00; We 11:00; Th 11:00; Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "72572:539"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.0454561,
+          49.7514476
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Velké Albrechtice (stojan) <br><b>Adresa:</b> č.p. 248, 74291, Velké Albrechtice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "72572:541"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

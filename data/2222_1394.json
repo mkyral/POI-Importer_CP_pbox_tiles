@@ -1,124 +1,124 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.3501551,
-                    49.6840277
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Benetice - BUS, \"S\" <br><b>Adresa:</b> Benetice 7, 58291, Světlá nad Sázavou ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:246"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.2947717,
-                    49.7068182
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hradec 8 <br><b>Adresa:</b> č.p. 8, 58401, Hradec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:331"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.3330468,
-                    49.6995211
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pavlov 21 - naproti zbrojnici <br><b>Adresa:</b> č.p. 21, 58401, Pavlov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:316"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.3778676,
-                    49.6849413
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Žebrakov - náves, \"S\" <br><b>Adresa:</b> Žebrákov 3, 58291, Světlá nad Sázavou ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:248"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.3563748,
-                    49.7015139
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Opatovice - zbrojnice <br><b>Adresa:</b> Opatovice 4, 58291, Světlá nad Sázavou ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:249"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.321988,
-                    49.6863259
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Vilémovice 14 - náves, \"S\" <br><b>Adresa:</b> č.p. 14, 58401, Vilémovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:317"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.3558906,
-                    49.7150069
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Vlkanov - BUS, \"S\" <br><b>Adresa:</b> č.p. 4, 58291, Vlkanov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:250"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.3501551,
+          49.6840277
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Benetice - BUS, \"S\" <br><b>Adresa:</b> Benetice 7, 58291, Světlá nad Sázavou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:246"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.3778676,
+          49.6849413
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Žebrakov - náves, \"S\" <br><b>Adresa:</b> Žebrákov 3, 58291, Světlá nad Sázavou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:248"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.3563748,
+          49.7015139
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Opatovice - zbrojnice <br><b>Adresa:</b> Opatovice 4, 58291, Světlá nad Sázavou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:249"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.3558906,
+          49.7150069
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vlkanov - BUS, \"S\" <br><b>Adresa:</b> č.p. 4, 58291, Vlkanov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:250"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.3330468,
+          49.6995211
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pavlov 21 - naproti zbrojnici <br><b>Adresa:</b> č.p. 21, 58401, Pavlov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:316"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.321988,
+          49.6863259
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vilémovice 14 - náves, \"S\" <br><b>Adresa:</b> č.p. 14, 58401, Vilémovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:317"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2947717,
+          49.7068182
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hradec 8 <br><b>Adresa:</b> č.p. 8, 58401, Hradec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:331"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

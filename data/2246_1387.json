@@ -1,73 +1,73 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.4379436,
-                    50.106882
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pošta Karlovice (stojan) <br><b>Adresa:</b> č.p. 89, 79323, Karlovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:30",
-                "ref": "79207:507"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.4533577,
-                    50.100243
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Před Penz.Schaum.Dvůr,čp.231,Karlovice(na bráně) <br><b>Adresa:</b> č.p. 231, 79323, Karlovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:45",
-                "ref": "79207:323"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.4212096,
-                    50.109794
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Zadní Ves,u čp.401,Karlovice (stojan před kioskem) <br><b>Adresa:</b> Bruntál; Karlovice; Zadní Ves <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "79207:318"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.4506347,
-                    50.076628
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pocheň, na čp.1 u zast.BUS, Široká Niva <br><b>Adresa:</b> Pocheň 1, 79201, Široká Niva ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:45",
-                "ref": "79207:45"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          17.4212096,
+          50.109794
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Zadní Ves,u čp.401,Karlovice (stojan před kioskem) <br><b>Adresa:</b> Bruntál; Karlovice; Zadní Ves <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79207:318"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.4533577,
+          50.100243
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Před Penz.Schaum.Dvůr,čp.231,Karlovice(na bráně) <br><b>Adresa:</b> č.p. 231, 79323, Karlovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79207:323"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.4506347,
+          50.076628
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pocheň, na čp.1 u zast.BUS, Široká Niva <br><b>Adresa:</b> Pocheň 1, 79201, Široká Niva ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79207:45"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.4379436,
+          50.106882
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Karlovice (stojan) <br><b>Adresa:</b> č.p. 89, 79323, Karlovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79207:507"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

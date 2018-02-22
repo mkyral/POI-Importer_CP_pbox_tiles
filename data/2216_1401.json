@@ -1,124 +1,124 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.8375346,
-                    49.2942039
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Budislav <br><b>Adresa:</b> č.p. 62, 39201, Budislav ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:40",
-                "ref": "39007:726"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.803539,
-                    49.2911163
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Tučapy <br><b>Adresa:</b> č.p. 19, 39126, Tučapy ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 15:40",
-                "ref": "39007:762"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.8533518,
-                    49.2817066
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Záluží u Budislavě <br><b>Adresa:</b> Záluží u Budislavě 10, 39201, Budislav ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:15",
-                "ref": "39007:725"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.7869677,
-                    49.3057784
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Brandlín <br><b>Adresa:</b> Brandlín 5, 39201, Tučapy ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "39007:728"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.8285818,
-                    49.2810023
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Katov <br><b>Adresa:</b> č.p. 26, 39201, Katov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "39007:724"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.7865676,
-                    49.2837072
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Dvorce <br><b>Adresa:</b> Dvorce 62, 39201, Tučapy ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 07:50",
-                "ref": "39007:770"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.8393679,
-                    49.3065714
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hlavňov <br><b>Adresa:</b> Hlavňov 49, 39201, Budislav ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:50",
-                "ref": "39007:727"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.8285818,
+          49.2810023
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Katov <br><b>Adresa:</b> č.p. 26, 39201, Katov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:724"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.8533518,
+          49.2817066
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Záluží u Budislavě <br><b>Adresa:</b> Záluží u Budislavě 10, 39201, Budislav ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:725"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.8375346,
+          49.2942039
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Budislav <br><b>Adresa:</b> č.p. 62, 39201, Budislav ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:40",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:726"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.8393679,
+          49.3065714
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hlavňov <br><b>Adresa:</b> Hlavňov 49, 39201, Budislav ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:50",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:727"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.7869677,
+          49.3057784
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Brandlín <br><b>Adresa:</b> Brandlín 5, 39201, Tučapy ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:728"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.803539,
+          49.2911163
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Tučapy <br><b>Adresa:</b> č.p. 19, 39126, Tučapy ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 15:40",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:762"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.7865676,
+          49.2837072
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dvorce <br><b>Adresa:</b> Dvorce 62, 39201, Tučapy ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 07:50",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:770"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

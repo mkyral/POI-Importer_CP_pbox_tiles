@@ -1,90 +1,90 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1929958,
-                    49.0325187
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Čermákovice <br><b>Adresa:</b> č.p. 20, 67173, Čermákovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "66907:141"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1947384,
-                    48.9879456
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Trstěnice, č.p. 122 <br><b>Adresa:</b> č.p. 122, 67171, Trstěnice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "66907:199"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.2577404,
-                    49.0215347
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Vémyslice <br><b>Adresa:</b> č.p. 64, 67142, Vémyslice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "66907:268"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.2567969,
-                    49.0220407
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Vémyslice - zastávka <br><b>Adresa:</b> Znojmo; Vémyslice; Vémyslice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "66907:245"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.2124103,
-                    48.9991265
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Džbánice <br><b>Adresa:</b> č.p. 12, 67171, Džbánice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "66907:200"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.1929958,
+          49.0325187
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Čermákovice <br><b>Adresa:</b> č.p. 20, 67173, Čermákovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:141"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1947384,
+          48.9879456
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Trstěnice, č.p. 122 <br><b>Adresa:</b> č.p. 122, 67171, Trstěnice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:199"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2124103,
+          48.9991265
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Džbánice <br><b>Adresa:</b> č.p. 12, 67171, Džbánice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:200"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2567969,
+          49.0220407
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vémyslice - zastávka <br><b>Adresa:</b> Znojmo; Vémyslice; Vémyslice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:245"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2577404,
+          49.0215347
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Vémyslice <br><b>Adresa:</b> č.p. 64, 67142, Vémyslice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:268"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

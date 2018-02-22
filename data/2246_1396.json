@@ -1,124 +1,124 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.4826547,
-                    49.5788949
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Velký Újezd, Olomoucká 15, pošta <br><b>Adresa:</b> Olomoucká 15, 78355, Velký Újezd ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo 17:00; Tu 15:00; We 17:00; Th 15:00; Fr 15:00",
-                "ref": "77072:179"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.4143327,
-                    49.5698884
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Doloplazy 73, budova pošty <br><b>Adresa:</b> č.p. 73, 78356, Doloplazy ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo 17:00; Tu 15:00; We 17:00; Th 15:00; Fr 15:00",
-                "ref": "77072:178"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.4757319,
-                    49.5552866
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Výkleky 111 (stojan) <br><b>Adresa:</b> č.p. 111, 75125, Výkleky ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:45",
-                "ref": "75007:81"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.4852773,
-                    49.5762805
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Velký Újezd, Lipenská 123 (stojan) <br><b>Adresa:</b> Lipenská 123, 78355, Velký Újezd ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "77072:160"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.4461625,
-                    49.5786933
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Daskabát 35, obecní úřad <br><b>Adresa:</b> č.p. 35, 77900, Daskabát ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:45",
-                "ref": "77072:106"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.4126589,
-                    49.5824569
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Přáslavice, Kocourovec za č.p. 2 (stojan) <br><b>Adresa:</b> Olomouc; Přáslavice; Kocourovec <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "77072:172"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.4118063,
-                    49.5664058
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Doloplazy 305, před obchodem (stojan) <br><b>Adresa:</b> Olomouc; Doloplazy; Doloplazy <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "77072:171"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          17.4757319,
+          49.5552866
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Výkleky 111 (stojan) <br><b>Adresa:</b> č.p. 111, 75125, Výkleky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "75007:81"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.4461625,
+          49.5786933
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Daskabát 35, obecní úřad <br><b>Adresa:</b> č.p. 35, 77900, Daskabát ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "77072:106"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.4852773,
+          49.5762805
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Velký Újezd, Lipenská 123 (stojan) <br><b>Adresa:</b> Lipenská 123, 78355, Velký Újezd ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "77072:160"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.4118063,
+          49.5664058
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Doloplazy 305, před obchodem (stojan) <br><b>Adresa:</b> Olomouc; Doloplazy; Doloplazy <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "77072:171"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.4126589,
+          49.5824569
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Přáslavice, Kocourovec za č.p. 2 (stojan) <br><b>Adresa:</b> Olomouc; Přáslavice; Kocourovec <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "77072:172"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.4143327,
+          49.5698884
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Doloplazy 73, budova pošty <br><b>Adresa:</b> č.p. 73, 78356, Doloplazy ",
+        "amenity": "post_box",
+        "collection_times": "Mo 17:00; Tu 15:00; We 17:00; Th 15:00; Fr 15:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "77072:178"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.4826547,
+          49.5788949
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Velký Újezd, Olomoucká 15, pošta <br><b>Adresa:</b> Olomoucká 15, 78355, Velký Újezd ",
+        "amenity": "post_box",
+        "collection_times": "Mo 17:00; Tu 15:00; We 17:00; Th 15:00; Fr 15:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "77072:179"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

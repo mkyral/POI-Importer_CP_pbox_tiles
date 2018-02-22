@@ -1,124 +1,124 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.0676156,
-                    49.5124312
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jednota, Řečice <br><b>Adresa:</b> č.p. 173, 59233, Řečice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:45",
-                "ref": "59230:8"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.0060508,
-                    49.5304395
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Jámy <br><b>Adresa:</b> č.p. 47, 59232, Jámy ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "59230:69"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.0285065,
-                    49.5529396
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> autobusová zastávka, Slavkovice <br><b>Adresa:</b> Slavkovice 7, 59231, Nové Město na Moravě ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:15",
-                "ref": "59230:17"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9971794,
-                    49.5007131
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u obchodu, Obyčtov <br><b>Adresa:</b> č.p. 122, 59101, Obyčtov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:15",
-                "ref": "59100:32"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.0390334,
-                    49.5283294
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jednota, Hlinné <br><b>Adresa:</b> Hlinné 40, 59231, Nové Město na Moravě ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "59230:16"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.0647572,
-                    49.5467186
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jednota, Petrovice <br><b>Adresa:</b> Petrovice 25, 59231, Nové Město na Moravě ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:10",
-                "ref": "59230:15"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.0393414,
-                    49.5040196
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> náves Hodíškov <br><b>Adresa:</b> č.p. 53, 59101, Hodíškov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "59100:29"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.0393414,
+          49.5040196
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> náves Hodíškov <br><b>Adresa:</b> č.p. 53, 59101, Hodíškov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59100:29"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9971794,
+          49.5007131
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u obchodu, Obyčtov <br><b>Adresa:</b> č.p. 122, 59101, Obyčtov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59100:32"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0647572,
+          49.5467186
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jednota, Petrovice <br><b>Adresa:</b> Petrovice 25, 59231, Nové Město na Moravě ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:10",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59230:15"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0390334,
+          49.5283294
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jednota, Hlinné <br><b>Adresa:</b> Hlinné 40, 59231, Nové Město na Moravě ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59230:16"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0285065,
+          49.5529396
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> autobusová zastávka, Slavkovice <br><b>Adresa:</b> Slavkovice 7, 59231, Nové Město na Moravě ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59230:17"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0060508,
+          49.5304395
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Jámy <br><b>Adresa:</b> č.p. 47, 59232, Jámy ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59230:69"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0676156,
+          49.5124312
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jednota, Řečice <br><b>Adresa:</b> č.p. 173, 59233, Řečice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59230:8"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

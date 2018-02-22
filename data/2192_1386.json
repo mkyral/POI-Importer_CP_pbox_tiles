@@ -1,141 +1,141 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.6720241,
-                    50.174118
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Sokolov, Alšova <br><b>Adresa:</b> Sokolov; Sokolov; Sokolov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 13:30",
-                "ref": "35007:163"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.6754609,
-                    50.1766121
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Sokolov, obchodní dům Kaufland (dočasně sejmuta 17 <br><b>Adresa:</b> Sokolov; Sokolov; Sokolov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 13:30",
-                "ref": "35007:172"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.6637052,
-                    50.1717732
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Sokolov, Jelínkova 1866 <br><b>Adresa:</b> Jelínkova 1866, 35601, Sokolov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 13:30",
-                "ref": "35007:162"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.6624475,
-                    50.1723584
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Sokolov, Seifertova <br><b>Adresa:</b> Sokolov; Sokolov; Sokolov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 13:30",
-                "ref": "35007:161"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.6692243,
-                    50.1729677
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Sokolov, Švabinského <br><b>Adresa:</b> Sokolov; Sokolov; Sokolov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 13:30",
-                "ref": "35007:164"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.6598918,
-                    50.1745286
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Sokolov, prodejna PENNY <br><b>Adresa:</b> Sokolov; Sokolov; Sokolov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 13:30",
-                "ref": "35007:174"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.6597295,
-                    50.1766412
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Sokolov, Heyrovského 1588 <br><b>Adresa:</b> Heyrovského 1588, 35601, Sokolov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 13:30",
-                "ref": "35007:165"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.6603688,
-                    50.1753912
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Sokolov, Sokolovská <br><b>Adresa:</b> Sokolov; Sokolov; Sokolov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 13:30",
-                "ref": "35007:166"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          12.6624475,
+          50.1723584
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Sokolov, Seifertova <br><b>Adresa:</b> Sokolov; Sokolov; Sokolov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 13:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "35007:161"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.6637052,
+          50.1717732
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Sokolov, Jelínkova 1866 <br><b>Adresa:</b> Jelínkova 1866, 35601, Sokolov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 13:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "35007:162"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.6720241,
+          50.174118
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Sokolov, Alšova <br><b>Adresa:</b> Sokolov; Sokolov; Sokolov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 13:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "35007:163"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.6692243,
+          50.1729677
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Sokolov, Švabinského <br><b>Adresa:</b> Sokolov; Sokolov; Sokolov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 13:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "35007:164"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.6597295,
+          50.1766412
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Sokolov, Heyrovského 1588 <br><b>Adresa:</b> Heyrovského 1588, 35601, Sokolov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 13:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "35007:165"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.6603688,
+          50.1753912
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Sokolov, Sokolovská <br><b>Adresa:</b> Sokolov; Sokolov; Sokolov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 13:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "35007:166"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.6754609,
+          50.1766121
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Sokolov, obchodní dům Kaufland (dočasně sejmuta 17 <br><b>Adresa:</b> Sokolov; Sokolov; Sokolov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 13:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "35007:172"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.6598918,
+          50.1745286
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Sokolov, prodejna PENNY <br><b>Adresa:</b> Sokolov; Sokolov; Sokolov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 13:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "35007:174"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

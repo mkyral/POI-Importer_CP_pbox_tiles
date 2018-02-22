@@ -1,22 +1,22 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.0446217,
-                    50.2023041
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Ostružná, Petříkov 38 <br><b>Adresa:</b> Petříkov 38, 78825, Ostružná ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:30",
-                "ref": "78807:216"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          17.0446217,
+          50.2023041
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Ostružná, Petříkov 38 <br><b>Adresa:</b> Petříkov 38, 78825, Ostružná ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "78807:216"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

@@ -1,158 +1,158 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.1808887,
-                    49.0261534
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> obchod Hýsly <br><b>Adresa:</b> č.p. 137, 69650, Hýsly ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "69507:160"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.1522223,
-                    48.9814763
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Obecní úřad Skoronice <br><b>Adresa:</b> č.p. 102, 69641, Skoronice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:15",
-                "ref": "69507:167"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.2052575,
-                    49.0365529
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> obchod potravin-vedle, Skalka <br><b>Adresa:</b> č.p. 28, 69648, Skalka ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "69507:135"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.1739974,
-                    49.0052663
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> ČSAD, Kelčany <br><b>Adresa:</b> č.p. 1, 69649, Kelčany ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "69507:134"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.1949139,
-                    49.0132341
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Žádovice <br><b>Adresa:</b> č.p. 41, 69649, Žádovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "69507:132"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.1945759,
-                    49.0159456
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> zastávka u Infermy, Žádovice <br><b>Adresa:</b> č.p. 105, 69649, Žádovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "69507:133"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.209929,
-                    49.0258287
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Ježov <br><b>Adresa:</b> č.p. 10, 69648, Ježov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "69507:137"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.1534837,
-                    49.0266245
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Kostelec u Kyjova <br><b>Adresa:</b> č.p. 143, 69651, Kostelec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "69507:161"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.1652643,
-                    48.991068
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta  Vlkoš u Kyjova <br><b>Adresa:</b> č.p. 95, 69641, Vlkoš ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "69507:166"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          17.1949139,
+          49.0132341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Žádovice <br><b>Adresa:</b> č.p. 41, 69649, Žádovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69507:132"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.1945759,
+          49.0159456
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> zastávka u Infermy, Žádovice <br><b>Adresa:</b> č.p. 105, 69649, Žádovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69507:133"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.1739974,
+          49.0052663
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> ČSAD, Kelčany <br><b>Adresa:</b> č.p. 1, 69649, Kelčany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69507:134"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.2052575,
+          49.0365529
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> obchod potravin-vedle, Skalka <br><b>Adresa:</b> č.p. 28, 69648, Skalka ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69507:135"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.209929,
+          49.0258287
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Ježov <br><b>Adresa:</b> č.p. 10, 69648, Ježov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69507:137"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.1808887,
+          49.0261534
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> obchod Hýsly <br><b>Adresa:</b> č.p. 137, 69650, Hýsly ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69507:160"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.1534837,
+          49.0266245
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Kostelec u Kyjova <br><b>Adresa:</b> č.p. 143, 69651, Kostelec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69507:161"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.1652643,
+          48.991068
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta  Vlkoš u Kyjova <br><b>Adresa:</b> č.p. 95, 69641, Vlkoš ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69507:166"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.1522223,
+          48.9814763
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Obecní úřad Skoronice <br><b>Adresa:</b> č.p. 102, 69641, Skoronice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69507:167"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

@@ -1,158 +1,158 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.214824,
-                    50.0873043
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jeneč - malé náměstí (park) <br><b>Adresa:</b> Praha-západ; Jeneč; Jeneč <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "17704:377"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.2010623,
-                    50.1142854
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hostouń u Prahy, na Skalech 48 <br><b>Adresa:</b> Na Skalech 48, 27353, Hostouň ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "27207:124"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.1653226,
-                    50.0655594
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Červený Újezd, čp. 29 - aut zastávka <br><b>Adresa:</b> Unhošťská 29, 27351, Červený Újezd ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "27207:176"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.2006852,
-                    50.112375
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Houstouň u Phy, Hájecká 315  (u pošty) <br><b>Adresa:</b> Hájecká 315, 27353, Hostouň ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "27207:72"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.2340441,
-                    50.0806276
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Náměstí Jana IV. z Dražic <br><b>Adresa:</b> Praha-západ; Hostivice; Hostivice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "17704:376"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.168253,
-                    50.0965413
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pavlov čp. 65 - obchod <br><b>Adresa:</b> Lidická 65, 27351, Pavlov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "27207:178"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.165702,
-                    50.0685869
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Červený  Újezd - obchod Žabka č.p.196 <br><b>Adresa:</b> Unhošťská 196, 27351, Červený Újezd ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "27207:177"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.2189634,
-                    50.1147311
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Dobrovíz, u čp. 192 (obchod) <br><b>Adresa:</b> Průběžná 192, 25261, Dobrovíz ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "17704:378"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.2147442,
-                    50.088226
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jeneč, Lidická 82 ( budova pošty) <br><b>Adresa:</b> Lidická 82, 25261, Jeneč ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "17704:17"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.2147442,
+          50.088226
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jeneč, Lidická 82 ( budova pošty) <br><b>Adresa:</b> Lidická 82, 25261, Jeneč ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "17704:17"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2340441,
+          50.0806276
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Náměstí Jana IV. z Dražic <br><b>Adresa:</b> Praha-západ; Hostivice; Hostivice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "17704:376"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.214824,
+          50.0873043
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jeneč - malé náměstí (park) <br><b>Adresa:</b> Praha-západ; Jeneč; Jeneč <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "17704:377"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2189634,
+          50.1147311
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dobrovíz, u čp. 192 (obchod) <br><b>Adresa:</b> Průběžná 192, 25261, Dobrovíz ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "17704:378"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2010623,
+          50.1142854
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hostouń u Prahy, na Skalech 48 <br><b>Adresa:</b> Na Skalech 48, 27353, Hostouň ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "27207:124"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.1653226,
+          50.0655594
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Červený Újezd, čp. 29 - aut zastávka <br><b>Adresa:</b> Unhošťská 29, 27351, Červený Újezd ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "27207:176"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.165702,
+          50.0685869
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Červený  Újezd - obchod Žabka č.p.196 <br><b>Adresa:</b> Unhošťská 196, 27351, Červený Újezd ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "27207:177"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.168253,
+          50.0965413
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pavlov čp. 65 - obchod <br><b>Adresa:</b> Lidická 65, 27351, Pavlov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "27207:178"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2006852,
+          50.112375
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Houstouň u Phy, Hájecká 315  (u pošty) <br><b>Adresa:</b> Hájecká 315, 27353, Hostouň ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "27207:72"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

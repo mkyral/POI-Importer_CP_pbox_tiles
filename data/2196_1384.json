@@ -1,22 +1,22 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.0203522,
-                    50.264035
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hradiště, Dolní Lomnice 106, obchod <br><b>Adresa:</b> Dolní Lomnice 10, 36272, Doupovské Hradiště ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "36207:59"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.0203522,
+          50.264035
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hradiště, Dolní Lomnice 106, obchod <br><b>Adresa:</b> Dolní Lomnice 10, 36272, Doupovské Hradiště ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "36207:59"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

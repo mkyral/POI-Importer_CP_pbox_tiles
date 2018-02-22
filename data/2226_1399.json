@@ -1,158 +1,158 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.672314,
-                    49.3854938
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jeclov, zastávka ICOM <br><b>Adresa:</b> Jeclov 16, 58821, Velký Beranov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 15.2 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "58607:124"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.656592,
-                    49.4375064
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> náves, Měšín <br><b>Adresa:</b> č.p. 33, 58601, Měšín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:15",
-                "ref": "58607:74"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.723711,
-                    49.4314415
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> náves, Jamné <br><b>Adresa:</b> č.p. 126, 58827, Jamné <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 25.64 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:55",
-                "ref": "58607:100"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.7306618,
-                    49.3944926
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Vysoké Studnice, Jednota <br><b>Adresa:</b> č.p. 26, 58821, Vysoké Studnice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "58607:122"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.6496649,
-                    49.404715
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Nové Domky, zastávka MHD <br><b>Adresa:</b> č.p. 349, 58821, Velký Beranov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 28.54 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:10",
-                "ref": "58607:121"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.6997098,
-                    49.4123722
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kozlov, OÚ <br><b>Adresa:</b> č.p. 68, 58821, Kozlov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "58607:123"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.7193925,
-                    49.4291105
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Jamné u Jihlavy <br><b>Adresa:</b> č.p. 1, 58827, Jamné ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 15:15",
-                "ref": "58607:255"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.6888759,
-                    49.3854154
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> zastávka ICOM, Otín <br><b>Adresa:</b> Otín 2, 58822, Luka nad Jihlavou <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 24.09 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:05",
-                "ref": "58607:120"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.6679205,
-                    49.4045487
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Velký Beranov <br><b>Adresa:</b> č.p. 31, 58821, Velký Beranov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 14:50",
-                "ref": "58607:249"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.723711,
+          49.4314415
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> náves, Jamné <br><b>Adresa:</b> č.p. 126, 58827, Jamné <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 25.64 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:55",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:100"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.6888759,
+          49.3854154
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> zastávka ICOM, Otín <br><b>Adresa:</b> Otín 2, 58822, Luka nad Jihlavou <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 24.09 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:05",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:120"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.6496649,
+          49.404715
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nové Domky, zastávka MHD <br><b>Adresa:</b> č.p. 349, 58821, Velký Beranov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 28.54 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:10",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:121"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7306618,
+          49.3944926
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vysoké Studnice, Jednota <br><b>Adresa:</b> č.p. 26, 58821, Vysoké Studnice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:122"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.6997098,
+          49.4123722
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kozlov, OÚ <br><b>Adresa:</b> č.p. 68, 58821, Kozlov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:123"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.672314,
+          49.3854938
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jeclov, zastávka ICOM <br><b>Adresa:</b> Jeclov 16, 58821, Velký Beranov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 15.2 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:124"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.6679205,
+          49.4045487
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Velký Beranov <br><b>Adresa:</b> č.p. 31, 58821, Velký Beranov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 14:50",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:249"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7193925,
+          49.4291105
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Jamné u Jihlavy <br><b>Adresa:</b> č.p. 1, 58827, Jamné ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 15:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:255"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.656592,
+          49.4375064
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> náves, Měšín <br><b>Adresa:</b> č.p. 33, 58601, Měšín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:74"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

@@ -1,107 +1,107 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.132054,
-                    49.3497641
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> zastávka ZDAR, Ronov <br><b>Adresa:</b> Ronov 21, 59452, Ořechov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:10",
-                "ref": "59502:24"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.0843876,
-                    49.3648006
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> č. 10, Sviny <br><b>Adresa:</b> č.p. 10, 59451, Sviny ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "59502:28"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1424507,
-                    49.3746507
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u Jednoty, Kadolec <br><b>Adresa:</b> č.p. 2, 59451, Kadolec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:45",
-                "ref": "59502:47"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.0922111,
-                    49.346159
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> zastávka autobusu, Březejc <br><b>Adresa:</b> č.p. 4, 59401, Březejc ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:15",
-                "ref": "59402:36"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.0934491,
-                    49.3482853
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> ÚSP správní budova, Březejc <br><b>Adresa:</b> č.p. 64, 59401, Březejc ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:10",
-                "ref": "59402:37"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1386635,
-                    49.3496643
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> prodejna, Ořechov <br><b>Adresa:</b> č.p. 75, 59452, Ořechov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "59502:22"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.0922111,
+          49.346159
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> zastávka autobusu, Březejc <br><b>Adresa:</b> č.p. 4, 59401, Březejc ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59402:36"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0934491,
+          49.3482853
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> ÚSP správní budova, Březejc <br><b>Adresa:</b> č.p. 64, 59401, Březejc ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:10",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59402:37"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1386635,
+          49.3496643
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> prodejna, Ořechov <br><b>Adresa:</b> č.p. 75, 59452, Ořechov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59502:22"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.132054,
+          49.3497641
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> zastávka ZDAR, Ronov <br><b>Adresa:</b> Ronov 21, 59452, Ořechov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:10",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59502:24"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0843876,
+          49.3648006
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> č. 10, Sviny <br><b>Adresa:</b> č.p. 10, 59451, Sviny ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59502:28"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1424507,
+          49.3746507
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u Jednoty, Kadolec <br><b>Adresa:</b> č.p. 2, 59451, Kadolec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59502:47"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

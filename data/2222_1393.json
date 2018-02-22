@@ -1,141 +1,141 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.3183741,
-                    49.7416661
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Zdeslavice 9 <br><b>Adresa:</b> Zdeslavice 9, 58401, Číhošť ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:335"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.3238044,
-                    49.7251171
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Horní Prosíčka 6 - náves, \"S\" <br><b>Adresa:</b> Horní Prosíčka 6, 58401, Prosíčka ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:329"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.3317131,
-                    49.7596401
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Tunochody 23 - prodejna <br><b>Adresa:</b> Tunochody 18, 58401, Číhošť ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:336"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.346913,
-                    49.7506023
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hroznětín - BUS <br><b>Adresa:</b> Hroznětín 8, 58401, Číhošť ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:334"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.3394106,
-                    49.7426019
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Číhošť <br><b>Adresa:</b> č.p. 44, 58287, Číhošť ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:37"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.3788073,
-                    49.760053
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Dobrnice 9 <br><b>Adresa:</b> Dobrnice 42, 58401, Leština u Světlé ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:333"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.3054424,
-                    49.7634387
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hlohov - BUS <br><b>Adresa:</b> Hlohov 35, 58401, Číhošť ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:337"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.3605766,
-                    49.7390067
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kynice - BUS <br><b>Adresa:</b> č.p. 38, 58401, Kynice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:332"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.3238044,
+          49.7251171
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Horní Prosíčka 6 - náves, \"S\" <br><b>Adresa:</b> Horní Prosíčka 6, 58401, Prosíčka ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:329"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.3605766,
+          49.7390067
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kynice - BUS <br><b>Adresa:</b> č.p. 38, 58401, Kynice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:332"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.3788073,
+          49.760053
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dobrnice 9 <br><b>Adresa:</b> Dobrnice 42, 58401, Leština u Světlé ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:333"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.346913,
+          49.7506023
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hroznětín - BUS <br><b>Adresa:</b> Hroznětín 8, 58401, Číhošť ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:334"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.3183741,
+          49.7416661
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Zdeslavice 9 <br><b>Adresa:</b> Zdeslavice 9, 58401, Číhošť ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:335"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.3317131,
+          49.7596401
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Tunochody 23 - prodejna <br><b>Adresa:</b> Tunochody 18, 58401, Číhošť ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:336"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.3054424,
+          49.7634387
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hlohov - BUS <br><b>Adresa:</b> Hlohov 35, 58401, Číhošť ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:337"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.3394106,
+          49.7426019
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Číhošť <br><b>Adresa:</b> č.p. 44, 58287, Číhošť ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:37"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

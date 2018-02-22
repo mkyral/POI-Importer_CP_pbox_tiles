@@ -1,56 +1,56 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.2929634,
-                    50.1769711
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Vrbička <br><b>Adresa:</b> Vrbička 26, 44101, Vroutek ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "43807:113"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.3107603,
-                    50.2169921
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> partner Nepomyšl <br><b>Adresa:</b> č.p. 102, 43971, Nepomyšl ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "43807:281"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.3270107,
-                    50.2045057
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Dvérce, poblíž č.p. 10 <br><b>Adresa:</b> Louny; Nepomyšl; Dvérce <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "43807:112"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.3270107,
+          50.2045057
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dvérce, poblíž č.p. 10 <br><b>Adresa:</b> Louny; Nepomyšl; Dvérce <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43807:112"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.2929634,
+          50.1769711
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vrbička <br><b>Adresa:</b> Vrbička 26, 44101, Vroutek ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43807:113"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.3107603,
+          50.2169921
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> partner Nepomyšl <br><b>Adresa:</b> č.p. 102, 43971, Nepomyšl ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43807:281"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

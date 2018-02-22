@@ -1,158 +1,158 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.0931726,
-                    49.9014965
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Budeč - budova statku <br><b>Adresa:</b> Plzeň-sever; Úněšov; Budeč <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "30071:310"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.0540371,
-                    49.9241841
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Krsy, budova pošty <br><b>Adresa:</b> č.p. 51, 33038, Krsy ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "30071:345"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.0934247,
-                    49.9144961
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Štipoklasy,naproti č.p. 22 <br><b>Adresa:</b> Štipoklasy 22, 33038, Úněšov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "30071:315"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.0116912,
-                    49.9372999
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Olešovice - autobusová zast <br><b>Adresa:</b> Plzeň-sever; Úterý; Olešovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "30071:318"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.041408,
-                    49.8996131
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Ostrov u Bezdružic u čp. 10 <br><b>Adresa:</b> č.p. 10, 33038, Ostrov u Bezdružic ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "30071:312"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.0475476,
-                    49.915827
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Blažim - budova OÚ <br><b>Adresa:</b> č.p. 32, 33038, Blažim ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "30071:313"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.0575955,
-                    49.937443
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Polínka,u tel. budky <br><b>Adresa:</b> Plzeň-sever; Krsy; Polínka <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "30071:314"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.0765145,
-                    49.9069937
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pláň u čp. 2 <br><b>Adresa:</b> Pláň 2, 33038, Ostrov u Bezdružic ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "30071:311"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.0866386,
-                    49.9442156
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Trhomné č.p. 36 <br><b>Adresa:</b> Trhomné 36, 33162, Krsy ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "30071:375"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.0931726,
+          49.9014965
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Budeč - budova statku <br><b>Adresa:</b> Plzeň-sever; Úněšov; Budeč <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30071:310"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.0765145,
+          49.9069937
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pláň u čp. 2 <br><b>Adresa:</b> Pláň 2, 33038, Ostrov u Bezdružic ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30071:311"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.041408,
+          49.8996131
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Ostrov u Bezdružic u čp. 10 <br><b>Adresa:</b> č.p. 10, 33038, Ostrov u Bezdružic ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30071:312"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.0475476,
+          49.915827
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Blažim - budova OÚ <br><b>Adresa:</b> č.p. 32, 33038, Blažim ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30071:313"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.0575955,
+          49.937443
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Polínka,u tel. budky <br><b>Adresa:</b> Plzeň-sever; Krsy; Polínka <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30071:314"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.0934247,
+          49.9144961
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Štipoklasy,naproti č.p. 22 <br><b>Adresa:</b> Štipoklasy 22, 33038, Úněšov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30071:315"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.0116912,
+          49.9372999
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Olešovice - autobusová zast <br><b>Adresa:</b> Plzeň-sever; Úterý; Olešovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30071:318"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.0540371,
+          49.9241841
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Krsy, budova pošty <br><b>Adresa:</b> č.p. 51, 33038, Krsy ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30071:345"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.0866386,
+          49.9442156
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Trhomné č.p. 36 <br><b>Adresa:</b> Trhomné 36, 33162, Krsy ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30071:375"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

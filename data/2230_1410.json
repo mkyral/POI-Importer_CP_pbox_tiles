@@ -1,107 +1,107 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.0816279,
-                    48.7861877
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Chvalatice OÚ <br><b>Adresa:</b> č.p. 72, 66902, Chvalovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "66907:91"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.0146561,
-                    48.7925717
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Šatov-MŠ <br><b>Adresa:</b> č.p. 46, 67122, Šatov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:10",
-                "ref": "66907:38"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.0055172,
-                    48.7952534
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Šatov-křižovatka <br><b>Adresa:</b> č.p. 203, 67122, Šatov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "66907:39"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.0822842,
-                    48.7869839
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Chvalovice <br><b>Adresa:</b> č.p. 79, 66902, Chvalovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "66907:254"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.0182607,
-                    48.7889711
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Šatov <br><b>Adresa:</b> č.p. 381, 67122, Šatov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "66907:253"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.0210294,
-                    48.7894843
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Šatov-sídliště <br><b>Adresa:</b> č.p. 437, 67122, Šatov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "66907:37"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.0182096,
+          48.7889115
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Šatov <br><b>Adresa:</b> č.p. 381, 67122, Šatov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 7.61 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:253"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0822842,
+          48.7869839
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Chvalovice <br><b>Adresa:</b> č.p. 79, 66902, Chvalovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:254"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0212104,
+          48.7893478
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Šatov-sídliště <br><b>Adresa:</b> č.p. 437, 67122, Šatov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 20.16 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:37"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.014329,
+          48.7924907
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Šatov-MŠ <br><b>Adresa:</b> č.p. 46, 67122, Šatov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 25.61 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:10",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:38"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0056589,
+          48.7953035
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Šatov-křižovatka <br><b>Adresa:</b> č.p. 203, 67122, Šatov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.78 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:39"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0816279,
+          48.7861877
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Chvalatice OÚ <br><b>Adresa:</b> č.p. 72, 66902, Chvalovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:91"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

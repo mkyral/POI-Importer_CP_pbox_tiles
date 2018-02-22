@@ -1,175 +1,175 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.2650827,
-                    49.6952913
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Háje - u čekárny č.p.19 <br><b>Adresa:</b> Háje 19, 26301, Hřiměždice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "26107:56"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.2632202,
-                    49.6797241
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Vestec č.p.11 <br><b>Adresa:</b> Vestec 11, 26301, Hřiměždice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "26107:57"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.2743177,
-                    49.7199722
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Drevníky - OÚ č.p.51 <br><b>Adresa:</b> č.p. 51, 26301, Drevníky ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "26107:52"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.2876742,
-                    49.6769267
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Zrůbek za č.p. 75 <br><b>Adresa:</b> Hrachov 59, 26256, Svatý Jan ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:20",
-                "ref": "26107:297"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.2735598,
-                    49.6870111
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> budova pošty Hříměždice č.p. 68 <br><b>Adresa:</b> č.p. 68, 26214, Hřiměždice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "26107:380"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3023715,
-                    49.6981561
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Zvírotice č.p.34 <br><b>Adresa:</b> Zvírotice 34, 26401, Dublovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "26107:226"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3199979,
-                    49.6764337
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Líchovy  č.p.31 <br><b>Adresa:</b> Líchovy 31, 26401, Dublovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "26107:225"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.2486158,
-                    49.70416
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Žebrák - u kapličky č.p.8 <br><b>Adresa:</b> Žebrák 8, 26301, Nečín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "26107:45"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.2630108,
-                    49.7213564
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Slovany - dolní část č.p.33 <br><b>Adresa:</b> Slovanská Lhota 33, 26301, Drevníky ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "26107:51"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.2980177,
-                    49.7061799
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Županovice - prodejna č.p.47 <br><b>Adresa:</b> č.p. 47, 26301, Županovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "26107:53"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.3199979,
+          49.6764337
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Líchovy  č.p.31 <br><b>Adresa:</b> Líchovy 31, 26401, Dublovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:225"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3023715,
+          49.6981561
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Zvírotice č.p.34 <br><b>Adresa:</b> Zvírotice 34, 26401, Dublovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:226"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2876742,
+          49.6769267
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Zrůbek za č.p. 75 <br><b>Adresa:</b> Hrachov 59, 26256, Svatý Jan ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:20",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:297"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2735598,
+          49.6870111
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> budova pošty Hříměždice č.p. 68 <br><b>Adresa:</b> č.p. 68, 26214, Hřiměždice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:380"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2486158,
+          49.70416
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Žebrák - u kapličky č.p.8 <br><b>Adresa:</b> Žebrák 8, 26301, Nečín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:45"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2630108,
+          49.7213564
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Slovany - dolní část č.p.33 <br><b>Adresa:</b> Slovanská Lhota 33, 26301, Drevníky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:51"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2743177,
+          49.7199722
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Drevníky - OÚ č.p.51 <br><b>Adresa:</b> č.p. 51, 26301, Drevníky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:52"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2980177,
+          49.7061799
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Županovice - prodejna č.p.47 <br><b>Adresa:</b> č.p. 47, 26301, Županovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:53"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2650827,
+          49.6952913
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Háje - u čekárny č.p.19 <br><b>Adresa:</b> Háje 19, 26301, Hřiměždice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:56"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2632202,
+          49.6797241
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vestec č.p.11 <br><b>Adresa:</b> Vestec 11, 26301, Hřiměždice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:57"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

@@ -1,73 +1,73 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.0949967,
-                    48.7839539
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Dyjákovičky <br><b>Adresa:</b> č.p. 165, 66902, Dyjákovičky ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "66907:56"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1022378,
-                    48.8003336
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Vrbovec-obchod <br><b>Adresa:</b> č.p. 35, 67124, Vrbovec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "66907:40"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1301236,
-                    48.7732069
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hnízdo <br><b>Adresa:</b> Hnízdo 1, 66902, Vrbovec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "66907:57"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1020268,
-                    48.7995378
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Vrbovec <br><b>Adresa:</b> č.p. 146, 67124, Vrbovec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "66907:255"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.1020268,
+          48.7995378
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Vrbovec <br><b>Adresa:</b> č.p. 146, 67124, Vrbovec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:255"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1022378,
+          48.8003336
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vrbovec-obchod <br><b>Adresa:</b> č.p. 35, 67124, Vrbovec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:40"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0949967,
+          48.7839539
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dyjákovičky <br><b>Adresa:</b> č.p. 165, 66902, Dyjákovičky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:56"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1301236,
+          48.7732069
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hnízdo <br><b>Adresa:</b> Hnízdo 1, 66902, Vrbovec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:57"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

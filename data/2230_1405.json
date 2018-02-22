@@ -1,90 +1,90 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.0276548,
-                    49.083914
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Bačice, náves u čp 32 <br><b>Adresa:</b> č.p. 32, 67555, Bačice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:05",
-                "ref": "67407:219"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.0196541,
-                    49.0850169
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Udeřice, proti kult. domu <br><b>Adresa:</b> Udeřice 5, 67555, Bačice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "67407:220"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.0602561,
-                    49.0519664
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Přešovice <br><b>Adresa:</b> č.p. 61, 67557, Přešovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:15",
-                "ref": "67407:273"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.0085352,
-                    49.0706585
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Radkovice u Hrotovic <br><b>Adresa:</b> č.p. 13, 67559, Radkovice u Hrotovic ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "67407:326"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.0445414,
-                    49.0541433
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Litovany <br><b>Adresa:</b> č.p. 4, 67557, Litovany ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "67407:274"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.0276548,
+          49.083914
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bačice, náves u čp 32 <br><b>Adresa:</b> č.p. 32, 67555, Bačice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:05",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:219"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0196541,
+          49.0850169
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Udeřice, proti kult. domu <br><b>Adresa:</b> Udeřice 5, 67555, Bačice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:220"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0602561,
+          49.0519664
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Přešovice <br><b>Adresa:</b> č.p. 61, 67557, Přešovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:273"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0445414,
+          49.0541433
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Litovany <br><b>Adresa:</b> č.p. 4, 67557, Litovany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:274"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0085352,
+          49.0706585
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Radkovice u Hrotovic <br><b>Adresa:</b> č.p. 13, 67559, Radkovice u Hrotovic ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:326"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

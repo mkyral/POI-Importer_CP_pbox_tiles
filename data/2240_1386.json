@@ -1,73 +1,73 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.9460789,
-                    50.1639418
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Staré Město, Lipová 46 (stojan) <br><b>Adresa:</b> Šumperk; Staré Město; Staré Město <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "78807:209"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.9300454,
-                    50.1362139
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Staré Město, Chrastice 99, kostel (stojan) <br><b>Adresa:</b> Chrastice 99, 78832, Staré Město ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:10",
-                "ref": "78807:208"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.9348387,
-                    50.1421433
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Staré Město, Chrastice E15 (stojan) <br><b>Adresa:</b> Šumperk; Staré Město; Chrastice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:10",
-                "ref": "78807:227"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.9472483,
-                    50.161573
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pošta Staré Město pod Sněžníkem <br><b>Adresa:</b> Hanušovická 110, 78832, Staré Město ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 14:30",
-                "ref": "78807:232"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.9300454,
+          50.1362139
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Staré Město, Chrastice 99, kostel (stojan) <br><b>Adresa:</b> Chrastice 99, 78832, Staré Město ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:10",
+        "operator": "Česká pošta, s.p.",
+        "ref": "78807:208"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.9460789,
+          50.1639418
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Staré Město, Lipová 46 (stojan) <br><b>Adresa:</b> Šumperk; Staré Město; Staré Město <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "78807:209"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.9348387,
+          50.1421433
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Staré Město, Chrastice E15 (stojan) <br><b>Adresa:</b> Šumperk; Staré Město; Chrastice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:10",
+        "operator": "Česká pošta, s.p.",
+        "ref": "78807:227"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.9472483,
+          50.161573
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Staré Město pod Sněžníkem <br><b>Adresa:</b> Hanušovická 110, 78832, Staré Město ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 14:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "78807:232"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

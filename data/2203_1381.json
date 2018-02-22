@@ -1,107 +1,107 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.6874029,
-                    50.4164667
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Počerady, v parku, naproti č.p. 30 <br><b>Adresa:</b> Louny; Výškov; Počerady <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "43807:233"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.6895584,
-                    50.4346229
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u obchodu <br><b>Adresa:</b> č.p. 21, 43401, Volevčice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "43407:100"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.6282467,
-                    50.444208
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> za č.p.20 <br><b>Adresa:</b> Koporeč 20, 43401, Lišnice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "43407:107"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.6360221,
-                    50.4531506
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u Obecního úřadu <br><b>Adresa:</b> č.p. 42, 43401, Lišnice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "43407:106"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.6291552,
-                    50.4068185
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Blažim <br><b>Adresa:</b> č.p. 31, 44001, Blažim ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "43807:230"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.6527478,
-                    50.4443062
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> naproti obchodu u č.p. 112 <br><b>Adresa:</b> č.p. 112, 43401, Polerady <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 19.59 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "43407:92"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.6895584,
+          50.4346229
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u obchodu <br><b>Adresa:</b> č.p. 21, 43401, Volevčice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43407:100"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.6360221,
+          50.4531506
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u Obecního úřadu <br><b>Adresa:</b> č.p. 42, 43401, Lišnice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43407:106"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.6282467,
+          50.444208
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> za č.p.20 <br><b>Adresa:</b> Koporeč 20, 43401, Lišnice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43407:107"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.6527478,
+          50.4443062
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> naproti obchodu u č.p. 112 <br><b>Adresa:</b> č.p. 112, 43401, Polerady <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 19.59 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43407:92"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.6291552,
+          50.4068185
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Blažim <br><b>Adresa:</b> č.p. 31, 44001, Blažim ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43807:230"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.6874029,
+          50.4164667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Počerady, v parku, naproti č.p. 30 <br><b>Adresa:</b> Louny; Výškov; Počerady <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43807:233"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

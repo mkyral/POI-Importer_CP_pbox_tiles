@@ -1,107 +1,107 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.8936188,
-                    49.5233612
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Slavětín č.p.26 <br><b>Adresa:</b> Slavětín 26, 26272, Hudčice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "26107:81"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.925293,
-                    49.5322272
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hudčice č.p.19 <br><b>Adresa:</b> č.p. 19, 26272, Hudčice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "26107:79"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.9146242,
-                    49.516178
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Koupě č.p.77 <br><b>Adresa:</b> č.p. 77, 26272, Koupě ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "26107:80"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.95883,
-                    49.5212869
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Drahenice <br><b>Adresa:</b> č.p. 75, 26285, Drahenice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "26107:402"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.9269037,
-                    49.550592
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Bubovice č.p. 57 <br><b>Adresa:</b> Bubovice 57, 26272, Volenice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "26107:78"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.957785,
-                    49.5406661
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Martinice č.p.4 <br><b>Adresa:</b> Martinice 4, 26272, Březnice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "26107:70"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.95883,
+          49.5212869
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Drahenice <br><b>Adresa:</b> č.p. 75, 26285, Drahenice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:402"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.957785,
+          49.5406661
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Martinice č.p.4 <br><b>Adresa:</b> Martinice 4, 26272, Březnice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:70"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.9269037,
+          49.550592
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bubovice č.p. 57 <br><b>Adresa:</b> Bubovice 57, 26272, Volenice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:78"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.925293,
+          49.5322272
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hudčice č.p.19 <br><b>Adresa:</b> č.p. 19, 26272, Hudčice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:79"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.9146242,
+          49.516178
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Koupě č.p.77 <br><b>Adresa:</b> č.p. 77, 26272, Koupě ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:80"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.8936188,
+          49.5233612
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Slavětín č.p.26 <br><b>Adresa:</b> Slavětín 26, 26272, Hudčice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:81"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

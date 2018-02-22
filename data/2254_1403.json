@@ -1,39 +1,39 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.110624,
-                    49.2012887
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jednota, Francova Lhota <br><b>Adresa:</b> č.p. 212, 75614, Francova Lhota ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:20",
-                "ref": "75707:203"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.116692,
-                    49.2060968
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> obchod - Jitřenka, Francova Lhota <br><b>Adresa:</b> č.p. 452, 75614, Francova Lhota ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:15",
-                "ref": "75707:204"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          18.110624,
+          49.2012887
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jednota, Francova Lhota <br><b>Adresa:</b> č.p. 212, 75614, Francova Lhota ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:20",
+        "operator": "Česká pošta, s.p.",
+        "ref": "75707:203"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.116692,
+          49.2060968
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> obchod - Jitřenka, Francova Lhota <br><b>Adresa:</b> č.p. 452, 75614, Francova Lhota ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "75707:204"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

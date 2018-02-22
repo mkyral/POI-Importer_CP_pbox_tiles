@@ -1,158 +1,158 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.555922,
-                    50.5366572
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u zastávky u kempu č.p. 24, Nedamov <br><b>Adresa:</b> Nedamov 24, 47201, Dubá ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:40",
-                "ref": "47007:148"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.5406609,
-                    50.5407415
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> na stojanu, napr. českolip. 61, (aut.nadraží),Dubá <br><b>Adresa:</b> Českolipská 61, 47141, Dubá ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "47007:116"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.5405081,
-                    50.5403603
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Dubá <br><b>Adresa:</b> Školní 192, 47141, Dubá ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "47007:272"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.5710187,
-                    50.5527866
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> na budově OÚ <br><b>Adresa:</b> č.p. 26, 47201, Vrchovany ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:40",
-                "ref": "47007:136"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.564964,
-                    50.5275916
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Na návsi, Panská Ves <br><b>Adresa:</b> Panská Ves 24, 47201, Dubá ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:50",
-                "ref": "47007:149"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.5176419,
-                    50.5231008
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> U autobusové zastávky vedle č.p.16, Deštná <br><b>Adresa:</b> Deštná 13, 47201, Dubá ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "47007:152"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.5623155,
-                    50.5223372
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> U autobusové zastávky, Křenov <br><b>Adresa:</b> Křenov 3, 47201, Dubá ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "47007:150"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.5851444,
-                    50.5460847
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> V obci, Horky - na návsi <br><b>Adresa:</b> Horky 14, 47201, Dubá ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "47007:147"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.5424299,
-                    50.5427292
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Ul. Na Výsluní 76, Dubá <br><b>Adresa:</b> Na Výsluní 76, 47141, Dubá ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:50",
-                "ref": "47007:172"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.5406609,
+          50.5407415
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> na stojanu, napr. českolip. 61, (aut.nadraží),Dubá <br><b>Adresa:</b> Českolipská 61, 47141, Dubá ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "47007:116"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5710187,
+          50.5527866
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> na budově OÚ <br><b>Adresa:</b> č.p. 26, 47201, Vrchovany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:40",
+        "operator": "Česká pošta, s.p.",
+        "ref": "47007:136"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5851444,
+          50.5460847
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> V obci, Horky - na návsi <br><b>Adresa:</b> Horky 14, 47201, Dubá ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "47007:147"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.555922,
+          50.5366572
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u zastávky u kempu č.p. 24, Nedamov <br><b>Adresa:</b> Nedamov 24, 47201, Dubá ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:40",
+        "operator": "Česká pošta, s.p.",
+        "ref": "47007:148"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.564964,
+          50.5275916
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Na návsi, Panská Ves <br><b>Adresa:</b> Panská Ves 24, 47201, Dubá ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:50",
+        "operator": "Česká pošta, s.p.",
+        "ref": "47007:149"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5623155,
+          50.5223372
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> U autobusové zastávky, Křenov <br><b>Adresa:</b> Křenov 3, 47201, Dubá ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "47007:150"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5176419,
+          50.5231008
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> U autobusové zastávky vedle č.p.16, Deštná <br><b>Adresa:</b> Deštná 13, 47201, Dubá ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "47007:152"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5424299,
+          50.5427292
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Ul. Na Výsluní 76, Dubá <br><b>Adresa:</b> Na Výsluní 76, 47141, Dubá ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:50",
+        "operator": "Česká pošta, s.p.",
+        "ref": "47007:172"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5405081,
+          50.5403603
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Dubá <br><b>Adresa:</b> Školní 192, 47141, Dubá ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "47007:272"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

@@ -1,107 +1,107 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.6991703,
-                    48.7744451
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Sedlec - nádraží <br><b>Adresa:</b> č.p. 194, 69121, Sedlec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:15",
-                "ref": "69007:73"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.6391803,
-                    48.8032521
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> ul. Vídeňská <br><b>Adresa:</b> Vídeňská 255/22, 69201, Mikulov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:15",
-                "ref": "69007:93"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.6375595,
-                    48.8057745
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> náměstí <br><b>Adresa:</b> Náměstí 29/22, 69201, Mikulov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "69007:92"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.6929452,
-                    48.7789094
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Sedlec u Mikulova <br><b>Adresa:</b> č.p. 15, 69121, Sedlec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "69007:74"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.633349,
-                    48.8024403
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> naproti Piaristů 28 <br><b>Adresa:</b> Piaristů 987/28, 69201, Mikulov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "69007:94"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.6306691,
-                    48.8044603
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Větrná 1307/7, 69201, Mikulov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "69007:97"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.6991703,
+          48.7744451
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Sedlec - nádraží <br><b>Adresa:</b> č.p. 194, 69121, Sedlec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69007:73"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.6929452,
+          48.7789094
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Sedlec u Mikulova <br><b>Adresa:</b> č.p. 15, 69121, Sedlec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69007:74"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.6375595,
+          48.8057745
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> náměstí <br><b>Adresa:</b> Náměstí 29/22, 69201, Mikulov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69007:92"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.6391803,
+          48.8032521
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> ul. Vídeňská <br><b>Adresa:</b> Vídeňská 255/22, 69201, Mikulov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69007:93"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.633349,
+          48.8024403
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> naproti Piaristů 28 <br><b>Adresa:</b> Piaristů 987/28, 69201, Mikulov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69007:94"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.6306691,
+          48.8044603
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Větrná 1307/7, 69201, Mikulov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69007:97"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

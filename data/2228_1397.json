@@ -1,90 +1,90 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.8504667,
-                    49.5368504
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> OÚ, Rosička <br><b>Adresa:</b> č.p. 20, 59212, Rosička ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:15",
-                "ref": "59100:70"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.8700371,
-                    49.5102749
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> naproti tf. budce Újezd <br><b>Adresa:</b> č.p. 18, 59212, Újezd ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:30",
-                "ref": "59100:68"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.8622711,
-                    49.5291629
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> autobusová zastávka, Matějov <br><b>Adresa:</b> č.p. 21, 59212, Matějov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "59100:69"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9081615,
-                    49.520585
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jednota - COOP,  Nové Veselí <br><b>Adresa:</b> Žďárská 296, 59214, Nové Veselí ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "59100:74"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.8735352,
-                    49.5490333
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> budova požární zbrojnice, Česká Mez <br><b>Adresa:</b> Česká Mez 1, 59211, Sázava ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "59100:64"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.8735352,
+          49.5490333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> budova požární zbrojnice, Česká Mez <br><b>Adresa:</b> Česká Mez 1, 59211, Sázava ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59100:64"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8700371,
+          49.5102749
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> naproti tf. budce Újezd <br><b>Adresa:</b> č.p. 18, 59212, Újezd ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59100:68"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8622711,
+          49.5291629
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> autobusová zastávka, Matějov <br><b>Adresa:</b> č.p. 21, 59212, Matějov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59100:69"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8504667,
+          49.5368504
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> OÚ, Rosička <br><b>Adresa:</b> č.p. 20, 59212, Rosička ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59100:70"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9081615,
+          49.520585
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jednota - COOP,  Nové Veselí <br><b>Adresa:</b> Žďárská 296, 59214, Nové Veselí ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59100:74"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

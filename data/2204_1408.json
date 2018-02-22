@@ -1,73 +1,73 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.7448734,
-                    48.9100977
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hliniště <br><b>Adresa:</b> Hliniště 1, 38443, Strážný ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "38307:144"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.7752313,
-                    48.8783923
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> U hřbitova-náves, České Žleby č.p. 7 <br><b>Adresa:</b> České Žleby 7, 38451, Stožec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "38307:116"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.7973609,
-                    48.9220382
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> č.p. 53, Lenora <br><b>Adresa:</b> č.p. 53, 38442, Lenora ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "38307:120"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.7201958,
-                    48.9071949
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Budova pošty  Strážný <br><b>Adresa:</b> č.p. 41, 38443, Strážný ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "38307:80"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.7752313,
+          48.8783923
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> U hřbitova-náves, České Žleby č.p. 7 <br><b>Adresa:</b> České Žleby 7, 38451, Stožec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38307:116"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.7973609,
+          48.9220382
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> č.p. 53, Lenora <br><b>Adresa:</b> č.p. 53, 38442, Lenora ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38307:120"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.7448734,
+          48.9100977
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hliniště <br><b>Adresa:</b> Hliniště 1, 38443, Strážný ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38307:144"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.7201958,
+          48.9071949
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Budova pošty  Strážný <br><b>Adresa:</b> č.p. 41, 38443, Strážný ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38307:80"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

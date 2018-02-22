@@ -1,73 +1,73 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.6394767,
-                    50.6563831
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Na návsi naproti kostelu, Brenná <br><b>Adresa:</b> Brenná 46, 47002, Zákupy <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 59.75 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "47007:60"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.6505819,
-                    50.6791934
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> zastávka, u Mimoňská 186 , Zákupy <br><b>Adresa:</b> Mimoňská 186, 47123, Zákupy ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "47007:59"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.6466359,
-                    50.6693426
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u křižovatky na stojanu, u č.p.45, Božíkov <br><b>Adresa:</b> Božíkov 45, 47123, Zákupy ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "47007:64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.6102723,
-                    50.6656412
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> na stojanu u Vítkov č.p.45 <br><b>Adresa:</b> Vítkov 45, 47001, Česká Lípa ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "47007:78"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.6505819,
+          50.6791934
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> zastávka, u Mimoňská 186 , Zákupy <br><b>Adresa:</b> Mimoňská 186, 47123, Zákupy ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "47007:59"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.6394767,
+          50.6563831
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Na návsi naproti kostelu, Brenná <br><b>Adresa:</b> Brenná 46, 47002, Zákupy <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 59.75 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "47007:60"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.6466359,
+          50.6693426
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u křižovatky na stojanu, u č.p.45, Božíkov <br><b>Adresa:</b> Božíkov 45, 47123, Zákupy ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "47007:64"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.6102723,
+          50.6656412
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> na stojanu u Vítkov č.p.45 <br><b>Adresa:</b> Vítkov 45, 47001, Česká Lípa ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "47007:78"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

@@ -1,141 +1,141 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.6956694,
-                    49.5144178
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Věžnice <br><b>Adresa:</b> č.p. 9, 58252, Věžnice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:18"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.6609257,
-                    49.5409962
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Šlapanov  158 - u prodejny  \"S\" <br><b>Adresa:</b> č.p. 158, 58251, Šlapanov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:91"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.6779189,
-                    49.49851
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u Jednoty, Nové Dvory <br><b>Adresa:</b> Nové Dvory 41, 58813, Polná ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "58607:96"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.6887371,
-                    49.5449015
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Šlapanov,Šachotín 5/0 - BUS, \"S\" <br><b>Adresa:</b> Šachotín 5, 58001, Šlapanov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:51"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.7273664,
-                    49.526191
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u Jednoty, Brzkov <br><b>Adresa:</b> č.p. 68, 58813, Brzkov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:40",
-                "ref": "58607:95"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.6536648,
-                    49.5094572
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u Jednoty, Kamenná <br><b>Adresa:</b> č.p. 57, 58813, Kamenná ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "58607:97"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.6572912,
-                    49.5429023
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Šlapanov <br><b>Adresa:</b> č.p. 40, 58251, Šlapanov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:17"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.681775,
-                    49.5171627
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Věžnice 75 - u prodejny, \"S\" <br><b>Adresa:</b> č.p. 75, 58252, Věžnice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:92"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.6572912,
+          49.5429023
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Šlapanov <br><b>Adresa:</b> č.p. 40, 58251, Šlapanov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:17"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.6956694,
+          49.5144178
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Věžnice <br><b>Adresa:</b> č.p. 9, 58252, Věžnice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:18"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.6887371,
+          49.5449015
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Šlapanov,Šachotín 5/0 - BUS, \"S\" <br><b>Adresa:</b> Šachotín 5, 58001, Šlapanov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:51"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.6609257,
+          49.5409962
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Šlapanov  158 - u prodejny  \"S\" <br><b>Adresa:</b> č.p. 158, 58251, Šlapanov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:91"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.681775,
+          49.5171627
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Věžnice 75 - u prodejny, \"S\" <br><b>Adresa:</b> č.p. 75, 58252, Věžnice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:92"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7273664,
+          49.526191
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u Jednoty, Brzkov <br><b>Adresa:</b> č.p. 68, 58813, Brzkov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:40",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:95"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.6779189,
+          49.49851
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u Jednoty, Nové Dvory <br><b>Adresa:</b> Nové Dvory 41, 58813, Polná ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:96"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.6536648,
+          49.5094572
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u Jednoty, Kamenná <br><b>Adresa:</b> č.p. 57, 58813, Kamenná ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:97"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

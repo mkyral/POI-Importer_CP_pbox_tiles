@@ -1,107 +1,107 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.5024084,
-                    48.9733243
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Chvalkovice <br><b>Adresa:</b> Chvalkovice 24, 37881, Dešná ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:20",
-                "ref": "37702:272"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.5431142,
-                    48.963441
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Plačovice <br><b>Adresa:</b> Plačovice 10, 37881, Dešná ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:15",
-                "ref": "37702:278"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.5452452,
-                    48.9580707
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> budova Obecního úřadu Dešná u Dačic <br><b>Adresa:</b> č.p. 69, 37873, Dešná ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "37702:290"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.5060188,
-                    48.9571132
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Županovice <br><b>Adresa:</b> č.p. 14, 37881, Županovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 28.66 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:50",
-                "ref": "37702:274"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.5275562,
-                    48.9332398
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Rancířov <br><b>Adresa:</b> Rancířov 3, 37881, Dešná ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:40",
-                "ref": "37702:275"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4796579,
-                    48.9771072
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Markéta <br><b>Adresa:</b> Marketa 3, 37881, Písečné ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:10",
-                "ref": "37702:271"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.4796579,
+          48.9771072
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Markéta <br><b>Adresa:</b> Marketa 3, 37881, Písečné ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:10",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:271"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.5024084,
+          48.9733243
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Chvalkovice <br><b>Adresa:</b> Chvalkovice 24, 37881, Dešná ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:20",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:272"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.5060188,
+          48.9571132
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Županovice <br><b>Adresa:</b> č.p. 14, 37881, Županovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 28.66 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:50",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:274"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.5275562,
+          48.9332398
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Rancířov <br><b>Adresa:</b> Rancířov 3, 37881, Dešná ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:40",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:275"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.5431142,
+          48.963441
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Plačovice <br><b>Adresa:</b> Plačovice 10, 37881, Dešná ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:278"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.5452452,
+          48.9580707
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> budova Obecního úřadu Dešná u Dačic <br><b>Adresa:</b> č.p. 69, 37873, Dešná ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:290"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

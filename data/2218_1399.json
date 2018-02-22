@@ -1,175 +1,175 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.0013183,
-                    49.4340969
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Eš <br><b>Adresa:</b> č.p. 3, 39501, Eš ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:30",
-                "ref": "39307:239"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.9456595,
-                    49.4248239
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Obrataň - budova pošty <br><b>Adresa:</b> č.p. 204, 39412, Obrataň ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:15",
-                "ref": "39307:350"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.9916593,
-                    49.3982273
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Vintířov <br><b>Adresa:</b> Vintířov 9, 39501, Obrataň ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:25",
-                "ref": "39307:237"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.0154438,
-                    49.4233978
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kámen - budova pošty <br><b>Adresa:</b> č.p. 2, 39413, Kámen ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:10",
-                "ref": "39307:351"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.9446723,
-                    49.4222431
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Obrataň - čp.102 <br><b>Adresa:</b> č.p. 102, 39412, Obrataň ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:15",
-                "ref": "39307:280"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.9537215,
-                    49.4287861
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> ČD Obrataň <br><b>Adresa:</b> č.p. 58, 39412, Obrataň ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:15",
-                "ref": "39307:281"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.9768197,
-                    49.4083138
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Brná <br><b>Adresa:</b> Brná 10, 39501, Věžná ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:45",
-                "ref": "39307:236"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.9772239,
-                    49.4370919
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Šimpach <br><b>Adresa:</b> Šimpach 5, 39501, Obrataň ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:15",
-                "ref": "39307:234"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.9889111,
-                    49.4142228
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Věžná <br><b>Adresa:</b> č.p. 25, 39501, Věžná <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.31 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:40",
-                "ref": "39307:235"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.0274124,
-                    49.4040987
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Dobrá Voda <br><b>Adresa:</b> č.p. 26, 39501, Dobrá Voda u Pacova ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:45",
-                "ref": "39307:238"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.9772239,
+          49.4370919
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Šimpach <br><b>Adresa:</b> Šimpach 5, 39501, Obrataň ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:234"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.9889111,
+          49.4142228
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Věžná <br><b>Adresa:</b> č.p. 25, 39501, Věžná <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.31 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:40",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:235"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.9768197,
+          49.4083138
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Brná <br><b>Adresa:</b> Brná 10, 39501, Věžná ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:236"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.9916593,
+          49.3982273
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vintířov <br><b>Adresa:</b> Vintířov 9, 39501, Obrataň ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:25",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:237"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.0274124,
+          49.4040987
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dobrá Voda <br><b>Adresa:</b> č.p. 26, 39501, Dobrá Voda u Pacova ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:238"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.0013183,
+          49.4340969
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Eš <br><b>Adresa:</b> č.p. 3, 39501, Eš ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:239"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.9446723,
+          49.4222431
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Obrataň - čp.102 <br><b>Adresa:</b> č.p. 102, 39412, Obrataň ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:280"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.9537215,
+          49.4287861
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> ČD Obrataň <br><b>Adresa:</b> č.p. 58, 39412, Obrataň ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:281"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.9456595,
+          49.4248239
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Obrataň - budova pošty <br><b>Adresa:</b> č.p. 204, 39412, Obrataň ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:350"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.0154438,
+          49.4233978
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kámen - budova pošty <br><b>Adresa:</b> č.p. 2, 39413, Kámen ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:10",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:351"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

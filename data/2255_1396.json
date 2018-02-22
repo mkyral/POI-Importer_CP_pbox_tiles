@@ -1,107 +1,107 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.2569426,
-                    49.6036005
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Měrkovice,na čp.700-obchod,Kozlovice <br><b>Adresa:</b> Měrkovice 700, 73947, Kozlovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.04 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 13:00",
-                "ref": "73807:61"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.2157274,
-                    49.5986512
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kopřivnice, Mniší 214 (stojan) <br><b>Adresa:</b> Nový Jičín; Kopřivnice; Mniší <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "74207:218"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.2213487,
-                    49.5699584
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pošta Tichá (budova OÚ) <br><b>Adresa:</b> č.p. 1, 74274, Tichá ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "74207:137"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.276796,
-                    49.5723033
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u čp.632(garáže-h.konec),Kozlovice (stoj.zast.BUS) <br><b>Adresa:</b> Frýdek-Místek; Kozlovice; Kozlovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "73807:60"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.2569184,
-                    49.5934869
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pošta Kozlovice <br><b>Adresa:</b> č.p. 343, 73947, Kozlovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 15.21 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 14:00",
-                "ref": "73807:214"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.2006692,
-                    49.6003104
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kopřivnice, Mniší 132, MŠ (stojan) <br><b>Adresa:</b> Mniší 132, 74221, Kopřivnice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "74207:214"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          18.2569184,
+          49.5934869
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Kozlovice <br><b>Adresa:</b> č.p. 343, 73947, Kozlovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 15.21 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 14:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "73807:214"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.2774027,
+          49.5717599
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u čp.632(garáže-h.konec),Kozlovice (stoj.zast.BUS) <br><b>Adresa:</b> Frýdek-Místek; Kozlovice; Kozlovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "73807:60"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.2569426,
+          49.6036005
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Měrkovice,na čp.700-obchod,Kozlovice <br><b>Adresa:</b> Měrkovice 700, 73947, Kozlovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.04 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 13:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "73807:61"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.2213487,
+          49.5699584
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Tichá (budova OÚ) <br><b>Adresa:</b> č.p. 1, 74274, Tichá ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74207:137"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.2006692,
+          49.6003104
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kopřivnice, Mniší 132, MŠ (stojan) <br><b>Adresa:</b> Mniší 132, 74221, Kopřivnice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74207:214"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.2157274,
+          49.5986512
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kopřivnice, Mniší 214 (stojan) <br><b>Adresa:</b> Nový Jičín; Kopřivnice; Mniší <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74207:218"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

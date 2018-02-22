@@ -1,107 +1,107 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.8261917,
-                    49.7178781
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Vranová Lhota, zast. ČSAD u č. 126 <br><b>Adresa:</b> č.p. 126, 57101, Vranová Lhota ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:532"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.8609533,
-                    49.6922057
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Bouzov, Svojanov za č.p. 5, náves (stojan) <br><b>Adresa:</b> Olomouc; Bouzov; Svojanov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:50",
-                "ref": "77072:481"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.8629156,
-                    49.7045929
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Bouzov, Kozov 2, náves (stojan) <br><b>Adresa:</b> Kozov 2, 78325, Bouzov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:25",
-                "ref": "77072:480"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.7873077,
-                    49.7013117
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Stará Roveň <br><b>Adresa:</b> Stará Roveň 3, 57101, Městečko Trnávka ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:528"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.8244172,
-                    49.7105416
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Vranová Lhota <br><b>Adresa:</b> č.p. 34, 57101, Vranová Lhota ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:548"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.8159319,
-                    49.6799474
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hartinkov 3, Jevíčko <br><b>Adresa:</b> č.p. 3, 56943, Hartinkov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:577"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.7873077,
+          49.7013117
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Stará Roveň <br><b>Adresa:</b> Stará Roveň 3, 57101, Městečko Trnávka ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:528"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.8261917,
+          49.7178781
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vranová Lhota, zast. ČSAD u č. 126 <br><b>Adresa:</b> č.p. 126, 57101, Vranová Lhota ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:532"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.8244172,
+          49.7105416
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Vranová Lhota <br><b>Adresa:</b> č.p. 34, 57101, Vranová Lhota ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:548"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.8159319,
+          49.6799474
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hartinkov 3, Jevíčko <br><b>Adresa:</b> č.p. 3, 56943, Hartinkov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:577"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.8629156,
+          49.7045929
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bouzov, Kozov 2, náves (stojan) <br><b>Adresa:</b> Kozov 2, 78325, Bouzov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:25",
+        "operator": "Česká pošta, s.p.",
+        "ref": "77072:480"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.8609533,
+          49.6922057
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bouzov, Svojanov za č.p. 5, náves (stojan) <br><b>Adresa:</b> Olomouc; Bouzov; Svojanov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:50",
+        "operator": "Česká pošta, s.p.",
+        "ref": "77072:481"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

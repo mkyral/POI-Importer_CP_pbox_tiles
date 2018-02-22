@@ -1,124 +1,124 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4165053,
-                    50.7794299
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> samobsluha Nový Svět Harrachov v Krkonoš. čp. 345 <br><b>Adresa:</b> Nový Svět 345, 51246, Harrachov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "46307:448"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4250686,
-                    50.7762287
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Harrachov v Krkonoších <br><b>Adresa:</b> č.p. 152, 51246, Harrachov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 13:00",
-                "ref": "46307:454"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.421977,
-                    50.780791
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Dům pečovatelské služby čp. 116, Harrachov v Kr. <br><b>Adresa:</b> Nový Svět 116, 51246, Harrachov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.99 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "46307:449"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4112112,
-                    50.7797007
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Harrachov v Krk. čp. 39 <br><b>Adresa:</b> Nový Svět 39, 51246, Harrachov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "46307:450"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4303884,
-                    50.7715225
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Varšavjanka  hotel  219, Harrachov v Krkonoších <br><b>Adresa:</b> č.p. 219, 51246, Harrachov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "46307:446"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4356897,
-                    50.7700114
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Bufet ČSAD, Harrachov v Krkonoších 645 <br><b>Adresa:</b> č.p. 645, 51246, Harrachov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "46307:447"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4194902,
-                    50.7824707
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Sklárna 95, Harrachov v Krkonoších <br><b>Adresa:</b> Nový Svět 95, 51246, Harrachov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "46307:445"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.4194902,
+          50.7824707
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Sklárna 95, Harrachov v Krkonoších <br><b>Adresa:</b> Nový Svět 95, 51246, Harrachov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "46307:445"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4303884,
+          50.7715225
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Varšavjanka  hotel  219, Harrachov v Krkonoších <br><b>Adresa:</b> č.p. 219, 51246, Harrachov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "46307:446"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4356897,
+          50.7700114
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bufet ČSAD, Harrachov v Krkonoších 645 <br><b>Adresa:</b> č.p. 645, 51246, Harrachov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "46307:447"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4165053,
+          50.7794299
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> samobsluha Nový Svět Harrachov v Krkonoš. čp. 345 <br><b>Adresa:</b> Nový Svět 345, 51246, Harrachov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "46307:448"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.421977,
+          50.780791
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dům pečovatelské služby čp. 116, Harrachov v Kr. <br><b>Adresa:</b> Nový Svět 116, 51246, Harrachov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.99 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "46307:449"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4112112,
+          50.7797007
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Harrachov v Krk. čp. 39 <br><b>Adresa:</b> Nový Svět 39, 51246, Harrachov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "46307:450"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4250686,
+          50.7762287
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Harrachov v Krkonoších <br><b>Adresa:</b> č.p. 152, 51246, Harrachov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 13:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "46307:454"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

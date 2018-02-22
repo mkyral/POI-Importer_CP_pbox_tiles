@@ -1,141 +1,141 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.0883305,
-                    48.9421095
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Němčičky <br><b>Adresa:</b> č.p. 49, 67153, Němčičky <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 12.77 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "66907:173"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.0935646,
-                    48.9565864
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Mikulovice č.p. 130, hasičská zbrojnice <br><b>Adresa:</b> č.p. 130, 67133, Mikulovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 37.64 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "66907:145"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.0931532,
-                    48.9552708
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Mikulovice u Znojma <br><b>Adresa:</b> č.p. 144, 67133, Mikulovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.17 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "66907:263"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1598159,
-                    48.9495198
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Horní Dunajovice <br><b>Adresa:</b> č.p. 102, 67134, Horní Dunajovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "66907:264"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.120291,
-                    48.9282559
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Výrovice u přehrady <br><b>Adresa:</b> Znojmo; Výrovice; Výrovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:50",
-                "ref": "66907:80"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1189592,
-                    48.9280501
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Výrovice <br><b>Adresa:</b> č.p. 65, 67134, Výrovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "66907:79"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1654754,
-                    48.9487137
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> H.Dunajovice - obchod <br><b>Adresa:</b> č.p. 205, 67134, Horní Dunajovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "66907:76"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1658582,
-                    48.9264026
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Žerotice <br><b>Adresa:</b> č.p. 165, 67134, Žerotice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "66907:78"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.0935646,
+          48.9565864
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Mikulovice č.p. 130, hasičská zbrojnice <br><b>Adresa:</b> č.p. 130, 67133, Mikulovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 37.64 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:145"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0883305,
+          48.9421095
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Němčičky <br><b>Adresa:</b> č.p. 49, 67153, Němčičky <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 12.77 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:173"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0931532,
+          48.9552708
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Mikulovice u Znojma <br><b>Adresa:</b> č.p. 144, 67133, Mikulovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.17 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:263"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1598159,
+          48.9495198
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Horní Dunajovice <br><b>Adresa:</b> č.p. 102, 67134, Horní Dunajovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:264"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1654754,
+          48.9487137
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> H.Dunajovice - obchod <br><b>Adresa:</b> č.p. 205, 67134, Horní Dunajovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:76"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1658582,
+          48.9264026
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Žerotice <br><b>Adresa:</b> č.p. 165, 67134, Žerotice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:78"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1189592,
+          48.9280501
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Výrovice <br><b>Adresa:</b> č.p. 65, 67134, Výrovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:79"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.120291,
+          48.9282559
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Výrovice u přehrady <br><b>Adresa:</b> Znojmo; Výrovice; Výrovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:50",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:80"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

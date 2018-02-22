@@ -1,141 +1,141 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.3752475,
-                    49.3505569
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Chropyně - Na Hradě č.425 <br><b>Adresa:</b> Hrad 425, 76811, Chropyně ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:10",
-                "ref": "76707:38"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.3336265,
-                    49.3286664
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Bezměrov č.132 - hospoda, Kroměříž <br><b>Adresa:</b> č.p. 132, 76701, Bezměrov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "76707:72"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.4015714,
-                    49.3773165
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kyselovice č.20 - pohostinství <br><b>Adresa:</b> č.p. 20, 76811, Kyselovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:45",
-                "ref": "76707:40"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.3525456,
-                    49.3815761
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Zářičí - Dům služeb č.25 <br><b>Adresa:</b> č.p. 25, 76811, Záříčí ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "76707:41"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.3636467,
-                    49.3621012
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Chropyně Glob.Tyršova č.571 <br><b>Adresa:</b> Tyršova 571, 76811, Chropyně ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:05",
-                "ref": "76707:36"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.3816713,
-                    49.3391604
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Plešovec č.1 - knihovna <br><b>Adresa:</b> Plešovec 1, 76811, Chropyně ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "76707:39"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.3638856,
-                    49.3577959
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Chropyně <br><b>Adresa:</b> náměstí Svobody 48, 76811, Chropyně ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 16:55",
-                "ref": "76707:208"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.3641989,
-                    49.3647525
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Chropyně - Moravská č.726 <br><b>Adresa:</b> Moravská 726, 76811, Chropyně ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:08",
-                "ref": "76707:37"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          17.3638856,
+          49.3577959
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Chropyně <br><b>Adresa:</b> náměstí Svobody 48, 76811, Chropyně ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 16:55",
+        "operator": "Česká pošta, s.p.",
+        "ref": "76707:208"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.3636467,
+          49.3621012
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Chropyně Glob.Tyršova č.571 <br><b>Adresa:</b> Tyršova 571, 76811, Chropyně ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:05",
+        "operator": "Česká pošta, s.p.",
+        "ref": "76707:36"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.3641989,
+          49.3647525
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Chropyně - Moravská č.726 <br><b>Adresa:</b> Moravská 726, 76811, Chropyně ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:08",
+        "operator": "Česká pošta, s.p.",
+        "ref": "76707:37"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.3752475,
+          49.3505569
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Chropyně - Na Hradě č.425 <br><b>Adresa:</b> Hrad 425, 76811, Chropyně ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:10",
+        "operator": "Česká pošta, s.p.",
+        "ref": "76707:38"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.3816713,
+          49.3391604
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Plešovec č.1 - knihovna <br><b>Adresa:</b> Plešovec 1, 76811, Chropyně ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "76707:39"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.4015714,
+          49.3773165
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kyselovice č.20 - pohostinství <br><b>Adresa:</b> č.p. 20, 76811, Kyselovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "76707:40"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.3525456,
+          49.3815761
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Zářičí - Dům služeb č.25 <br><b>Adresa:</b> č.p. 25, 76811, Záříčí ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "76707:41"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.3336265,
+          49.3286664
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bezměrov č.132 - hospoda, Kroměříž <br><b>Adresa:</b> č.p. 132, 76701, Bezměrov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "76707:72"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

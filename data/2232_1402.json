@@ -1,158 +1,158 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1746497,
-                    49.2468175
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pucov <br><b>Adresa:</b> č.p. 40, 67571, Pucov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:20",
-                "ref": "67407:248"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.2541854,
-                    49.2223484
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Potraviny č.p. 109,   Újezd <br><b>Adresa:</b> č.p. 109, 66484, Újezd u Rosic ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "60012:167"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.255839,
-                    49.2403251
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Potraviny č.p. 117, Stanoviště <br><b>Adresa:</b> č.p. 117, 66484, Stanoviště ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "60012:168"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1941621,
-                    49.2308377
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jinošov <br><b>Adresa:</b> č.p. 31, 67571, Jinošov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:10",
-                "ref": "67407:247"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.2008074,
-                    49.2661702
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> kulturní dům, Jindřichov <br><b>Adresa:</b> Jindřichov 12, 59501, Velká Bíteš ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:15",
-                "ref": "59502:4"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.2275071,
-                    49.2256291
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hluboké <br><b>Adresa:</b> č.p. 36, 67571, Hluboké ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "67407:251"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1879954,
-                    49.2140616
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Otradice <br><b>Adresa:</b> Otradice 9, 67571, Náměšť nad Oslavou ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:30",
-                "ref": "67407:252"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.2324897,
-                    49.2444721
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Krokočín <br><b>Adresa:</b> č.p. 19, 67571, Krokočín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "67407:250"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.258066,
-                    49.2549777
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> čekárna, Ludvíkov <br><b>Adresa:</b> Ludvíkov 1, 59501, Velká Bíteš ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:50",
-                "ref": "59502:3"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.258066,
+          49.2549777
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> čekárna, Ludvíkov <br><b>Adresa:</b> Ludvíkov 1, 59501, Velká Bíteš ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:50",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59502:3"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2008074,
+          49.2661702
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> kulturní dům, Jindřichov <br><b>Adresa:</b> Jindřichov 12, 59501, Velká Bíteš ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59502:4"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2541854,
+          49.2223484
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Potraviny č.p. 109,   Újezd <br><b>Adresa:</b> č.p. 109, 66484, Újezd u Rosic ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60012:167"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.255839,
+          49.2403251
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Potraviny č.p. 117, Stanoviště <br><b>Adresa:</b> č.p. 117, 66484, Stanoviště ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60012:168"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1941621,
+          49.2308377
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jinošov <br><b>Adresa:</b> č.p. 31, 67571, Jinošov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:10",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:247"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1746497,
+          49.2468175
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pucov <br><b>Adresa:</b> č.p. 40, 67571, Pucov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:20",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:248"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2324897,
+          49.2444721
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Krokočín <br><b>Adresa:</b> č.p. 19, 67571, Krokočín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:250"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2275071,
+          49.2256291
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hluboké <br><b>Adresa:</b> č.p. 36, 67571, Hluboké ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:251"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1879954,
+          49.2140616
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Otradice <br><b>Adresa:</b> Otradice 9, 67571, Náměšť nad Oslavou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:252"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

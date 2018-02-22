@@ -1,158 +1,158 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.6524526,
-                    49.7703392
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Víska - BUS, \"S\" <br><b>Adresa:</b> č.p. 67, 58301, Víska ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:300"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.7046449,
-                    49.7441262
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Libice n/D. <br><b>Adresa:</b> Zámecká 47, 58277, Libice nad Doubravou ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:33"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.6723418,
-                    49.7740894
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Maleč <br><b>Adresa:</b> č.p. 100, 58276, Maleč ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:32"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.6482047,
-                    49.7554253
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Nová Ves u Chotěboře <br><b>Adresa:</b> č.p. 63, 58273, Nová Ves u Chotěboře ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:30"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.7097604,
-                    49.7640434
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Předboř - BUS, \"S\" <br><b>Adresa:</b> Předboř 9, 58301, Maleč ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:283"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.7128319,
-                    49.7595007
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Lány - u čp. 8, \"S\" <br><b>Adresa:</b> č.p. 8, 58301, Lány ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:284"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.7312098,
-                    49.7331602
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Bezděkov - BUS, č.p. 41 <br><b>Adresa:</b> č.p. 41, 58301, Bezděkov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:294"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.7148269,
-                    49.7271653
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Dolní Sokolovec - BUS <br><b>Adresa:</b> č.p. 23, 58301, Dolní Sokolovec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:295"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.6907444,
-                    49.7645256
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hranice 12 <br><b>Adresa:</b> Hranice 19, 58301, Maleč ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:282"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.6907444,
+          49.7645256
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hranice 12 <br><b>Adresa:</b> Hranice 19, 58301, Maleč ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:282"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7097604,
+          49.7640434
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Předboř - BUS, \"S\" <br><b>Adresa:</b> Předboř 9, 58301, Maleč ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:283"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7128319,
+          49.7595007
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lány - u čp. 8, \"S\" <br><b>Adresa:</b> č.p. 8, 58301, Lány ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:284"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7312098,
+          49.7331602
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bezděkov - BUS, č.p. 41 <br><b>Adresa:</b> č.p. 41, 58301, Bezděkov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:294"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7148269,
+          49.7271653
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dolní Sokolovec - BUS <br><b>Adresa:</b> č.p. 23, 58301, Dolní Sokolovec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:295"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.6482047,
+          49.7554253
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Nová Ves u Chotěboře <br><b>Adresa:</b> č.p. 63, 58273, Nová Ves u Chotěboře ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:30"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.6524526,
+          49.7703392
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Víska - BUS, \"S\" <br><b>Adresa:</b> č.p. 67, 58301, Víska ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:300"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.6723418,
+          49.7740894
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Maleč <br><b>Adresa:</b> č.p. 100, 58276, Maleč ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:32"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7046449,
+          49.7441262
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Libice n/D. <br><b>Adresa:</b> Zámecká 47, 58277, Libice nad Doubravou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:33"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

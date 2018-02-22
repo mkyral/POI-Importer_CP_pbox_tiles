@@ -1,90 +1,90 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.8969044,
-                    50.1393562
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> obecní úřad Velenka <br><b>Adresa:</b> č.p. 44, 28912, Velenka ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "28800:81"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.8713108,
-                    50.1630895
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Semice <br><b>Adresa:</b> č.p. 280, 28917, Semice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 25.9 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "19007:2134"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.8749388,
-                    50.164333
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> č.p.10  Semice <br><b>Adresa:</b> č.p. 10, 28917, Semice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 42.89 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "19007:2065"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.9363475,
-                    50.1666983
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> prodejna, Hradištko čp. 39 <br><b>Adresa:</b> č.p. 39, 28912, Hradištko ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "28800:96"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.9355837,
-                    50.1653003
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hradištko čp. 34 <br><b>Adresa:</b> č.p. 34, 28912, Hradištko ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "28800:55"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.8749388,
+          50.164333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> č.p.10  Semice <br><b>Adresa:</b> č.p. 10, 28917, Semice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 42.89 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "19007:2065"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.8713108,
+          50.1630895
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Semice <br><b>Adresa:</b> č.p. 280, 28917, Semice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 25.9 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "19007:2134"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.9355837,
+          50.1653003
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hradištko čp. 34 <br><b>Adresa:</b> č.p. 34, 28912, Hradištko ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28800:55"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.8969044,
+          50.1393562
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> obecní úřad Velenka <br><b>Adresa:</b> č.p. 44, 28912, Velenka ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28800:81"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.9363475,
+          50.1666983
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> prodejna, Hradištko čp. 39 <br><b>Adresa:</b> č.p. 39, 28912, Hradištko ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28800:96"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

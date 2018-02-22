@@ -1,107 +1,107 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.9526624,
-                    49.0524714
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> č. 1, Silničná <br><b>Adresa:</b> Silničná 1, 69634, Žarošice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "69507:102"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.9173119,
-                    49.0390691
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta  Dambořice <br><b>Adresa:</b> Městečko 406, 69635, Dambořice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "69507:106"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.9462486,
-                    49.0506914
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jednota, Uhřice <br><b>Adresa:</b> č.p. 228, 69634, Uhřice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "69507:101"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.8851413,
-                    49.0925497
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kobeřice  OÚ č. 54 <br><b>Adresa:</b> Dolní 54, 68401, Kobeřice u Brna ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "68207:128"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.9174445,
-                    49.0407749
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> potraviny Cupák, Dambořice <br><b>Adresa:</b> Městečko 389, 69635, Dambořice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:30",
-                "ref": "69507:107"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.9513197,
-                    49.0685984
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> zastávka ČSAD, Zdravá Voda <br><b>Adresa:</b> Zdravá Voda 7, 69634, Žarošice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:45",
-                "ref": "69507:103"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.8851413,
+          49.0925497
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kobeřice  OÚ č. 54 <br><b>Adresa:</b> Dolní 54, 68401, Kobeřice u Brna ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68207:128"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.9462486,
+          49.0506914
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jednota, Uhřice <br><b>Adresa:</b> č.p. 228, 69634, Uhřice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69507:101"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.9526624,
+          49.0524714
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> č. 1, Silničná <br><b>Adresa:</b> Silničná 1, 69634, Žarošice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69507:102"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.9513197,
+          49.0685984
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> zastávka ČSAD, Zdravá Voda <br><b>Adresa:</b> Zdravá Voda 7, 69634, Žarošice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69507:103"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.9173119,
+          49.0390691
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta  Dambořice <br><b>Adresa:</b> Městečko 406, 69635, Dambořice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69507:106"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.9174445,
+          49.0407749
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> potraviny Cupák, Dambořice <br><b>Adresa:</b> Městečko 389, 69635, Dambořice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69507:107"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

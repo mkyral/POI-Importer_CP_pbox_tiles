@@ -1,107 +1,107 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9028689,
-                    49.3116108
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Batouchovice <br><b>Adresa:</b> Batouchovice 7, 67505, Bochovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "67407:97"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.8801992,
-                    49.2914396
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Horní Vilémovice náves <br><b>Adresa:</b> č.p. 19, 67507, Horní Vilémovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "67407:102"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.8658518,
-                    49.2888004
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Věstoňovice náves <br><b>Adresa:</b> Věstoňovice 2, 67507, Benetice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "67407:100"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.8652337,
-                    49.296886
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Benetice náves <br><b>Adresa:</b> č.p. 11, 67506, Benetice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:45",
-                "ref": "67407:101"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.8488863,
-                    49.3193684
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Svatoslav náves <br><b>Adresa:</b> č.p. 36, 67507, Svatoslav ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "67407:99"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.8971455,
-                    49.321025
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Bochovice <br><b>Adresa:</b> č.p. 12, 67505, Bochovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "67407:96"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.8658518,
+          49.2888004
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Věstoňovice náves <br><b>Adresa:</b> Věstoňovice 2, 67507, Benetice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:100"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8652337,
+          49.296886
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Benetice náves <br><b>Adresa:</b> č.p. 11, 67506, Benetice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:101"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8801992,
+          49.2914396
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Horní Vilémovice náves <br><b>Adresa:</b> č.p. 19, 67507, Horní Vilémovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:102"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8971455,
+          49.321025
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bochovice <br><b>Adresa:</b> č.p. 12, 67505, Bochovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:96"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9028689,
+          49.3116108
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Batouchovice <br><b>Adresa:</b> Batouchovice 7, 67505, Bochovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:97"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8488863,
+          49.3193684
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Svatoslav náves <br><b>Adresa:</b> č.p. 36, 67507, Svatoslav ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:99"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

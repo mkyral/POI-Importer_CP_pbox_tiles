@@ -1,73 +1,73 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.6516646,
-                    49.6370307
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pošta Potštát <br><b>Adresa:</b> Bočkovo nám. 11, 75362, Potštát ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 15:30",
-                "ref": "75007:289"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.6642011,
-                    49.627088
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Potštát, Kyžlířov 10, aut. zastávka (stojan) <br><b>Adresa:</b> Přerov; Potštát; Kyžlířov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:40",
-                "ref": "75007:232"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.6178996,
-                    49.6245623
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Potštát, Boškov 74, aut. zastávka (stojan) <br><b>Adresa:</b> Přerov; Potštát; Boškov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:45",
-                "ref": "75007:230"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.6518805,
-                    49.6489541
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Potštát, Kovářov 48, bus. zastávka (stojan) <br><b>Adresa:</b> Přerov; Potštát; Kovářov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "75007:231"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          17.6178996,
+          49.6245623
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Potštát, Boškov 74, aut. zastávka (stojan) <br><b>Adresa:</b> Přerov; Potštát; Boškov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "75007:230"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.6518805,
+          49.6489541
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Potštát, Kovářov 48, bus. zastávka (stojan) <br><b>Adresa:</b> Přerov; Potštát; Kovářov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "75007:231"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.6642011,
+          49.627088
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Potštát, Kyžlířov 10, aut. zastávka (stojan) <br><b>Adresa:</b> Přerov; Potštát; Kyžlířov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:40",
+        "operator": "Česká pošta, s.p.",
+        "ref": "75007:232"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.6516646,
+          49.6370307
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Potštát <br><b>Adresa:</b> Bočkovo nám. 11, 75362, Potštát ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 15:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "75007:289"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

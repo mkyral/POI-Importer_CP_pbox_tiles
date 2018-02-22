@@ -1,124 +1,124 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.0039949,
-                    49.7003913
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pošta Pustějov (stojan) <br><b>Adresa:</b> č.p. 54, 74243, Pustějov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "72572:536"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.9839725,
-                    49.677859
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hladké Životice, Oderská 150, ČD nádraží <br><b>Adresa:</b> Oderská 150, 74247, Hladké Životice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo 09:00; Tu 11:00; We 09:00; Th 11:00; Fr 09:00",
-                "ref": "74207:339"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.9333607,
-                    49.7234921
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Fulnek, Kostelec, u č.p. 7 (stojan) <br><b>Adresa:</b> Nový Jičín; Fulnek; Kostelec <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo 11:00; Tu 10:00; We 11:00; Th 10:00; Fr 11:00",
-                "ref": "74207:334"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.9312857,
-                    49.6983112
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Fulnek, Stachovice 104, potraviny (stojan) <br><b>Adresa:</b> Nový Jičín; Fulnek; Stachovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo 10:30; Tu 12:30; We 10:30; Th 12:30; Fr 10:30",
-                "ref": "74207:330"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.9629041,
-                    49.7090427
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pošta Kujavy (stojan) <br><b>Adresa:</b> č.p. 151, 74245, Kujavy ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo 13:00; Tu 09:00; We 13:00; Th 09:00; Fr 13:00",
-                "ref": "74207:342"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.9575169,
-                    49.6830224
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hladké Životice, Hlavní 208, Partner II (stojan) <br><b>Adresa:</b> Hlavní 208, 74247, Hladké Životice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo 10:00; Tu 10:30; We 10:00; Th 10:30; Fr 10:00",
-                "ref": "74207:344"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.9814968,
-                    49.6982958
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kujavy 58, has.zbrojnice, bus.zastávka (stojan) <br><b>Adresa:</b> Nový Jičín; Kujavy; Kujavy <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo 12:45; Tu 08:30; We 12:45; Th 08:30; Fr 12:45",
-                "ref": "74207:340"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          18.0039949,
+          49.7003913
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Pustějov (stojan) <br><b>Adresa:</b> č.p. 54, 74243, Pustějov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "72572:536"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.9312857,
+          49.6983112
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Fulnek, Stachovice 104, potraviny (stojan) <br><b>Adresa:</b> Nový Jičín; Fulnek; Stachovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo 10:30; Tu 12:30; We 10:30; Th 12:30; Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74207:330"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.9333607,
+          49.7234921
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Fulnek, Kostelec, u č.p. 7 (stojan) <br><b>Adresa:</b> Nový Jičín; Fulnek; Kostelec <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo 11:00; Tu 10:00; We 11:00; Th 10:00; Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74207:334"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.9839725,
+          49.677859
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hladké Životice, Oderská 150, ČD nádraží <br><b>Adresa:</b> Oderská 150, 74247, Hladké Životice ",
+        "amenity": "post_box",
+        "collection_times": "Mo 09:00; Tu 11:00; We 09:00; Th 11:00; Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74207:339"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.9814968,
+          49.6982958
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kujavy 58, has.zbrojnice, bus.zastávka (stojan) <br><b>Adresa:</b> Nový Jičín; Kujavy; Kujavy <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo 12:45; Tu 08:30; We 12:45; Th 08:30; Fr 12:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74207:340"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.9629041,
+          49.7090427
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Kujavy (stojan) <br><b>Adresa:</b> č.p. 151, 74245, Kujavy ",
+        "amenity": "post_box",
+        "collection_times": "Mo 13:00; Tu 09:00; We 13:00; Th 09:00; Fr 13:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74207:342"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.9575169,
+          49.6830224
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hladké Životice, Hlavní 208, Partner II (stojan) <br><b>Adresa:</b> Hlavní 208, 74247, Hladké Životice ",
+        "amenity": "post_box",
+        "collection_times": "Mo 10:00; Tu 10:30; We 10:00; Th 10:30; Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74207:344"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

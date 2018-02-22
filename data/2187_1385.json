@@ -1,39 +1,39 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.2328158,
-                    50.2202845
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Vernéřov <br><b>Adresa:</b> Cheb; Aš; Vernéřov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u></p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "35007:102"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.2682428,
-                    50.1895485
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Výhledy, autobusová zastávka <br><b>Adresa:</b> Cheb; Hazlov; Výhledy <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u></p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "35007:103"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          12.2328158,
+          50.2202845
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vernéřov <br><b>Adresa:</b> Cheb; Aš; Vernéřov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "35007:102"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.2682428,
+          50.1895485
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Výhledy, autobusová zastávka <br><b>Adresa:</b> Cheb; Hazlov; Výhledy <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "35007:103"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

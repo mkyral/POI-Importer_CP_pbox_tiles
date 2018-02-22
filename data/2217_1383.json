@@ -1,90 +1,90 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.9392666,
-                    50.3211135
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Luštěnice <br><b>Adresa:</b> Boleslavská 6, 29442, Luštěnice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 13.95 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "29407:61"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.9120619,
-                    50.315922
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u zastávky, na stojanu <br><b>Adresa:</b> Zelená 413, 29442, Luštěnice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 0.0 cm",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "29407:53"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.9367688,
-                    50.3231813
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Restaurace Mušketýr, na objektu <br><b>Adresa:</b> Boleslavská 63, 29442, Luštěnice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 16.86 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "29407:44"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.8556917,
-                    50.3261588
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> statek, naproti č.p.26, na stojanu <br><b>Adresa:</b> č.p. 19, 29473, Horky nad Jizerou <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 97.77 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:15",
-                "ref": "29407:56"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.8663468,
-                    50.3310685
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Brodce <br><b>Adresa:</b> Dobrovická 58, 29473, Brodce <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 7.5 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "29407:60"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.9367688,
+          50.3231813
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Restaurace Mušketýr, na objektu <br><b>Adresa:</b> Boleslavská 63, 29442, Luštěnice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 16.86 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "29407:44"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.9120619,
+          50.315922
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u zastávky, na stojanu <br><b>Adresa:</b> Zelená 413, 29442, Luštěnice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 0.0 cm",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "29407:53"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.8556917,
+          50.3261588
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> statek, naproti č.p.26, na stojanu <br><b>Adresa:</b> č.p. 19, 29473, Horky nad Jizerou <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 97.77 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "29407:56"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.8663468,
+          50.3310685
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Brodce <br><b>Adresa:</b> Dobrovická 58, 29473, Brodce <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 7.5 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "29407:60"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.9392666,
+          50.3211135
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Luštěnice <br><b>Adresa:</b> Boleslavská 6, 29442, Luštěnice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 13.95 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "29407:61"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

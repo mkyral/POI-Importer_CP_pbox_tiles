@@ -1,124 +1,124 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.9664264,
-                    49.2386717
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Najdek <br><b>Adresa:</b> Najdek 8, 37701, Lodhéřov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "37702:37"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.0158325,
-                    49.2391222
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Okrouhlá Radouň - prodejna <br><b>Adresa:</b> č.p. 89, 37842, Okrouhlá Radouň ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:15",
-                "ref": "37702:75"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.0077498,
-                    49.2536165
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Horní Radouň - zast. ČSAD <br><b>Adresa:</b> č.p. 105, 37843, Horní Radouň ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:45",
-                "ref": "37702:76"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.0062065,
-                    49.2306772
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kostelní Radouň - Červ <br><b>Adresa:</b> č.p. 37, 37842, Kostelní Radouň ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:45",
-                "ref": "37702:74"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.0100432,
-                    49.2242302
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kostelní Radouň - Kopřiva <br><b>Adresa:</b> č.p. 49, 37842, Kostelní Radouň ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:45",
-                "ref": "37702:73"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.959727,
-                    49.2152371
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> budova pošty, Lodhéřov <br><b>Adresa:</b> č.p. 175, 37826, Lodhéřov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "37702:38"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.0042888,
-                    49.2569928
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Horní Radouň 109 <br><b>Adresa:</b> č.p. 109, 37843, Horní Radouň ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:10",
-                "ref": "37702:77"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.9664264,
+          49.2386717
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Najdek <br><b>Adresa:</b> Najdek 8, 37701, Lodhéřov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:37"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.959727,
+          49.2152371
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> budova pošty, Lodhéřov <br><b>Adresa:</b> č.p. 175, 37826, Lodhéřov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:38"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.0100432,
+          49.2242302
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kostelní Radouň - Kopřiva <br><b>Adresa:</b> č.p. 49, 37842, Kostelní Radouň ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:73"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.0062065,
+          49.2306772
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kostelní Radouň - Červ <br><b>Adresa:</b> č.p. 37, 37842, Kostelní Radouň ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:74"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.0158325,
+          49.2391222
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Okrouhlá Radouň - prodejna <br><b>Adresa:</b> č.p. 89, 37842, Okrouhlá Radouň ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:75"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.0077498,
+          49.2536165
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Horní Radouň - zast. ČSAD <br><b>Adresa:</b> č.p. 105, 37843, Horní Radouň ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:76"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.0042888,
+          49.2569928
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Horní Radouň 109 <br><b>Adresa:</b> č.p. 109, 37843, Horní Radouň ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:10",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:77"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

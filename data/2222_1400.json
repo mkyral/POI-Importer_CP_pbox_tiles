@@ -1,107 +1,107 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.3563196,
-                    49.3679675
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Řeženčice <br><b>Adresa:</b> Řeženčice 6, 39301, Nový Rychnov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "39307:85"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.3602131,
-                    49.3490152
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Těšenov <br><b>Adresa:</b> Těšenov 48, 39301, Horní Cerekev ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "39307:31"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.3219061,
-                    49.3755459
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Čejkov <br><b>Adresa:</b> Čejkov 30, 39301, Nový Rychnov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "39307:84"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.3230382,
-                    49.3546271
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Chrástov <br><b>Adresa:</b> Chrástov 43, 39301, Horní Cerekev ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "39307:107"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.295979,
-                    49.3453932
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Nová Buková <br><b>Adresa:</b> č.p. 48, 39301, Nová Buková ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "39307:110"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.3127587,
-                    49.3437906
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Černov <br><b>Adresa:</b> č.p. 13, 39301, Černov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "39307:80"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.3230382,
+          49.3546271
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Chrástov <br><b>Adresa:</b> Chrástov 43, 39301, Horní Cerekev ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:107"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.295979,
+          49.3453932
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nová Buková <br><b>Adresa:</b> č.p. 48, 39301, Nová Buková ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:110"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.3602131,
+          49.3490152
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Těšenov <br><b>Adresa:</b> Těšenov 48, 39301, Horní Cerekev ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:31"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.3127587,
+          49.3437906
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Černov <br><b>Adresa:</b> č.p. 13, 39301, Černov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:80"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.3219061,
+          49.3755459
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Čejkov <br><b>Adresa:</b> Čejkov 30, 39301, Nový Rychnov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:84"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.3563196,
+          49.3679675
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Řeženčice <br><b>Adresa:</b> Řeženčice 6, 39301, Nový Rychnov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:85"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

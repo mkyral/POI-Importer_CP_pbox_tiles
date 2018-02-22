@@ -1,90 +1,90 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.8617254,
-                    49.2779584
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u dolního obchodu, Všemina <br><b>Adresa:</b> č.p. 259, 76315, Všemina ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "76607:109"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.8764932,
-                    49.2806377
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u horního obchodu, Všemina <br><b>Adresa:</b> č.p. 244, 76315, Všemina ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "76607:110"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.8683849,
-                    49.2789531
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> před PST, Všemina <br><b>Adresa:</b> č.p. 162, 76315, Všemina ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "76607:111"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.910303,
-                    49.2921579
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Na špici, Liptál <br><b>Adresa:</b> č.p. 47, 75631, Liptál ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "75707:34"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.8427494,
-                    49.2975099
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Trnava <br><b>Adresa:</b> č.p. 156, 76318, Trnava ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "76607:220"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          17.910303,
+          49.2921579
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Na špici, Liptál <br><b>Adresa:</b> č.p. 47, 75631, Liptál ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "75707:34"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.8617254,
+          49.2779584
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u dolního obchodu, Všemina <br><b>Adresa:</b> č.p. 259, 76315, Všemina ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "76607:109"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.8764932,
+          49.2806377
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u horního obchodu, Všemina <br><b>Adresa:</b> č.p. 244, 76315, Všemina ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "76607:110"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.8683849,
+          49.2789531
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> před PST, Všemina <br><b>Adresa:</b> č.p. 162, 76315, Všemina ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "76607:111"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.8427494,
+          49.2975099
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Trnava <br><b>Adresa:</b> č.p. 156, 76318, Trnava ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "76607:220"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

@@ -1,141 +1,141 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.1636204,
-                    49.0229435
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hrbov <br><b>Adresa:</b> Hrbov 17, 38411, Lhenice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 33.54 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "37271:845"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.2321772,
-                    48.9967451
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Dobčice č.10 <br><b>Adresa:</b> Dobčice 10, 37384, Záboří ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:50",
-                "ref": "37271:188"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.2108091,
-                    49.0122242
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Dolní Chrášťany <br><b>Adresa:</b> Dolní Chrášťany 7, 38411, Lhenice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.41 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "37271:843"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.2048638,
-                    49.0314701
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Lužice <br><b>Adresa:</b> č.p. 12, 38411, Lužice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 27.28 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "37271:844"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.2329073,
-                    49.0101537
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Chvalovice <br><b>Adresa:</b> č.p. 3, 38411, Chvalovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "37271:841"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.1974581,
-                    48.9996408
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Horní Chrášťany <br><b>Adresa:</b> Horní Chrášťany 6, 38411, Lhenice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 41.24 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "37271:842"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.1530229,
-                    48.9966661
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Sídliště 301, Lhenice <br><b>Adresa:</b> Netolická 271, 38402, Lhenice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 61.19 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "37271:855"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.23713,
-                    49.024423
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Babice <br><b>Adresa:</b> č.p. 11, 38411, Babice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 26.99 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "37271:840"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.2321772,
+          48.9967451
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dobčice č.10 <br><b>Adresa:</b> Dobčice 10, 37384, Záboří ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:50",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:188"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.23713,
+          49.024423
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Babice <br><b>Adresa:</b> č.p. 11, 38411, Babice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 26.99 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:840"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2329073,
+          49.0101537
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Chvalovice <br><b>Adresa:</b> č.p. 3, 38411, Chvalovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:841"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.1974581,
+          48.9996408
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Horní Chrášťany <br><b>Adresa:</b> Horní Chrášťany 6, 38411, Lhenice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 41.24 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:842"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2108091,
+          49.0122242
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dolní Chrášťany <br><b>Adresa:</b> Dolní Chrášťany 7, 38411, Lhenice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.41 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:843"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2048638,
+          49.0314701
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lužice <br><b>Adresa:</b> č.p. 12, 38411, Lužice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 27.28 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:844"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.1636204,
+          49.0229435
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hrbov <br><b>Adresa:</b> Hrbov 17, 38411, Lhenice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 33.54 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:845"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.1530229,
+          48.9966661
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Sídliště 301, Lhenice <br><b>Adresa:</b> Netolická 271, 38402, Lhenice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 61.19 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:855"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

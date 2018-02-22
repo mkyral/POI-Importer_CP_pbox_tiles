@@ -1,90 +1,90 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.4351569,
-                    48.9192043
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Troskotovice <br><b>Adresa:</b> č.p. 23, 67178, Troskotovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "66907:213"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3648274,
-                    48.9088243
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Dolenice-OÚ <br><b>Adresa:</b> č.p. 1, 67178, Dolenice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "66907:215"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3912743,
-                    48.9209737
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Jiřice u Miroslavi <br><b>Adresa:</b> č.p. 50, 67178, Jiřice u Miroslavi ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 13:00",
-                "ref": "66907:290"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.377902,
-                    48.9199935
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Damnice <br><b>Adresa:</b> č.p. 141, 67178, Damnice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "66907:214"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.4047286,
-                    48.8877968
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Litobratřice <br><b>Adresa:</b> č.p. 19, 67178, Litobratřice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "66907:279"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.4351569,
+          48.9192043
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Troskotovice <br><b>Adresa:</b> č.p. 23, 67178, Troskotovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:213"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.377902,
+          48.9199935
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Damnice <br><b>Adresa:</b> č.p. 141, 67178, Damnice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:214"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3648274,
+          48.9088243
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dolenice-OÚ <br><b>Adresa:</b> č.p. 1, 67178, Dolenice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:215"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.4047286,
+          48.8877968
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Litobratřice <br><b>Adresa:</b> č.p. 19, 67178, Litobratřice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:279"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3912743,
+          48.9209737
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Jiřice u Miroslavi <br><b>Adresa:</b> č.p. 50, 67178, Jiřice u Miroslavi ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 13:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:290"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

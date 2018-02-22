@@ -1,243 +1,243 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.2775326,
-                    49.7347086
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Borotice <br><b>Adresa:</b> č.p. 31, 26215, Borotice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "26107:381"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.2926056,
-                    49.7261971
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hubenov čp.1 <br><b>Adresa:</b> Hubenov 1, 26301, Borotice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "26107:54"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3254715,
-                    49.7325141
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Čelina - zast.ČSAD č.p.6 <br><b>Adresa:</b> Čelina 6, 26203, Borotice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "26107:359"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3086843,
-                    49.7546226
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Libčice - požární zbrojnice <br><b>Adresa:</b> Libčice 17, 26203, Nový Knín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:40",
-                "ref": "26107:341"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.2472448,
-                    49.7269189
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Nechalov - dolní část č.p.7 <br><b>Adresa:</b> Nechalov 7, 26301, Drevníky ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "26107:48"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3213011,
-                    49.7697538
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Záborná Lhota - obchod č.p.34 <br><b>Adresa:</b> Záborná Lhota 34, 26203, Chotilsko ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "26107:345"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.274773,
-                    49.7650718
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Chramiště - náves č.p.13 <br><b>Adresa:</b> Chramiště 13, 26203, Nový Knín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "26107:353"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.2567697,
-                    49.7281278
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Milina č.p.17 <br><b>Adresa:</b> Slovanská Lhota 17, 26301, Drevníky ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "26107:49"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.2650465,
-                    49.7343922
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Homole č.p.15 <br><b>Adresa:</b> Homole 15, 26301, Drhovy ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:15",
-                "ref": "26107:60"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.295614,
-                    49.7449799
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Dražetice - zast.ČSAD č.p.8 <br><b>Adresa:</b> Dražetice 8, 26203, Borotice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "26107:357"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.2671259,
-                    49.7751863
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kozí Hory náves č.p.19 <br><b>Adresa:</b> Kozí Hory 19, 26203, Nový Knín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "26107:352"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.2432707,
-                    49.7289245
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Nechalov - horní část č.p.22 <br><b>Adresa:</b> Nechalov 22, 26301, Drevníky ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "26107:47"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.2663782,
-                    49.7254326
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Slovany - horní část č.p.32 <br><b>Adresa:</b> Slovanská Lhota 32, 26301, Drevníky ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "26107:50"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.2642963,
-                    49.7675297
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kozí Hory - č.p.26 <br><b>Adresa:</b> Kozí Hory 26, 26203, Nový Knín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "26107:354"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.3086358,
+          49.7548124
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Libčice - požární zbrojnice <br><b>Adresa:</b> Libčice 17, 26203, Nový Knín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 21.4 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:40",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:341"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3213011,
+          49.7697538
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Záborná Lhota - obchod č.p.34 <br><b>Adresa:</b> Záborná Lhota 34, 26203, Chotilsko ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:345"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2671926,
+          49.7753409
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kozí Hory náves č.p.19 <br><b>Adresa:</b> Kozí Hory 19, 26203, Nový Knín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 17.85 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:352"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2753002,
+          49.7651794
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Chramiště - náves č.p.13 <br><b>Adresa:</b> Chramiště 13, 26203, Nový Knín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 39.72 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:353"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2642902,
+          49.7672264
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kozí Hory - č.p.26 <br><b>Adresa:</b> Kozí Hory 26, 26203, Nový Knín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 33.74 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:354"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2958654,
+          49.7451502
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dražetice - zast.ČSAD č.p.8 <br><b>Adresa:</b> Dražetice 8, 26203, Borotice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 26.18 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:357"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3257591,
+          49.7323928
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Čelina - zast.ČSAD č.p.6 <br><b>Adresa:</b> Čelina 6, 26203, Borotice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 24.69 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:359"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2776234,
+          49.7348808
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Borotice <br><b>Adresa:</b> č.p. 31, 26215, Borotice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 20.24 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:381"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2432707,
+          49.7289245
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nechalov - horní část č.p.22 <br><b>Adresa:</b> Nechalov 22, 26301, Drevníky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:47"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2472448,
+          49.7269189
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nechalov - dolní část č.p.7 <br><b>Adresa:</b> Nechalov 7, 26301, Drevníky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:48"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2567697,
+          49.7281278
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Milina č.p.17 <br><b>Adresa:</b> Slovanská Lhota 17, 26301, Drevníky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:49"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2663782,
+          49.7254326
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Slovany - horní část č.p.32 <br><b>Adresa:</b> Slovanská Lhota 32, 26301, Drevníky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:50"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2926964,
+          49.726246
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hubenov čp.1 <br><b>Adresa:</b> Hubenov 1, 26301, Borotice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.5 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:54"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2650465,
+          49.7343922
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Homole č.p.15 <br><b>Adresa:</b> Homole 15, 26301, Drhovy ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:60"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

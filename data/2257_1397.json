@@ -1,56 +1,56 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.3905208,
-                    49.539429
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pošta Ostravice (stojan) <br><b>Adresa:</b> č.p. 603, 73914, Ostravice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.06 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 13:30",
-                "ref": "73807:146"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.3927574,
-                    49.5383254
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> naproti Nák.stř.čp.362,Ostravice(na Tabáku bez čp) <br><b>Adresa:</b> Frýdek-Místek; Ostravice; Ostravice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 13:00",
-                "ref": "73807:128"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.3800325,
-                    49.5494142
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> NC Modrá Labuť,na čp.581, Ostravice <br><b>Adresa:</b> č.p. 581, 73914, Ostravice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 12.25 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 13:00",
-                "ref": "73807:129"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          18.3927574,
+          49.5383254
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> naproti Nák.stř.čp.362,Ostravice(na Tabáku bez čp) <br><b>Adresa:</b> Frýdek-Místek; Ostravice; Ostravice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 13:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "73807:128"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.3800325,
+          49.5494142
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> NC Modrá Labuť,na čp.581, Ostravice <br><b>Adresa:</b> č.p. 581, 73914, Ostravice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 12.25 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 13:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "73807:129"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.3905208,
+          49.539429
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Ostravice (stojan) <br><b>Adresa:</b> č.p. 603, 73914, Ostravice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.06 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 13:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "73807:146"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

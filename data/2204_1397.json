@@ -1,141 +1,141 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.7784412,
-                    49.5196124
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pozdyně - náves č.p.21 <br><b>Adresa:</b> Pozdyně 21, 26242, Hvožďany ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "26107:125"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.7257317,
-                    49.5344326
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Radošice - prodejna <br><b>Adresa:</b> Plzeň-jih; Mladý Smolivec; Radošice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "30072:248"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.7153304,
-                    49.5056237
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Budislavice u čp.28 <br><b>Adresa:</b> Plzeň-jih; Mladý Smolivec; Budislavice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "30072:245"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.7944917,
-                    49.5494668
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Roželov č.p.11 <br><b>Adresa:</b> Roželov 11, 26242, Hvožďany ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "26107:123"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.7652006,
-                    49.5009371
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Metly <br><b>Adresa:</b> Metly 8, 38742, Předmíř ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:50",
-                "ref": "38607:271"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.7889577,
-                    49.5469208
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Mýta - prodejna č.p.72 <br><b>Adresa:</b> Roželov 24, 26242, Hvožďany ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "26107:124"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.7352928,
-                    49.5063106
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Mladý Smolivec <br><b>Adresa:</b> Plzeň-jih; Mladý Smolivec; Mladý Smolivec <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "30072:246"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.750764,
-                    49.5277652
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Starý Smolivec <br><b>Adresa:</b> Plzeň-jih; Mladý Smolivec; Starý Smolivec <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "30072:247"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.7944917,
+          49.5494668
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Roželov č.p.11 <br><b>Adresa:</b> Roželov 11, 26242, Hvožďany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:123"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.7889577,
+          49.5469208
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Mýta - prodejna č.p.72 <br><b>Adresa:</b> Roželov 24, 26242, Hvožďany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:124"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.7784412,
+          49.5196124
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pozdyně - náves č.p.21 <br><b>Adresa:</b> Pozdyně 21, 26242, Hvožďany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:125"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.7153304,
+          49.5056237
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Budislavice u čp.28 <br><b>Adresa:</b> Plzeň-jih; Mladý Smolivec; Budislavice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30072:245"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.7352928,
+          49.5063106
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Mladý Smolivec <br><b>Adresa:</b> Plzeň-jih; Mladý Smolivec; Mladý Smolivec <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30072:246"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.750764,
+          49.5277652
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Starý Smolivec <br><b>Adresa:</b> Plzeň-jih; Mladý Smolivec; Starý Smolivec <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30072:247"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.7257317,
+          49.5344326
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Radošice - prodejna <br><b>Adresa:</b> Plzeň-jih; Mladý Smolivec; Radošice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30072:248"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.7652006,
+          49.5009371
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Metly <br><b>Adresa:</b> Metly 8, 38742, Předmíř ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:50",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38607:271"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

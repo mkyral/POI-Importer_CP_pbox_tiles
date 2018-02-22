@@ -1,107 +1,107 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.3550312,
-                    49.0982698
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pohostinství, Břestek <br><b>Adresa:</b> č.p. 285, 68708, Břestek ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "68607:91"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.348205,
-                    49.1107512
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> točna, Chabaně <br><b>Adresa:</b> č.p. 162, 68708, Břestek ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:30",
-                "ref": "68607:92"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.3439862,
-                    49.1398008
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> OÚ, Salaš <br><b>Adresa:</b> č.p. 85, 68706, Salaš ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "68607:39"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.3952592,
-                    49.1053456
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> nákupní středisko, Velehrad <br><b>Adresa:</b> Nádvoří 63, 68706, Velehrad ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "68607:37"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.3609365,
-                    49.1381031
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> obchod, Salaš <br><b>Adresa:</b> č.p. 90, 68706, Salaš ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "68607:40"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.3963964,
-                    49.1046589
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Velehrad <br><b>Adresa:</b> Hradišťská 288, 68706, Velehrad ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:30",
-                "ref": "68607:236"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          17.3963964,
+          49.1046589
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Velehrad <br><b>Adresa:</b> Hradišťská 288, 68706, Velehrad ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68607:236"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.3952592,
+          49.1053456
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> nákupní středisko, Velehrad <br><b>Adresa:</b> Nádvoří 63, 68706, Velehrad ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68607:37"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.3439862,
+          49.1398008
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> OÚ, Salaš <br><b>Adresa:</b> č.p. 85, 68706, Salaš ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68607:39"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.3609365,
+          49.1381031
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> obchod, Salaš <br><b>Adresa:</b> č.p. 90, 68706, Salaš ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68607:40"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.3550312,
+          49.0982698
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pohostinství, Břestek <br><b>Adresa:</b> č.p. 285, 68708, Břestek ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68607:91"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.348205,
+          49.1107512
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> točna, Chabaně <br><b>Adresa:</b> č.p. 162, 68708, Břestek ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68607:92"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

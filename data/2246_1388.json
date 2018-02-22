@@ -1,73 +1,73 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.4841792,
-                    50.051833
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Skrbovice, napr.čp.23, Šir.Niva (stojan u zast.ČD) <br><b>Adresa:</b> Bruntál; Široká Niva; Skrbovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:10",
-                "ref": "79207:42"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.4801403,
-                    50.0638221
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Široká Niva, na čp. 74 (zrušená pošta) <br><b>Adresa:</b> č.p. 74, 79201, Široká Niva ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "79207:506"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.4083943,
-                    50.0145257
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Nová Véska u č.37,St.Město (stojan na zast. BUS) <br><b>Adresa:</b> Bruntál; Staré Město; Nová Véska <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "79207:41"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.4243946,
-                    50.0591818
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> na BUS zast.,Dětřichovice vedle čp.15, Světlá Hora <br><b>Adresa:</b> Bruntál; Světlá Hora; Dětřichovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:10",
-                "ref": "79207:49"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          17.4083943,
+          50.0145257
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nová Véska u č.37,St.Město (stojan na zast. BUS) <br><b>Adresa:</b> Bruntál; Staré Město; Nová Véska <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79207:41"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.4841792,
+          50.051833
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Skrbovice, napr.čp.23, Šir.Niva (stojan u zast.ČD) <br><b>Adresa:</b> Bruntál; Široká Niva; Skrbovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:10",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79207:42"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.4243946,
+          50.0591818
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> na BUS zast.,Dětřichovice vedle čp.15, Světlá Hora <br><b>Adresa:</b> Bruntál; Světlá Hora; Dětřichovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:10",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79207:49"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.4801403,
+          50.0638221
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Široká Niva, na čp. 74 (zrušená pošta) <br><b>Adresa:</b> č.p. 74, 79201, Široká Niva ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79207:506"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

@@ -1,141 +1,141 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.9671337,
-                    49.0413927
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta  Žarošice <br><b>Adresa:</b> č.p. 85, 69634, Žarošice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "69507:99"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.0290071,
-                    49.0674666
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta  Ždánice <br><b>Adresa:</b> Městečko 759, 69632, Ždánice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "69507:84"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.0047807,
-                    49.043288
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u zastávky ČSAD, Archlebov <br><b>Adresa:</b> č.p. 276, 69633, Archlebov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "69507:93"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.0253631,
-                    49.0584289
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Nádražní ul.-Šroubárny, Ždánice <br><b>Adresa:</b> Nádražní 418, 69632, Ždánice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "69507:86"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.0068448,
-                    49.0429202
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta  Archlebov <br><b>Adresa:</b> č.p. 2, 69633, Archlebov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "69507:92"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.0249792,
-                    49.0668842
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Padělky-potraviny, Ždánice <br><b>Adresa:</b> Padělky 50, 69632, Ždánice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "69507:87"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.9663273,
-                    49.0402005
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u Obecního úřadu, Žarošice <br><b>Adresa:</b> č.p. 14, 69634, Žarošice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "69507:100"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.0262531,
-                    49.073545
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hrubá strana 161, Ždánice <br><b>Adresa:</b> Hrubá strana 161, 69632, Ždánice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:40",
-                "ref": "69507:85"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.9663273,
+          49.0402005
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u Obecního úřadu, Žarošice <br><b>Adresa:</b> č.p. 14, 69634, Žarošice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69507:100"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.0290071,
+          49.0674666
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta  Ždánice <br><b>Adresa:</b> Městečko 759, 69632, Ždánice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69507:84"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.0262531,
+          49.073545
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hrubá strana 161, Ždánice <br><b>Adresa:</b> Hrubá strana 161, 69632, Ždánice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:40",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69507:85"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.0253631,
+          49.0584289
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nádražní ul.-Šroubárny, Ždánice <br><b>Adresa:</b> Nádražní 418, 69632, Ždánice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69507:86"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.0249792,
+          49.0668842
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Padělky-potraviny, Ždánice <br><b>Adresa:</b> Padělky 50, 69632, Ždánice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69507:87"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.0068448,
+          49.0429202
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta  Archlebov <br><b>Adresa:</b> č.p. 2, 69633, Archlebov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69507:92"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.0047807,
+          49.043288
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u zastávky ČSAD, Archlebov <br><b>Adresa:</b> č.p. 276, 69633, Archlebov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69507:93"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.9671337,
+          49.0413927
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta  Žarošice <br><b>Adresa:</b> č.p. 85, 69634, Žarošice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69507:99"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

@@ -1,141 +1,141 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.3402893,
-                    50.0375687
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> čekárna ČSAD, Lžovice čp. 5 <br><b>Adresa:</b> Lžovice 5, 28126, Týnec nad Labem ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "28000:110"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.3632262,
-                    50.0356598
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> zastávka ČSAD, Vinařice čp. 1 <br><b>Adresa:</b> Vinařice 1, 28126, Týnec nad Labem ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:15",
-                "ref": "28000:111"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.2953611,
-                    50.0113244
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> nádraží ČD /stojan/, Starý Kolín, Dukel. hrdinů 62 <br><b>Adresa:</b> Dukelských hrdinů 62, Bašta, 28123, Starý Kolín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "28000:105"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.350315,
-                    50.0253545
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Záboří <br><b>Adresa:</b> Školní 164, 28574, Záboří nad Labem ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "28000:235"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.3491558,
-                    50.0308269
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> U Nádraží 62, Záboří <br><b>Adresa:</b> U Nádraží 62, 28574, Záboří nad Labem ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "28000:236"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.3586136,
-                    50.0416617
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Týnec nad Labem <br><b>Adresa:</b> Masarykovo náměstí 87, 28126, Týnec nad Labem ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "28000:157"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.3055413,
-                    50.0288894
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u kostela, Veletov 35 <br><b>Adresa:</b> č.p. 35, 28002, Veletov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "28000:81"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.356965,
-                    50.0397724
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Křižovatka, Týnec nad Labem, Pivovarská 125 <br><b>Adresa:</b> Pivovarská 125, 28126, Týnec nad Labem ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "28000:109"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.2953611,
+          50.0113244
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> nádraží ČD /stojan/, Starý Kolín, Dukel. hrdinů 62 <br><b>Adresa:</b> Dukelských hrdinů 62, Bašta, 28123, Starý Kolín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28000:105"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.356965,
+          50.0397724
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Křižovatka, Týnec nad Labem, Pivovarská 125 <br><b>Adresa:</b> Pivovarská 125, 28126, Týnec nad Labem ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28000:109"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.3402893,
+          50.0375687
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> čekárna ČSAD, Lžovice čp. 5 <br><b>Adresa:</b> Lžovice 5, 28126, Týnec nad Labem ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28000:110"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.3632262,
+          50.0356598
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> zastávka ČSAD, Vinařice čp. 1 <br><b>Adresa:</b> Vinařice 1, 28126, Týnec nad Labem ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28000:111"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.3586136,
+          50.0416617
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Týnec nad Labem <br><b>Adresa:</b> Masarykovo náměstí 87, 28126, Týnec nad Labem ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28000:157"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.350315,
+          50.0253545
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Záboří <br><b>Adresa:</b> Školní 164, 28574, Záboří nad Labem ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28000:235"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.3491558,
+          50.0308269
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> U Nádraží 62, Záboří <br><b>Adresa:</b> U Nádraží 62, 28574, Záboří nad Labem ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28000:236"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.3055413,
+          50.0288894
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u kostela, Veletov 35 <br><b>Adresa:</b> č.p. 35, 28002, Veletov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28000:81"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

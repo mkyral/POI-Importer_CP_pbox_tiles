@@ -1,158 +1,158 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.5191172,
-                    49.4035085
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Řepeč č. 8 <br><b>Adresa:</b> č.p. 8, 39161, Řepeč ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "39007:81"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.5203956,
-                    49.4232862
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Oltyně - čekárna <br><b>Adresa:</b> Oltyně 11, 39161, Opařany ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "39007:83"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.5197579,
-                    49.4050706
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Řepeč č. 38 <br><b>Adresa:</b> č.p. 38, 39161, Řepeč ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:05",
-                "ref": "39007:82"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.5088662,
-                    49.4357592
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Olší - budova ZD <br><b>Adresa:</b> Olší 10, 39161, Opařany ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "39007:84"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.5561516,
-                    49.4314966
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Drhovice <br><b>Adresa:</b> č.p. 57, 39131, Drhovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "39007:59"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.5533213,
-                    49.3829001
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Bečice <br><b>Adresa:</b> č.p. 11, 39175, Bečice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "39007:100"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.5159512,
-                    49.3840889
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Slavňovice <br><b>Adresa:</b> Slavňovice 13, 39161, Stádlec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "39007:88"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.5842187,
-                    49.4296597
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Dražice č. 132 <br><b>Adresa:</b> č.p. 132, 39131, Dražice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "39007:198"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.588594,
-                    49.429481
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Dražice - pošta <br><b>Adresa:</b> č.p. 165, 39131, Dražice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "39007:173"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.5533213,
+          49.3829001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bečice <br><b>Adresa:</b> č.p. 11, 39175, Bečice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:100"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.588594,
+          49.429481
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dražice - pošta <br><b>Adresa:</b> č.p. 165, 39131, Dražice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:173"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5842187,
+          49.4296597
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dražice č. 132 <br><b>Adresa:</b> č.p. 132, 39131, Dražice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:198"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5561516,
+          49.4314966
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Drhovice <br><b>Adresa:</b> č.p. 57, 39131, Drhovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:59"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5191172,
+          49.4035085
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Řepeč č. 8 <br><b>Adresa:</b> č.p. 8, 39161, Řepeč ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:81"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5197579,
+          49.4050706
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Řepeč č. 38 <br><b>Adresa:</b> č.p. 38, 39161, Řepeč ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:05",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:82"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5203956,
+          49.4232862
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Oltyně - čekárna <br><b>Adresa:</b> Oltyně 11, 39161, Opařany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:83"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5088662,
+          49.4357592
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Olší - budova ZD <br><b>Adresa:</b> Olší 10, 39161, Opařany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:84"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5159512,
+          49.3840889
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Slavňovice <br><b>Adresa:</b> Slavňovice 13, 39161, Stádlec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:88"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

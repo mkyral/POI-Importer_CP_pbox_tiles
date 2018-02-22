@@ -1,107 +1,107 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.7197491,
-                    49.7353425
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Rozstání, poz. p.č. 115/3 <br><b>Adresa:</b> č.p. 12, 57101, Rozstání ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:515"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.7396576,
-                    49.7797331
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Borušov obchod <br><b>Adresa:</b> č.p. 12, 57101, Borušov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:520"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.7417049,
-                    49.7351313
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Radkov Jednota č.19 <br><b>Adresa:</b> č.p. 19, 57101, Radkov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:514"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.7817899,
-                    49.7398258
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Bohdalov ČSAD u č. 28 <br><b>Adresa:</b> Bohdalov 28, 57101, Městečko Trnávka ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:531"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.7430574,
-                    49.7605425
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Gruna obchod č. 65 <br><b>Adresa:</b> č.p. 65, 57101, Gruna ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:513"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.764692,
-                    49.771868
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Žipotín č.89 <br><b>Adresa:</b> Žipotín 89, 57101, Gruna ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:512"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.764692,
+          49.771868
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Žipotín č.89 <br><b>Adresa:</b> Žipotín 89, 57101, Gruna ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:512"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.7430574,
+          49.7605425
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Gruna obchod č. 65 <br><b>Adresa:</b> č.p. 65, 57101, Gruna ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:513"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.7417049,
+          49.7351313
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Radkov Jednota č.19 <br><b>Adresa:</b> č.p. 19, 57101, Radkov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:514"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.7197491,
+          49.7353425
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Rozstání, poz. p.č. 115/3 <br><b>Adresa:</b> č.p. 12, 57101, Rozstání ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:515"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.7396576,
+          49.7797331
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Borušov obchod <br><b>Adresa:</b> č.p. 12, 57101, Borušov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:520"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.7817899,
+          49.7398258
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bohdalov ČSAD u č. 28 <br><b>Adresa:</b> Bohdalov 28, 57101, Městečko Trnávka ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:531"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

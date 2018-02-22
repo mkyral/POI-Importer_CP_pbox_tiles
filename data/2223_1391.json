@@ -1,175 +1,175 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4098275,
-                    49.8574003
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Adamov 34, u pomníku /stojan/ <br><b>Adresa:</b> č.p. 34, 28601, Adamov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "28600:48"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4189671,
-                    49.8693936
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> prodejna /kříž/, Potěhy čp. 35 <br><b>Adresa:</b> č.p. 35, 28563, Potěhy ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "28600:99"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4645713,
-                    49.8606473
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta  /kříž/ Hostovlice <br><b>Adresa:</b> č.p. 25, 28562, Hostovlice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "28600:89"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4284225,
-                    49.8519405
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Bratčice 28, zastávka ČSAD /kříž/ <br><b>Adresa:</b> č.p. 28, 28601, Bratčice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "28600:85"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4116966,
-                    49.8892368
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> č.p. 130  Drobovice  /kříž/ <br><b>Adresa:</b> č.p. 130, 28601, Drobovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "28600:39"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4054034,
-                    49.8424483
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Přibyslavice 21, hostinec /kříž/ <br><b>Adresa:</b> Přibyslavice 21, 28601, Vlkaneč ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "28600:49"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4295109,
-                    49.8545182
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Bratčice 169, prodejna /kříž/ <br><b>Adresa:</b> č.p. 169, 28601, Bratčice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "28600:84"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4396333,
-                    49.87028
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Horky 111, prodejna /kříž/ <br><b>Adresa:</b> č.p. 111, 28601, Horky ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "28600:82"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4362786,
-                    49.8707342
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Horky 84, křižovatka /stojan/ <br><b>Adresa:</b> č.p. 84, 28601, Horky ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "28600:83"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.407776,
-                    49.8689645
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta  /kříž/ Tupadly <br><b>Adresa:</b> č.p. 82, 28563, Tupadly ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "28600:100"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.407776,
+          49.8689645
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta  /kříž/ Tupadly <br><b>Adresa:</b> č.p. 82, 28563, Tupadly ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28600:100"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4116966,
+          49.8892368
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> č.p. 130  Drobovice  /kříž/ <br><b>Adresa:</b> č.p. 130, 28601, Drobovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28600:39"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4098275,
+          49.8574003
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Adamov 34, u pomníku /stojan/ <br><b>Adresa:</b> č.p. 34, 28601, Adamov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28600:48"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4054034,
+          49.8424483
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Přibyslavice 21, hostinec /kříž/ <br><b>Adresa:</b> Přibyslavice 21, 28601, Vlkaneč ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28600:49"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4396333,
+          49.87028
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Horky 111, prodejna /kříž/ <br><b>Adresa:</b> č.p. 111, 28601, Horky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28600:82"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4362786,
+          49.8707342
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Horky 84, křižovatka /stojan/ <br><b>Adresa:</b> č.p. 84, 28601, Horky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28600:83"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4295109,
+          49.8545182
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bratčice 169, prodejna /kříž/ <br><b>Adresa:</b> č.p. 169, 28601, Bratčice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28600:84"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4284225,
+          49.8519405
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bratčice 28, zastávka ČSAD /kříž/ <br><b>Adresa:</b> č.p. 28, 28601, Bratčice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28600:85"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4645713,
+          49.8606473
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta  /kříž/ Hostovlice <br><b>Adresa:</b> č.p. 25, 28562, Hostovlice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28600:89"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4189671,
+          49.8693936
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> prodejna /kříž/, Potěhy čp. 35 <br><b>Adresa:</b> č.p. 35, 28563, Potěhy ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28600:99"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

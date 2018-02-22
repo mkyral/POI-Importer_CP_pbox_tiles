@@ -1,22 +1,22 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.1706883,
-                    49.2086699
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hamry - stojan u čp.59 <br><b>Adresa:</b> č.p. 59, 34022, Hamry ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "33907:214"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.1706883,
+          49.2086699
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hamry - stojan u čp.59 <br><b>Adresa:</b> č.p. 59, 34022, Hamry ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "33907:214"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

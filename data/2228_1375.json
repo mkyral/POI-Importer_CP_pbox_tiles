@@ -1,22 +1,22 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.8210682,
-                    50.7454154
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Výdejní místo Malá Úpa, č.p. 129, Horní Malá Úpa <br><b>Adresa:</b> Horní Malá Úpa 129, 54227, Malá Úpa ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "54107:111"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.8210682,
+          50.7454154
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Výdejní místo Malá Úpa, č.p. 129, Horní Malá Úpa <br><b>Adresa:</b> Horní Malá Úpa 129, 54227, Malá Úpa ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54107:111"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

@@ -1,124 +1,124 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.7359509,
-                    48.9408652
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Hustopeče u Brna <br><b>Adresa:</b> Husova 1168/5, 69301, Hustopeče ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 13:00",
-                "ref": "60011:158"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.7635254,
-                    48.9576438
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kurdějov - budova OÚ <br><b>Adresa:</b> č.p. 137, 69301, Kurdějov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "60011:52"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.7349277,
-                    48.9398522
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Městská tržnice <br><b>Adresa:</b> Bratislavská 465/18, 69301, Hustopeče ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "60011:41"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.734446,
-                    48.94257
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> budova JEDNOTA - ul. Brněnská <br><b>Adresa:</b> Brněnská 629/18, 69301, Hustopeče ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "60011:42"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.7349342,
-                    48.9385807
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Supermarket <br><b>Adresa:</b> Nádražní 593/2, 69301, Hustopeče ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "60011:40"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.7085014,
-                    48.9533227
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Starovice č.p.180 <br><b>Adresa:</b> č.p. 180, 69301, Starovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 13:30",
-                "ref": "60011:49"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.7253619,
-                    48.9436231
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> ul. U Větrolamu <br><b>Adresa:</b> U Větrolamu 1161/15, 69301, Hustopeče ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "60011:44"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.7359509,
+          48.9408652
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Hustopeče u Brna <br><b>Adresa:</b> Husova 1168/5, 69301, Hustopeče ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 13:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60011:158"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.7349342,
+          48.9385807
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Supermarket <br><b>Adresa:</b> Nádražní 593/2, 69301, Hustopeče ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60011:40"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.7349277,
+          48.9398522
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Městská tržnice <br><b>Adresa:</b> Bratislavská 465/18, 69301, Hustopeče ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60011:41"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.734446,
+          48.94257
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> budova JEDNOTA - ul. Brněnská <br><b>Adresa:</b> Brněnská 629/18, 69301, Hustopeče ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60011:42"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.7253619,
+          48.9436231
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> ul. U Větrolamu <br><b>Adresa:</b> U Větrolamu 1161/15, 69301, Hustopeče ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60011:44"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.7085014,
+          48.9533227
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Starovice č.p.180 <br><b>Adresa:</b> č.p. 180, 69301, Starovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 13:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60011:49"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.7635254,
+          48.9576438
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kurdějov - budova OÚ <br><b>Adresa:</b> č.p. 137, 69301, Kurdějov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60011:52"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

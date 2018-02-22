@@ -1,158 +1,158 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.6075229,
-                    49.6302953
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Slatina ČSAD u č.p. 40, Jevíčko <br><b>Adresa:</b> č.p. 40, 56943, Slatina ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:571"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.5932565,
-                    49.6153984
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Roubanina - zast. ČSAD <br><b>Adresa:</b> č.p. 32, 67961, Roubanina ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "68007:204"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.5262401,
-                    49.6215451
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Brněnec <br><b>Adresa:</b> Moravská Chrastová 3, 56904, Brněnec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:263"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.5635588,
-                    49.6125528
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hasičská zbrojnice, Deštná <br><b>Adresa:</b> Blansko; Malá Roudka; Skočova Lhota <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "68007:190"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.6106519,
-                    49.6516676
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> samoobsluha č.p. 78, Březina u M.Třebové <br><b>Adresa:</b> č.p. 107, 56923, Březina ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:562"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.5603115,
-                    49.6546591
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Rudná ZŠ <br><b>Adresa:</b> č.p. 13, 56904, Rudná ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:249"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.5690267,
-                    49.6411734
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Želivsko 29 -  ČSAD <br><b>Adresa:</b> č.p. 29, 56904, Želivsko ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:251"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.5767888,
-                    49.6169058
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> OÚ, Horní Smržov <br><b>Adresa:</b> č.p. 139, 67961, Horní Smržov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "68007:189"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.5729882,
-                    49.6589523
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Rudná OÚ <br><b>Adresa:</b> č.p. 41, 56904, Rudná ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:250"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.5603115,
+          49.6546591
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Rudná ZŠ <br><b>Adresa:</b> č.p. 13, 56904, Rudná ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:249"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.5729882,
+          49.6589523
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Rudná OÚ <br><b>Adresa:</b> č.p. 41, 56904, Rudná ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:250"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.5690267,
+          49.6411734
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Želivsko 29 -  ČSAD <br><b>Adresa:</b> č.p. 29, 56904, Želivsko ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:251"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.5262401,
+          49.6215451
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Brněnec <br><b>Adresa:</b> Moravská Chrastová 3, 56904, Brněnec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:263"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.6106519,
+          49.6516676
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> samoobsluha č.p. 78, Březina u M.Třebové <br><b>Adresa:</b> č.p. 107, 56923, Březina ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:562"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.6075229,
+          49.6302953
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Slatina ČSAD u č.p. 40, Jevíčko <br><b>Adresa:</b> č.p. 40, 56943, Slatina ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:571"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.5767888,
+          49.6169058
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> OÚ, Horní Smržov <br><b>Adresa:</b> č.p. 139, 67961, Horní Smržov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68007:189"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.5635588,
+          49.6125528
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hasičská zbrojnice, Deštná <br><b>Adresa:</b> Blansko; Malá Roudka; Skočova Lhota <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68007:190"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.5932565,
+          49.6153984
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Roubanina - zast. ČSAD <br><b>Adresa:</b> č.p. 32, 67961, Roubanina ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68007:204"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

@@ -1,107 +1,107 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.159864,
-                    49.1593252
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Malínky náves <br><b>Adresa:</b> č.p. 38, 68333, Malínky ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "68207:112"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.1744952,
-                    49.1826911
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kunkovice 37, Litenčice <br><b>Adresa:</b> č.p. 37, 76813, Kunkovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "76707:193"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.2114759,
-                    49.1687448
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Lísky-u tel.budky Telecomu <br><b>Adresa:</b> Lísky 39, 76805, Chvalnov-Lísky ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:15",
-                "ref": "76707:173"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.164741,
-                    49.2048446
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Nítkovice- OÚ 89, Litenčice <br><b>Adresa:</b> č.p. 89, 76813, Nítkovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "76707:197"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.1850158,
-                    49.1552474
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kožušice - obecní park <br><b>Adresa:</b> č.p. 44, 68333, Kožušice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "68207:113"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.2077274,
-                    49.2020222
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Litenčice <br><b>Adresa:</b> č.p. 162, 76813, Litenčice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 14:05",
-                "ref": "76707:210"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          17.159864,
+          49.1593252
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Malínky náves <br><b>Adresa:</b> č.p. 38, 68333, Malínky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68207:112"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.1850158,
+          49.1552474
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kožušice - obecní park <br><b>Adresa:</b> č.p. 44, 68333, Kožušice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68207:113"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.2114759,
+          49.1687448
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lísky-u tel.budky Telecomu <br><b>Adresa:</b> Lísky 39, 76805, Chvalnov-Lísky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "76707:173"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.1744952,
+          49.1826911
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kunkovice 37, Litenčice <br><b>Adresa:</b> č.p. 37, 76813, Kunkovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "76707:193"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.164741,
+          49.2048446
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nítkovice- OÚ 89, Litenčice <br><b>Adresa:</b> č.p. 89, 76813, Nítkovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "76707:197"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.2077274,
+          49.2020222
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Litenčice <br><b>Adresa:</b> č.p. 162, 76813, Litenčice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 14:05",
+        "operator": "Česká pošta, s.p.",
+        "ref": "76707:210"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

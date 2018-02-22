@@ -1,107 +1,107 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.9713976,
-                    50.3987515
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Javorník, Bílý Potok 94, aut.zastávka (stojan) <br><b>Adresa:</b> Jeseník; Javorník; Bílý Potok <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "79007:102"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.0276343,
-                    50.3648466
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Uhelná 153, Partner I, prodejna COOP <br><b>Adresa:</b> č.p. 153, 79070, Uhelná ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 14:30",
-                "ref": "79007:112"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.0086541,
-                    50.3929126
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pošta Javorník u Jeseníku <br><b>Adresa:</b> Nádražní 163, 79070, Javorník ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 15:00",
-                "ref": "79007:115"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.0146686,
-                    50.3779188
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Uhelná, Horní Fořt 26, obchod (stojan) <br><b>Adresa:</b> Horní Fořt 26, 79070, Uhelná ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 13:00",
-                "ref": "79007:104"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.0011119,
-                    50.3908313
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Javorník, Míru 526 (stojan) <br><b>Adresa:</b> Míru 526, 79070, Javorník ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 13:30",
-                "ref": "79007:101"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.9991879,
-                    50.3924236
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Javorník, Dittersova 549 (stojan) <br><b>Adresa:</b> Dittersova 549, 79070, Javorník ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "79007:105"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          17.0011119,
+          50.3908313
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Javorník, Míru 526 (stojan) <br><b>Adresa:</b> Míru 526, 79070, Javorník ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 13:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79007:101"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.9713976,
+          50.3987515
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Javorník, Bílý Potok 94, aut.zastávka (stojan) <br><b>Adresa:</b> Jeseník; Javorník; Bílý Potok <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79007:102"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.0146686,
+          50.3779188
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Uhelná, Horní Fořt 26, obchod (stojan) <br><b>Adresa:</b> Horní Fořt 26, 79070, Uhelná ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 13:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79007:104"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.9991879,
+          50.3924236
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Javorník, Dittersova 549 (stojan) <br><b>Adresa:</b> Dittersova 549, 79070, Javorník ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79007:105"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.0276343,
+          50.3648466
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Uhelná 153, Partner I, prodejna COOP <br><b>Adresa:</b> č.p. 153, 79070, Uhelná ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 14:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79007:112"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.0086541,
+          50.3929126
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Javorník u Jeseníku <br><b>Adresa:</b> Nádražní 163, 79070, Javorník ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 15:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79007:115"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

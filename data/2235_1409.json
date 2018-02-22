@@ -1,107 +1,107 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.4863972,
-                    48.8574381
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> na náměstí <br><b>Adresa:</b> nám. Svobody 6/10, 69183, Drnholec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "69007:86"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.4934093,
-                    48.8374814
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Novosedly na Moravě <br><b>Adresa:</b> č.p. 1, 69182, Novosedly ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "69007:81"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.4938452,
-                    48.8257946
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Novosedly na Mor. - ČD <br><b>Adresa:</b> č.p. 119, 69182, Novosedly ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "69007:80"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.4650796,
-                    48.8276526
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jevišovka PST <br><b>Adresa:</b> č.p. 93, 69183, Jevišovka ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "69007:87"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.493853,
-                    48.8072832
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Nový Přerov - budova OÚ <br><b>Adresa:</b> č.p. 54, 69181, Nový Přerov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "69007:82"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.4874435,
-                    48.8563577
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Drnholec <br><b>Adresa:</b> Kostelní 368, 69183, Drnholec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "69007:88"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.4938452,
+          48.8257946
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Novosedly na Mor. - ČD <br><b>Adresa:</b> č.p. 119, 69182, Novosedly ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69007:80"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.4934093,
+          48.8374814
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Novosedly na Moravě <br><b>Adresa:</b> č.p. 1, 69182, Novosedly ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69007:81"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.493853,
+          48.8072832
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nový Přerov - budova OÚ <br><b>Adresa:</b> č.p. 54, 69181, Nový Přerov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69007:82"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.4863972,
+          48.8574381
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> na náměstí <br><b>Adresa:</b> nám. Svobody 6/10, 69183, Drnholec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69007:86"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.4650796,
+          48.8276526
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jevišovka PST <br><b>Adresa:</b> č.p. 93, 69183, Jevišovka ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69007:87"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.4874435,
+          48.8563577
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Drnholec <br><b>Adresa:</b> Kostelní 368, 69183, Drnholec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69007:88"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

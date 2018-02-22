@@ -1,141 +1,141 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.1027248,
-                    49.6128933
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Závišice 115, OÚ <br><b>Adresa:</b> č.p. 115, 74221, Závišice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "74207:217"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.0539603,
-                    49.659798
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Bartošovice 33 <br><b>Adresa:</b> č.p. 33, 74254, Bartošovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:30",
-                "ref": "72572:512"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.0765687,
-                    49.6277308
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pošta Libhošť (stojan) <br><b>Adresa:</b> č.p. 230, 74257, Libhošť ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 13:00",
-                "ref": "74207:86"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.0719778,
-                    49.6252599
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Libhošť 148, potraviny Hanzelka (stojan) <br><b>Adresa:</b> Nový Jičín; Libhošť; Libhošť <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "74207:49"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.0234991,
-                    49.6511707
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Bartošovice, Hukovice 62 (stojan) <br><b>Adresa:</b> Hukovice 62, 74213, Bartošovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "72572:510"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.0890053,
-                    49.6514222
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Sedlnice 183, Jednota <br><b>Adresa:</b> č.p. 183, 74256, Sedlnice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "74207:238"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.0806514,
-                    49.6284871
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Libhošť 222, zastávka ČSAD (stojan) <br><b>Adresa:</b> Nový Jičín; Libhošť; Libhošť <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "74207:48"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.0874433,
-                    49.6587946
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pošta Sedlnice <br><b>Adresa:</b> č.p. 130, 74256, Sedlnice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 15:00",
-                "ref": "74207:90"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          18.0234991,
+          49.6511707
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bartošovice, Hukovice 62 (stojan) <br><b>Adresa:</b> Hukovice 62, 74213, Bartošovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "72572:510"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.0539603,
+          49.659798
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bartošovice 33 <br><b>Adresa:</b> č.p. 33, 74254, Bartošovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "72572:512"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.1027248,
+          49.6128933
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Závišice 115, OÚ <br><b>Adresa:</b> č.p. 115, 74221, Závišice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74207:217"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.0890053,
+          49.6514222
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Sedlnice 183, Jednota <br><b>Adresa:</b> č.p. 183, 74256, Sedlnice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74207:238"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.0806514,
+          49.6284871
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Libhošť 222, zastávka ČSAD (stojan) <br><b>Adresa:</b> Nový Jičín; Libhošť; Libhošť <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74207:48"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.0719778,
+          49.6252599
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Libhošť 148, potraviny Hanzelka (stojan) <br><b>Adresa:</b> Nový Jičín; Libhošť; Libhošť <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74207:49"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.0765687,
+          49.6277308
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Libhošť (stojan) <br><b>Adresa:</b> č.p. 230, 74257, Libhošť ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 13:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74207:86"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.0874433,
+          49.6587946
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Sedlnice <br><b>Adresa:</b> č.p. 130, 74256, Sedlnice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 15:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74207:90"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

@@ -1,73 +1,73 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.9613437,
-                    49.2479108
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Prlov <br><b>Adresa:</b> č.p. 141, 75611, Prlov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "75707:242"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.9957319,
-                    49.2574276
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jednota, Valašská Polanka <br><b>Adresa:</b> č.p. 320, 75611, Valašská Polanka ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "75707:38"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.9558817,
-                    49.2331887
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pozděchov - jednota <br><b>Adresa:</b> č.p. 174, 75611, Pozděchov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "75707:40"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.9961075,
-                    49.2650466
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Valašská Polanka <br><b>Adresa:</b> č.p. 344, 75611, Valašská Polanka ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "75707:240"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          17.9961075,
+          49.2650466
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Valašská Polanka <br><b>Adresa:</b> č.p. 344, 75611, Valašská Polanka ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "75707:240"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.9613437,
+          49.2479108
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Prlov <br><b>Adresa:</b> č.p. 141, 75611, Prlov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "75707:242"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.9957319,
+          49.2574276
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jednota, Valašská Polanka <br><b>Adresa:</b> č.p. 320, 75611, Valašská Polanka ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "75707:38"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.9558817,
+          49.2331887
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pozděchov - jednota <br><b>Adresa:</b> č.p. 174, 75611, Pozděchov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "75707:40"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

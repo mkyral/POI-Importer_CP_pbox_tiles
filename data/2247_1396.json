@@ -1,90 +1,90 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.5339127,
-                    49.602429
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Libavá, Kozlov 1025 <br><b>Adresa:</b> č.p. 1025, 78357, Kozlov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:10",
-                "ref": "77072:169"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.5641383,
-                    49.5843504
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kozlov, Slavkov 1218  (stojan) <br><b>Adresa:</b> Slavkov 1218, 75131, Kozlov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "75007:74"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.5401541,
-                    49.6073305
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Libavá, Kozlov 1065 <br><b>Adresa:</b> č.p. 1065, 78357, Kozlov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:10",
-                "ref": "77072:170"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.5678328,
-                    49.5560479
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Bohuslávky 34 (stojan) <br><b>Adresa:</b> Přerov; Bohuslávky; Bohuslávky <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:30",
-                "ref": "75007:73"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.5059802,
-                    49.5590784
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Dolní Újezd, Staměřice 68, u MŠ (stojan) <br><b>Adresa:</b> Staměřice 68, 75125, Dolní Újezd ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:30",
-                "ref": "75007:82"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          17.5678328,
+          49.5560479
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bohuslávky 34 (stojan) <br><b>Adresa:</b> Přerov; Bohuslávky; Bohuslávky <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "75007:73"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.5641383,
+          49.5843504
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kozlov, Slavkov 1218  (stojan) <br><b>Adresa:</b> Slavkov 1218, 75131, Kozlov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "75007:74"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.5059802,
+          49.5590784
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dolní Újezd, Staměřice 68, u MŠ (stojan) <br><b>Adresa:</b> Staměřice 68, 75125, Dolní Újezd ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "75007:82"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.5339127,
+          49.602429
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Libavá, Kozlov 1025 <br><b>Adresa:</b> č.p. 1025, 78357, Kozlov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:10",
+        "operator": "Česká pošta, s.p.",
+        "ref": "77072:169"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.5401541,
+          49.6073305
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Libavá, Kozlov 1065 <br><b>Adresa:</b> č.p. 1065, 78357, Kozlov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:10",
+        "operator": "Česká pošta, s.p.",
+        "ref": "77072:170"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

@@ -1,158 +1,158 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.6609496,
-                    49.203937
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Horní Damíč u čp. 20 <br><b>Adresa:</b> Damíč 20, 34201, Soběšice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "33907:340"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.6845018,
-                    49.2060132
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Soběšice u Sušice - pošta <br><b>Adresa:</b> č.p. 125, 34201, Soběšice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "33907:294"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.677086,
-                    49.1733615
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Maleč - stojan u čp. 1 <br><b>Adresa:</b> Maleč 1, 34201, Strašín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "33907:342"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.6404014,
-                    49.1792452
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Strašín - Lazny autobusová zastávka <br><b>Adresa:</b> Klatovy; Strašín; Strašín <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "33907:344"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.6662325,
-                    49.2007184
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Dolní Damíč u čp. 32 <br><b>Adresa:</b> Damíč 32, 34201, Soběšice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "33907:341"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.7009699,
-                    49.186422
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Lhota Pod Kůstrým - u silnice <br><b>Adresa:</b> Strakonice; Nová Ves; Lhota pod Kůstrým <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "33907:345"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.6281698,
-                    49.1620994
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pohorsko u čp. 62 <br><b>Adresa:</b> Pohorsko 62, 34201, Nezdice na Šumavě ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "33907:365"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.6404177,
-                    49.1790763
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Strašín u Sušice - pošta <br><b>Adresa:</b> č.p. 16, 34201, Strašín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "33907:293"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.6505455,
-                    49.1815392
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Nahořánky - autobusová zastávka <br><b>Adresa:</b> Klatovy; Strašín; Nahořánky <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "33907:343"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.6404177,
+          49.1790763
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Strašín u Sušice - pošta <br><b>Adresa:</b> č.p. 16, 34201, Strašín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "33907:293"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.6845018,
+          49.2060132
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Soběšice u Sušice - pošta <br><b>Adresa:</b> č.p. 125, 34201, Soběšice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "33907:294"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.6609496,
+          49.203937
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Horní Damíč u čp. 20 <br><b>Adresa:</b> Damíč 20, 34201, Soběšice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "33907:340"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.6662325,
+          49.2007184
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dolní Damíč u čp. 32 <br><b>Adresa:</b> Damíč 32, 34201, Soběšice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "33907:341"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.677086,
+          49.1733615
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Maleč - stojan u čp. 1 <br><b>Adresa:</b> Maleč 1, 34201, Strašín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "33907:342"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.6505455,
+          49.1815392
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nahořánky - autobusová zastávka <br><b>Adresa:</b> Klatovy; Strašín; Nahořánky <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "33907:343"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.6404014,
+          49.1792452
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Strašín - Lazny autobusová zastávka <br><b>Adresa:</b> Klatovy; Strašín; Strašín <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "33907:344"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.7009699,
+          49.186422
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lhota Pod Kůstrým - u silnice <br><b>Adresa:</b> Strakonice; Nová Ves; Lhota pod Kůstrým <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "33907:345"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.6281698,
+          49.1620994
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pohorsko u čp. 62 <br><b>Adresa:</b> Pohorsko 62, 34201, Nezdice na Šumavě ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "33907:365"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

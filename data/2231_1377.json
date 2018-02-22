@@ -1,22 +1,22 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1390897,
-                    50.6323759
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Zdoňov 158 <br><b>Adresa:</b> Zdoňov 158, 54957, Teplice nad Metují ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "54707:350"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.1390897,
+          50.6323759
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Zdoňov 158 <br><b>Adresa:</b> Zdoňov 158, 54957, Teplice nad Metují ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54707:350"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

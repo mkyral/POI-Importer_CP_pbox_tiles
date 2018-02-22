@@ -1,90 +1,90 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.4202167,
-                    50.1898001
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Nebeská Rybná - Orlicko č.p. 162 <br><b>Adresa:</b> Nebeská Rybná 162, 51761, Rokytnice v Orlických horách ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "51707:305"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3852024,
-                    50.2242709
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> zastávka ČSAD, Kunčina Ves <br><b>Adresa:</b> Kunčina Ves 57, 51601, Zdobnice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "51707:46"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.380506,
-                    50.1864203
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> bytovky č.p.4, Bělá <br><b>Adresa:</b> Bělá 4, 51601, Liberk ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "51707:49"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.4010584,
-                    50.2011976
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> zastávka ČSAD, Souvlastní <br><b>Adresa:</b> Souvlastní 38, 51601, Zdobnice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "51707:44"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3649158,
-                    50.197535
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> č.p. 60, Hláska <br><b>Adresa:</b> Hláska 60, 51601, Liberk ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "51707:48"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.4202167,
+          50.1898001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nebeská Rybná - Orlicko č.p. 162 <br><b>Adresa:</b> Nebeská Rybná 162, 51761, Rokytnice v Orlických horách ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51707:305"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.4010584,
+          50.2011976
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> zastávka ČSAD, Souvlastní <br><b>Adresa:</b> Souvlastní 38, 51601, Zdobnice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51707:44"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3852024,
+          50.2242709
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> zastávka ČSAD, Kunčina Ves <br><b>Adresa:</b> Kunčina Ves 57, 51601, Zdobnice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51707:46"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3649158,
+          50.197535
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> č.p. 60, Hláska <br><b>Adresa:</b> Hláska 60, 51601, Liberk ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51707:48"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.380506,
+          50.1864203
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> bytovky č.p.4, Bělá <br><b>Adresa:</b> Bělá 4, 51601, Liberk ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51707:49"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

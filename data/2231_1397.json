@@ -1,158 +1,158 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.0847274,
-                    49.5090832
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta  Radešínská Svratka <br><b>Adresa:</b> č.p. 134, 59233, Radešínská Svratka ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:15",
-                "ref": "59230:70"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1231201,
-                    49.5088342
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> zastávka, Dlouhé <br><b>Adresa:</b> č.p. 7, 59255, Dlouhé ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "59230:47"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1244262,
-                    49.5271275
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> autobusová zastávka, Křídla <br><b>Adresa:</b> č.p. 15, 59231, Křídla ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:25",
-                "ref": "59230:26"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.0854935,
-                    49.5405051
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> autobusová zastávka, Nová Ves <br><b>Adresa:</b> č.p. 18, 59231, Nová Ves u Nového Města na Moravě ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:25",
-                "ref": "59230:25"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1393884,
-                    49.4972623
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> č.p. 9, Račice <br><b>Adresa:</b> č.p. 9, 59255, Račice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:40",
-                "ref": "59230:46"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.126978,
-                    49.5466681
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> autobusová zastávka, Olešná <br><b>Adresa:</b> Olešná 48, 59231, Nové Město na Moravě ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:50",
-                "ref": "59230:19"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1586602,
-                    49.5478165
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> zastávka autobusu, Divišov <br><b>Adresa:</b> Divišov 31, 59301, Bystřice nad Pernštejnem ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "59302:38"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1681905,
-                    49.5467449
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kulturní dům, Rovné <br><b>Adresa:</b> Rovné 5, 59301, Bystřice nad Pernštejnem ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "59302:37"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1542325,
-                    49.5162668
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> obchod, Branišov <br><b>Adresa:</b> Branišov 36, 59251, Zvole ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "59302:62"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.126978,
+          49.5466681
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> autobusová zastávka, Olešná <br><b>Adresa:</b> Olešná 48, 59231, Nové Město na Moravě ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:50",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59230:19"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0854935,
+          49.5405051
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> autobusová zastávka, Nová Ves <br><b>Adresa:</b> č.p. 18, 59231, Nová Ves u Nového Města na Moravě ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:25",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59230:25"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1244262,
+          49.5271275
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> autobusová zastávka, Křídla <br><b>Adresa:</b> č.p. 15, 59231, Křídla ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:25",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59230:26"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1393884,
+          49.4972623
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> č.p. 9, Račice <br><b>Adresa:</b> č.p. 9, 59255, Račice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:40",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59230:46"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1231201,
+          49.5088342
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> zastávka, Dlouhé <br><b>Adresa:</b> č.p. 7, 59255, Dlouhé ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59230:47"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0847274,
+          49.5090832
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta  Radešínská Svratka <br><b>Adresa:</b> č.p. 134, 59233, Radešínská Svratka ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59230:70"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1681905,
+          49.5467449
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kulturní dům, Rovné <br><b>Adresa:</b> Rovné 5, 59301, Bystřice nad Pernštejnem ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59302:37"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1586602,
+          49.5478165
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> zastávka autobusu, Divišov <br><b>Adresa:</b> Divišov 31, 59301, Bystřice nad Pernštejnem ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59302:38"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1542325,
+          49.5162668
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> obchod, Branišov <br><b>Adresa:</b> Branišov 36, 59251, Zvole ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59302:62"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

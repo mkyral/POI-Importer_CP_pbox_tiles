@@ -1,22 +1,22 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.2264046,
-                    50.2796605
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kadaňský Rohozec, naproti č.p.9, na stojanu <br><b>Adresa:</b> Kadaňský Rohozec 9, 43201, Radonice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 21.64 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "43007:147"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.2264046,
+          50.2796605
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kadaňský Rohozec, naproti č.p.9, na stojanu <br><b>Adresa:</b> Kadaňský Rohozec 9, 43201, Radonice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 21.64 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43007:147"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

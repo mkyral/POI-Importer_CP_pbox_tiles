@@ -1,107 +1,107 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.9967057,
-                    49.9376837
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Úterý - sídliště u č.p. 143 <br><b>Adresa:</b> č.p. 143, 33040, Úterý ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "30071:320"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.9702762,
-                    49.9078518
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Bezdružice, nám.K.Haranta 32, Kovodružstvo <br><b>Adresa:</b> náměstí Kryštofa Haranta 32, 34953, Bezdružice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "34707:165"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.9741787,
-                    49.9056136
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Bezdružice, Na sídlišti 263, samoobsluha <br><b>Adresa:</b> Na Sídlišti 263, 34953, Bezdružice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "34707:166"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.950541,
-                    49.9099644
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Řešín <br><b>Adresa:</b> Tachov; Bezdružice; Řešín <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "34707:167"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.0040473,
-                    49.9400098
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Úterý - pošta <br><b>Adresa:</b> č.p. 1, 33040, Úterý ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "30071:348"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.9690046,
-                    49.9065466
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Bezdružice - pošta <br><b>Adresa:</b> ČSA 180, 34953, Bezdružice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "34707:238"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          12.9967057,
+          49.9376837
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Úterý - sídliště u č.p. 143 <br><b>Adresa:</b> č.p. 143, 33040, Úterý ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30071:320"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.0040473,
+          49.9400098
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Úterý - pošta <br><b>Adresa:</b> č.p. 1, 33040, Úterý ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30071:348"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.9702762,
+          49.9078518
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bezdružice, nám.K.Haranta 32, Kovodružstvo <br><b>Adresa:</b> náměstí Kryštofa Haranta 32, 34953, Bezdružice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "34707:165"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.9741787,
+          49.9056136
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bezdružice, Na sídlišti 263, samoobsluha <br><b>Adresa:</b> Na Sídlišti 263, 34953, Bezdružice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "34707:166"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.950541,
+          49.9099644
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Řešín <br><b>Adresa:</b> Tachov; Bezdružice; Řešín <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "34707:167"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.9690046,
+          49.9065466
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bezdružice - pošta <br><b>Adresa:</b> ČSA 180, 34953, Bezdružice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "34707:238"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

@@ -1,141 +1,141 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.562374,
-                    50.0053514
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Verměřovice, Partner <br><b>Adresa:</b> č.p. 123, 56152, Verměřovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:349"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.5803082,
-                    49.9752829
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Koloniál BEPA č.p. 169, Dolní Čermná <br><b>Adresa:</b> č.p. 153, 56153, Dolní Čermná ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:730"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.5898325,
-                    50.0069059
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Křižovatka, Bystříčko <br><b>Adresa:</b> č.p. 41, 56154, Bystřec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:355"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.5647411,
-                    49.9549518
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jakubovice, zastávka BUS č.2 <br><b>Adresa:</b> Jakubovice 2, 56301, Dolní Čermná ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 07:15",
-                "ref": "56707:712"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.6108143,
-                    49.9624579
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u Marků č. 142, Horní Čermná <br><b>Adresa:</b> č.p. 70, 56156, Horní Čermná ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:729"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.6075232,
-                    49.9706251
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Horní Čermná <br><b>Adresa:</b> č.p. 1, 56156, Horní Čermná ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:739"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.5428777,
-                    49.9879477
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Petrovice Konzum 32 <br><b>Adresa:</b> č.p. 32, 56301, Petrovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:711"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.5657261,
-                    49.9786011
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Dolní Čermná <br><b>Adresa:</b> č.p. 230, 56153, Dolní Čermná ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:738"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.562374,
+          50.0053514
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Verměřovice, Partner <br><b>Adresa:</b> č.p. 123, 56152, Verměřovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:349"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.5898325,
+          50.0069059
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Křižovatka, Bystříčko <br><b>Adresa:</b> č.p. 41, 56154, Bystřec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:355"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.5428777,
+          49.9879477
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Petrovice Konzum 32 <br><b>Adresa:</b> č.p. 32, 56301, Petrovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:711"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.5647411,
+          49.9549518
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jakubovice, zastávka BUS č.2 <br><b>Adresa:</b> Jakubovice 2, 56301, Dolní Čermná ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 07:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:712"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.6108143,
+          49.9624579
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u Marků č. 142, Horní Čermná <br><b>Adresa:</b> č.p. 70, 56156, Horní Čermná ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:729"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.5803082,
+          49.9752829
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Koloniál BEPA č.p. 169, Dolní Čermná <br><b>Adresa:</b> č.p. 153, 56153, Dolní Čermná ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:730"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.5657261,
+          49.9786011
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Dolní Čermná <br><b>Adresa:</b> č.p. 230, 56153, Dolní Čermná ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:738"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.6075232,
+          49.9706251
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Horní Čermná <br><b>Adresa:</b> č.p. 1, 56156, Horní Čermná ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:739"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

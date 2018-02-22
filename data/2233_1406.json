@@ -1,158 +1,158 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.2929411,
-                    49.0056317
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Petrovice <br><b>Adresa:</b> č.p. 16, 67201, Petrovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "66907:244"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.2623295,
-                    49.0185707
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Višňové u Znojma <br><b>Adresa:</b> č.p. 127, 67142, Vémyslice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "66907:266"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.2777493,
-                    49.0257985
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Rybníky-KD <br><b>Adresa:</b> č.p. 59, 67201, Rybníky ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "66907:237"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.2793702,
-                    49.0262652
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Rybníky-zastávka <br><b>Adresa:</b> Znojmo; Rybníky; Rybníky <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "66907:236"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.345293,
-                    49.0144475
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Rakšice, Pod Leskounem 1285 - nádraží <br><b>Adresa:</b> Pod Leskounem 1285, Rakšice, 67175, Moravský Krumlov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 07:30",
-                "ref": "66907:211"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.2787979,
-                    49.0172988
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Dobelice <br><b>Adresa:</b> č.p. 48, 67201, Dobelice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "66907:235"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3223776,
-                    49.0351843
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Rakšice-Zd.Nejedlého <br><b>Adresa:</b> Zdeňka Nejedlého 1182, Rakšice, 67201, Moravský Krumlov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "66907:233"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3106351,
-                    49.0032548
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Lesonice <br><b>Adresa:</b> Znojmo; Lesonice; Lesonice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "66907:238"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.287357,
-                    48.9827582
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kadov <br><b>Adresa:</b> Znojmo; Kadov; Kadov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "66907:234"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.345293,
+          49.0144475
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Rakšice, Pod Leskounem 1285 - nádraží <br><b>Adresa:</b> Pod Leskounem 1285, Rakšice, 67175, Moravský Krumlov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 07:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:211"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3223776,
+          49.0351843
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Rakšice-Zd.Nejedlého <br><b>Adresa:</b> Zdeňka Nejedlého 1182, Rakšice, 67201, Moravský Krumlov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:233"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.287357,
+          48.9827582
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kadov <br><b>Adresa:</b> Znojmo; Kadov; Kadov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:234"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2787979,
+          49.0172988
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dobelice <br><b>Adresa:</b> č.p. 48, 67201, Dobelice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:235"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2793702,
+          49.0262652
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Rybníky-zastávka <br><b>Adresa:</b> Znojmo; Rybníky; Rybníky <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:236"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2777493,
+          49.0257985
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Rybníky-KD <br><b>Adresa:</b> č.p. 59, 67201, Rybníky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:237"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3106351,
+          49.0032548
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lesonice <br><b>Adresa:</b> Znojmo; Lesonice; Lesonice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:238"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2929411,
+          49.0056317
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Petrovice <br><b>Adresa:</b> č.p. 16, 67201, Petrovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:244"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2623295,
+          49.0185707
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Višňové u Znojma <br><b>Adresa:</b> č.p. 127, 67142, Vémyslice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:266"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

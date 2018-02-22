@@ -1,175 +1,175 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.5958472,
-                    50.7921504
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Svor <br><b>Adresa:</b> č.p. 195, 47151, Svor ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "47007:273"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.6675378,
-                    50.8361465
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> U penzionu č.p. 49, Dolní Světlá <br><b>Adresa:</b> Dolní Světlá 49, 47157, Mařenice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:30",
-                "ref": "47007:196"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.6530518,
-                    50.8338116
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> U chaty \"Lužanka\" č.p. 86, Horní Světlá <br><b>Adresa:</b> Horní Světlá 86, 47157, Mařenice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:45",
-                "ref": "47007:199"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.6515384,
-                    50.8016091
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Zastávka ČSAD, Trávník 1 <br><b>Adresa:</b> Trávník 1, 47156, Cvikov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:05",
-                "ref": "47007:194"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.6059615,
-                    50.8007145
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Rekreační středisko, Rousínov 68 <br><b>Adresa:</b> Rousínov 68, 47301, Svor ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "47007:191"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.6676929,
-                    50.8305465
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> U koloniálu č.p. 144, Dolní Světlá <br><b>Adresa:</b> Dolní Světlá 144, 47157, Mařenice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:25",
-                "ref": "47007:197"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.6769791,
-                    50.8090121
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Mařenice <br><b>Adresa:</b> č.p. 26, 47156, Mařenice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "47007:277"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.6709798,
-                    50.8231899
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Zastávka ČSAD (u č.p. 15), Juliovka <br><b>Adresa:</b> Juliovka 15, 47157, Krompach ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "47007:200"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.6499968,
-                    50.8344449
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> U č.p. 19, Horní Světlá <br><b>Adresa:</b> Horní Světlá 19, 47157, Mařenice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:40",
-                "ref": "47007:198"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.6711826,
-                    50.7965482
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> V obci, Mařeničky 44 <br><b>Adresa:</b> Mařeničky 44, 47156, Mařenice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:20",
-                "ref": "47007:195"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.6059615,
+          50.8007145
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Rekreační středisko, Rousínov 68 <br><b>Adresa:</b> Rousínov 68, 47301, Svor ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "47007:191"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.6515384,
+          50.8016091
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Zastávka ČSAD, Trávník 1 <br><b>Adresa:</b> Trávník 1, 47156, Cvikov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:05",
+        "operator": "Česká pošta, s.p.",
+        "ref": "47007:194"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.6711826,
+          50.7965482
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> V obci, Mařeničky 44 <br><b>Adresa:</b> Mařeničky 44, 47156, Mařenice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:20",
+        "operator": "Česká pošta, s.p.",
+        "ref": "47007:195"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.6675378,
+          50.8361465
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> U penzionu č.p. 49, Dolní Světlá <br><b>Adresa:</b> Dolní Světlá 49, 47157, Mařenice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "47007:196"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.6676929,
+          50.8305465
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> U koloniálu č.p. 144, Dolní Světlá <br><b>Adresa:</b> Dolní Světlá 144, 47157, Mařenice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:25",
+        "operator": "Česká pošta, s.p.",
+        "ref": "47007:197"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.6499968,
+          50.8344449
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> U č.p. 19, Horní Světlá <br><b>Adresa:</b> Horní Světlá 19, 47157, Mařenice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:40",
+        "operator": "Česká pošta, s.p.",
+        "ref": "47007:198"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.6530518,
+          50.8338116
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> U chaty \"Lužanka\" č.p. 86, Horní Světlá <br><b>Adresa:</b> Horní Světlá 86, 47157, Mařenice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "47007:199"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.6709798,
+          50.8231899
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Zastávka ČSAD (u č.p. 15), Juliovka <br><b>Adresa:</b> Juliovka 15, 47157, Krompach ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "47007:200"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5958472,
+          50.7921504
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Svor <br><b>Adresa:</b> č.p. 195, 47151, Svor ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "47007:273"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.6769791,
+          50.8090121
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Mařenice <br><b>Adresa:</b> č.p. 26, 47156, Mařenice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "47007:277"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

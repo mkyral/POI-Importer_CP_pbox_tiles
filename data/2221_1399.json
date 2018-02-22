@@ -1,634 +1,634 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.215457,
-                    49.4362155
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pražská 1189 <br><b>Adresa:</b> Pražská 1183, 39301, Pelhřimov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 14:00",
-                "ref": "39307:27"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.2114989,
-                    49.4392848
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kaufland Pelhřimov <br><b>Adresa:</b> Pražská 2276, 39301, Pelhřimov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 14:00; Sa 11:00",
-                "ref": "39307:28"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.217613,
-                    49.4113372
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Lesy Pelhřimov <br><b>Adresa:</b> Myslotínská 2044, 39301, Pelhřimov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 07:30",
-                "ref": "39307:122"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.2112996,
-                    49.4353261
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Dolnokubínská 1671 <br><b>Adresa:</b> Dolnokubínská 1671, 39301, Pelhřimov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 14:00",
-                "ref": "39307:22"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.2197646,
-                    49.4270665
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pod Náspem <br><b>Adresa:</b> Pod Náspem 1092, 39301, Pelhřimov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 14:00",
-                "ref": "39307:17"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.2737879,
-                    49.3847091
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Radňov <br><b>Adresa:</b> Radňov 15, 39301, Pelhřimov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "39307:57"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.2166749,
-                    49.4263235
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Požárnická <br><b>Adresa:</b> Požárnická 1240, 39301, Pelhřimov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 14:00",
-                "ref": "39307:18"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.2238217,
-                    49.4324041
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Svatovítské náměstí <br><b>Adresa:</b> Dr. Tyrše 877, 39301, Pelhřimov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 16:00; Sa 11:00",
-                "ref": "39307:8"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.2229508,
-                    49.4313462
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Masarykovo náměstí <br><b>Adresa:</b> Masarykovo náměstí 3, 39301, Pelhřimov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 16:00; Sa 11:00",
-                "ref": "39307:7"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.2227426,
-                    49.4195576
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> ČSD <br><b>Adresa:</b> Nádražní 282, 39301, Pelhřimov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 14:00",
-                "ref": "39307:15"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.2257682,
-                    49.4325096
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Karlovo náměstí <br><b>Adresa:</b> Karlovo náměstí 168, 39301, Pelhřimov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 16:00; Sa 11:00",
-                "ref": "39307:6"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.2145836,
-                    49.4251902
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pod Floriánem <br><b>Adresa:</b> Pod Floriánem 1626, 39301, Pelhřimov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 14:00",
-                "ref": "39307:19"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.2113545,
-                    49.4336551
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Domov důchodců <br><b>Adresa:</b> Dolnokubínská 1931, 39301, Pelhřimov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 14:00",
-                "ref": "39307:23"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.2449731,
-                    49.3973218
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pavlov <br><b>Adresa:</b> č.p. 16, 39301, Pavlov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "39307:89"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.2153763,
-                    49.4330454
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Strachovská 523 <br><b>Adresa:</b> Primase Hrůzy 523, 39301, Pelhřimov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 14:00",
-                "ref": "39307:20"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.2268749,
-                    49.4353885
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Sadová <br><b>Adresa:</b> Sadová 1102, 39301, Pelhřimov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 14:00; Sa 11:00",
-                "ref": "39307:5"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.2190901,
-                    49.3960417
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Vokov <br><b>Adresa:</b> č.p. 6, 39301, Vokov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "39307:98"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.2655219,
-                    49.4158709
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Putimov <br><b>Adresa:</b> č.p. 47, 39301, Putimov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "39307:53"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.2220408,
-                    49.4268044
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Mikuláše z Pelhřimova <br><b>Adresa:</b> Mikuláše z Pelhř. 387, 39301, Pelhřimov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 14:00",
-                "ref": "39307:12"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.2416356,
-                    49.4131373
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Skrýšov <br><b>Adresa:</b> Skrýšov 25, 39301, Pelhřimov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "39307:61"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.2242374,
-                    49.4237837
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Nádražní 652 <br><b>Adresa:</b> Nádražní 652, 39301, Pelhřimov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 14:00; Sa 11:00",
-                "ref": "39307:14"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.261346,
-                    49.4340381
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Chválov <br><b>Adresa:</b> Chválov 12, 39301, Olešná ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "39307:51"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.2308776,
-                    49.4284523
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Křemešnická <br><b>Adresa:</b> Dobiášova 1333, 39301, Pelhřimov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 14:00",
-                "ref": "39307:1"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.2695278,
-                    49.4270764
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Řemenov <br><b>Adresa:</b> Řemenov 7, 39301, Olešná ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "39307:52"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.2337695,
-                    49.388745
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Rynárec-pošta <br><b>Adresa:</b> č.p. 61, 39401, Rynárec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "39307:344"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.2725972,
-                    49.3992182
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Nemojov <br><b>Adresa:</b> Nemojov 11, 39301, Pelhřimov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "39307:59"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.2298444,
-                    49.433513
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Městská nemocnice <br><b>Adresa:</b> Slovanského bratrství 710, 39301, Pelhřimov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 14:00; Sa 11:00",
-                "ref": "39307:4"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.2757004,
-                    49.3876297
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Horní Radňov <br><b>Adresa:</b> Radňov 34, 39301, Pelhřimov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "39307:58"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.234174,
-                    49.4308203
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Čajkovského ul. <br><b>Adresa:</b> Čajkovského 1313, 39301, Pelhřimov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 14:00",
-                "ref": "39307:3"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.2179222,
-                    49.4354268
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Rubešova <br><b>Adresa:</b> Pražská 415, 39301, Pelhřimov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 14:00",
-                "ref": "39307:24"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.2250268,
-                    49.4302284
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> budova pošty <br><b>Adresa:</b> Příkopy 1889, 39301, Pelhřimov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 16:00; Sa 14:00",
-                "ref": "39307:380"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.224898,
-                    49.427968
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Nádražní 826 <br><b>Adresa:</b> Nádražní 826, 39301, Pelhřimov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 14:00",
-                "ref": "39307:11"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.207118,
-                    49.4371014
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Táborská 1808 <br><b>Adresa:</b> Táborská 1808, 39301, Pelhřimov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 14:00",
-                "ref": "39307:25"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.2341087,
-                    49.434585
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Čajkovského <br><b>Adresa:</b> Čajkovského 1291, 39301, Pelhřimov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 14:00",
-                "ref": "39307:2"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.2229436,
-                    49.4250054
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> ČSAD Pelhřimov <br><b>Adresa:</b> Pod Náspem 2437, 39301, Pelhřimov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 14:00",
-                "ref": "39307:13"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.2904667,
-                    49.4376827
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Plevnice <br><b>Adresa:</b> Plevnice 4, 39301, Olešná ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "39307:69"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.2183566,
-                    49.4314284
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Strachovská 331 <br><b>Adresa:</b> Strachovská 331, 39301, Pelhřimov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 14:00",
-                "ref": "39307:21"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.2308776,
+          49.4284523
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Křemešnická <br><b>Adresa:</b> Dobiášova 1333, 39301, Pelhřimov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 14:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.224898,
+          49.427968
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nádražní 826 <br><b>Adresa:</b> Nádražní 826, 39301, Pelhřimov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 14:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:11"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2220408,
+          49.4268044
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Mikuláše z Pelhřimova <br><b>Adresa:</b> Mikuláše z Pelhř. 387, 39301, Pelhřimov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 14:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:12"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.217613,
+          49.4113372
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lesy Pelhřimov <br><b>Adresa:</b> Myslotínská 2044, 39301, Pelhřimov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 07:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:122"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2229436,
+          49.4250054
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> ČSAD Pelhřimov <br><b>Adresa:</b> Pod Náspem 2437, 39301, Pelhřimov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 14:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:13"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2242374,
+          49.4237837
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nádražní 652 <br><b>Adresa:</b> Nádražní 652, 39301, Pelhřimov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 14:00; Sa 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:14"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2227426,
+          49.4195576
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> ČSD <br><b>Adresa:</b> Nádražní 282, 39301, Pelhřimov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 14:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:15"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2197646,
+          49.4270665
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pod Náspem <br><b>Adresa:</b> Pod Náspem 1092, 39301, Pelhřimov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 14:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:17"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2166749,
+          49.4263235
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Požárnická <br><b>Adresa:</b> Požárnická 1240, 39301, Pelhřimov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 14:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:18"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2145836,
+          49.4251902
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pod Floriánem <br><b>Adresa:</b> Pod Floriánem 1626, 39301, Pelhřimov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 14:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:19"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2341087,
+          49.434585
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Čajkovského <br><b>Adresa:</b> Čajkovského 1291, 39301, Pelhřimov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 14:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:2"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2153763,
+          49.4330454
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Strachovská 523 <br><b>Adresa:</b> Primase Hrůzy 523, 39301, Pelhřimov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 14:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:20"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2183566,
+          49.4314284
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Strachovská 331 <br><b>Adresa:</b> Strachovská 331, 39301, Pelhřimov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 14:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:21"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2112996,
+          49.4353261
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dolnokubínská 1671 <br><b>Adresa:</b> Dolnokubínská 1671, 39301, Pelhřimov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 14:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:22"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2113545,
+          49.4336551
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Domov důchodců <br><b>Adresa:</b> Dolnokubínská 1931, 39301, Pelhřimov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 14:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:23"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2179222,
+          49.4354268
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Rubešova <br><b>Adresa:</b> Pražská 415, 39301, Pelhřimov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 14:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:24"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.207118,
+          49.4371014
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Táborská 1808 <br><b>Adresa:</b> Táborská 1808, 39301, Pelhřimov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 14:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:25"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.215457,
+          49.4362155
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pražská 1189 <br><b>Adresa:</b> Pražská 1183, 39301, Pelhřimov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 14:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:27"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2114989,
+          49.4392848
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kaufland Pelhřimov <br><b>Adresa:</b> Pražská 2276, 39301, Pelhřimov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 14:00; Sa 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:28"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.234174,
+          49.4308203
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Čajkovského ul. <br><b>Adresa:</b> Čajkovského 1313, 39301, Pelhřimov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 14:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:3"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2337695,
+          49.388745
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Rynárec-pošta <br><b>Adresa:</b> č.p. 61, 39401, Rynárec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:344"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2250268,
+          49.4302284
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> budova pošty <br><b>Adresa:</b> Příkopy 1889, 39301, Pelhřimov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 16:00; Sa 14:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:380"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2298444,
+          49.433513
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Městská nemocnice <br><b>Adresa:</b> Slovanského bratrství 710, 39301, Pelhřimov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 14:00; Sa 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:4"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2268749,
+          49.4353885
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Sadová <br><b>Adresa:</b> Sadová 1102, 39301, Pelhřimov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 14:00; Sa 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:5"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.261346,
+          49.4340381
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Chválov <br><b>Adresa:</b> Chválov 12, 39301, Olešná ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:51"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2695278,
+          49.4270764
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Řemenov <br><b>Adresa:</b> Řemenov 7, 39301, Olešná ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:52"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2655219,
+          49.4158709
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Putimov <br><b>Adresa:</b> č.p. 47, 39301, Putimov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:53"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2737879,
+          49.3847091
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Radňov <br><b>Adresa:</b> Radňov 15, 39301, Pelhřimov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:57"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2757004,
+          49.3876297
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Horní Radňov <br><b>Adresa:</b> Radňov 34, 39301, Pelhřimov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:58"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2725972,
+          49.3992182
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nemojov <br><b>Adresa:</b> Nemojov 11, 39301, Pelhřimov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:59"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2257682,
+          49.4325096
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Karlovo náměstí <br><b>Adresa:</b> Karlovo náměstí 168, 39301, Pelhřimov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 16:00; Sa 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:6"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2416356,
+          49.4131373
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Skrýšov <br><b>Adresa:</b> Skrýšov 25, 39301, Pelhřimov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:61"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2904667,
+          49.4376827
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Plevnice <br><b>Adresa:</b> Plevnice 4, 39301, Olešná ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:69"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2229508,
+          49.4313462
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Masarykovo náměstí <br><b>Adresa:</b> Masarykovo náměstí 3, 39301, Pelhřimov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 16:00; Sa 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:7"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2238217,
+          49.4324041
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Svatovítské náměstí <br><b>Adresa:</b> Dr. Tyrše 877, 39301, Pelhřimov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 16:00; Sa 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:8"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2449731,
+          49.3973218
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pavlov <br><b>Adresa:</b> č.p. 16, 39301, Pavlov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:89"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2190901,
+          49.3960417
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vokov <br><b>Adresa:</b> č.p. 6, 39301, Vokov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:98"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

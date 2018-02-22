@@ -1,141 +1,141 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.7344378,
-                    49.3666607
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jednota, Bítovčice <br><b>Adresa:</b> č.p. 32, 58822, Bítovčice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:05",
-                "ref": "58607:109"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.7819789,
-                    49.3669638
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> zastávka \"Na městečku\", Kamenice u Ji <br><b>Adresa:</b> č.p. 32, 58823, Kamenice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "58607:125"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.8019048,
-                    49.3722377
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> zastávka ICOM, Kamenička <br><b>Adresa:</b> Kamenička 32, 58822, Kamenice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:20",
-                "ref": "58607:112"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.7525992,
-                    49.3538074
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> zastávka ICOM, Vržanov <br><b>Adresa:</b> Vržanov 12, 58822, Kamenice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:45",
-                "ref": "58607:113"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.7779646,
-                    49.3694983
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Kamenice u Jihlavy <br><b>Adresa:</b> č.p. 395, 58823, Kamenice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 15:00",
-                "ref": "58607:251"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.7386048,
-                    49.3413869
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> zastávka ČD, Přímělkov <br><b>Adresa:</b> Přímělkov 47, 58822, Brtnice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:10",
-                "ref": "58607:114"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.7862686,
-                    49.3349494
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Radošov prodejna <br><b>Adresa:</b> č.p. 9, 67507, Radošov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "67407:105"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.7572692,
-                    49.3292305
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Horní Smrčné náves <br><b>Adresa:</b> č.p. 15, 67507, Horní Smrčné ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "67407:106"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.7344378,
+          49.3666607
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jednota, Bítovčice <br><b>Adresa:</b> č.p. 32, 58822, Bítovčice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:05",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:109"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8019048,
+          49.3722377
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> zastávka ICOM, Kamenička <br><b>Adresa:</b> Kamenička 32, 58822, Kamenice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:20",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:112"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7525992,
+          49.3538074
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> zastávka ICOM, Vržanov <br><b>Adresa:</b> Vržanov 12, 58822, Kamenice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:113"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7386048,
+          49.3413869
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> zastávka ČD, Přímělkov <br><b>Adresa:</b> Přímělkov 47, 58822, Brtnice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:10",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:114"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7819789,
+          49.3669638
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> zastávka \"Na městečku\", Kamenice u Ji <br><b>Adresa:</b> č.p. 32, 58823, Kamenice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:125"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7779646,
+          49.3694983
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Kamenice u Jihlavy <br><b>Adresa:</b> č.p. 395, 58823, Kamenice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 15:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:251"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7862686,
+          49.3349494
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Radošov prodejna <br><b>Adresa:</b> č.p. 9, 67507, Radošov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:105"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7572692,
+          49.3292305
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Horní Smrčné náves <br><b>Adresa:</b> č.p. 15, 67507, Horní Smrčné ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:106"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

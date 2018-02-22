@@ -1,56 +1,56 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.7293493,
-                    50.5162626
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> nádraží <br><b>Adresa:</b> Hlínoviště 48, 29421, Bělá pod Bezdězem <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 4.38 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "29407:25"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.7201375,
-                    50.5341651
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> U autobusové zastávky, Bezděz <br><b>Adresa:</b> č.p. 67, 47201, Bezděz <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 12.92 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "47007:162"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.7497851,
-                    50.5137025
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> na stojanu před objektem <br><b>Adresa:</b> Hlínoviště 15, 29421, Bělá pod Bezdězem <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 30.57 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "29407:24"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.7497851,
+          50.5137025
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> na stojanu před objektem <br><b>Adresa:</b> Hlínoviště 15, 29421, Bělá pod Bezdězem <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 30.57 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "29407:24"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.7293493,
+          50.5162626
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> nádraží <br><b>Adresa:</b> Hlínoviště 48, 29421, Bělá pod Bezdězem <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 4.38 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "29407:25"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.7201375,
+          50.5341651
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> U autobusové zastávky, Bezděz <br><b>Adresa:</b> č.p. 67, 47201, Bezděz <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 12.92 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "47007:162"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

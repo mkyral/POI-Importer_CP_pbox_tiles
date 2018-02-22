@@ -1,141 +1,141 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.2496605,
-                    49.7644044
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kozolupy - pošta <br><b>Adresa:</b> č.p. 270, 33032, Kozolupy ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "30071:217"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.207515,
-                    49.7275695
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Nýřany - býv.prod.Pankrác č.p.54 <br><b>Adresa:</b> Pankrác 54, 33023, Nýřany ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "30071:184"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.251489,
-                    49.7757163
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Město Touškov - pošta <br><b>Adresa:</b> Čemínská 26, 33033, Město Touškov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "30071:216"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.2189157,
-                    49.7477948
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Myslinka  u č.p.25 <br><b>Adresa:</b> č.p. 25, 33023, Myslinka ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "30071:185"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.2351907,
-                    49.7695402
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Bdeněves, autobusová zastávka <br><b>Adresa:</b> Plzeň-sever; Bdeněves; Bdeněves <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "30071:179"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.2375164,
-                    49.7247525
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Tlučná - pošta <br><b>Adresa:</b> Hlavní 128, 33026, Tlučná <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.49 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "30071:223"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.247777,
-                    49.7766933
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Město Touškov č.p. 329 <br><b>Adresa:</b> Stavební 329, 33033, Město Touškov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "30071:198"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.1873238,
-                    49.745647
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Doubrava - prodejna  u č.p.54 <br><b>Adresa:</b> Doubrava 54, 33023, Nýřany ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "30071:186"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.2351907,
+          49.7695402
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bdeněves, autobusová zastávka <br><b>Adresa:</b> Plzeň-sever; Bdeněves; Bdeněves <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30071:179"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.207515,
+          49.7275695
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nýřany - býv.prod.Pankrác č.p.54 <br><b>Adresa:</b> Pankrác 54, 33023, Nýřany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30071:184"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.2189157,
+          49.7477948
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Myslinka  u č.p.25 <br><b>Adresa:</b> č.p. 25, 33023, Myslinka ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30071:185"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.1873238,
+          49.745647
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Doubrava - prodejna  u č.p.54 <br><b>Adresa:</b> Doubrava 54, 33023, Nýřany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30071:186"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.247777,
+          49.7766933
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Město Touškov č.p. 329 <br><b>Adresa:</b> Stavební 329, 33033, Město Touškov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30071:198"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.251489,
+          49.7757163
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Město Touškov - pošta <br><b>Adresa:</b> Čemínská 26, 33033, Město Touškov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30071:216"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.2496605,
+          49.7644044
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kozolupy - pošta <br><b>Adresa:</b> č.p. 270, 33032, Kozolupy ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30071:217"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.2375164,
+          49.7247525
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Tlučná - pošta <br><b>Adresa:</b> Hlavní 128, 33026, Tlučná <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.49 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30071:223"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

@@ -1,124 +1,124 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.5901476,
-                    49.3124217
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Černíč u čp. 18 <br><b>Adresa:</b> Černíč 18, 34101, Hradešice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "33907:282"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.5968808,
-                    49.3228488
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hradešice - u COOP Hradešice čp.101 <br><b>Adresa:</b> ; ;  <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "33907:230"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.5571255,
-                    49.3092461
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Mířenice - hasičská zbrojnice, <br><b>Adresa:</b> Klatovy; Nalžovské Hory; Miřenice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "33907:285"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.5880025,
-                    49.3009684
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Vlkonice u čp. 31 <br><b>Adresa:</b> Vlkonice 31, 34101, Budětice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "33907:283"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.6189717,
-                    49.2813026
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Rabí - pošta <br><b>Adresa:</b> č.p. 15, 34201, Rabí ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "33907:289"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.585104,
-                    49.283342
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Budětice u čp. 30 <br><b>Adresa:</b> č.p. 30, 34201, Budětice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "33907:351"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.5941431,
-                    49.2687124
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Čepice u čp. 19 <br><b>Adresa:</b> Čepice 19, 34201, Rabí ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "33907:354"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.5968808,
+          49.3228488
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hradešice - u COOP Hradešice čp.101 <br><b>Adresa:</b> ; ;  <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "33907:230"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.5901476,
+          49.3124217
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Černíč u čp. 18 <br><b>Adresa:</b> Černíč 18, 34101, Hradešice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "33907:282"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.5880025,
+          49.3009684
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vlkonice u čp. 31 <br><b>Adresa:</b> Vlkonice 31, 34101, Budětice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "33907:283"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.5571255,
+          49.3092461
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Mířenice - hasičská zbrojnice, <br><b>Adresa:</b> Klatovy; Nalžovské Hory; Miřenice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "33907:285"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.6189717,
+          49.2813026
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Rabí - pošta <br><b>Adresa:</b> č.p. 15, 34201, Rabí ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "33907:289"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.585104,
+          49.283342
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Budětice u čp. 30 <br><b>Adresa:</b> č.p. 30, 34201, Budětice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "33907:351"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.5941431,
+          49.2687124
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Čepice u čp. 19 <br><b>Adresa:</b> Čepice 19, 34201, Rabí ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "33907:354"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

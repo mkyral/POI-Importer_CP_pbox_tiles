@@ -1,56 +1,56 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.1890117,
-                    50.2947819
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hranice u Aše, Krásňany 455 <br><b>Adresa:</b> Krásňany 455, 35124, Hranice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "35007:108"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.1763591,
-                    50.3065067
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hranice u Aše, Hotel Rosbach, Husova 710 <br><b>Adresa:</b> Husova 710, 35124, Hranice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "35007:107"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.1754427,
-                    50.3051383
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hranice u Aše - pošta <br><b>Adresa:</b> U pošty 760, 35124, Hranice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "35007:106"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          12.1754427,
+          50.3051383
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hranice u Aše - pošta <br><b>Adresa:</b> U pošty 760, 35124, Hranice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "35007:106"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.1763591,
+          50.3065067
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hranice u Aše, Hotel Rosbach, Husova 710 <br><b>Adresa:</b> Husova 710, 35124, Hranice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "35007:107"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.1890117,
+          50.2947819
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hranice u Aše, Krásňany 455 <br><b>Adresa:</b> Krásňany 455, 35124, Hranice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "35007:108"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

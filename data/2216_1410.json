@@ -1,124 +1,124 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.7806798,
-                    48.7905819
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Česká 67 <br><b>Adresa:</b> Česká 67, 37333, Nové Hrady <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 14.5 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "37271:423"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.7694272,
-                    48.7884504
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Údolí u N. Hradů <br><b>Adresa:</b> Údolí 137, 37401, Nové Hrady <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 27.82 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "37271:436"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.7931553,
-                    48.801003
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Štiptoň <br><b>Adresa:</b> Štiptoň 62, 37401, Nové Hrady <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 15.85 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "37271:437"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.7783585,
-                    48.7901532
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> náměstí Republiky 46 <br><b>Adresa:</b> nám. Republiky 46, 37333, Nové Hrady <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 30.79 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "37271:425"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.8358142,
-                    48.7966329
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Náves Nakolice <br><b>Adresa:</b> Nakolice 5, 37401, Nové Hrady <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 26.34 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "37271:421"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.7778563,
-                    48.7905959
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Budova pošty Nové Hrady <br><b>Adresa:</b> 5. května 56, 37333, Nové Hrady <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.8 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "37271:449"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.7863817,
-                    48.7900991
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Sídliště míru 270, 37333, Nové Hrady <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.97 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "37271:432"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.8358142,
+          48.7966329
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Náves Nakolice <br><b>Adresa:</b> Nakolice 5, 37401, Nové Hrady <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 26.34 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:421"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.7806798,
+          48.7905819
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Česká 67 <br><b>Adresa:</b> Česká 67, 37333, Nové Hrady <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 14.5 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:423"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.7783585,
+          48.7901532
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> náměstí Republiky 46 <br><b>Adresa:</b> nám. Republiky 46, 37333, Nové Hrady <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 30.79 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:425"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.7863817,
+          48.7900991
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Sídliště míru 270, 37333, Nové Hrady <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.97 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:432"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.7694272,
+          48.7884504
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Údolí u N. Hradů <br><b>Adresa:</b> Údolí 137, 37401, Nové Hrady <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 27.82 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:436"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.7931553,
+          48.801003
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Štiptoň <br><b>Adresa:</b> Štiptoň 62, 37401, Nové Hrady <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 15.85 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:437"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.7778563,
+          48.7905959
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Budova pošty Nové Hrady <br><b>Adresa:</b> 5. května 56, 37333, Nové Hrady <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.8 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:449"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

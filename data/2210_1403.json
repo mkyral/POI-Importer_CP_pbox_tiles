@@ -1,141 +1,141 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.2741812,
-                    49.191752
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Těšínov č. 9 <br><b>Adresa:</b> Těšínov 65, 39811, Protivín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "39707:110"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3067716,
-                    49.1640582
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Chvalešovice <br><b>Adresa:</b> Chvalešovice 5, 37501, Dříteň <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 22.06 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:50",
-                "ref": "37271:242"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.2486956,
-                    49.1954165
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Krč č. 39 <br><b>Adresa:</b> Krč 40, 39811, Protivín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:15",
-                "ref": "39707:113"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.316036,
-                    49.1823216
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Lhota pod Horami <br><b>Adresa:</b> Lhota pod Horami 28, 37501, Temelín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.79 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "37271:240"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.2717875,
-                    49.157616
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Číčenice - cihelna <br><b>Adresa:</b> č.p. 103, 38901, Číčenice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.24 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:15",
-                "ref": "37271:773"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3253329,
-                    49.1612136
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Malešice <br><b>Adresa:</b> Malešice 12, 37501, Dříteň <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 18.91 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "37271:243"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.325831,
-                    49.173918
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Sedlec <br><b>Adresa:</b> Sedlec 6, 37501, Temelín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 41.17 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:10",
-                "ref": "37271:241"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.2529373,
-                    49.1694845
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Záboří č. 20 <br><b>Adresa:</b> Záboří 20, 39811, Protivín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:45",
-                "ref": "39707:111"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.316036,
+          49.1823216
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lhota pod Horami <br><b>Adresa:</b> Lhota pod Horami 28, 37501, Temelín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.79 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:240"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.325831,
+          49.173918
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Sedlec <br><b>Adresa:</b> Sedlec 6, 37501, Temelín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 41.17 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:10",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:241"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3067716,
+          49.1640582
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Chvalešovice <br><b>Adresa:</b> Chvalešovice 5, 37501, Dříteň <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 22.06 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:50",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:242"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3253329,
+          49.1612136
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Malešice <br><b>Adresa:</b> Malešice 12, 37501, Dříteň <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 18.91 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:243"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2717875,
+          49.157616
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Číčenice - cihelna <br><b>Adresa:</b> č.p. 103, 38901, Číčenice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.24 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:773"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2741812,
+          49.191752
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Těšínov č. 9 <br><b>Adresa:</b> Těšínov 65, 39811, Protivín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39707:110"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2529373,
+          49.1694845
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Záboří č. 20 <br><b>Adresa:</b> Záboří 20, 39811, Protivín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39707:111"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2486956,
+          49.1954165
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Krč č. 39 <br><b>Adresa:</b> Krč 40, 39811, Protivín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39707:113"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

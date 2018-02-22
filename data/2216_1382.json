@@ -1,141 +1,141 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.769152,
-                    50.3705669
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> stojan u sloupu <br><b>Adresa:</b> Krušiny 6, 29426, Velké Všelisy <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 37.2 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "29407:154"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.7862979,
-                    50.3723336
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Sovinky - prodejna <br><b>Adresa:</b> Prošovická 118, 29429, Bezno <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 50.26 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "29407:155"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.823847,
-                    50.3922667
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u obchodu <br><b>Adresa:</b> č.p. 23, 29430, Strenice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 7.62 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "29407:163"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.796489,
-                    50.3676969
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Bezno <br><b>Adresa:</b> Mírové náměstí 54, 29429, Bezno <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 150.93 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "29407:149"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.8079726,
-                    50.3958326
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> zastávka <br><b>Adresa:</b> č.p. 38, 29430, Niměřice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 12.99 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:50",
-                "ref": "29407:157"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.7758898,
-                    50.3959767
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 18, 29430, Doubravička <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 38.2 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "29407:159"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.8526782,
-                    50.3804201
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 15, 29431, Krnsko <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 18.74 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "29407:132"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.8518681,
-                    50.3685804
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> prodejna <br><b>Adresa:</b> č.p. 48, 29431, Jizerní Vtelno <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.4 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "29407:134"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.8526782,
+          50.3804201
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 15, 29431, Krnsko <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 18.74 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "29407:132"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.8518681,
+          50.3685804
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> prodejna <br><b>Adresa:</b> č.p. 48, 29431, Jizerní Vtelno <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.4 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "29407:134"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.796489,
+          50.3676969
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Bezno <br><b>Adresa:</b> Mírové náměstí 54, 29429, Bezno <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 150.93 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "29407:149"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.769152,
+          50.3705669
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> stojan u sloupu <br><b>Adresa:</b> Krušiny 6, 29426, Velké Všelisy <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 37.2 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "29407:154"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.7862979,
+          50.3723336
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Sovinky - prodejna <br><b>Adresa:</b> Prošovická 118, 29429, Bezno <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 50.26 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "29407:155"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.8079726,
+          50.3958326
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> zastávka <br><b>Adresa:</b> č.p. 38, 29430, Niměřice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 12.99 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:50",
+        "operator": "Česká pošta, s.p.",
+        "ref": "29407:157"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.7758898,
+          50.3959767
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 18, 29430, Doubravička <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 38.2 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "29407:159"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.823847,
+          50.3922667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u obchodu <br><b>Adresa:</b> č.p. 23, 29430, Strenice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 7.62 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "29407:163"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

@@ -1,107 +1,107 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.664105,
-                    50.2163264
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Amalín, u nádraží čp.3, Sl.Rudoltice (na stojanu) <br><b>Adresa:</b> Bruntál; Slezské Rudoltice; Amalín <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:10",
-                "ref": "79207:246"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.6078417,
-                    50.2233596
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pošta Liptaň <br><b>Adresa:</b> č.p. 266, 79399, Liptaň ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "79207:226"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.6233258,
-                    50.2064973
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Bučávka,u čp.82,Liptaň(stojan na točně BUS u kapl) <br><b>Adresa:</b> Bruntál; Liptaň; Bučávka <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "79207:245"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.6474368,
-                    50.2228791
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Horní Povelice,napr.čp.67,Liptaň (stojan zast.BUS) <br><b>Adresa:</b> Bruntál; Liptaň; Horní Povelice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:25",
-                "ref": "79207:239"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.6051825,
-                    50.2222889
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> čp.149, Liptaň (na budově OÚ) <br><b>Adresa:</b> č.p. 149, 79399, Liptaň ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:40",
-                "ref": "79207:244"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.5804166,
-                    50.1858431
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Rudíkovy,čp.2,Třemešná (stojan před domem) <br><b>Adresa:</b> Rudíkovy 2, 79382, Třemešná ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "79207:218"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          17.5804166,
+          50.1858431
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Rudíkovy,čp.2,Třemešná (stojan před domem) <br><b>Adresa:</b> Rudíkovy 2, 79382, Třemešná ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79207:218"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.6078417,
+          50.2233596
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Liptaň <br><b>Adresa:</b> č.p. 266, 79399, Liptaň ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79207:226"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.6474368,
+          50.2228791
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Horní Povelice,napr.čp.67,Liptaň (stojan zast.BUS) <br><b>Adresa:</b> Bruntál; Liptaň; Horní Povelice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:25",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79207:239"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.6051825,
+          50.2222889
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> čp.149, Liptaň (na budově OÚ) <br><b>Adresa:</b> č.p. 149, 79399, Liptaň ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:40",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79207:244"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.6233258,
+          50.2064973
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bučávka,u čp.82,Liptaň(stojan na točně BUS u kapl) <br><b>Adresa:</b> Bruntál; Liptaň; Bučávka <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79207:245"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.664105,
+          50.2163264
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Amalín, u nádraží čp.3, Sl.Rudoltice (na stojanu) <br><b>Adresa:</b> Bruntál; Slezské Rudoltice; Amalín <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:10",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79207:246"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

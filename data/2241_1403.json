@@ -1,90 +1,90 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.0299262,
-                    49.1723927
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kojátky , Obecní úřad <br><b>Adresa:</b> č.p. 155, 68501, Kojátky ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "68207:99"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.0352737,
-                    49.2040321
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kozlany, Obecní úřad č.p.8 <br><b>Adresa:</b> č.p. 8, 68341, Kozlany ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:15",
-                "ref": "68207:63"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.0315134,
-                    49.2103216
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Bohdalice  Hradčany <br><b>Adresa:</b> Bohdalice 91, 68341, Bohdalice-Pavlovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "68207:65"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.0135258,
-                    49.1885199
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Bohaté Málkovice u cesty <br><b>Adresa:</b> č.p. 80, 68501, Bohaté Málkovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "68207:96"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.9973148,
-                    49.1549622
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Bučovice  U škol - křižovatka <br><b>Adresa:</b> U Škol 722, 68501, Bučovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "68207:104"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.9973148,
+          49.1549622
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bučovice  U škol - křižovatka <br><b>Adresa:</b> U Škol 722, 68501, Bučovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68207:104"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.0352737,
+          49.2040321
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kozlany, Obecní úřad č.p.8 <br><b>Adresa:</b> č.p. 8, 68341, Kozlany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68207:63"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.0315134,
+          49.2103216
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bohdalice  Hradčany <br><b>Adresa:</b> Bohdalice 91, 68341, Bohdalice-Pavlovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68207:65"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.0135258,
+          49.1885199
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bohaté Málkovice u cesty <br><b>Adresa:</b> č.p. 80, 68501, Bohaté Málkovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68207:96"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.0299262,
+          49.1723927
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kojátky , Obecní úřad <br><b>Adresa:</b> č.p. 155, 68501, Kojátky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68207:99"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

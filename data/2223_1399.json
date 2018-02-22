@@ -1,175 +1,175 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4593327,
-                    49.4006106
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hubenov, zastávka  Icom <br><b>Adresa:</b> č.p. 18, 58805, Hubenov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 07:45",
-                "ref": "58607:44"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4350197,
-                    49.3829491
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Nový Hojkov, u vývěsky <br><b>Adresa:</b> č.p. 70, 58805, Hojkov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:20",
-                "ref": "58607:48"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4582654,
-                    49.3958031
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jedlov, obchod <br><b>Adresa:</b> Jedlov 27, 58805, Mirošov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:10",
-                "ref": "58607:46"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4640166,
-                    49.3892137
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Mirošov, u kostela <br><b>Adresa:</b> č.p. 29, 58805, Mirošov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 07:45",
-                "ref": "58607:45"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4321098,
-                    49.4087589
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta  Dušejov <br><b>Adresa:</b> č.p. 42, 58805, Dušejov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 15:30",
-                "ref": "58607:245"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.3908238,
-                    49.3930429
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Milíčov, Hostinec <br><b>Adresa:</b> č.p. 15, 58805, Milíčov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:50",
-                "ref": "58607:50"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4344906,
-                    49.4039963
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Boršov, náves <br><b>Adresa:</b> č.p. 52, 58805, Boršov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:15",
-                "ref": "58607:47"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4660472,
-                    49.4173421
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Ježená, Jednota <br><b>Adresa:</b> č.p. 11, 58841, Ježená ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:05",
-                "ref": "58607:39"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.385831,
-                    49.414947
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jankov <br><b>Adresa:</b> č.p. 26, 39301, Jankov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "39307:86"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.393542,
-                    49.4296935
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Opatov, zastávka ICOM <br><b>Adresa:</b> č.p. 31, 58805, Opatov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:35",
-                "ref": "58607:51"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.385831,
+          49.414947
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jankov <br><b>Adresa:</b> č.p. 26, 39301, Jankov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:86"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4321098,
+          49.4087589
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta  Dušejov <br><b>Adresa:</b> č.p. 42, 58805, Dušejov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 15:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:245"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4660472,
+          49.4173421
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Ježená, Jednota <br><b>Adresa:</b> č.p. 11, 58841, Ježená ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:05",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:39"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4593327,
+          49.4006106
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hubenov, zastávka  Icom <br><b>Adresa:</b> č.p. 18, 58805, Hubenov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 07:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:44"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4640166,
+          49.3892137
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Mirošov, u kostela <br><b>Adresa:</b> č.p. 29, 58805, Mirošov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 07:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:45"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4582654,
+          49.3958031
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jedlov, obchod <br><b>Adresa:</b> Jedlov 27, 58805, Mirošov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:10",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:46"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4344906,
+          49.4039963
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Boršov, náves <br><b>Adresa:</b> č.p. 52, 58805, Boršov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:47"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4350197,
+          49.3829491
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nový Hojkov, u vývěsky <br><b>Adresa:</b> č.p. 70, 58805, Hojkov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:20",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:48"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.3908238,
+          49.3930429
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Milíčov, Hostinec <br><b>Adresa:</b> č.p. 15, 58805, Milíčov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:50",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:50"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.393542,
+          49.4296935
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Opatov, zastávka ICOM <br><b>Adresa:</b> č.p. 31, 58805, Opatov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:35",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:51"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

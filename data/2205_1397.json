@@ -1,141 +1,141 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.8347767,
-                    49.4996261
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Újezdec na OÚ <br><b>Adresa:</b> Újezdec 21, 38742, Bělčice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:45",
-                "ref": "38607:262"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.8748277,
-                    49.5032939
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Budova pošty, Bělčice <br><b>Adresa:</b> nám. J. Kučery 111, 38743, Bělčice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "38607:276"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.8210956,
-                    49.5156172
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Tisov - u DS č.p.16 <br><b>Adresa:</b> Tisov 16, 26242, Bělčice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "26107:127"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.8415414,
-                    49.5252928
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Leletice zast.ČSAD č.p.1 <br><b>Adresa:</b> Leletice 1, 26242, Hvožďany ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "26107:128"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.8494338,
-                    49.5088969
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Záhrobí u zastávky <br><b>Adresa:</b> Záhrobí 24, 38742, Bělčice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "38607:263"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.8053946,
-                    49.5278513
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Hvožďany <br><b>Adresa:</b> č.p. 82, 26244, Hvožďany ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "26107:390"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.8820529,
-                    49.5471668
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Volenice č.p.5 <br><b>Adresa:</b> č.p. 5, 26272, Volenice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "26107:76"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.8363689,
-                    49.5440993
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Vacíkov prodejna č.p.60 <br><b>Adresa:</b> Vacíkov 60, 26242, Hvožďany ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "26107:129"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.8210956,
+          49.5156172
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Tisov - u DS č.p.16 <br><b>Adresa:</b> Tisov 16, 26242, Bělčice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:127"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.8415414,
+          49.5252928
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Leletice zast.ČSAD č.p.1 <br><b>Adresa:</b> Leletice 1, 26242, Hvožďany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:128"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.8363689,
+          49.5440993
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vacíkov prodejna č.p.60 <br><b>Adresa:</b> Vacíkov 60, 26242, Hvožďany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:129"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.8053946,
+          49.5278513
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Hvožďany <br><b>Adresa:</b> č.p. 82, 26244, Hvožďany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:390"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.8820529,
+          49.5471668
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Volenice č.p.5 <br><b>Adresa:</b> č.p. 5, 26272, Volenice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:76"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.8347767,
+          49.4996261
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Újezdec na OÚ <br><b>Adresa:</b> Újezdec 21, 38742, Bělčice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38607:262"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.8494338,
+          49.5088969
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Záhrobí u zastávky <br><b>Adresa:</b> Záhrobí 24, 38742, Bělčice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38607:263"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.8748277,
+          49.5032939
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Budova pošty, Bělčice <br><b>Adresa:</b> nám. J. Kučery 111, 38743, Bělčice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38607:276"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

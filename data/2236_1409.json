@@ -1,90 +1,90 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.5871732,
-                    48.8576869
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> ul. Hlavní 124 <br><b>Adresa:</b> Hlavní 124, 69185, Dolní Dunajovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "69007:89"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.5656697,
-                    48.8198155
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Březí u Mikulova <br><b>Adresa:</b> Hlavní 112, 69181, Březí ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "69007:78"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.5353424,
-                    48.8269119
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Dobré Pole - poštovna <br><b>Adresa:</b> č.p. 89, 69181, Dobré Pole ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "69007:79"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.556754,
-                    48.8140293
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> prodejna masa <br><b>Adresa:</b> Nádražní 316, 69181, Březí ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "69007:77"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.5937784,
-                    48.8522401
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Dolní Dunajovice <br><b>Adresa:</b> Poštovní 190, 69185, Dolní Dunajovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "69007:90"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.556754,
+          48.8140293
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> prodejna masa <br><b>Adresa:</b> Nádražní 316, 69181, Březí ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69007:77"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.5656697,
+          48.8198155
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Březí u Mikulova <br><b>Adresa:</b> Hlavní 112, 69181, Březí ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69007:78"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.5353424,
+          48.8269119
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dobré Pole - poštovna <br><b>Adresa:</b> č.p. 89, 69181, Dobré Pole ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69007:79"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.5871732,
+          48.8576869
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> ul. Hlavní 124 <br><b>Adresa:</b> Hlavní 124, 69185, Dolní Dunajovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69007:89"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.5937784,
+          48.8522401
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Dolní Dunajovice <br><b>Adresa:</b> Poštovní 190, 69185, Dolní Dunajovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69007:90"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

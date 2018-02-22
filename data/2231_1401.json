@@ -1,175 +1,175 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1674056,
-                    49.3237792
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Osová Bítýška <br><b>Adresa:</b> č.p. 3, 59453, Osová Bítýška ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:45",
-                "ref": "59502:49"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1691043,
-                    49.3217405
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> samoobsluha, Záblatí <br><b>Adresa:</b> č.p. 11, 59453, Záblatí ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "59502:26"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1613612,
-                    49.2860049
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> kulturní dům, Březka <br><b>Adresa:</b> Březka 27, 59501, Velká Bíteš ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:40",
-                "ref": "59502:7"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1411092,
-                    49.2692557
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Čikov <br><b>Adresa:</b> č.p. 45, 67578, Čikov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "67407:335"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.0951865,
-                    49.2878343
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Tasov <br><b>Adresa:</b> č.p. 130, 67579, Tasov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:10",
-                "ref": "67407:336"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1414967,
-                    49.2909643
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Obecní úřad, Holubí Zhoř <br><b>Adresa:</b> Holubí Zhoř 52, 59501, Velká Bíteš ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:10",
-                "ref": "59502:8"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.0904083,
-                    49.3237326
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jednota, Jabloňov <br><b>Adresa:</b> č.p. 29, 59401, Jabloňov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:15",
-                "ref": "59402:26"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1263665,
-                    49.3235969
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jednota, Ruda <br><b>Adresa:</b> č.p. 5, 59401, Ruda ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:35",
-                "ref": "59402:25"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1202506,
-                    49.3221103
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> dvůr, Křeptov <br><b>Adresa:</b> č.p. 64, 59401, Ruda ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:15",
-                "ref": "59402:33"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1600867,
-                    49.3027081
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> náves, Jáchymov <br><b>Adresa:</b> Jáchymov 9, 59453, Velká Bíteš ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:30",
-                "ref": "59502:9"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.1263665,
+          49.3235969
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jednota, Ruda <br><b>Adresa:</b> č.p. 5, 59401, Ruda ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:35",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59402:25"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0904083,
+          49.3237326
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jednota, Jabloňov <br><b>Adresa:</b> č.p. 29, 59401, Jabloňov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59402:26"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1202506,
+          49.3221103
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> dvůr, Křeptov <br><b>Adresa:</b> č.p. 64, 59401, Ruda ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59402:33"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1691043,
+          49.3217405
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> samoobsluha, Záblatí <br><b>Adresa:</b> č.p. 11, 59453, Záblatí ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59502:26"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1674056,
+          49.3237792
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Osová Bítýška <br><b>Adresa:</b> č.p. 3, 59453, Osová Bítýška ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59502:49"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1613612,
+          49.2860049
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> kulturní dům, Březka <br><b>Adresa:</b> Březka 27, 59501, Velká Bíteš ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:40",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59502:7"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1414967,
+          49.2909643
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Obecní úřad, Holubí Zhoř <br><b>Adresa:</b> Holubí Zhoř 52, 59501, Velká Bíteš ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:10",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59502:8"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1600867,
+          49.3027081
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> náves, Jáchymov <br><b>Adresa:</b> Jáchymov 9, 59453, Velká Bíteš ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59502:9"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1411092,
+          49.2692557
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Čikov <br><b>Adresa:</b> č.p. 45, 67578, Čikov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:335"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0951865,
+          49.2878343
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Tasov <br><b>Adresa:</b> č.p. 130, 67579, Tasov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:10",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:336"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

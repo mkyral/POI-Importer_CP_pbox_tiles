@@ -1,22 +1,22 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.845238,
-                    49.0376484
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> zastávka, Pitín <br><b>Adresa:</b> č.p. 191, 68771, Pitín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "68607:141"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          17.845238,
+          49.0376484
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> zastávka, Pitín <br><b>Adresa:</b> č.p. 191, 68771, Pitín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68607:141"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

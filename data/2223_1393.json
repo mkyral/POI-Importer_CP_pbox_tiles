@@ -1,107 +1,107 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4421765,
-                    49.7652036
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Chrtníč 51 - prodejna <br><b>Adresa:</b> č.p. 51, 58282, Chrtníč ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:209"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.3977537,
-                    49.7615029
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Leština u Světlé <br><b>Adresa:</b> č.p. 51, 58286, Leština u Světlé ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:36"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4594445,
-                    49.7329887
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Bačkov - náves <br><b>Adresa:</b> č.p. 19, 58291, Bačkov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:232"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4127866,
-                    49.7553275
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Štěpánov 9 - OÚ <br><b>Adresa:</b> Štěpánov 9, 58282, Leština u Světlé ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:210"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4111601,
-                    49.7339514
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Sázavka <br><b>Adresa:</b> č.p. 12, 58244, Sázavka ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:15"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4492478,
-                    49.7435132
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Lubno 1 - náves, \"S\" <br><b>Adresa:</b> Lubno 1, 58282, Habry ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:208"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.4111601,
+          49.7339514
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Sázavka <br><b>Adresa:</b> č.p. 12, 58244, Sázavka ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:15"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4492478,
+          49.7435132
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lubno 1 - náves, \"S\" <br><b>Adresa:</b> Lubno 1, 58282, Habry ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:208"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4421765,
+          49.7652036
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Chrtníč 51 - prodejna <br><b>Adresa:</b> č.p. 51, 58282, Chrtníč ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:209"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4127866,
+          49.7553275
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Štěpánov 9 - OÚ <br><b>Adresa:</b> Štěpánov 9, 58282, Leština u Světlé ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:210"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4594445,
+          49.7329887
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bačkov - náves <br><b>Adresa:</b> č.p. 19, 58291, Bačkov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:232"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.3977537,
+          49.7615029
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Leština u Světlé <br><b>Adresa:</b> č.p. 51, 58286, Leština u Světlé ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:36"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

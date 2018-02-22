@@ -1,175 +1,175 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.5312778,
-                    49.524397
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Úhořilka 23 <br><b>Adresa:</b> č.p. 23, 58253, Úhořilka ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:102"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.540611,
-                    49.534341
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kochánov 19  \"S\" <br><b>Adresa:</b> č.p. 19, 58253, Kochánov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:101"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.5151001,
-                    49.5392536
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Lípa, Dobrohostov 50 - prodejna <br><b>Adresa:</b> Dobrohostov 50, 58253, Lípa ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:103"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.536736,
-                    49.5002722
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Štoky, Petrovice 50 - prodejna <br><b>Adresa:</b> Petrovice 50, 58253, Štoky ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:106"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4773868,
-                    49.5486459
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Herálec, Koječín 18 <br><b>Adresa:</b> Koječín 18, 58255, Herálec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:89"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.5093931,
-                    49.5292088
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Lípa, Chválkov 7 - BUS, \"S\" <br><b>Adresa:</b> Chválkov 7, 58253, Lípa ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:104"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4767745,
-                    49.5080956
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Skorkov u čp. 15 <br><b>Adresa:</b> č.p. 15, 58253, Skorkov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:108"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.5029037,
-                    49.5151113
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Úsobí <br><b>Adresa:</b> č.p. 50, 58254, Úsobí ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:20"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.5331417,
-                    49.509903
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Úsobí, Chyška 20, \"S\" <br><b>Adresa:</b> Chyška 20, 58253, Úsobí ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:105"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.5080059,
-                    49.4973639
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Úsobí, Kosovy 1 - náves, \"S\" <br><b>Adresa:</b> Kosovy 1, 58253, Úsobí ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:107"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.540611,
+          49.534341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kochánov 19  \"S\" <br><b>Adresa:</b> č.p. 19, 58253, Kochánov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:101"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.5312778,
+          49.524397
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Úhořilka 23 <br><b>Adresa:</b> č.p. 23, 58253, Úhořilka ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:102"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.5151001,
+          49.5392536
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lípa, Dobrohostov 50 - prodejna <br><b>Adresa:</b> Dobrohostov 50, 58253, Lípa ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:103"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.5093931,
+          49.5292088
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lípa, Chválkov 7 - BUS, \"S\" <br><b>Adresa:</b> Chválkov 7, 58253, Lípa ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:104"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.5331417,
+          49.509903
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Úsobí, Chyška 20, \"S\" <br><b>Adresa:</b> Chyška 20, 58253, Úsobí ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:105"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.536736,
+          49.5002722
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Štoky, Petrovice 50 - prodejna <br><b>Adresa:</b> Petrovice 50, 58253, Štoky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:106"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.5080059,
+          49.4973639
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Úsobí, Kosovy 1 - náves, \"S\" <br><b>Adresa:</b> Kosovy 1, 58253, Úsobí ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:107"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4767745,
+          49.5080956
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Skorkov u čp. 15 <br><b>Adresa:</b> č.p. 15, 58253, Skorkov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:108"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.5029037,
+          49.5151113
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Úsobí <br><b>Adresa:</b> č.p. 50, 58254, Úsobí ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:20"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4773868,
+          49.5486459
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Herálec, Koječín 18 <br><b>Adresa:</b> Koječín 18, 58255, Herálec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:89"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

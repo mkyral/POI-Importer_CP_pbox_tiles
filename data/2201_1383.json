@@ -1,141 +1,141 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.5290693,
-                    50.3235317
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> na - Kaufland <br><b>Adresa:</b> Kadaňská 3034, 43801, Žatec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 14:30",
-                "ref": "43807:10"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.4592347,
-                    50.3037644
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Větrušice, u rybníčka poblíž č.p. 2 <br><b>Adresa:</b> Louny; Čeradice; Větrušice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "43807:35"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.5149711,
-                    50.2904344
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Radíčeves <br><b>Adresa:</b> Radíčeves 35, 43801, Žatec <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.57 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "43807:64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.5132122,
-                    50.3347847
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Partner Libočany <br><b>Adresa:</b> č.p. 103, 43975, Libočany ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "43807:19"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.4527537,
-                    50.3200102
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Žabokliky, poblíž č.p 45 <br><b>Adresa:</b> Louny; Nové Sedlo; Žabokliky <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "43807:32"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.5341197,
-                    50.3265446
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> na -  Pečovatelský dům <br><b>Adresa:</b> Svatováclavská 427, 43801, Žatec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 14:30",
-                "ref": "43807:11"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.4764985,
-                    50.3397695
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Nové Sedlo <br><b>Adresa:</b> Hlavní 27, 43801, Nové Sedlo ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "43807:31"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.4936196,
-                    50.309069
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Čeradice, poblíž Čeradice 11 <br><b>Adresa:</b> Louny; Čeradice; Čeradice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "43807:30"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.5290693,
+          50.3235317
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> na - Kaufland <br><b>Adresa:</b> Kadaňská 3034, 43801, Žatec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 14:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43807:10"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.5341197,
+          50.3265446
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> na -  Pečovatelský dům <br><b>Adresa:</b> Svatováclavská 427, 43801, Žatec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 14:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43807:11"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.5132122,
+          50.3347847
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Partner Libočany <br><b>Adresa:</b> č.p. 103, 43975, Libočany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43807:19"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.4936196,
+          50.309069
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Čeradice, poblíž Čeradice 11 <br><b>Adresa:</b> Louny; Čeradice; Čeradice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43807:30"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.4764985,
+          50.3397695
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nové Sedlo <br><b>Adresa:</b> Hlavní 27, 43801, Nové Sedlo ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43807:31"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.4527537,
+          50.3200102
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Žabokliky, poblíž č.p 45 <br><b>Adresa:</b> Louny; Nové Sedlo; Žabokliky <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43807:32"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.4592347,
+          50.3037644
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Větrušice, u rybníčka poblíž č.p. 2 <br><b>Adresa:</b> Louny; Čeradice; Větrušice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43807:35"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.5149711,
+          50.2904344
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Radíčeves <br><b>Adresa:</b> Radíčeves 35, 43801, Žatec <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.57 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43807:64"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

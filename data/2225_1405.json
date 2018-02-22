@@ -1,158 +1,158 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.58866,
-                    49.0875959
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> budova pošty, Budeč <br><b>Adresa:</b> č.p. 71, 37892, Budeč ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 13:00",
-                "ref": "37702:200"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.5738471,
-                    49.0583133
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Chotěbudice, u č.p. 27 <br><b>Adresa:</b> č.p. 27, 67531, Chotěbudice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:15",
-                "ref": "67407:167"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.6256804,
-                    49.0807893
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Radkovice - náměstí <br><b>Adresa:</b> č.p. 48, 38001, Radkovice u Budče ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "67407:226"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.6043798,
-                    49.0937208
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Obecní úřad, Knínice <br><b>Adresa:</b> č.p. 3, 58856, Knínice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:05",
-                "ref": "58607:200"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.593141,
-                    49.0778483
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> č. 22, Borová <br><b>Adresa:</b> Borová 8, 38001, Budeč ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 13:40",
-                "ref": "37702:208"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.6009157,
-                    49.065402
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Lomy 45 <br><b>Adresa:</b> č.p. 45, 67531, Lomy ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:35",
-                "ref": "67407:168"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.6215349,
-                    49.0825061
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Radkovice u Budče <br><b>Adresa:</b> č.p. 14, 38001, Radkovice u Budče ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:45",
-                "ref": "37702:207"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.5687222,
-                    49.0898008
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Horní Slatina - Budeč <br><b>Adresa:</b> č.p. 46, 38001, Horní Slatina ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 13:45",
-                "ref": "37702:209"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.5567604,
-                    49.0799562
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Vesce <br><b>Adresa:</b> Vesce 18, 38001, Budíškovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 14:00",
-                "ref": "37702:210"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.5887295,
+          49.0876723
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> budova pošty, Budeč <br><b>Adresa:</b> č.p. 71, 37892, Budeč <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.89 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 13:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:200"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.6215349,
+          49.0825061
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Radkovice u Budče <br><b>Adresa:</b> č.p. 14, 38001, Radkovice u Budče ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:207"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.593141,
+          49.0778483
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> č. 22, Borová <br><b>Adresa:</b> Borová 8, 38001, Budeč ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 13:40",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:208"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.5696171,
+          49.0900617
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Horní Slatina - Budeč <br><b>Adresa:</b> č.p. 46, 38001, Horní Slatina <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 71.35 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 13:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:209"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.5567604,
+          49.0799562
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vesce <br><b>Adresa:</b> Vesce 18, 38001, Budíškovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 14:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:210"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.6043798,
+          49.0937208
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Obecní úřad, Knínice <br><b>Adresa:</b> č.p. 3, 58856, Knínice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:05",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:200"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.5738471,
+          49.0583133
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Chotěbudice, u č.p. 27 <br><b>Adresa:</b> č.p. 27, 67531, Chotěbudice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:167"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.6009157,
+          49.065402
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lomy 45 <br><b>Adresa:</b> č.p. 45, 67531, Lomy ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:35",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:168"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.6256804,
+          49.0807893
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Radkovice - náměstí <br><b>Adresa:</b> č.p. 48, 38001, Radkovice u Budče ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:226"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

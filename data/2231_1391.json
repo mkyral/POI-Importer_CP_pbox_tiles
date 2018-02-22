@@ -1,158 +1,158 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1565038,
-                    49.8893503
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Javorník Obecní úřad, Vys. Mýto <br><b>Adresa:</b> č.p. 120, 56601, Javorník ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:838"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.0971364,
-                    49.8752206
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Doubravice 29 - BUS <br><b>Adresa:</b> Doubravice 29, 53944, Leština ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "53970:41"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1436459,
-                    49.8523447
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Nové Hrady u Skutče <br><b>Adresa:</b> č.p. 121, 53945, Nové Hrady ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "53970:75"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1173346,
-                    49.8831602
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Libecina prodejna, Vysoké Mýto <br><b>Adresa:</b> č.p. 25, 56601, Libecina ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:831"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1177948,
-                    49.8676622
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Leština - BUS \"S\" <br><b>Adresa:</b> Ústí nad Orlicí; Leština; Leština <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "53970:40"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1565395,
-                    49.8648713
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Příluka - náves, \"S\" <br><b>Adresa:</b> Svitavy; Příluka; Příluka <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "53970:39"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1382516,
-                    49.8778483
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Javorníček u č.26, Vysoké Mýto <br><b>Adresa:</b> Javorníček 26, 56601, Libecina ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:834"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1476162,
-                    49.8868555
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Javorník 25, prodejna <br><b>Adresa:</b> č.p. 25, 56601, Javorník ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:216"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1707031,
-                    49.8511688
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Chotovice č.7 <br><b>Adresa:</b> č.p. 7, 57001, Chotovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:619"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.1565395,
+          49.8648713
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Příluka - náves, \"S\" <br><b>Adresa:</b> Svitavy; Příluka; Příluka <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53970:39"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1177948,
+          49.8676622
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Leština - BUS \"S\" <br><b>Adresa:</b> Ústí nad Orlicí; Leština; Leština <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53970:40"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0971364,
+          49.8752206
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Doubravice 29 - BUS <br><b>Adresa:</b> Doubravice 29, 53944, Leština ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53970:41"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1436459,
+          49.8523447
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Nové Hrady u Skutče <br><b>Adresa:</b> č.p. 121, 53945, Nové Hrady ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53970:75"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1476162,
+          49.8868555
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Javorník 25, prodejna <br><b>Adresa:</b> č.p. 25, 56601, Javorník ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:216"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1707031,
+          49.8511688
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Chotovice č.7 <br><b>Adresa:</b> č.p. 7, 57001, Chotovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:619"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1173346,
+          49.8831602
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Libecina prodejna, Vysoké Mýto <br><b>Adresa:</b> č.p. 25, 56601, Libecina ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:831"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1382516,
+          49.8778483
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Javorníček u č.26, Vysoké Mýto <br><b>Adresa:</b> Javorníček 26, 56601, Libecina ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:834"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1565038,
+          49.8893503
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Javorník Obecní úřad, Vys. Mýto <br><b>Adresa:</b> č.p. 120, 56601, Javorník ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:838"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

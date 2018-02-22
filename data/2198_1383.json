@@ -1,22 +1,22 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.2394185,
-                    50.2921634
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Žďov, u č.p.10, na stojanu <br><b>Adresa:</b> Ždov 10, 43201, Radonice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "43007:146"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.2394185,
+          50.2921634
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Žďov, u č.p.10, na stojanu <br><b>Adresa:</b> Ždov 10, 43201, Radonice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43007:146"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

@@ -1,158 +1,158 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.8439826,
-                    49.6905698
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Krucemburk, Mikuláše Střely 191 - INTERMONT, \"S\" <br><b>Adresa:</b> Mikuláše Střely 191, 58266, Krucemburk ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:184"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.8316573,
-                    49.679418
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Staré Ransko 116 - prodejna <br><b>Adresa:</b> Staré Ransko 116, 58263, Krucemburk ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:175"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.8498272,
-                    49.6887367
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Krucemburk <br><b>Adresa:</b> Mikuláše Střely 138, 58266, Krucemburk ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:27"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.8280401,
-                    49.7030945
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kohoutov 21, Zbrojnice <br><b>Adresa:</b> Kohoutov 28, 58263, Ždírec nad Doubravou ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:170"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.8763906,
-                    49.679296
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Vojnův Městec <br><b>Adresa:</b> č.p. 27, 59101, Vojnův Městec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:30",
-                "ref": "59100:90"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.8521651,
-                    49.6882619
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Krucemburk, Mikuláše Střely 100 \"S\" <br><b>Adresa:</b> Mikuláše Střely 100, 58266, Krucemburk ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:183"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.8612141,
-                    49.7180908
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Chlum - BUS, \"S\" <br><b>Adresa:</b> Chlum 126, 53962, Hlinsko ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:15",
-                "ref": "53900:43"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.8646576,
-                    49.7174178
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Hlinsko v Čechách 3 <br><b>Adresa:</b> Chlum 24, 53962, Hlinsko ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:15",
-                "ref": "53900:83"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.8455001,
-                    49.7089129
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Benátky 10, \"BUS\" <br><b>Adresa:</b> Benátky 48, 58263, Ždírec nad Doubravou ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:172"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.8612141,
+          49.7180908
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Chlum - BUS, \"S\" <br><b>Adresa:</b> Chlum 126, 53962, Hlinsko ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53900:43"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8646576,
+          49.7174178
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Hlinsko v Čechách 3 <br><b>Adresa:</b> Chlum 24, 53962, Hlinsko ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53900:83"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8280401,
+          49.7030945
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kohoutov 21, Zbrojnice <br><b>Adresa:</b> Kohoutov 28, 58263, Ždírec nad Doubravou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:170"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8455001,
+          49.7089129
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Benátky 10, \"BUS\" <br><b>Adresa:</b> Benátky 48, 58263, Ždírec nad Doubravou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:172"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8316573,
+          49.679418
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Staré Ransko 116 - prodejna <br><b>Adresa:</b> Staré Ransko 116, 58263, Krucemburk ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:175"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8521651,
+          49.6882619
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Krucemburk, Mikuláše Střely 100 \"S\" <br><b>Adresa:</b> Mikuláše Střely 100, 58266, Krucemburk ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:183"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8439826,
+          49.6905698
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Krucemburk, Mikuláše Střely 191 - INTERMONT, \"S\" <br><b>Adresa:</b> Mikuláše Střely 191, 58266, Krucemburk ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:184"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8498272,
+          49.6887367
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Krucemburk <br><b>Adresa:</b> Mikuláše Střely 138, 58266, Krucemburk ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:27"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8763906,
+          49.679296
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Vojnův Městec <br><b>Adresa:</b> č.p. 27, 59101, Vojnův Městec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59100:90"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

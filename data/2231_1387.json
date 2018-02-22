@@ -1,158 +1,158 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1360538,
-                    50.0649684
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Zastávka ČD Čermná nad Orlicí <br><b>Adresa:</b> Malá Čermná 52, 51741, Čermná nad Orlicí ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "51707:100"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.0958131,
-                    50.0981169
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Domov důchodců 1, Borohrádek <br><b>Adresa:</b> Rudé armády 1, 51724, Borohrádek ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "51707:432"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1337777,
-                    50.076682
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Čermná nad Orlicí <br><b>Adresa:</b> Malá Čermná 45, 51725, Čermná nad Orlicí ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "51707:405"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1576078,
-                    50.0699624
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Číčová u Obecního úřadu <br><b>Adresa:</b> Rychnov nad Kněž; Čermná nad Orlicí; Číčová <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "51707:88"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1205931,
-                    50.0974288
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> prodejna, Šachov <br><b>Adresa:</b> Šachov 55, 51721, Borohrádek ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "51707:420"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.0976852,
-                    50.0938568
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jiráskova, Borohrádek <br><b>Adresa:</b> Jiráskova 328, 51724, Borohrádek ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "51707:433"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.0916952,
-                    50.0970081
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Borohrádek <br><b>Adresa:</b> Nádražní 40, 51724, Borohrádek ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "51707:404"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1428674,
-                    50.1030257
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> prodejna č.p. 14, Zdelov <br><b>Adresa:</b> č.p. 14, 51721, Zdelov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "51707:419"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1432262,
-                    50.080445
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u Obecního úřadu Velká Čermná <br><b>Adresa:</b> Velká Čermná 6, 51725, Čermná nad Orlicí ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "51707:441"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.1360538,
+          50.0649684
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Zastávka ČD Čermná nad Orlicí <br><b>Adresa:</b> Malá Čermná 52, 51741, Čermná nad Orlicí ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51707:100"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0916952,
+          50.0970081
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Borohrádek <br><b>Adresa:</b> Nádražní 40, 51724, Borohrádek ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51707:404"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1337777,
+          50.076682
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Čermná nad Orlicí <br><b>Adresa:</b> Malá Čermná 45, 51725, Čermná nad Orlicí ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51707:405"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1428674,
+          50.1030257
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> prodejna č.p. 14, Zdelov <br><b>Adresa:</b> č.p. 14, 51721, Zdelov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51707:419"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1205931,
+          50.0974288
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> prodejna, Šachov <br><b>Adresa:</b> Šachov 55, 51721, Borohrádek ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51707:420"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0958131,
+          50.0981169
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Domov důchodců 1, Borohrádek <br><b>Adresa:</b> Rudé armády 1, 51724, Borohrádek ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51707:432"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0976852,
+          50.0938568
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jiráskova, Borohrádek <br><b>Adresa:</b> Jiráskova 328, 51724, Borohrádek ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51707:433"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1432262,
+          50.080445
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u Obecního úřadu Velká Čermná <br><b>Adresa:</b> Velká Čermná 6, 51725, Čermná nad Orlicí ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51707:441"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1576078,
+          50.0699624
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Číčová u Obecního úřadu <br><b>Adresa:</b> Rychnov nad Kněž; Čermná nad Orlicí; Číčová <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51707:88"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

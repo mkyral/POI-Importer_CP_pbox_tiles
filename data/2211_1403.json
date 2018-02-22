@@ -1,107 +1,107 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3282333,
-                    49.2042221
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kaliště <br><b>Adresa:</b> č.p. 63, 37301, Temelín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 38.81 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:40",
-                "ref": "37271:239"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3502556,
-                    49.1923325
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Budova pošty Temelín <br><b>Adresa:</b> č.p. 104, 37301, Temelín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 17.44 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "37271:208"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3654449,
-                    49.1609719
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kočín <br><b>Adresa:</b> Kočín 7, 37501, Temelín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 50.06 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:20",
-                "ref": "37271:244"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3468148,
-                    49.1914804
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Temelín 1 - DPS <br><b>Adresa:</b> č.p. 11, 37301, Temelín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "37271:237"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.4066257,
-                    49.1974633
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Zvěrkovice <br><b>Adresa:</b> Zvěrkovice 2, 37501, Temelín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "37271:247"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3528227,
-                    49.1924049
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Budova pošty,Temelín - elektrárna <br><b>Adresa:</b> č.p. 126, 37301, Temelín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "37271:203"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.3528227,
+          49.1924049
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Budova pošty,Temelín - elektrárna <br><b>Adresa:</b> č.p. 126, 37301, Temelín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:203"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3502556,
+          49.1923325
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Budova pošty Temelín <br><b>Adresa:</b> č.p. 104, 37301, Temelín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 17.44 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:208"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3468148,
+          49.1914804
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Temelín 1 - DPS <br><b>Adresa:</b> č.p. 11, 37301, Temelín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:237"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3282333,
+          49.2042221
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kaliště <br><b>Adresa:</b> č.p. 63, 37301, Temelín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 38.81 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:40",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:239"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3654449,
+          49.1609719
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kočín <br><b>Adresa:</b> Kočín 7, 37501, Temelín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 50.06 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:20",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:244"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.4066257,
+          49.1974633
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Zvěrkovice <br><b>Adresa:</b> Zvěrkovice 2, 37501, Temelín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:247"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

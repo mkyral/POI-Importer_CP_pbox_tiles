@@ -1,124 +1,124 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.6467797,
-                    50.4769033
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> zastávka, Vidonice <br><b>Adresa:</b> Vidonice 38, 50782, Pecka ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "50770:375"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.6962119,
-                    50.4855334
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Mostek <br><b>Adresa:</b> č.p. 76, 54475, Mostek ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "54107:456"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.6994735,
-                    50.4975366
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Zadní Mostek čp. 7 <br><b>Adresa:</b> Zadní Mostek 7, 54475, Mostek ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "54107:457"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.6817228,
-                    50.473925
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Horní Brusnice <br><b>Adresa:</b> č.p. 241, 54474, Horní Brusnice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "54107:450"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.6669075,
-                    50.5007815
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Borovnička obchod <br><b>Adresa:</b> č.p. 29, 54475, Borovnička ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "54107:462"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.7095631,
-                    50.4659552
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Horní Brusnice čp. 168 <br><b>Adresa:</b> č.p. 168, 54475, Horní Brusnice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "54107:451"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.6609815,
-                    50.5019845
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Borovnička OÚ <br><b>Adresa:</b> č.p. 93, 54475, Borovnička ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "54107:461"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.6467797,
+          50.4769033
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> zastávka, Vidonice <br><b>Adresa:</b> Vidonice 38, 50782, Pecka ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "50770:375"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.6817228,
+          50.473925
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Horní Brusnice <br><b>Adresa:</b> č.p. 241, 54474, Horní Brusnice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54107:450"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7095631,
+          50.4659552
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Horní Brusnice čp. 168 <br><b>Adresa:</b> č.p. 168, 54475, Horní Brusnice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54107:451"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.6962119,
+          50.4855334
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Mostek <br><b>Adresa:</b> č.p. 76, 54475, Mostek ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54107:456"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.6994735,
+          50.4975366
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Zadní Mostek čp. 7 <br><b>Adresa:</b> Zadní Mostek 7, 54475, Mostek ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54107:457"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.6609815,
+          50.5019845
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Borovnička OÚ <br><b>Adresa:</b> č.p. 93, 54475, Borovnička ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54107:461"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.6669075,
+          50.5007815
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Borovnička obchod <br><b>Adresa:</b> č.p. 29, 54475, Borovnička ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54107:462"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

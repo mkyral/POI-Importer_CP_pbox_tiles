@@ -1,22 +1,22 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.7831786,
-                    48.9539187
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Zálesí-hřiště <br><b>Adresa:</b> č.p. 47, 67102, Zálesí ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "66907:90"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.7831786,
+          48.9539187
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Zálesí-hřiště <br><b>Adresa:</b> č.p. 47, 67102, Zálesí ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:90"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

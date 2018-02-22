@@ -1,56 +1,56 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.047785,
-                    50.3109214
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Skorošice, Petrovice 230, aut.zastávka (stojan) <br><b>Adresa:</b> Jeseník; Skorošice; Petrovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:30",
-                "ref": "79007:43"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.9858522,
-                    50.3324817
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Uhelná, Nové Vilémovice 71 (stojan) <br><b>Adresa:</b> Nové Vilémovice 71, 79070, Uhelná ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:45",
-                "ref": "79007:106"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.0457259,
-                    50.3452611
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Vlčice u Jeseníku 95, Partner  (stojan) <br><b>Adresa:</b> č.p. 95, 79065, Vlčice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "79007:62"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.9858522,
+          50.3324817
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Uhelná, Nové Vilémovice 71 (stojan) <br><b>Adresa:</b> Nové Vilémovice 71, 79070, Uhelná ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79007:106"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.047785,
+          50.3109214
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Skorošice, Petrovice 230, aut.zastávka (stojan) <br><b>Adresa:</b> Jeseník; Skorošice; Petrovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79007:43"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.0457259,
+          50.3452611
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vlčice u Jeseníku 95, Partner  (stojan) <br><b>Adresa:</b> č.p. 95, 79065, Vlčice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79007:62"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

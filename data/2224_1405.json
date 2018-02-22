@@ -1,124 +1,124 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.5326825,
-                    49.0740147
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Budíškovice - náves <br><b>Adresa:</b> č.p. 39, 37891, Budíškovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:05",
-                "ref": "37702:214"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.5189048,
-                    49.0615628
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Manešovice <br><b>Adresa:</b> Manešovice 5, 38001, Budíškovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:45",
-                "ref": "37702:215"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.5218628,
-                    49.0472047
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Třebětice <br><b>Adresa:</b> č.p. 31, 38001, Třebětice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 44.67 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:55",
-                "ref": "37702:216"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.5556083,
-                    49.0491756
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Louka, u č.p. 2 <br><b>Adresa:</b> Louka 2, 67531, Jemnice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 26.05 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "67407:166"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4884343,
-                    49.0782634
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Dobrohošť <br><b>Adresa:</b> č.p. 4, 38001, Dobrohošť ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:40",
-                "ref": "37702:213"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.5311914,
-                    49.0772934
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> budova pošty, Budíškovice <br><b>Adresa:</b> č.p. 127, 37891, Budíškovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "37702:199"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4778621,
-                    49.0849157
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Bílkov <br><b>Adresa:</b> Bílkov 3, 38001, Dačice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 13.75 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:05",
-                "ref": "37702:212"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.5311914,
+          49.0772934
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> budova pošty, Budíškovice <br><b>Adresa:</b> č.p. 127, 37891, Budíškovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:199"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4778621,
+          49.0849157
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bílkov <br><b>Adresa:</b> Bílkov 3, 38001, Dačice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 13.75 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:05",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:212"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4884343,
+          49.0782634
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dobrohošť <br><b>Adresa:</b> č.p. 4, 38001, Dobrohošť ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:40",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:213"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.5326825,
+          49.0740147
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Budíškovice - náves <br><b>Adresa:</b> č.p. 39, 37891, Budíškovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:05",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:214"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.5189048,
+          49.0615628
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Manešovice <br><b>Adresa:</b> Manešovice 5, 38001, Budíškovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:215"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.5218628,
+          49.0472047
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Třebětice <br><b>Adresa:</b> č.p. 31, 38001, Třebětice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 44.67 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:55",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:216"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.5556083,
+          49.0491756
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Louka, u č.p. 2 <br><b>Adresa:</b> Louka 2, 67531, Jemnice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 26.05 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:166"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

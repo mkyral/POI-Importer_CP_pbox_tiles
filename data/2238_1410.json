@@ -1,39 +1,39 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.7618085,
-                    48.7743639
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Hlohovec u Břeclavě <br><b>Adresa:</b> Dědina 10, 69143, Hlohovec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "69007:76"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.7727325,
-                    48.7761003
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> zatravněný prostor křiž. ul. Hlavní a Lednická <br><b>Adresa:</b> U rybárny 175, 69143, Hlohovec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "69007:75"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.7727325,
+          48.7761003
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> zatravněný prostor křiž. ul. Hlavní a Lednická <br><b>Adresa:</b> U rybárny 175, 69143, Hlohovec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69007:75"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.7618085,
+          48.7743639
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Hlohovec u Břeclavě <br><b>Adresa:</b> Dědina 10, 69143, Hlohovec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69007:76"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

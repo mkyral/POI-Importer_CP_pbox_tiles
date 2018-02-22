@@ -1,22 +1,22 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.4571877,
-                    49.4428993
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Smíš.zboží, na čp.155, Bílá <br><b>Adresa:</b> č.p. 155, 73915, Bílá <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 12.07 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "73807:130"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          18.4571877,
+          49.4428993
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Smíš.zboží, na čp.155, Bílá <br><b>Adresa:</b> č.p. 155, 73915, Bílá <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 12.07 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "73807:130"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

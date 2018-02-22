@@ -1,39 +1,39 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.6966431,
-                    50.3481752
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Vysoká Pec <br><b>Adresa:</b> Karlovy Vary; Vysoká Pec; Vysoká Pec <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "36207:144"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.7182833,
-                    50.3605239
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Nové Hamry - pošta <br><b>Adresa:</b> č.p. 260, 36221, Nové Hamry ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "36207:158"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          12.6966431,
+          50.3481752
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vysoká Pec <br><b>Adresa:</b> Karlovy Vary; Vysoká Pec; Vysoká Pec <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "36207:144"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.7182833,
+          50.3605239
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nové Hamry - pošta <br><b>Adresa:</b> č.p. 260, 36221, Nové Hamry ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "36207:158"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

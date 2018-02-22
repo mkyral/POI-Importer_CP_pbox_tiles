@@ -1,158 +1,158 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.9619706,
-                    50.0285204
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u tf. budky, Třebovle 37 <br><b>Adresa:</b> č.p. 37, 28163, Třebovle ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "25107:227"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.0078013,
-                    50.0356385
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> náves obchod, Zalešany 10 <br><b>Adresa:</b> č.p. 10, 28002, Zalešany ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "28000:76"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.9447577,
-                    50.0321744
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Borek 8, Třebovle <br><b>Adresa:</b> Borek 8, 28163, Třebovle <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "25107:228"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.0268718,
-                    50.0351555
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Obecní úřad, Žabonosy 10 <br><b>Adresa:</b> č.p. 9, 28002, Žabonosy ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:45",
-                "ref": "28000:74"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.9848562,
-                    50.0240381
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u tf. budky, Klášterní Skalice 4 <br><b>Adresa:</b> č.p. 4, 28163, Klášterní Skalice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "25107:226"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.946998,
-                    50.0154578
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u č.p. 8, Království <br><b>Adresa:</b> Království 8, 28163, Třebovle ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "25107:230"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.0244863,
-                    50.0259155
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u obecní pumpy, Přebozy 49 <br><b>Adresa:</b> Přebozy 49, 28002, Zalešany ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:15",
-                "ref": "28000:75"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.9916738,
-                    50.0500666
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> náves, Vrbčany 29 <br><b>Adresa:</b> č.p. 29, 28002, Vrbčany ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "28000:78"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.9933347,
-                    50.0337825
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> náves, Miškovice 18 <br><b>Adresa:</b> Miškovice 18, 28002, Třebovle ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:45",
-                "ref": "28000:77"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.9848562,
+          50.0240381
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u tf. budky, Klášterní Skalice 4 <br><b>Adresa:</b> č.p. 4, 28163, Klášterní Skalice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "25107:226"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.9619706,
+          50.0285204
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u tf. budky, Třebovle 37 <br><b>Adresa:</b> č.p. 37, 28163, Třebovle ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "25107:227"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.9447577,
+          50.0321744
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Borek 8, Třebovle <br><b>Adresa:</b> Borek 8, 28163, Třebovle <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "25107:228"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.946998,
+          50.0154578
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u č.p. 8, Království <br><b>Adresa:</b> Království 8, 28163, Třebovle ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "25107:230"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.0268718,
+          50.0351555
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Obecní úřad, Žabonosy 10 <br><b>Adresa:</b> č.p. 9, 28002, Žabonosy ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28000:74"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.0244863,
+          50.0259155
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u obecní pumpy, Přebozy 49 <br><b>Adresa:</b> Přebozy 49, 28002, Zalešany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28000:75"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.0078013,
+          50.0356385
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> náves obchod, Zalešany 10 <br><b>Adresa:</b> č.p. 10, 28002, Zalešany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28000:76"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.9933347,
+          50.0337825
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> náves, Miškovice 18 <br><b>Adresa:</b> Miškovice 18, 28002, Třebovle ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28000:77"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.9916738,
+          50.0500666
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> náves, Vrbčany 29 <br><b>Adresa:</b> č.p. 29, 28002, Vrbčany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28000:78"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

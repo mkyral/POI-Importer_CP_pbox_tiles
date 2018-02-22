@@ -1,107 +1,107 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.7479262,
-                    49.9522362
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Vel.Heraltice-Sádek,(stojan napr.KD,u obec.vývěs.) <br><b>Adresa:</b> Opava; Velké Heraltice; Sádek <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:45",
-                "ref": "74907:52"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.6850243,
-                    49.981774
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Malé Heraltice 46, (na stojanu) před kostelem <br><b>Adresa:</b> Malé Heraltice 46, 74775, Velké Heraltice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:15",
-                "ref": "74907:44"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.6888414,
-                    49.9584271
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> kulturní dům, Košetice čp. 19 <br><b>Adresa:</b> Košetice 19, 74775, Velké Heraltice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:15",
-                "ref": "74907:45"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.7337749,
-                    49.9516367
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Vel.Heraltice-Sádek,u zast.TQM(na čekárně)u čp.104 <br><b>Adresa:</b> Opava; Velké Heraltice; Sádek <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:50",
-                "ref": "74907:51"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.7278194,
-                    49.9758551
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pošta Velké Heraltice <br><b>Adresa:</b> Nad Poštou 91, 74775, Velké Heraltice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 14:45",
-                "ref": "74907:175"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.7501819,
-                    49.9973073
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Vel.Heraltice-Tábor, zast.TQM (na stojanu u čp.11) <br><b>Adresa:</b> Tábor 11, 74775, Velké Heraltice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "74907:50"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          17.7278194,
+          49.9758551
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Velké Heraltice <br><b>Adresa:</b> Nad Poštou 91, 74775, Velké Heraltice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 14:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74907:175"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.6850243,
+          49.981774
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Malé Heraltice 46, (na stojanu) před kostelem <br><b>Adresa:</b> Malé Heraltice 46, 74775, Velké Heraltice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74907:44"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.6888414,
+          49.9584271
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> kulturní dům, Košetice čp. 19 <br><b>Adresa:</b> Košetice 19, 74775, Velké Heraltice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74907:45"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.7501819,
+          49.9973073
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vel.Heraltice-Tábor, zast.TQM (na stojanu u čp.11) <br><b>Adresa:</b> Tábor 11, 74775, Velké Heraltice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74907:50"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.7337749,
+          49.9516367
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vel.Heraltice-Sádek,u zast.TQM(na čekárně)u čp.104 <br><b>Adresa:</b> Opava; Velké Heraltice; Sádek <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:50",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74907:51"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.7479262,
+          49.9522362
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vel.Heraltice-Sádek,(stojan napr.KD,u obec.vývěs.) <br><b>Adresa:</b> Opava; Velké Heraltice; Sádek <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74907:52"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

@@ -1,141 +1,141 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.9378728,
-                    49.3777555
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Budova pošty Sedlice u Blatné <br><b>Adresa:</b> Palackého 46, 38732, Sedlice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:45",
-                "ref": "38607:279"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.957841,
-                    49.3394768
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Velká Turná <br><b>Adresa:</b> č.p. 30, 38601, Velká Turná ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:15",
-                "ref": "38607:273"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.9219208,
-                    49.3255843
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Leskovice <br><b>Adresa:</b> Leskovice 3, 38601, Radomyšl ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:45",
-                "ref": "38607:27"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.9452903,
-                    49.3482584
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Rojice <br><b>Adresa:</b> Rojice 8, 38601, Radomyšl ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:50",
-                "ref": "38607:274"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.9264262,
-                    49.3445189
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Láz <br><b>Adresa:</b> Láz 4, 38601, Radomyšl ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "38607:275"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.973463,
-                    49.3311894
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Malá Turná <br><b>Adresa:</b> Malá Turná 23, 38601, Osek ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:05",
-                "ref": "38607:272"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.940068,
-                    49.3763518
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Sedlice - náměstí <br><b>Adresa:</b> náměstí T. G. Masaryka 138, 38732, Sedlice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "38607:281"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.8984289,
-                    49.3340311
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Chrašťovice <br><b>Adresa:</b> č.p. 56, 38601, Chrášťovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:15",
-                "ref": "38607:26"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.8984289,
+          49.3340311
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Chrašťovice <br><b>Adresa:</b> č.p. 56, 38601, Chrášťovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38607:26"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.9219208,
+          49.3255843
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Leskovice <br><b>Adresa:</b> Leskovice 3, 38601, Radomyšl ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38607:27"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.973463,
+          49.3311894
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Malá Turná <br><b>Adresa:</b> Malá Turná 23, 38601, Osek ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:05",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38607:272"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.957841,
+          49.3394768
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Velká Turná <br><b>Adresa:</b> č.p. 30, 38601, Velká Turná ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38607:273"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.9452903,
+          49.3482584
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Rojice <br><b>Adresa:</b> Rojice 8, 38601, Radomyšl ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:50",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38607:274"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.9264262,
+          49.3445189
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Láz <br><b>Adresa:</b> Láz 4, 38601, Radomyšl ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38607:275"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.9378728,
+          49.3777555
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Budova pošty Sedlice u Blatné <br><b>Adresa:</b> Palackého 46, 38732, Sedlice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38607:279"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.940068,
+          49.3763518
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Sedlice - náměstí <br><b>Adresa:</b> náměstí T. G. Masaryka 138, 38732, Sedlice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38607:281"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

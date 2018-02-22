@@ -1,158 +1,158 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.0009475,
-                    49.8493147
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> OÚ, Slezská 250 (na stojanu), Pustá Polom <br><b>Adresa:</b> Slezská 250, 74769, Pustá Polom ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:40",
-                "ref": "74907:92"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.9356843,
-                    49.8852129
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> obchod, Vršovice čp. 45 <br><b>Adresa:</b> č.p. 45, 74761, Vršovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "74907:43"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.939618,
-                    49.8916506
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pošta Raduň (stojanu) <br><b>Adresa:</b> Poštovní 239, 74761, Raduň ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo 14:45; Tu 14:45; We 14:45; Th 14:45; Fr 11:00",
-                "ref": "74907:181"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.9419631,
-                    49.893284
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jednota, 9. května 156 (na stojanu), Raduň <br><b>Adresa:</b> 9. května 156, 74761, Raduň ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "74907:42"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.9656181,
-                    49.8802711
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kom.Chaloupky,Podvihovská,napr.19/62(stoj.u obch.) <br><b>Adresa:</b> Podvihovská 19/62, Komárovské Chaloupky, 74706, Opava ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 13:00",
-                "ref": "74907:38"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.9705505,
-                    49.8402041
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hlubočec na čp. 75, prodejna TEMPO <br><b>Adresa:</b> č.p. 75, 74769, Hlubočec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:20",
-                "ref": "74907:93"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.0016661,
-                    49.8495937
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pošta Pustá Polom <br><b>Adresa:</b> Poštovní 73, 74769, Pustá Polom ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 15:00",
-                "ref": "74907:172"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.9756474,
-                    49.877307
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Polomská 43/1(stojan) před obchodem,Podvihov <br><b>Adresa:</b> Polomská 43/1, Podvihov, 74706, Opava ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:30",
-                "ref": "74907:41"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.9687385,
-                    49.8710285
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> BUS zast.(stojan),Podvihov(naproti Polomská 45/37) <br><b>Adresa:</b> Opava; Opava; Podvihov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "74907:39"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          18.0016661,
+          49.8495937
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Pustá Polom <br><b>Adresa:</b> Poštovní 73, 74769, Pustá Polom ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 15:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74907:172"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.939618,
+          49.8916506
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Raduň (stojanu) <br><b>Adresa:</b> Poštovní 239, 74761, Raduň ",
+        "amenity": "post_box",
+        "collection_times": "Mo 14:45; Tu 14:45; We 14:45; Th 14:45; Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74907:181"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.9656181,
+          49.8802711
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kom.Chaloupky,Podvihovská,napr.19/62(stoj.u obch.) <br><b>Adresa:</b> Podvihovská 19/62, Komárovské Chaloupky, 74706, Opava ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 13:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74907:38"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.9687385,
+          49.8710285
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> BUS zast.(stojan),Podvihov(naproti Polomská 45/37) <br><b>Adresa:</b> Opava; Opava; Podvihov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74907:39"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.9756474,
+          49.877307
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Polomská 43/1(stojan) před obchodem,Podvihov <br><b>Adresa:</b> Polomská 43/1, Podvihov, 74706, Opava ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74907:41"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.9419631,
+          49.893284
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jednota, 9. května 156 (na stojanu), Raduň <br><b>Adresa:</b> 9. května 156, 74761, Raduň ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74907:42"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.9356843,
+          49.8852129
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> obchod, Vršovice čp. 45 <br><b>Adresa:</b> č.p. 45, 74761, Vršovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74907:43"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.0009475,
+          49.8493147
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> OÚ, Slezská 250 (na stojanu), Pustá Polom <br><b>Adresa:</b> Slezská 250, 74769, Pustá Polom ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:40",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74907:92"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.9705505,
+          49.8402041
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hlubočec na čp. 75, prodejna TEMPO <br><b>Adresa:</b> č.p. 75, 74769, Hlubočec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:20",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74907:93"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

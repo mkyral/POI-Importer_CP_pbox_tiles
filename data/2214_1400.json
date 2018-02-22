@@ -1,141 +1,141 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.6572228,
-                    49.3568008
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Zhoř <br><b>Adresa:</b> č.p. 4, 39002, Zhoř u Tábora ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "39007:43"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.6378375,
-                    49.3403467
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Obora - prodejna <br><b>Adresa:</b> Obora 3, 39175, Malšice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:50",
-                "ref": "39007:91"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.6235978,
-                    49.3765106
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Libějice <br><b>Adresa:</b> č.p. 12, 39002, Libějice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:40",
-                "ref": "39007:45"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.6159054,
-                    49.3324212
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Bezděčín - prodejna <br><b>Adresa:</b> Bezděčín 10, 39175, Želeč ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "39007:93"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.6293548,
-                    49.3629365
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Lom <br><b>Adresa:</b> č.p. 2, 39002, Lom ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "39007:44"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.5964245,
-                    49.3305039
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Skrýchov - prodejna <br><b>Adresa:</b> č.p. 3, 39175, Skrýchov u Malšic <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 54.36 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "39007:95"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.650429,
-                    49.3779636
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Radimovice u Želče <br><b>Adresa:</b> č.p. 64, 39002, Radimovice u Želče ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "39007:46"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.6304764,
-                    49.3491088
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Maršov - prodejna <br><b>Adresa:</b> Maršov 19, 39175, Malšice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "39007:90"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.6572228,
+          49.3568008
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Zhoř <br><b>Adresa:</b> č.p. 4, 39002, Zhoř u Tábora ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:43"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.6293548,
+          49.3629365
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lom <br><b>Adresa:</b> č.p. 2, 39002, Lom ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:44"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.6235978,
+          49.3765106
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Libějice <br><b>Adresa:</b> č.p. 12, 39002, Libějice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:40",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:45"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.650429,
+          49.3779636
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Radimovice u Želče <br><b>Adresa:</b> č.p. 64, 39002, Radimovice u Želče ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:46"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.6304764,
+          49.3491088
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Maršov - prodejna <br><b>Adresa:</b> Maršov 19, 39175, Malšice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:90"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.6378375,
+          49.3403467
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Obora - prodejna <br><b>Adresa:</b> Obora 3, 39175, Malšice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:50",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:91"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.6159054,
+          49.3324212
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bezděčín - prodejna <br><b>Adresa:</b> Bezděčín 10, 39175, Želeč ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:93"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5964245,
+          49.3305039
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Skrýchov - prodejna <br><b>Adresa:</b> č.p. 3, 39175, Skrýchov u Malšic <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 54.36 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:95"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

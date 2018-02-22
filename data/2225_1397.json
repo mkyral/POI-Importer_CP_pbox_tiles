@@ -1,158 +1,158 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.5901016,
-                    49.5341638
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Okrouhlička, Skřivánek 11, \"S\" <br><b>Adresa:</b> Skřivánek 11, 58253, Okrouhlička ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:96"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.5656477,
-                    49.5188964
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Štoky, Studénka 20 - prodejna, \"S\" <br><b>Adresa:</b> Studénka 20, 58253, Štoky ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:99"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.5881673,
-                    49.5025775
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Štoky <br><b>Adresa:</b> č.p. 116, 58253, Štoky ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:19"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.557037,
-                    49.5348871
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Okrouhlička 61 - prodejna, \"S\" <br><b>Adresa:</b> č.p. 61, 58253, Okrouhlička ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:100"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.6193254,
-                    49.516904
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Štoky, Pozovice 43 - prodejna, \"S\" <br><b>Adresa:</b> Pozovice 43, 58253, Štoky ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:98"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.5872329,
-                    49.4973813
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Štoky 94 - autokemp <br><b>Adresa:</b> č.p. 94, 58253, Štoky ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:94"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.6231218,
-                    49.5348732
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Štoky, Smilov 22 - prodejna, \"S\" <br><b>Adresa:</b> Smilov 22, 58253, Štoky ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:97"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.589406,
-                    49.5051199
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Štoky 220 - ZŠ, \"S\" <br><b>Adresa:</b> č.p. 220, 58253, Štoky ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:93"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.5934875,
-                    49.5434194
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Havlíčkův Brod - Květnov 6/0 - náves, \"S\" <br><b>Adresa:</b> Květnov 6, 58001, Havlíčkův Brod ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:43"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.557037,
+          49.5348871
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Okrouhlička 61 - prodejna, \"S\" <br><b>Adresa:</b> č.p. 61, 58253, Okrouhlička ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:100"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.5881673,
+          49.5025775
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Štoky <br><b>Adresa:</b> č.p. 116, 58253, Štoky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:19"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.5934875,
+          49.5434194
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Havlíčkův Brod - Květnov 6/0 - náves, \"S\" <br><b>Adresa:</b> Květnov 6, 58001, Havlíčkův Brod ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:43"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.589406,
+          49.5051199
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Štoky 220 - ZŠ, \"S\" <br><b>Adresa:</b> č.p. 220, 58253, Štoky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:93"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.5872329,
+          49.4973813
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Štoky 94 - autokemp <br><b>Adresa:</b> č.p. 94, 58253, Štoky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:94"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.5901016,
+          49.5341638
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Okrouhlička, Skřivánek 11, \"S\" <br><b>Adresa:</b> Skřivánek 11, 58253, Okrouhlička ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:96"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.6231218,
+          49.5348732
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Štoky, Smilov 22 - prodejna, \"S\" <br><b>Adresa:</b> Smilov 22, 58253, Štoky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:97"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.6193254,
+          49.516904
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Štoky, Pozovice 43 - prodejna, \"S\" <br><b>Adresa:</b> Pozovice 43, 58253, Štoky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:98"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.5656477,
+          49.5188964
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Štoky, Studénka 20 - prodejna, \"S\" <br><b>Adresa:</b> Studénka 20, 58253, Štoky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:99"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

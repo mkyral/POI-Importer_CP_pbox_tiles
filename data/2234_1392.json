@@ -1,73 +1,73 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.4252027,
-                    49.791488
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kukle 8, ČSAD <br><b>Adresa:</b> č.p. 8, 56802, Kukle ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:219"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.4052619,
-                    49.8240777
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Gajer č. 6 <br><b>Adresa:</b> Gajer 6, 57001, Janov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:611"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.4215097,
-                    49.8058147
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Mikuleč č.p. 34 <br><b>Adresa:</b> č.p. 34, 56802, Mikuleč ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:218"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.4061588,
-                    49.8333984
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Mendryka č. 3, klášter <br><b>Adresa:</b> Mendryka 3, 57001, Janov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:612"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.4215097,
+          49.8058147
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Mikuleč č.p. 34 <br><b>Adresa:</b> č.p. 34, 56802, Mikuleč ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:218"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.4252027,
+          49.791488
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kukle 8, ČSAD <br><b>Adresa:</b> č.p. 8, 56802, Kukle ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:219"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.4052619,
+          49.8240777
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Gajer č. 6 <br><b>Adresa:</b> Gajer 6, 57001, Janov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:611"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.4061588,
+          49.8333984
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Mendryka č. 3, klášter <br><b>Adresa:</b> Mendryka 3, 57001, Janov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:612"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

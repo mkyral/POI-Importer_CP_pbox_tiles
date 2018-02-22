@@ -1,141 +1,141 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.5196786,
-                    49.7355664
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Proseč 12 - náves, \"S\" <br><b>Adresa:</b> Proseč 12, 58282, Kámen ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:205"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4859372,
-                    49.7809941
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Frýdnava 21- zbrojnice <br><b>Adresa:</b> Frýdnava 21, 58282, Habry ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:202"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.486835,
-                    49.7527386
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Habry, Brodská 152 - jídelna <br><b>Adresa:</b> Brodská 152, 58281, Habry ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:223"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.5333739,
-                    49.7307881
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jiříkov - náves <br><b>Adresa:</b> Jiříkov 37, 58282, Kámen ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:206"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.5294829,
-                    49.7408448
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Miřátky 2 - zbrojnice <br><b>Adresa:</b> Miřátky 2, 58282, Vepříkov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:207"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.509311,
-                    49.7688732
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Rybníček 10 - náves - VTA, \"S\" <br><b>Adresa:</b> č.p. 10, 58282, Rybníček ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:203"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4844304,
-                    49.7579067
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Habry <br><b>Adresa:</b> Pražská 20, 58281, Habry ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:34"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.5368203,
-                    49.7637016
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Leškovice 50 - prodejna <br><b>Adresa:</b> č.p. 50, 58282, Leškovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:204"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.4859372,
+          49.7809941
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Frýdnava 21- zbrojnice <br><b>Adresa:</b> Frýdnava 21, 58282, Habry ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:202"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.509311,
+          49.7688732
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Rybníček 10 - náves - VTA, \"S\" <br><b>Adresa:</b> č.p. 10, 58282, Rybníček ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:203"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.5368203,
+          49.7637016
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Leškovice 50 - prodejna <br><b>Adresa:</b> č.p. 50, 58282, Leškovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:204"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.5196786,
+          49.7355664
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Proseč 12 - náves, \"S\" <br><b>Adresa:</b> Proseč 12, 58282, Kámen ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:205"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.5333739,
+          49.7307881
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jiříkov - náves <br><b>Adresa:</b> Jiříkov 37, 58282, Kámen ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:206"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.5294829,
+          49.7408448
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Miřátky 2 - zbrojnice <br><b>Adresa:</b> Miřátky 2, 58282, Vepříkov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:207"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.486835,
+          49.7527386
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Habry, Brodská 152 - jídelna <br><b>Adresa:</b> Brodská 152, 58281, Habry ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:223"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4844304,
+          49.7579067
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Habry <br><b>Adresa:</b> Pražská 20, 58281, Habry ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:34"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

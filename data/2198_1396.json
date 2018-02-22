@@ -1,141 +1,141 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.2390493,
-                    49.5761943
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Soběkury, náves <br><b>Adresa:</b> Plzeň-jih; Soběkury; Soběkury <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:30",
-                "ref": "30072:178"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.263083,
-                    49.6040184
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Dnešice - pošta <br><b>Adresa:</b> č.p. 10, 33443, Dnešice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "30072:201"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.2590558,
-                    49.5616639
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Horušany, náves <br><b>Adresa:</b> Plzeň-jih; Soběkury; Horušany <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "30072:177"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.1857789,
-                    49.5780602
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Zemětice <br><b>Adresa:</b> č.p. 34, 33452, Zemětice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "30071:472"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.1931661,
-                    49.5892736
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Chalupy u kapličky <br><b>Adresa:</b> Chalupy 4, 33452, Zemětice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "30071:473"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.1989586,
-                    49.5602506
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Merklín u Přeštic - pošta <br><b>Adresa:</b> U Zámku 253, 33452, Merklín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "30071:490"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.2450466,
-                    49.5996216
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Přestavlky, náves <br><b>Adresa:</b> č.p. 52, 33401, Přestavlky ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "30072:157"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.1975313,
-                    49.5636834
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Merklín - středisko <br><b>Adresa:</b> Husova 345, 33452, Merklín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "30071:479"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.1857789,
+          49.5780602
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Zemětice <br><b>Adresa:</b> č.p. 34, 33452, Zemětice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30071:472"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.1931661,
+          49.5892736
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Chalupy u kapličky <br><b>Adresa:</b> Chalupy 4, 33452, Zemětice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30071:473"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.1975313,
+          49.5636834
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Merklín - středisko <br><b>Adresa:</b> Husova 345, 33452, Merklín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30071:479"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.1989586,
+          49.5602506
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Merklín u Přeštic - pošta <br><b>Adresa:</b> U Zámku 253, 33452, Merklín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30071:490"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.2450466,
+          49.5996216
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Přestavlky, náves <br><b>Adresa:</b> č.p. 52, 33401, Přestavlky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30072:157"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.2590558,
+          49.5616639
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Horušany, náves <br><b>Adresa:</b> Plzeň-jih; Soběkury; Horušany <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30072:177"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.2390493,
+          49.5761943
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Soběkury, náves <br><b>Adresa:</b> Plzeň-jih; Soběkury; Soběkury <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30072:178"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.263083,
+          49.6040184
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dnešice - pošta <br><b>Adresa:</b> č.p. 10, 33443, Dnešice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30072:201"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

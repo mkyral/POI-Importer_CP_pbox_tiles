@@ -1,124 +1,124 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.2565473,
-                    49.4108707
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Vůsí <br><b>Adresa:</b> Vůsí 2, 39901, Květov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "39007:618"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3250176,
-                    49.423436
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Rukáveč <br><b>Adresa:</b> Rukáveč 6, 39901, Milevsko ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "39007:617"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.2924489,
-                    49.3860348
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jetětice - obec <br><b>Adresa:</b> č.p. 14, 39848, Jetětice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:15",
-                "ref": "39007:413"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3225817,
-                    49.3933019
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Stehlovice <br><b>Adresa:</b> č.p. 1, 39843, Stehlovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:15",
-                "ref": "39007:412"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.2457942,
-                    49.433995
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Kučeř <br><b>Adresa:</b> č.p. 82, 39834, Kučeř ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "39007:676"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.2905728,
-                    49.3865859
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta, Jetětice <br><b>Adresa:</b> č.p. 21, 39848, Jetětice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:15",
-                "ref": "39007:679"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.2738064,
-                    49.4253682
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Květov <br><b>Adresa:</b> č.p. 7, 39901, Květov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:45",
-                "ref": "39007:619"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.3225817,
+          49.3933019
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Stehlovice <br><b>Adresa:</b> č.p. 1, 39843, Stehlovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:412"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2924489,
+          49.3860348
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jetětice - obec <br><b>Adresa:</b> č.p. 14, 39848, Jetětice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:413"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3250176,
+          49.423436
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Rukáveč <br><b>Adresa:</b> Rukáveč 6, 39901, Milevsko ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:617"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2565473,
+          49.4108707
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vůsí <br><b>Adresa:</b> Vůsí 2, 39901, Květov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:618"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2738064,
+          49.4253682
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Květov <br><b>Adresa:</b> č.p. 7, 39901, Květov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:619"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2457942,
+          49.433995
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Kučeř <br><b>Adresa:</b> č.p. 82, 39834, Kučeř ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:676"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2905728,
+          49.3865859
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta, Jetětice <br><b>Adresa:</b> č.p. 21, 39848, Jetětice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:679"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

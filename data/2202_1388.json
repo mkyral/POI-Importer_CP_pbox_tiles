@@ -1,158 +1,158 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.6180502,
-                    50.0129398
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Prodejna, Šípy č.p. 2 <br><b>Adresa:</b> č.p. 2, 27034, Šípy ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:45",
-                "ref": "26907:129"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.5694978,
-                    50.0279193
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Čistá u Rakovníka - pošta <br><b>Adresa:</b> nám. Václavské 166, 27034, Čistá ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "26907:126"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.5977724,
-                    50.0572903
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> č.p. 16  Václavy - OÚ <br><b>Adresa:</b> č.p. 16, 27035, Václavy ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:15",
-                "ref": "26907:150"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.6108858,
-                    50.0396608
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> hasiˇčská zbrojnice, Všesulov <br><b>Adresa:</b> Rakovník; Všesulov; Všesulov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "26907:127"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.5867514,
-                    50.0519888
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Křekovice čp.19 <br><b>Adresa:</b> Křekovice 19, 27034, Čistá ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "26907:133"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.5596226,
-                    50.0450441
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Zdeslav - hostinec č.p. 23 <br><b>Adresa:</b> Zdeslav 23, 27034, Čistá ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "26907:134"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.6013409,
-                    50.0183571
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> aut.zastávka, Bělbožice <br><b>Adresa:</b> Rakovník; Šípy; Bělbožice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:15",
-                "ref": "26907:130"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.5513732,
-                    50.0638424
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Prodejna, Velká Chmelištná č.p. 40 <br><b>Adresa:</b> č.p. 40, 27034, Velká Chmelištná ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:15",
-                "ref": "26907:132"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.6219659,
-                    50.0558476
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> budova OÚ, č.p. 110 Zavidov <br><b>Adresa:</b> č.p. 110, 27035, Zavidov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "26907:140"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.5694978,
+          50.0279193
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Čistá u Rakovníka - pošta <br><b>Adresa:</b> nám. Václavské 166, 27034, Čistá ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26907:126"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.6108858,
+          50.0396608
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> hasiˇčská zbrojnice, Všesulov <br><b>Adresa:</b> Rakovník; Všesulov; Všesulov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26907:127"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.6180502,
+          50.0129398
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Prodejna, Šípy č.p. 2 <br><b>Adresa:</b> č.p. 2, 27034, Šípy ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26907:129"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.6013409,
+          50.0183571
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> aut.zastávka, Bělbožice <br><b>Adresa:</b> Rakovník; Šípy; Bělbožice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26907:130"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.5513732,
+          50.0638424
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Prodejna, Velká Chmelištná č.p. 40 <br><b>Adresa:</b> č.p. 40, 27034, Velká Chmelištná ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26907:132"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.5867514,
+          50.0519888
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Křekovice čp.19 <br><b>Adresa:</b> Křekovice 19, 27034, Čistá ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26907:133"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.5596226,
+          50.0450441
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Zdeslav - hostinec č.p. 23 <br><b>Adresa:</b> Zdeslav 23, 27034, Čistá ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26907:134"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.6219659,
+          50.0558476
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> budova OÚ, č.p. 110 Zavidov <br><b>Adresa:</b> č.p. 110, 27035, Zavidov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26907:140"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.5977724,
+          50.0572903
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> č.p. 16  Václavy - OÚ <br><b>Adresa:</b> č.p. 16, 27035, Václavy ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26907:150"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

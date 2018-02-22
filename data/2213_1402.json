@@ -1,141 +1,141 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.5889425,
-                    49.2338983
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Klečaty <br><b>Adresa:</b> Klečaty 3, 39181, Zálší <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 53.36 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:15",
-                "ref": "39007:802"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.5135117,
-                    49.2402073
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Zahoří <br><b>Adresa:</b> č.p. 7, 39165, Záhoří ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:50",
-                "ref": "39007:327"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.5118605,
-                    49.2519171
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Březnice u Bechyně - pošta <br><b>Adresa:</b> č.p. 48, 39171, Březnice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "39007:328"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.5355404,
-                    49.2611134
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Blatec <br><b>Adresa:</b> Blatec 11, 39165, Hodětín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:20",
-                "ref": "39007:325"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.5235824,
-                    49.2229719
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Krakovčice <br><b>Adresa:</b> Krakovčice 20, 37501, Žimutice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 39.65 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:45",
-                "ref": "37271:233"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.524576,
-                    49.264929
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jamník <br><b>Adresa:</b> č.p. 60, 39171, Březnice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:25",
-                "ref": "39007:326"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.5528313,
-                    49.2624927
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Nová Ves <br><b>Adresa:</b> Nová Ves 10, 39165, Hodětín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:10",
-                "ref": "39007:323"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.5480295,
-                    49.2515131
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hodětín <br><b>Adresa:</b> č.p. 3, 39165, Hodětín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:15",
-                "ref": "39007:324"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.5235824,
+          49.2229719
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Krakovčice <br><b>Adresa:</b> Krakovčice 20, 37501, Žimutice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 39.65 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:233"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5528313,
+          49.2624927
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nová Ves <br><b>Adresa:</b> Nová Ves 10, 39165, Hodětín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:10",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:323"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5480295,
+          49.2515131
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hodětín <br><b>Adresa:</b> č.p. 3, 39165, Hodětín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:324"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5355404,
+          49.2611134
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Blatec <br><b>Adresa:</b> Blatec 11, 39165, Hodětín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:20",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:325"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.524576,
+          49.264929
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jamník <br><b>Adresa:</b> č.p. 60, 39171, Březnice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:25",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:326"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5135117,
+          49.2402073
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Zahoří <br><b>Adresa:</b> č.p. 7, 39165, Záhoří ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:50",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:327"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5118605,
+          49.2519171
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Březnice u Bechyně - pošta <br><b>Adresa:</b> č.p. 48, 39171, Březnice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:328"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5889425,
+          49.2338983
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Klečaty <br><b>Adresa:</b> Klečaty 3, 39181, Zálší <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 53.36 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:802"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

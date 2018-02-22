@@ -1,175 +1,175 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9588803,
-                    49.1851825
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Okrašovice <br><b>Adresa:</b> Okrašovice 8, 67501, Slavičky ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:15",
-                "ref": "67407:56"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9179467,
-                    49.1551302
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Ostašov náves <br><b>Adresa:</b> č.p. 19, 67552, Ostašov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "67407:65"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9676906,
-                    49.1754124
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Slavičky <br><b>Adresa:</b> č.p. 35, 67501, Slavičky ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "67407:55"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.978576,
-                    49.198009
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Střížov 4 - náves <br><b>Adresa:</b> Střížov 4, 67501, Vladislav ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "67407:54"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9749444,
-                    49.155847
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Dolní Vilémovice křižovatka <br><b>Adresa:</b> č.p. 96, 67552, Dolní Vilémovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "67407:63"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9570395,
-                    49.2009002
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pozďátky, býv.kult.dům <br><b>Adresa:</b> Pozďátky 8, 67501, Slavičky ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:30",
-                "ref": "67407:57"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9780995,
-                    49.15337
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Dolní Vilémovice ZŠ <br><b>Adresa:</b> č.p. 42, 67552, Dolní Vilémovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "67407:62"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9899557,
-                    49.2100743
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Vladislav <br><b>Adresa:</b> č.p. 198, 67501, Vladislav ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "67407:292"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9351256,
-                    49.1662048
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Klučov 21 - náves <br><b>Adresa:</b> č.p. 21, 67552, Klučov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "67407:64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.922637,
-                    49.2004451
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kožichovice  - Jednota <br><b>Adresa:</b> č.p. 43, 67401, Kožichovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "67407:37"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.9899557,
+          49.2100743
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Vladislav <br><b>Adresa:</b> č.p. 198, 67501, Vladislav ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:292"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.922637,
+          49.2004451
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kožichovice  - Jednota <br><b>Adresa:</b> č.p. 43, 67401, Kožichovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:37"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.978576,
+          49.198009
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Střížov 4 - náves <br><b>Adresa:</b> Střížov 4, 67501, Vladislav ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:54"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9676906,
+          49.1754124
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Slavičky <br><b>Adresa:</b> č.p. 35, 67501, Slavičky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:55"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9588803,
+          49.1851825
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Okrašovice <br><b>Adresa:</b> Okrašovice 8, 67501, Slavičky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:56"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9570395,
+          49.2009002
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pozďátky, býv.kult.dům <br><b>Adresa:</b> Pozďátky 8, 67501, Slavičky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:57"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9780995,
+          49.15337
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dolní Vilémovice ZŠ <br><b>Adresa:</b> č.p. 42, 67552, Dolní Vilémovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:62"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9749444,
+          49.155847
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dolní Vilémovice křižovatka <br><b>Adresa:</b> č.p. 96, 67552, Dolní Vilémovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:63"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9351256,
+          49.1662048
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Klučov 21 - náves <br><b>Adresa:</b> č.p. 21, 67552, Klučov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:64"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9179467,
+          49.1551302
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Ostašov náves <br><b>Adresa:</b> č.p. 19, 67552, Ostašov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:65"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

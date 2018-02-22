@@ -1,107 +1,107 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.06637,
-                    49.1891978
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> budova pošty, Jarošov nad Než. <br><b>Adresa:</b> č.p. 84, 37841, Jarošov nad Nežárkou ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "37702:97"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.1034582,
-                    49.2094257
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pejdlova Rosička - náves <br><b>Adresa:</b> Pejdlova Rosička 3, 37842, Jarošov nad Nežárkou ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:20",
-                "ref": "37702:91"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.0940216,
-                    49.1953475
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Bednárec - prodejna <br><b>Adresa:</b> č.p. 25, 37842, Bednárec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "37702:95"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.0831842,
-                    49.177812
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Matějovec - náves <br><b>Adresa:</b> Matějovec 9, 37842, Jarošov nad Nežárkou ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:10",
-                "ref": "37702:96"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.1050851,
-                    49.1587767
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Oldřiš <br><b>Adresa:</b> Oldřiš 13, 37701, Blažejov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:15",
-                "ref": "37702:56"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.0538846,
-                    49.1702042
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Rodvínov <br><b>Adresa:</b> č.p. 72, 37701, Rodvínov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "37702:42"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.0538846,
+          49.1702042
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Rodvínov <br><b>Adresa:</b> č.p. 72, 37701, Rodvínov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:42"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.1050851,
+          49.1587767
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Oldřiš <br><b>Adresa:</b> Oldřiš 13, 37701, Blažejov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:56"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.1034582,
+          49.2094257
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pejdlova Rosička - náves <br><b>Adresa:</b> Pejdlova Rosička 3, 37842, Jarošov nad Nežárkou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:20",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:91"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.0940216,
+          49.1953475
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bednárec - prodejna <br><b>Adresa:</b> č.p. 25, 37842, Bednárec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:95"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.0831842,
+          49.177812
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Matějovec - náves <br><b>Adresa:</b> Matějovec 9, 37842, Jarošov nad Nežárkou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:10",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:96"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.06637,
+          49.1891978
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> budova pošty, Jarošov nad Než. <br><b>Adresa:</b> č.p. 84, 37841, Jarošov nad Nežárkou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:97"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

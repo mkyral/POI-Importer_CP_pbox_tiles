@@ -1,73 +1,73 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.094854,
-                    48.8675554
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Suchohrdly - obchod <br><b>Adresa:</b> Brněnská 129, 66902, Suchohrdly ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "66907:54"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1583162,
-                    48.8881272
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Těšetice <br><b>Adresa:</b> č.p. 62, 67161, Těšetice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "66907:70"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.140154,
-                    48.9217555
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Tvořihráz <br><b>Adresa:</b> č.p. 187, 67134, Tvořihráz ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "66907:77"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1669212,
-                    48.9154104
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kyjovice <br><b>Adresa:</b> č.p. 19, 67161, Kyjovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "66907:69"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.094854,
+          48.8675554
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Suchohrdly - obchod <br><b>Adresa:</b> Brněnská 129, 66902, Suchohrdly ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:54"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1669212,
+          48.9154104
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kyjovice <br><b>Adresa:</b> č.p. 19, 67161, Kyjovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:69"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1583162,
+          48.8881272
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Těšetice <br><b>Adresa:</b> č.p. 62, 67161, Těšetice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:70"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.140154,
+          48.9217555
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Tvořihráz <br><b>Adresa:</b> č.p. 187, 67134, Tvořihráz ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:77"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

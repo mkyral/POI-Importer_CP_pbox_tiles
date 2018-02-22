@@ -1,124 +1,124 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.4051146,
-                    49.2366151
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Veverské Knínice, poštovní středisko <br><b>Adresa:</b> č.p. 260, 66481, Veverské Knínice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.9 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "60012:185"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3557239,
-                    49.233003
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Říčky, obchod <br><b>Adresa:</b> č.p. 80, 66483, Říčky <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.49 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:10",
-                "ref": "60012:180"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.4252643,
-                    49.2474371
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> OÚ Hvozdec <br><b>Adresa:</b> č.p. 16, 66471, Hvozdec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "60012:57"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.394792,
-                    49.2148498
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta  Říčany u Brna <br><b>Adresa:</b> Brněnská 318, 66482, Říčany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.6 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "60012:209"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.4082962,
-                    49.2113406
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Ostrovačice, budova OÚ <br><b>Adresa:</b> náměstí Viléma Mrštíka 54, 66481, Ostrovačice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.0 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "60012:184"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3599347,
-                    49.2538378
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Javůrek, obchod <br><b>Adresa:</b> č.p. 62, 66483, Javůrek <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.8 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "60012:179"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3986312,
-                    49.2373962
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Veverské Knínice, hasičská zbrojnice <br><b>Adresa:</b> č.p. 14, 66481, Veverské Knínice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:45",
-                "ref": "60012:186"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.3599347,
+          49.2538378
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Javůrek, obchod <br><b>Adresa:</b> č.p. 62, 66483, Javůrek <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.8 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60012:179"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3557239,
+          49.233003
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Říčky, obchod <br><b>Adresa:</b> č.p. 80, 66483, Říčky <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.49 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:10",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60012:180"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.4082962,
+          49.2113406
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Ostrovačice, budova OÚ <br><b>Adresa:</b> náměstí Viléma Mrštíka 54, 66481, Ostrovačice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.0 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60012:184"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.4051146,
+          49.2366151
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Veverské Knínice, poštovní středisko <br><b>Adresa:</b> č.p. 260, 66481, Veverské Knínice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.9 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60012:185"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3986312,
+          49.2373962
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Veverské Knínice, hasičská zbrojnice <br><b>Adresa:</b> č.p. 14, 66481, Veverské Knínice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60012:186"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.394792,
+          49.2148498
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta  Říčany u Brna <br><b>Adresa:</b> Brněnská 318, 66482, Říčany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.6 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60012:209"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.4252643,
+          49.2474371
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> OÚ Hvozdec <br><b>Adresa:</b> č.p. 16, 66471, Hvozdec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60012:57"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

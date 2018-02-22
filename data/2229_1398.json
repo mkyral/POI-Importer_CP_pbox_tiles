@@ -1,158 +1,158 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9452613,
-                    49.4414951
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> autobusová zastávka, Zahradiště <br><b>Adresa:</b> Zahradiště 3, 59444, Radostín nad Oslavou ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:05",
-                "ref": "59402:56"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.964725,
-                    49.4621317
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Radostín nad Oslavou <br><b>Adresa:</b> č.p. 190, 59444, Radostín nad Oslavou ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "59402:69"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9158,
-                    49.4516171
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> potraviny, Pavlov <br><b>Adresa:</b> č.p. 86, 59444, Pavlov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:15",
-                "ref": "59402:59"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9821658,
-                    49.4568261
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> zastávka ZDAR, Kněževes <br><b>Adresa:</b> č.p. 6, 59444, Kněževes ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:45",
-                "ref": "59402:61"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9892475,
-                    49.488061
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Ostrov nad Oslavou <br><b>Adresa:</b> č.p. 186, 59445, Ostrov nad Oslavou ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "59100:89"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9825189,
-                    49.4436384
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> č. 37, Krásněves <br><b>Adresa:</b> č.p. 82, 59444, Krásněves ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "59402:62"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9457075,
-                    49.4927834
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> autobusová zastávka-náves, Kotlasy <br><b>Adresa:</b> č.p. 13, 59214, Kotlasy ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:20",
-                "ref": "59100:78"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9279805,
-                    49.4692423
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> potraviny, Znětínek <br><b>Adresa:</b> č.p. 29, 59444, Znětínek ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "59402:60"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9082589,
-                    49.4797895
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u kapličky, Pokojov <br><b>Adresa:</b> č.p. 14, 59214, Pokojov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "59100:79"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.9457075,
+          49.4927834
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> autobusová zastávka-náves, Kotlasy <br><b>Adresa:</b> č.p. 13, 59214, Kotlasy ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:20",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59100:78"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9082589,
+          49.4797895
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u kapličky, Pokojov <br><b>Adresa:</b> č.p. 14, 59214, Pokojov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59100:79"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9892475,
+          49.488061
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Ostrov nad Oslavou <br><b>Adresa:</b> č.p. 186, 59445, Ostrov nad Oslavou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59100:89"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9452613,
+          49.4414951
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> autobusová zastávka, Zahradiště <br><b>Adresa:</b> Zahradiště 3, 59444, Radostín nad Oslavou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:05",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59402:56"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9158,
+          49.4516171
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> potraviny, Pavlov <br><b>Adresa:</b> č.p. 86, 59444, Pavlov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59402:59"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9279805,
+          49.4692423
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> potraviny, Znětínek <br><b>Adresa:</b> č.p. 29, 59444, Znětínek ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59402:60"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9821658,
+          49.4568261
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> zastávka ZDAR, Kněževes <br><b>Adresa:</b> č.p. 6, 59444, Kněževes ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59402:61"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9825189,
+          49.4436384
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> č. 37, Krásněves <br><b>Adresa:</b> č.p. 82, 59444, Krásněves ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59402:62"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.964725,
+          49.4621317
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Radostín nad Oslavou <br><b>Adresa:</b> č.p. 190, 59444, Radostín nad Oslavou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59402:69"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

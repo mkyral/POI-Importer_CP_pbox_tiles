@@ -1,73 +1,73 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.1227029,
-                    49.9176067
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Oskava, Třemešek 13  (stojan) <br><b>Adresa:</b> Třemešek 13, 78801, Oskava ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "78807:103"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.0841959,
-                    49.9223655
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Nový Malín, Mladoňov 20 <br><b>Adresa:</b> Mladoňov 20, 78803, Nový Malín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "78807:47"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.1085378,
-                    49.9028568
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Oskava 224, Václavov rekr.středisko (stojan) <br><b>Adresa:</b> Šumperk; Oskava; Oskava <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "78807:102"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.1332833,
-                    49.9015361
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Oskava 100, bytovky (stojan) <br><b>Adresa:</b> č.p. 100, 78801, Oskava ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "78807:105"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          17.1085378,
+          49.9028568
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Oskava 224, Václavov rekr.středisko (stojan) <br><b>Adresa:</b> Šumperk; Oskava; Oskava <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "78807:102"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.1227029,
+          49.9176067
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Oskava, Třemešek 13  (stojan) <br><b>Adresa:</b> Třemešek 13, 78801, Oskava ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "78807:103"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.1332833,
+          49.9015361
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Oskava 100, bytovky (stojan) <br><b>Adresa:</b> č.p. 100, 78801, Oskava ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "78807:105"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.0841959,
+          49.9223655
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nový Malín, Mladoňov 20 <br><b>Adresa:</b> Mladoňov 20, 78803, Nový Malín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "78807:47"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

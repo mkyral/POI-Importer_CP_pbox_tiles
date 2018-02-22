@@ -1,107 +1,107 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.6941161,
-                    50.2772664
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Markvarec <br><b>Adresa:</b> Markvarec 45, 44001, Hřivice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "43807:188"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.6272133,
-                    50.2758979
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Líčkov, u tel. budky naproti zastávky BUS <br><b>Adresa:</b> Louny; Liběšice; Líčkov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "43807:60"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.6625366,
-                    50.2846046
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Tuchořice <br><b>Adresa:</b> č.p. 123, 43969, Tuchořice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "43807:280"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.6395053,
-                    50.240677
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Nečemice <br><b>Adresa:</b> Nečemice 29, 43801, Tuchořice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "43807:57"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.7050912,
-                    50.250142
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pnětluky <br><b>Adresa:</b> č.p. 85, 44001, Pnětluky ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "43807:187"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.6515763,
-                    50.2687369
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Třeskonice <br><b>Adresa:</b> Třeskonice 10, 43801, Tuchořice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "43807:56"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.7050912,
+          50.250142
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pnětluky <br><b>Adresa:</b> č.p. 85, 44001, Pnětluky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43807:187"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.6941161,
+          50.2772664
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Markvarec <br><b>Adresa:</b> Markvarec 45, 44001, Hřivice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43807:188"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.6625366,
+          50.2846046
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Tuchořice <br><b>Adresa:</b> č.p. 123, 43969, Tuchořice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43807:280"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.6515763,
+          50.2687369
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Třeskonice <br><b>Adresa:</b> Třeskonice 10, 43801, Tuchořice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43807:56"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.6395053,
+          50.240677
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nečemice <br><b>Adresa:</b> Nečemice 29, 43801, Tuchořice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43807:57"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.6272133,
+          50.2758979
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Líčkov, u tel. budky naproti zastávky BUS <br><b>Adresa:</b> Louny; Liběšice; Líčkov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43807:60"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

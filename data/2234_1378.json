@@ -1,56 +1,56 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.4119294,
-                    50.5783628
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Šonov kulturní dům <br><b>Adresa:</b> č.p. 37, 54971, Šonov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "54707:327"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3711413,
-                    50.5994896
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Rožmitál obchod <br><b>Adresa:</b> Rožmitál 35, 55001, Broumov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "54707:324"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.4015458,
-                    50.5906365
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Šonov u Broumova <br><b>Adresa:</b> č.p. 318, 54971, Šonov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "54707:325"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.3711413,
+          50.5994896
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Rožmitál obchod <br><b>Adresa:</b> Rožmitál 35, 55001, Broumov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54707:324"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.4015458,
+          50.5906365
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Šonov u Broumova <br><b>Adresa:</b> č.p. 318, 54971, Šonov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54707:325"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.4119294,
+          50.5783628
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Šonov kulturní dům <br><b>Adresa:</b> č.p. 37, 54971, Šonov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54707:327"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

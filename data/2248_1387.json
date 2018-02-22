@@ -1,39 +1,39 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.6001536,
-                    50.0766579
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u čp.55-zast.BUS-Radim-střed,Brantice (stojan) <br><b>Adresa:</b> Bruntál; Brantice; Radim <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:35",
-                "ref": "79207:449"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.5939101,
-                    50.1132756
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Partner Hošťálkovy, na stojanu u čp.77 <br><b>Adresa:</b> č.p. 77, 79401, Hošťálkovy ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 13:00",
-                "ref": "79207:435"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          17.5939101,
+          50.1132756
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Partner Hošťálkovy, na stojanu u čp.77 <br><b>Adresa:</b> č.p. 77, 79401, Hošťálkovy ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 13:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79207:435"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.6001536,
+          50.0766579
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u čp.55-zast.BUS-Radim-střed,Brantice (stojan) <br><b>Adresa:</b> Bruntál; Brantice; Radim <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:35",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79207:449"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

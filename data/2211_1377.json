@@ -1,141 +1,141 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3590587,
-                    50.670831
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> na křižovatce u zastávky, čp.35, Velká Javorská <br><b>Adresa:</b> Velká Javorská 35, 47002, Žandov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "47007:48"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3918585,
-                    50.6331968
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Kravaře u České Lípy <br><b>Adresa:</b> náměstí 111, 47103, Kravaře ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "47007:251"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3930118,
-                    50.6678443
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u zastávky, u čp.26, Heřmanice <br><b>Adresa:</b> Heřmanice 26, 47002, Žandov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "47007:49"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3366481,
-                    50.6358056
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Bílý Kostelec 15, 41145, Úštěk ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:50",
-                "ref": "41007:220"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.4055526,
-                    50.6720373
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> na  budově, čp.49, Heřmanice <br><b>Adresa:</b> Heřmanice 49, 47002, Žandov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "47007:47"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.4066941,
-                    50.6755693
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Na křižovatce u zastávky, poblíž čp.20, Valteřice <br><b>Adresa:</b> Valteřice 20, 47105, Žandov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "47007:68"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3847759,
-                    50.6447939
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> na stojanu u čp.22, Janovice <br><b>Adresa:</b> Janovice 22, 47002, Kravaře ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "47007:50"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3516277,
-                    50.6284058
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> zastávka <br><b>Adresa:</b> Konojedy 58, 41145, Úštěk ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:20",
-                "ref": "41007:219"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.3516277,
+          50.6284058
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> zastávka <br><b>Adresa:</b> Konojedy 58, 41145, Úštěk ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:20",
+        "operator": "Česká pošta, s.p.",
+        "ref": "41007:219"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3366481,
+          50.6358056
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Bílý Kostelec 15, 41145, Úštěk ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:50",
+        "operator": "Česká pošta, s.p.",
+        "ref": "41007:220"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3918585,
+          50.6331968
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Kravaře u České Lípy <br><b>Adresa:</b> náměstí 111, 47103, Kravaře ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "47007:251"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.4055526,
+          50.6720373
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> na  budově, čp.49, Heřmanice <br><b>Adresa:</b> Heřmanice 49, 47002, Žandov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "47007:47"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3590587,
+          50.670831
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> na křižovatce u zastávky, čp.35, Velká Javorská <br><b>Adresa:</b> Velká Javorská 35, 47002, Žandov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "47007:48"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3930118,
+          50.6678443
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u zastávky, u čp.26, Heřmanice <br><b>Adresa:</b> Heřmanice 26, 47002, Žandov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "47007:49"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3847759,
+          50.6447939
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> na stojanu u čp.22, Janovice <br><b>Adresa:</b> Janovice 22, 47002, Kravaře ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "47007:50"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.4066941,
+          50.6755693
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Na křižovatce u zastávky, poblíž čp.20, Valteřice <br><b>Adresa:</b> Valteřice 20, 47105, Žandov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "47007:68"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

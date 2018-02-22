@@ -1,141 +1,141 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.7956851,
-                    50.1404639
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Mochov <br><b>Adresa:</b> Sokolovská 92, 25087, Mochov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.0 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "19007:2132"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.7906273,
-                    50.1620096
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Císařská Kuchyně - Čelakovská 22 <br><b>Adresa:</b> Čelákovská 22, Císařská Kuchyně, 25088, Čelákovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 41.67 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "19007:2057"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.779897,
-                    50.1266201
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kozovazy č.p.22 <br><b>Adresa:</b> Kozovazy 22, 25087, Vyšehořovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 18.49 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "19007:2058"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.8470935,
-                    50.1448276
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Obecní úřad, Starý Vestec č.p. 58 <br><b>Adresa:</b> č.p. 58, 28916, Starý Vestec <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 14.5 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "19007:2064"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.8263382,
-                    50.1631293
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> budova pošty, Přerov n/L <br><b>Adresa:</b> č.p. 300, 28916, Přerov nad Labem <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 4.06 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "19007:2130"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.7664673,
-                    50.1672289
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Žižkova 415, Čelákovice <br><b>Adresa:</b> Žižkova 415/5, 25088, Čelákovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 14.36 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "19007:2052"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.8419961,
-                    50.1338286
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Bříství č.p.45/0 <br><b>Adresa:</b> č.p. 18, 28915, Bříství ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "25107:289"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.8248708,
-                    50.160363
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Skansen /stojan/, Přerov n./L. čp. 18 <br><b>Adresa:</b> č.p. 18, 28916, Přerov nad Labem <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 68.3 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "19007:2063"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.7664673,
+          50.1672289
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Žižkova 415, Čelákovice <br><b>Adresa:</b> Žižkova 415/5, 25088, Čelákovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 14.36 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "19007:2052"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.7906273,
+          50.1620096
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Císařská Kuchyně - Čelakovská 22 <br><b>Adresa:</b> Čelákovská 22, Císařská Kuchyně, 25088, Čelákovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 41.67 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "19007:2057"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.779897,
+          50.1266201
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kozovazy č.p.22 <br><b>Adresa:</b> Kozovazy 22, 25087, Vyšehořovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 18.49 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "19007:2058"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.8248708,
+          50.160363
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Skansen /stojan/, Přerov n./L. čp. 18 <br><b>Adresa:</b> č.p. 18, 28916, Přerov nad Labem <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 68.3 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "19007:2063"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.8470935,
+          50.1448276
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Obecní úřad, Starý Vestec č.p. 58 <br><b>Adresa:</b> č.p. 58, 28916, Starý Vestec <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 14.5 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "19007:2064"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.8263382,
+          50.1631293
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> budova pošty, Přerov n/L <br><b>Adresa:</b> č.p. 300, 28916, Přerov nad Labem <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 4.06 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "19007:2130"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.7956851,
+          50.1404639
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Mochov <br><b>Adresa:</b> Sokolovská 92, 25087, Mochov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.0 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "19007:2132"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.8419961,
+          50.1338286
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bříství č.p.45/0 <br><b>Adresa:</b> č.p. 18, 28915, Bříství ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "25107:289"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

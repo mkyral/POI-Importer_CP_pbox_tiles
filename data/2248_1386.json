@@ -1,90 +1,90 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.6023128,
-                    50.1514245
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Osada Opavice,u č.32,M.Albrechtice-stojan zast.BUS <br><b>Adresa:</b> Bruntál; Město Albrechtice; Opavice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:45",
-                "ref": "79207:204"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.6372644,
-                    50.1240587
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kr.Loučky,u č.9/9,Krnov (stojan na zast.BUS) <br><b>Adresa:</b> Bruntál; Krnov; Krásné Loučky <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:45",
-                "ref": "79207:442"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.6249988,
-                    50.1758526
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Piskořov,u kapličky,stojan před čp.4,M.Albrechtice <br><b>Adresa:</b> Piskořov 4, 79395, Město Albrechtice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:55",
-                "ref": "79207:231"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.6144506,
-                    50.139052
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Linhartovy 36, M.Albrechti (stojan před zámkem) <br><b>Adresa:</b> Linhartovy 36, 79395, Město Albrechtice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:10",
-                "ref": "79207:233"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.5783937,
-                    50.1681109
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> na budově ČD, Nádražní 105/22, Město Albrechtice <br><b>Adresa:</b> Nádražní 105/22, 79395, Město Albrechtice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 13:30",
-                "ref": "79207:201"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          17.5783937,
+          50.1681109
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> na budově ČD, Nádražní 105/22, Město Albrechtice <br><b>Adresa:</b> Nádražní 105/22, 79395, Město Albrechtice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 13:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79207:201"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.6023128,
+          50.1514245
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Osada Opavice,u č.32,M.Albrechtice-stojan zast.BUS <br><b>Adresa:</b> Bruntál; Město Albrechtice; Opavice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79207:204"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.6249988,
+          50.1758526
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Piskořov,u kapličky,stojan před čp.4,M.Albrechtice <br><b>Adresa:</b> Piskořov 4, 79395, Město Albrechtice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:55",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79207:231"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.6144506,
+          50.139052
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Linhartovy 36, M.Albrechti (stojan před zámkem) <br><b>Adresa:</b> Linhartovy 36, 79395, Město Albrechtice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:10",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79207:233"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.6372644,
+          50.1240587
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kr.Loučky,u č.9/9,Krnov (stojan na zast.BUS) <br><b>Adresa:</b> Bruntál; Krnov; Krásné Loučky <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79207:442"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

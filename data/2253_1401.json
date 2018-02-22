@@ -1,107 +1,107 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.0491818,
-                    49.2890079
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hořansko-točna, Hovězí <br><b>Adresa:</b> č.p. 281, 75601, Hovězí ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "75707:24"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.0873533,
-                    49.2895599
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> U Žárských, Huslenky <br><b>Adresa:</b> č.p. 399, 75602, Huslenky ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "75707:212"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.0603429,
-                    49.3044134
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Hovězí <br><b>Adresa:</b> č.p. 1, 75601, Hovězí ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "75707:233"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.0917996,
-                    49.3032966
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Huslenky <br><b>Adresa:</b> č.p. 426, 75602, Huslenky ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "75707:234"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.0203803,
-                    49.3112144
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Obecní úřad, Janová <br><b>Adresa:</b> č.p. 200, 75501, Janová ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "75707:17"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.0666765,
-                    49.3107777
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Butogue u Kašparů, Hovězí <br><b>Adresa:</b> č.p. 381, 75601, Hovězí ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "75707:25"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          18.0203803,
+          49.3112144
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Obecní úřad, Janová <br><b>Adresa:</b> č.p. 200, 75501, Janová ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "75707:17"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.0873533,
+          49.2895599
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> U Žárských, Huslenky <br><b>Adresa:</b> č.p. 399, 75602, Huslenky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "75707:212"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.0603429,
+          49.3044134
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Hovězí <br><b>Adresa:</b> č.p. 1, 75601, Hovězí ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "75707:233"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.0917996,
+          49.3032966
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Huslenky <br><b>Adresa:</b> č.p. 426, 75602, Huslenky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "75707:234"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.0491818,
+          49.2890079
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hořansko-točna, Hovězí <br><b>Adresa:</b> č.p. 281, 75601, Hovězí ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "75707:24"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.0666765,
+          49.3107777
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Butogue u Kašparů, Hovězí <br><b>Adresa:</b> č.p. 381, 75601, Hovězí ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "75707:25"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

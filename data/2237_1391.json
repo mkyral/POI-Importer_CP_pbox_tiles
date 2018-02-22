@@ -1,107 +1,107 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.6969389,
-                    49.8711212
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> ZD čp.204, Tatenice <br><b>Adresa:</b> č.p. 242, 56131, Tatenice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:727"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.6365716,
-                    49.8839264
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Žichlínek Obecní úřad 3 <br><b>Adresa:</b> č.p. 3, 56301, Žichlínek ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:707"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.6984181,
-                    49.8640715
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Tatenice <br><b>Adresa:</b> č.p. 243, 56131, Tatenice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:736"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.6616179,
-                    49.8884527
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Obecní úřad Lubník 94 <br><b>Adresa:</b> č.p. 94, 56301, Lubník ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:703"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.6941956,
-                    49.8568046
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Krasíkov zast. BUS 41 <br><b>Adresa:</b> č.p. 41, 56301, Krasíkov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:704"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.6972461,
-                    49.8453814
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Třebařov <br><b>Adresa:</b> č.p. 186, 56933, Třebařov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:740"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.6616179,
+          49.8884527
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Obecní úřad Lubník 94 <br><b>Adresa:</b> č.p. 94, 56301, Lubník ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:703"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.6941956,
+          49.8568046
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Krasíkov zast. BUS 41 <br><b>Adresa:</b> č.p. 41, 56301, Krasíkov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:704"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.6365716,
+          49.8839264
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Žichlínek Obecní úřad 3 <br><b>Adresa:</b> č.p. 3, 56301, Žichlínek ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:707"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.6969389,
+          49.8711212
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> ZD čp.204, Tatenice <br><b>Adresa:</b> č.p. 242, 56131, Tatenice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:727"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.6984181,
+          49.8640715
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Tatenice <br><b>Adresa:</b> č.p. 243, 56131, Tatenice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:736"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.6972461,
+          49.8453814
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Třebařov <br><b>Adresa:</b> č.p. 186, 56933, Třebařov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:740"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

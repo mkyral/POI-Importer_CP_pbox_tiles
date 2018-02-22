@@ -1,141 +1,141 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.5761505,
-                    48.9297273
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> budova PST Iváň č.p. 276 <br><b>Adresa:</b> č.p. 276, 69123, Ivaň ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "60011:116"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.52852,
-                    48.9376706
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> samoobsluha Nová Ves, č.p. 78 <br><b>Adresa:</b> Nová Ves 78, 69123, Pohořelice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "60011:112"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.6041058,
-                    48.9714227
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u sportovní haly <br><b>Adresa:</b> Lipová 573, 69125, Vranovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "60011:121"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.605096,
-                    48.9638682
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> budova ČD <br><b>Adresa:</b> Nádražní 112, 69125, Vranovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "60011:120"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.5753791,
-                    48.9635763
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> potraviny-Přibice <br><b>Adresa:</b> č.p. 435, 69124, Přibice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:15",
-                "ref": "60011:119"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.6055664,
-                    48.9678115
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Vranovice <br><b>Adresa:</b> Školní 1, 69125, Vranovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "60011:143"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.5741553,
-                    48.9610884
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Přibice <br><b>Adresa:</b> č.p. 348, 69124, Přibice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "60011:142"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.5336813,
-                    48.9617177
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> budova hospody - Velký Dvůr č.p.133, Pohořelice <br><b>Adresa:</b> Velký Dvůr 133, 69123, Pohořelice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "60011:113"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.52852,
+          48.9376706
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> samoobsluha Nová Ves, č.p. 78 <br><b>Adresa:</b> Nová Ves 78, 69123, Pohořelice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60011:112"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.5336813,
+          48.9617177
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> budova hospody - Velký Dvůr č.p.133, Pohořelice <br><b>Adresa:</b> Velký Dvůr 133, 69123, Pohořelice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60011:113"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.5761505,
+          48.9297273
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> budova PST Iváň č.p. 276 <br><b>Adresa:</b> č.p. 276, 69123, Ivaň ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60011:116"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.5753791,
+          48.9635763
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> potraviny-Přibice <br><b>Adresa:</b> č.p. 435, 69124, Přibice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60011:119"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.605096,
+          48.9638682
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> budova ČD <br><b>Adresa:</b> Nádražní 112, 69125, Vranovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60011:120"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.6041058,
+          48.9714227
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u sportovní haly <br><b>Adresa:</b> Lipová 573, 69125, Vranovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60011:121"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.5741553,
+          48.9610884
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Přibice <br><b>Adresa:</b> č.p. 348, 69124, Přibice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60011:142"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.6055664,
+          48.9678115
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Vranovice <br><b>Adresa:</b> Školní 1, 69125, Vranovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60011:143"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

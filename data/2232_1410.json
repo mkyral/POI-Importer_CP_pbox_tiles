@@ -1,158 +1,158 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.2396664,
-                    48.7819215
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Křídlůvky - Jednota <br><b>Adresa:</b> č.p. 146, 67128, Křídlůvky ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "66907:125"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.2334324,
-                    48.7568763
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Jaroslavice <br><b>Adresa:</b> Náměstí 92, 67128, Jaroslavice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "66907:259"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1990532,
-                    48.7815879
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Slup <br><b>Adresa:</b> č.p. 51, 67128, Slup ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "66907:123"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.2226811,
-                    48.794032
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Valtrovice - Jednota <br><b>Adresa:</b> č.p. 21, 67128, Valtrovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "66907:126"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1795384,
-                    48.7962116
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Micmanice - Vracovská <br><b>Adresa:</b> Micmanice 304, 67129, Strachotice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "66907:129"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1727658,
-                    48.7962496
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Strachotice - trafika <br><b>Adresa:</b> č.p. 66, 67129, Strachotice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "66907:130"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1771357,
-                    48.797955
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Strachotice <br><b>Adresa:</b> č.p. 46, 67129, Strachotice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "66907:260"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.2098476,
-                    48.7805303
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Oleksovičky <br><b>Adresa:</b> Oleksovičky 166, 67128, Slup ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "66907:122"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.2275482,
-                    48.755963
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jaroslavice <br><b>Adresa:</b> Havlíčkova 330, 67128, Jaroslavice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "66907:121"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.2275482,
+          48.755963
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jaroslavice <br><b>Adresa:</b> Havlíčkova 330, 67128, Jaroslavice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:121"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2102308,
+          48.7804662
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Oleksovičky <br><b>Adresa:</b> Oleksovičky 166, 67128, Slup <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 28.98 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:122"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1992477,
+          48.7814792
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Slup <br><b>Adresa:</b> č.p. 51, 67128, Slup <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 18.69 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:123"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2396664,
+          48.7819215
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Křídlůvky - Jednota <br><b>Adresa:</b> č.p. 146, 67128, Křídlůvky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:125"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2226811,
+          48.794032
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Valtrovice - Jednota <br><b>Adresa:</b> č.p. 21, 67128, Valtrovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:126"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1795384,
+          48.7962116
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Micmanice - Vracovská <br><b>Adresa:</b> Micmanice 304, 67129, Strachotice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:129"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1727658,
+          48.7962496
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Strachotice - trafika <br><b>Adresa:</b> č.p. 66, 67129, Strachotice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:130"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2334324,
+          48.7568763
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Jaroslavice <br><b>Adresa:</b> Náměstí 92, 67128, Jaroslavice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:259"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1771357,
+          48.797955
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Strachotice <br><b>Adresa:</b> č.p. 46, 67129, Strachotice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:260"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

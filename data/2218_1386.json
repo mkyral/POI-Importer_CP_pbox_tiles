@@ -1,158 +1,158 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.9819899,
-                    50.1706502
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> OÚ, Kostomlátky 32 <br><b>Adresa:</b> 5. května 32, 28921, Kostomlátky ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "28800:58"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.9590667,
-                    50.1250327
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> prodejna, Železniční 127, Třebestovice <br><b>Adresa:</b> Železniční 127, 28912, Třebestovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "28800:80"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.003654,
-                    50.1646561
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Autobusová zastávka,  Písty <br><b>Adresa:</b> č.p. 20, 28913, Písty ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "28800:85"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.9826962,
-                    50.1392462
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> za čp. 827 Dr.Sokola u VTA, Sadská <br><b>Adresa:</b> Dr. Sokola 827, 28912, Sadská ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "28800:94"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.9856178,
-                    50.1329855
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> rozcestí Čs.armády, u čp. 1064 Sadská <br><b>Adresa:</b> Československé armády 1064, 28912, Sadská ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "28800:93"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.9652442,
-                    50.1690259
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Doubrava, č.p. 24 <br><b>Adresa:</b> Doubrava 24, 28921, Kostomlátky ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "28800:61"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.9854052,
-                    50.1351924
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Sadská <br><b>Adresa:</b> Pražská 534, 28912, Sadská ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "28800:92"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.9809286,
-                    50.1455828
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Modrá Hvězda, u Lázeňská 479, Sadská <br><b>Adresa:</b> Lázeňská 479, 28912, Sadská ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "28800:95"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.008164,
-                    50.1554715
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Zvěřínek <br><b>Adresa:</b> Nymburská 90, 28913, Zvěřínek ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "28800:84"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.9819899,
+          50.1706502
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> OÚ, Kostomlátky 32 <br><b>Adresa:</b> 5. května 32, 28921, Kostomlátky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28800:58"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.9652442,
+          50.1690259
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Doubrava, č.p. 24 <br><b>Adresa:</b> Doubrava 24, 28921, Kostomlátky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28800:61"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.9590667,
+          50.1250327
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> prodejna, Železniční 127, Třebestovice <br><b>Adresa:</b> Železniční 127, 28912, Třebestovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28800:80"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.008164,
+          50.1554715
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Zvěřínek <br><b>Adresa:</b> Nymburská 90, 28913, Zvěřínek ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28800:84"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.003654,
+          50.1646561
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Autobusová zastávka,  Písty <br><b>Adresa:</b> č.p. 20, 28913, Písty ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28800:85"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.9854052,
+          50.1351924
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Sadská <br><b>Adresa:</b> Pražská 534, 28912, Sadská ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28800:92"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.9856178,
+          50.1329855
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> rozcestí Čs.armády, u čp. 1064 Sadská <br><b>Adresa:</b> Československé armády 1064, 28912, Sadská ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28800:93"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.9826962,
+          50.1392462
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> za čp. 827 Dr.Sokola u VTA, Sadská <br><b>Adresa:</b> Dr. Sokola 827, 28912, Sadská ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28800:94"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.9809286,
+          50.1455828
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Modrá Hvězda, u Lázeňská 479, Sadská <br><b>Adresa:</b> Lázeňská 479, 28912, Sadská ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28800:95"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

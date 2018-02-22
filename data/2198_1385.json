@@ -1,39 +1,39 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.2623706,
-                    50.2151097
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Podbořanský Rohozec <br><b>Adresa:</b> č.p. 6, 44101, Podbořanský Rohozec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "43807:110"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.2309287,
-                    50.2203622
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Bukovina, točna BUS <br><b>Adresa:</b> Louny; Podbořanský Rohozec; Podbořanský Rohozec <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "43807:111"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.2623706,
+          50.2151097
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Podbořanský Rohozec <br><b>Adresa:</b> č.p. 6, 44101, Podbořanský Rohozec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43807:110"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.2309287,
+          50.2203622
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bukovina, točna BUS <br><b>Adresa:</b> Louny; Podbořanský Rohozec; Podbořanský Rohozec <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43807:111"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

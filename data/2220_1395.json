@@ -1,158 +1,158 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.1332909,
-                    49.6630358
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Brzotice - Na návsi před č. 30 <br><b>Adresa:</b> Brzotice 30, 25768, Loket ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "25607:312"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.1945513,
-                    49.658729
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Zahrádčice - čekárna aut. Na návsi před č. 3 <br><b>Adresa:</b> Zahrádčice 3, 25768, Dolní Kralovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "25607:308"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.1779214,
-                    49.6451784
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Dolní Kralovice č. 5 <br><b>Adresa:</b> Fibichova 5, 25768, Dolní Kralovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 16:00",
-                "ref": "25607:301"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.1490253,
-                    49.6190258
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Děkanovice, Na návsi  před č. 8 <br><b>Adresa:</b> č.p. 8, 25768, Děkanovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 13:00",
-                "ref": "25607:315"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.1589201,
-                    49.6642414
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Střítež - obchod č. 43 <br><b>Adresa:</b> Střítež 43, 25768, Dolní Kralovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "25607:311"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.1777906,
-                    49.6192962
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Vítonice, Pod Kapličkou u č. 11 <br><b>Adresa:</b> Vítonice 11, 25768, Blažejovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "25607:303"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.1559517,
-                    49.6447645
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Tomice - obchod č. 18 <br><b>Adresa:</b> č.p. 37, 25768, Tomice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "25607:310"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.2004184,
-                    49.6193194
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Blažejovice, Na návsi před č. 12 <br><b>Adresa:</b> č.p. 34, 25768, Blažejovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "25607:304"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.1176506,
-                    49.6322942
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Lhota Bubeneč č.p.14 <br><b>Adresa:</b> Lhota Bubeneč 14, 25765, Křivsoudov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "25607:406"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.1779214,
+          49.6451784
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Dolní Kralovice č. 5 <br><b>Adresa:</b> Fibichova 5, 25768, Dolní Kralovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 16:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "25607:301"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.1777906,
+          49.6192962
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vítonice, Pod Kapličkou u č. 11 <br><b>Adresa:</b> Vítonice 11, 25768, Blažejovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "25607:303"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2004184,
+          49.6193194
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Blažejovice, Na návsi před č. 12 <br><b>Adresa:</b> č.p. 34, 25768, Blažejovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "25607:304"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.1945513,
+          49.658729
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Zahrádčice - čekárna aut. Na návsi před č. 3 <br><b>Adresa:</b> Zahrádčice 3, 25768, Dolní Kralovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "25607:308"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.1559517,
+          49.6447645
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Tomice - obchod č. 18 <br><b>Adresa:</b> č.p. 37, 25768, Tomice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "25607:310"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.1589201,
+          49.6642414
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Střítež - obchod č. 43 <br><b>Adresa:</b> Střítež 43, 25768, Dolní Kralovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "25607:311"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.1332909,
+          49.6630358
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Brzotice - Na návsi před č. 30 <br><b>Adresa:</b> Brzotice 30, 25768, Loket ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "25607:312"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.1490253,
+          49.6190258
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Děkanovice, Na návsi  před č. 8 <br><b>Adresa:</b> č.p. 8, 25768, Děkanovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 13:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "25607:315"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.1176506,
+          49.6322942
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lhota Bubeneč č.p.14 <br><b>Adresa:</b> Lhota Bubeneč 14, 25765, Křivsoudov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "25607:406"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

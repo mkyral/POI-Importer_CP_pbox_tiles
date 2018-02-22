@@ -1,158 +1,158 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.598143,
-                    50.4469411
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Havraň <br><b>Adresa:</b> č.p. 11, 43501, Havraň <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.13 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "43407:139"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.5392669,
-                    50.4570314
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hošnice, u č.p.33, zastávka autobusu, na stojanu <br><b>Adresa:</b> Hošnice 33, 43114, Strupčice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 30.75 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "43007:168"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.5631995,
-                    50.4026094
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Velemyšleves <br><b>Adresa:</b> č.p. 65, 43801, Velemyšleves ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "43807:47"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.5980191,
-                    50.4497268
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Na stojanu u <br><b>Adresa:</b> č.p. 3, 43501, Havraň ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:45",
-                "ref": "43407:115"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.6125459,
-                    50.4249056
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u autobusové zastávky <br><b>Adresa:</b> Moravěves 8, 43401, Havraň ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "43407:108"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.5849801,
-                    50.4456191
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> mezi č.p. 14 a 20 <br><b>Adresa:</b> Saběnice 14, 43401, Havraň ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "43407:110"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.5540774,
-                    50.4444535
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Sušany, u č.p.29, zastávka autobusu, na stojanu <br><b>Adresa:</b> Sušany 29, 43114, Strupčice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "43007:169"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.6204573,
-                    50.454075
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Nemilkov 23, 43401, Lišnice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "43407:105"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.55154,
-                    50.407497
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Zálezly, poblíž kapličky <br><b>Adresa:</b> Louny; Velemyšleves; Zálezly <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "43807:46"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.5392669,
+          50.4570314
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hošnice, u č.p.33, zastávka autobusu, na stojanu <br><b>Adresa:</b> Hošnice 33, 43114, Strupčice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 30.75 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43007:168"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.5540774,
+          50.4444535
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Sušany, u č.p.29, zastávka autobusu, na stojanu <br><b>Adresa:</b> Sušany 29, 43114, Strupčice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43007:169"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.6204573,
+          50.454075
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Nemilkov 23, 43401, Lišnice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43407:105"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.6125459,
+          50.4249056
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u autobusové zastávky <br><b>Adresa:</b> Moravěves 8, 43401, Havraň ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43407:108"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.5849801,
+          50.4456191
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> mezi č.p. 14 a 20 <br><b>Adresa:</b> Saběnice 14, 43401, Havraň ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43407:110"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.5980191,
+          50.4497268
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Na stojanu u <br><b>Adresa:</b> č.p. 3, 43501, Havraň ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43407:115"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.598143,
+          50.4469411
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Havraň <br><b>Adresa:</b> č.p. 11, 43501, Havraň <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.13 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43407:139"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.55154,
+          50.407497
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Zálezly, poblíž kapličky <br><b>Adresa:</b> Louny; Velemyšleves; Zálezly <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43807:46"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.5631995,
+          50.4026094
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Velemyšleves <br><b>Adresa:</b> č.p. 65, 43801, Velemyšleves ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43807:47"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

@@ -1,158 +1,158 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.482852,
-                    49.3221851
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Prodejna, Jezdovice <br><b>Adresa:</b> č.p. 34, 58901, Jezdovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:20",
-                "ref": "58607:231"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4749617,
-                    49.2876384
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> zastávka ICOM, Salavice <br><b>Adresa:</b> Josefa Hory 863/40, 58901, Třešť ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:50",
-                "ref": "58607:230"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4759675,
-                    49.2906607
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Vrchlického, Třešť <br><b>Adresa:</b> Vrchlického 918/9, 58901, Třešť ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "58607:228"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4761115,
-                    49.2835599
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Družstevní, Třešť <br><b>Adresa:</b> Družstevní 1221/37, 58901, Třešť ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 13:55",
-                "ref": "58607:239"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.483555,
-                    49.2903065
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Třešť <br><b>Adresa:</b> Revoluční 20/1, 58901, Třešť ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 16:00",
-                "ref": "58607:275"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4763111,
-                    49.2704791
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> zastávka ICOM, Hodice <br><b>Adresa:</b> č.p. 50, 58901, Hodice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:50",
-                "ref": "58607:238"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4762128,
-                    49.2957012
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Havlíčkova, Třešť <br><b>Adresa:</b> Havlíčkova 357/1, 58901, Třešť ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 13:50",
-                "ref": "58607:240"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4712417,
-                    49.2869373
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Josefa Hory, Třešť <br><b>Adresa:</b> Josefa Hory 1006/74, 58901, Třešť ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "58607:229"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4835016,
-                    49.2928142
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Malé náměstí, Třešť <br><b>Adresa:</b> Malé nám. 1332/3, 58901, Třešť ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 13:45",
-                "ref": "58607:227"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.4835016,
+          49.2928142
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Malé náměstí, Třešť <br><b>Adresa:</b> Malé nám. 1332/3, 58901, Třešť ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 13:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:227"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4759675,
+          49.2906607
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vrchlického, Třešť <br><b>Adresa:</b> Vrchlického 918/9, 58901, Třešť ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:228"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4712417,
+          49.2869373
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Josefa Hory, Třešť <br><b>Adresa:</b> Josefa Hory 1006/74, 58901, Třešť ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:229"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4749617,
+          49.2876384
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> zastávka ICOM, Salavice <br><b>Adresa:</b> Josefa Hory 863/40, 58901, Třešť ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:50",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:230"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.482852,
+          49.3221851
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Prodejna, Jezdovice <br><b>Adresa:</b> č.p. 34, 58901, Jezdovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:20",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:231"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4763111,
+          49.2704791
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> zastávka ICOM, Hodice <br><b>Adresa:</b> č.p. 50, 58901, Hodice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:50",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:238"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4761115,
+          49.2835599
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Družstevní, Třešť <br><b>Adresa:</b> Družstevní 1221/37, 58901, Třešť ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 13:55",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:239"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4762128,
+          49.2957012
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Havlíčkova, Třešť <br><b>Adresa:</b> Havlíčkova 357/1, 58901, Třešť ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 13:50",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:240"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.483555,
+          49.2903065
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Třešť <br><b>Adresa:</b> Revoluční 20/1, 58901, Třešť ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 16:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:275"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

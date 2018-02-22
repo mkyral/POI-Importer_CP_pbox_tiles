@@ -1,141 +1,141 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.9153437,
-                    49.1148818
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Stajka <br><b>Adresa:</b> Stajka 5, 37701, Hatín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "37702:31"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.9104783,
-                    49.1468821
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Ratiboř <br><b>Adresa:</b> č.p. 60, 37701, Ratiboř ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "37702:27"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.9118261,
-                    49.1087776
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hatín <br><b>Adresa:</b> č.p. 33, 37701, Hatín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "37702:33"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.9240575,
-                    49.1079047
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Polště <br><b>Adresa:</b> č.p. 42, 37701, Polště ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:45",
-                "ref": "37702:32"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.9155364,
-                    49.1438805
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Ratiboř <br><b>Adresa:</b> č.p. 36, 37701, Ratiboř ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "37702:28"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.9092013,
-                    49.1261074
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Roseč - prodejna - náves <br><b>Adresa:</b> č.p. 5, 37846, Roseč ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:15",
-                "ref": "37702:30"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.910237,
-                    49.1281021
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> budova pošty, Roseč <br><b>Adresa:</b> č.p. 84, 37846, Roseč ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "37702:29"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.8542855,
-                    49.0966015
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jemčina - u budovy ZD <br><b>Adresa:</b> Jemčina 12, 37901, Hatín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:15",
-                "ref": "37271:496"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.8542855,
+          49.0966015
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jemčina - u budovy ZD <br><b>Adresa:</b> Jemčina 12, 37901, Hatín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:496"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.9104783,
+          49.1468821
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Ratiboř <br><b>Adresa:</b> č.p. 60, 37701, Ratiboř ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:27"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.9155364,
+          49.1438805
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Ratiboř <br><b>Adresa:</b> č.p. 36, 37701, Ratiboř ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:28"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.910237,
+          49.1281021
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> budova pošty, Roseč <br><b>Adresa:</b> č.p. 84, 37846, Roseč ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:29"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.9092013,
+          49.1261074
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Roseč - prodejna - náves <br><b>Adresa:</b> č.p. 5, 37846, Roseč ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:30"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.9153437,
+          49.1148818
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Stajka <br><b>Adresa:</b> Stajka 5, 37701, Hatín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:31"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.9240575,
+          49.1079047
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Polště <br><b>Adresa:</b> č.p. 42, 37701, Polště ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:32"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.9118261,
+          49.1087776
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hatín <br><b>Adresa:</b> č.p. 33, 37701, Hatín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:33"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

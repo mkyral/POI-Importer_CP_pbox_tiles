@@ -1,73 +1,73 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.3083843,
-                    49.9810782
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> poblíž čp.90,Horní Moravice (stojan na rozcestí) <br><b>Adresa:</b> Bruntál; Dolní Moravice; Horní Moravice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 13:10",
-                "ref": "79207:85"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.2363956,
-                    49.95931
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pošta Stará Ves u Rýmařova (stojan) <br><b>Adresa:</b> Potočná 289/18, 79501, Stará Ves ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "79207:516"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.2275682,
-                    49.9733263
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Potočná 156/114,Stará Ves (stojan u hotelu An.Huť) <br><b>Adresa:</b> Bruntál; Stará Ves; Stará Ves <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "79207:87"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.3135145,
-                    49.9790594
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> napr.čp.7,část Nová Ves,Dolní Moravice(na stojanu) <br><b>Adresa:</b> Bruntál; Dolní Moravice; Nová Ves <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 13:15",
-                "ref": "79207:86"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          17.2363956,
+          49.95931
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Stará Ves u Rýmařova (stojan) <br><b>Adresa:</b> Potočná 289/18, 79501, Stará Ves ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79207:516"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.3083843,
+          49.9810782
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> poblíž čp.90,Horní Moravice (stojan na rozcestí) <br><b>Adresa:</b> Bruntál; Dolní Moravice; Horní Moravice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 13:10",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79207:85"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.3135145,
+          49.9790594
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> napr.čp.7,část Nová Ves,Dolní Moravice(na stojanu) <br><b>Adresa:</b> Bruntál; Dolní Moravice; Nová Ves <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 13:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79207:86"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.2275682,
+          49.9733263
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Potočná 156/114,Stará Ves (stojan u hotelu An.Huť) <br><b>Adresa:</b> Bruntál; Stará Ves; Stará Ves <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79207:87"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

@@ -1,39 +1,39 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.3586603,
-                    49.8749812
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pošta Ryžoviště <br><b>Adresa:</b> Dětřichovská 60, 79356, Ryžoviště ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:20",
-                "ref": "79207:519"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.3542949,
-                    49.8454563
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Arnoltice,naproti čp.88,Huzová (stojan u zast.BUS) <br><b>Adresa:</b> Olomouc; Huzová; Arnoltice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:50",
-                "ref": "79207:69"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          17.3586603,
+          49.8749812
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Ryžoviště <br><b>Adresa:</b> Dětřichovská 60, 79356, Ryžoviště ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:20",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79207:519"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.3542949,
+          49.8454563
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Arnoltice,naproti čp.88,Huzová (stojan u zast.BUS) <br><b>Adresa:</b> Olomouc; Huzová; Arnoltice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:50",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79207:69"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

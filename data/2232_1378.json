@@ -1,158 +1,158 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.2452292,
-                    50.6243249
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> 5. května 421, Broumov <br><b>Adresa:</b> 5. května 421, 54981, Meziměstí ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "54707:311"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.2306161,
-                    50.609781
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Březová Dřevoterm <br><b>Adresa:</b> Březová 59, 54983, Meziměstí ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "54707:328"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.2388052,
-                    50.5803108
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hony, obchod <br><b>Adresa:</b> Hony 48, 54954, Police nad Metují ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "54707:180"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.2492221,
-                    50.620339
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Veba-zastávka ČSAD, Broumov <br><b>Adresa:</b> Tovární 83, 54981, Meziměstí ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "54707:313"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1955596,
-                    50.592365
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Bohdašín 18 <br><b>Adresa:</b> Bohdašín 18, 54957, Teplice nad Metují ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "54707:348"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.2243146,
-                    50.6156527
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Vernéřovice, Jednota <br><b>Adresa:</b> č.p. 33, 54982, Vernéřovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "54707:336"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.2305152,
-                    50.6169877
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Vernéřovice 204 <br><b>Adresa:</b> č.p. 204, 54982, Vernéřovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "54707:337"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1881797,
-                    50.5814685
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Lachov prodejna <br><b>Adresa:</b> Lachov 10, 54957, Teplice nad Metují ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "54707:347"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.2213492,
-                    50.6136056
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Vernéřovice <br><b>Adresa:</b> č.p. 1, 54982, Vernéřovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "54707:339"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.2388052,
+          50.5803108
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hony, obchod <br><b>Adresa:</b> Hony 48, 54954, Police nad Metují ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54707:180"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2452292,
+          50.6243249
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> 5. května 421, Broumov <br><b>Adresa:</b> 5. května 421, 54981, Meziměstí ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54707:311"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2492221,
+          50.620339
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Veba-zastávka ČSAD, Broumov <br><b>Adresa:</b> Tovární 83, 54981, Meziměstí ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54707:313"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2306161,
+          50.609781
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Březová Dřevoterm <br><b>Adresa:</b> Březová 59, 54983, Meziměstí ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54707:328"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2243146,
+          50.6156527
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vernéřovice, Jednota <br><b>Adresa:</b> č.p. 33, 54982, Vernéřovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54707:336"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2305152,
+          50.6169877
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vernéřovice 204 <br><b>Adresa:</b> č.p. 204, 54982, Vernéřovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54707:337"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2213492,
+          50.6136056
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Vernéřovice <br><b>Adresa:</b> č.p. 1, 54982, Vernéřovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54707:339"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1881797,
+          50.5814685
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lachov prodejna <br><b>Adresa:</b> Lachov 10, 54957, Teplice nad Metují ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54707:347"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1955596,
+          50.592365
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bohdašín 18 <br><b>Adresa:</b> Bohdašín 18, 54957, Teplice nad Metují ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54707:348"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

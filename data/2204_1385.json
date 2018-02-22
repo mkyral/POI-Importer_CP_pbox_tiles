@@ -1,158 +1,158 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.7326058,
-                    50.2294458
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> dům č.p.203, Domoušice <br><b>Adresa:</b> č.p. 203, 43968, Domoušice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "43807:241"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.7828174,
-                    50.2066744
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kroučová čp.17 <br><b>Adresa:</b> č.p. 17, 27054, Kroučová ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "26907:197"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.7480288,
-                    50.1886968
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hředle - pošta <br><b>Adresa:</b> č.p. 99, 27008, Hředle ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "26907:62"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.7224076,
-                    50.2331097
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> nádraží ČD č.p.126, Domoušice <br><b>Adresa:</b> č.p. 126, 43968, Domoušice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "43807:242"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.7159452,
-                    50.2108879
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Mutějovice - nádraží ČD <br><b>Adresa:</b> Rakovník; Mutějovice; Mutějovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "26907:68"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.7947588,
-                    50.2278235
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pochvalov - pošta <br><b>Adresa:</b> č.p. 90, 27055, Pochvalov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "26907:175"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.731808,
-                    50.2180076
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> obecní úřad čp.20, Lhota pod Džbánem <br><b>Adresa:</b> Lhota pod Džbánem 20, 27007, Mutějovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "26907:67"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.7541636,
-                    50.2124906
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Třeboc  u domu  čp.91 <br><b>Adresa:</b> č.p. 91, 27054, Třeboc ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:10",
-                "ref": "26907:198"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.7463529,
-                    50.1920364
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> před domem čp.85, Hředle <br><b>Adresa:</b> č.p. 85, 27008, Hředle ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "26907:73"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.7947588,
+          50.2278235
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pochvalov - pošta <br><b>Adresa:</b> č.p. 90, 27055, Pochvalov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26907:175"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.7828174,
+          50.2066744
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kroučová čp.17 <br><b>Adresa:</b> č.p. 17, 27054, Kroučová ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26907:197"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.7541636,
+          50.2124906
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Třeboc  u domu  čp.91 <br><b>Adresa:</b> č.p. 91, 27054, Třeboc ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:10",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26907:198"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.7480288,
+          50.1886968
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hředle - pošta <br><b>Adresa:</b> č.p. 99, 27008, Hředle ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26907:62"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.731808,
+          50.2180076
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> obecní úřad čp.20, Lhota pod Džbánem <br><b>Adresa:</b> Lhota pod Džbánem 20, 27007, Mutějovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26907:67"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.7159452,
+          50.2108879
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Mutějovice - nádraží ČD <br><b>Adresa:</b> Rakovník; Mutějovice; Mutějovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26907:68"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.7463529,
+          50.1920364
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> před domem čp.85, Hředle <br><b>Adresa:</b> č.p. 85, 27008, Hředle ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26907:73"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.7326058,
+          50.2294458
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> dům č.p.203, Domoušice <br><b>Adresa:</b> č.p. 203, 43968, Domoušice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43807:241"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.7224076,
+          50.2331097
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> nádraží ČD č.p.126, Domoušice <br><b>Adresa:</b> č.p. 126, 43968, Domoušice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43807:242"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

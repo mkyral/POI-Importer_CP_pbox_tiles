@@ -1,124 +1,124 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.5659094,
-                    49.708833
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Sedletín - BUS <br><b>Adresa:</b> č.p. 24, 58301, Sedletín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:277"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.6346998,
-                    49.6734472
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Rozsochatec <br><b>Adresa:</b> č.p. 97, 58272, Rozsochatec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:29"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.5585601,
-                    49.7088282
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Veselá - BUS <br><b>Adresa:</b> Veselá 12, 58301, Sedletín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:278"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.6339764,
-                    49.7139421
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Svinný 19 - BUS, \"S\" <br><b>Adresa:</b> Svinný 19, 58301, Chotěboř ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:267"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.587075,
-                    49.6714739
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Horní Krupá 27 - prodejna <br><b>Adresa:</b> č.p. 27, 58001, Horní Krupá ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:73"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.5829357,
-                    49.7130333
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jilem - BUS <br><b>Adresa:</b> č.p. 2, 58301, Jilem ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:276"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.6087599,
-                    49.6952594
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Čachotín 41 - prodejna, \"S\" <br><b>Adresa:</b> č.p. 41, 58301, Čachotín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:269"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.6339764,
+          49.7139421
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Svinný 19 - BUS, \"S\" <br><b>Adresa:</b> Svinný 19, 58301, Chotěboř ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:267"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.6087599,
+          49.6952594
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Čachotín 41 - prodejna, \"S\" <br><b>Adresa:</b> č.p. 41, 58301, Čachotín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:269"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.5829357,
+          49.7130333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jilem - BUS <br><b>Adresa:</b> č.p. 2, 58301, Jilem ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:276"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.5659094,
+          49.708833
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Sedletín - BUS <br><b>Adresa:</b> č.p. 24, 58301, Sedletín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:277"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.5585601,
+          49.7088282
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Veselá - BUS <br><b>Adresa:</b> Veselá 12, 58301, Sedletín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:278"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.6346998,
+          49.6734472
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Rozsochatec <br><b>Adresa:</b> č.p. 97, 58272, Rozsochatec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:29"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.587075,
+          49.6714739
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Horní Krupá 27 - prodejna <br><b>Adresa:</b> č.p. 27, 58001, Horní Krupá ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:73"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

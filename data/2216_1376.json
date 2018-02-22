@@ -1,141 +1,141 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.8378653,
-                    50.7030616
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Hamr u České Lípy <br><b>Adresa:</b> Liberecká 24, 47128, Hamr na Jezeře ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "47007:270"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.8089974,
-                    50.7252062
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Dubnice pod Ralskem <br><b>Adresa:</b> č.p. 240, 47126, Dubnice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "47007:268"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.7966445,
-                    50.7001358
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> na stojanu u Mimoňská 289, Stráž pod Ralskem <br><b>Adresa:</b> Mimoňská 289, 47127, Stráž pod Ralskem ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "47007:133"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.8067613,
-                    50.7007523
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pošta Stráž pod Ralskem <br><b>Adresa:</b> Máchova 5, 47127, Stráž pod Ralskem ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "47007:269"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.8147578,
-                    50.697276
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> poblíž Máchova 250, na stojanu, Stráž pod Ralskem <br><b>Adresa:</b> Máchova 250, 47127, Stráž pod Ralskem ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "47007:130"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.7992957,
-                    50.701677
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Mimoňská 138, Stráž pod Ralskem <br><b>Adresa:</b> Mimoňská 138, 47127, Stráž pod Ralskem ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "47007:131"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.8023751,
-                    50.7016008
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> na stojanu u Pionýrů 140, Stráž pod Ralskem <br><b>Adresa:</b> Pionýrů 140, 47127, Stráž pod Ralskem ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "47007:132"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.8075036,
-                    50.7200642
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Zastávka, poblíž čp.238, Dubnice p.Ralskem <br><b>Adresa:</b> č.p. 238, 47126, Dubnice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "47007:39"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.8147578,
+          50.697276
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> poblíž Máchova 250, na stojanu, Stráž pod Ralskem <br><b>Adresa:</b> Máchova 250, 47127, Stráž pod Ralskem ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "47007:130"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.7992957,
+          50.701677
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Mimoňská 138, Stráž pod Ralskem <br><b>Adresa:</b> Mimoňská 138, 47127, Stráž pod Ralskem ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "47007:131"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.8023751,
+          50.7016008
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> na stojanu u Pionýrů 140, Stráž pod Ralskem <br><b>Adresa:</b> Pionýrů 140, 47127, Stráž pod Ralskem ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "47007:132"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.7966445,
+          50.7001358
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> na stojanu u Mimoňská 289, Stráž pod Ralskem <br><b>Adresa:</b> Mimoňská 289, 47127, Stráž pod Ralskem ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "47007:133"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.8089974,
+          50.7252062
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Dubnice pod Ralskem <br><b>Adresa:</b> č.p. 240, 47126, Dubnice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "47007:268"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.8067613,
+          50.7007523
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Stráž pod Ralskem <br><b>Adresa:</b> Máchova 5, 47127, Stráž pod Ralskem ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "47007:269"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.8378653,
+          50.7030616
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Hamr u České Lípy <br><b>Adresa:</b> Liberecká 24, 47128, Hamr na Jezeře ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "47007:270"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.8075036,
+          50.7200642
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Zastávka, poblíž čp.238, Dubnice p.Ralskem <br><b>Adresa:</b> č.p. 238, 47126, Dubnice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "47007:39"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

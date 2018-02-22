@@ -1,39 +1,39 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.4661972,
-                    49.9000897
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Dětmarovice č.44 - nádraží ČD (uvnitř objektu) <br><b>Adresa:</b> č.p. 44, 73571, Dětmarovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "70071:408"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.4906427,
-                    49.899227
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Závada 176 (na stojanu), nákupní středisko <br><b>Adresa:</b> Závada 176, 73572, Petrovice u Karviné ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "70071:243"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          18.4906427,
+          49.899227
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Závada 176 (na stojanu), nákupní středisko <br><b>Adresa:</b> Závada 176, 73572, Petrovice u Karviné ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "70071:243"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.4661972,
+          49.9000897
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dětmarovice č.44 - nádraží ČD (uvnitř objektu) <br><b>Adresa:</b> č.p. 44, 73571, Dětmarovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "70071:408"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

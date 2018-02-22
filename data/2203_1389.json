@@ -1,158 +1,158 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.7087807,
-                    49.9731341
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kostelík č.p.10 <br><b>Adresa:</b> Kostelík E10, 27041, Slabce ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:40",
-                "ref": "26907:160"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.6890725,
-                    49.9532082
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Zvíkovec - partner <br><b>Adresa:</b> č.p. 17, 33808, Zvíkovec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "30072:402"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.6903934,
-                    49.9939708
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Modřejovice č.p.74 <br><b>Adresa:</b> Modřejovice 74, 27041, Slabce ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "26907:159"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.6847129,
-                    49.9551817
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Zvíkovec 59 (Kalinova Ves)-aut.zastávka <br><b>Adresa:</b> č.p. 59, 33808, Zvíkovec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:30",
-                "ref": "30072:373"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.6468855,
-                    49.9727624
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Chříč - pošta <br><b>Adresa:</b> č.p. 26, 33141, Chříč ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "30071:448"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.6899153,
-                    50.0071182
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Svinařov  č.p.10 u autobus.zastávky <br><b>Adresa:</b> Svinařov 10, 27041, Slabce ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:10",
-                "ref": "26907:158"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.6430342,
-                    49.9606288
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Studená,váha ZD <br><b>Adresa:</b> Plzeň-sever; Studená; Studená <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "30071:409"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.6344456,
-                    49.9846359
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Slatina č.p 14 <br><b>Adresa:</b> č.p. 14, 33141, Slatina ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "30071:406"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.6482055,
-                    49.9890252
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Lhota č.p. 12 <br><b>Adresa:</b> Lhota 12, 33141, Chříč ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "30071:407"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.6899153,
+          50.0071182
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Svinařov  č.p.10 u autobus.zastávky <br><b>Adresa:</b> Svinařov 10, 27041, Slabce ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:10",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26907:158"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.6903934,
+          49.9939708
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Modřejovice č.p.74 <br><b>Adresa:</b> Modřejovice 74, 27041, Slabce ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26907:159"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.7087807,
+          49.9731341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kostelík č.p.10 <br><b>Adresa:</b> Kostelík E10, 27041, Slabce ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:40",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26907:160"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.6344456,
+          49.9846359
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Slatina č.p 14 <br><b>Adresa:</b> č.p. 14, 33141, Slatina ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30071:406"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.6482055,
+          49.9890252
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lhota č.p. 12 <br><b>Adresa:</b> Lhota 12, 33141, Chříč ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30071:407"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.6430342,
+          49.9606288
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Studená,váha ZD <br><b>Adresa:</b> Plzeň-sever; Studená; Studená <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30071:409"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.6468855,
+          49.9727624
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Chříč - pošta <br><b>Adresa:</b> č.p. 26, 33141, Chříč ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30071:448"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.6847129,
+          49.9551817
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Zvíkovec 59 (Kalinova Ves)-aut.zastávka <br><b>Adresa:</b> č.p. 59, 33808, Zvíkovec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30072:373"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.6890725,
+          49.9532082
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Zvíkovec - partner <br><b>Adresa:</b> č.p. 17, 33808, Zvíkovec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30072:402"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

@@ -1,107 +1,107 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.8169913,
-                    50.6237049
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Svoboda nad Úpou <br><b>Adresa:</b> 5. května 401, 54224, Svoboda nad Úpou ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "54107:224"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.7365084,
-                    50.5782221
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Rudník u Vrchlabí <br><b>Adresa:</b> č.p. 56, 54372, Rudník ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "54107:711"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.7331705,
-                    50.5951533
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Rudník čp. 129 <br><b>Adresa:</b> č.p. 129, 54372, Rudník ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "54107:715"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.7741822,
-                    50.5849267
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> obchod  Javorník <br><b>Adresa:</b> Javorník 159, 54372, Rudník ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "54107:719"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.7566844,
-                    50.5807383
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> čp. 494 <br><b>Adresa:</b> č.p. 494, 54372, Rudník ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "54107:716"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.820205,
-                    50.6216995
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Svoboda nad Úpou nádraží <br><b>Adresa:</b> Nádražní 447, 54224, Svoboda nad Úpou ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "54107:222"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.820205,
+          50.6216995
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Svoboda nad Úpou nádraží <br><b>Adresa:</b> Nádražní 447, 54224, Svoboda nad Úpou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54107:222"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8169913,
+          50.6237049
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Svoboda nad Úpou <br><b>Adresa:</b> 5. května 401, 54224, Svoboda nad Úpou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54107:224"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7365084,
+          50.5782221
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Rudník u Vrchlabí <br><b>Adresa:</b> č.p. 56, 54372, Rudník ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54107:711"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7331705,
+          50.5951533
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Rudník čp. 129 <br><b>Adresa:</b> č.p. 129, 54372, Rudník ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54107:715"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7566844,
+          50.5807383
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> čp. 494 <br><b>Adresa:</b> č.p. 494, 54372, Rudník ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54107:716"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7741822,
+          50.5849267
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> obchod  Javorník <br><b>Adresa:</b> Javorník 159, 54372, Rudník ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54107:719"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

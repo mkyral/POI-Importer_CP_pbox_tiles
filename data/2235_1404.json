@@ -1,124 +1,124 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.5184081,
-                    49.1118255
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Ořechov u Brna <br><b>Adresa:</b> Zahradní 216/1, 66444, Ořechov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "60010:8"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.4730026,
-                    49.1188034
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> partner Prštice <br><b>Adresa:</b> Hlavní 1, 66446, Prštice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "60010:50"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.5043207,
-                    49.1523377
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Střelice u Brna <br><b>Adresa:</b> nám. Svobody 241/3, 66447, Střelice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.01 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "60010:9"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.4812621,
-                    49.1514604
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Bří Kotrbů 420, Střelice u Brna <br><b>Adresa:</b> Bratří Kotrbů 415/22, 66447, Střelice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 74.82 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "60010:20"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.479417,
-                    49.1322815
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Obecní úřad Radostice <br><b>Adresa:</b> Sokolská 11, 66446, Radostice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "60010:39"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.4929983,
-                    49.1527099
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Ant. Smutného 75, obch. stř., Střelice u Brna <br><b>Adresa:</b> Ant. Smutného 630/75, 66447, Střelice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 26.63 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "60010:18"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.4675283,
-                    49.1059299
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Poštovní středisko Silůvky <br><b>Adresa:</b> Prachatičky 39, 66446, Silůvky ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "60010:40"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.4929983,
+          49.1527099
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Ant. Smutného 75, obch. stř., Střelice u Brna <br><b>Adresa:</b> Ant. Smutného 630/75, 66447, Střelice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 26.63 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60010:18"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.4812621,
+          49.1514604
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bří Kotrbů 420, Střelice u Brna <br><b>Adresa:</b> Bratří Kotrbů 415/22, 66447, Střelice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 74.82 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60010:20"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.479417,
+          49.1322815
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Obecní úřad Radostice <br><b>Adresa:</b> Sokolská 11, 66446, Radostice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60010:39"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.4675283,
+          49.1059299
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Poštovní středisko Silůvky <br><b>Adresa:</b> Prachatičky 39, 66446, Silůvky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60010:40"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.4730026,
+          49.1188034
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> partner Prštice <br><b>Adresa:</b> Hlavní 1, 66446, Prštice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60010:50"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.5184081,
+          49.1118255
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Ořechov u Brna <br><b>Adresa:</b> Zahradní 216/1, 66444, Ořechov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60010:8"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.5043207,
+          49.1523377
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Střelice u Brna <br><b>Adresa:</b> nám. Svobody 241/3, 66447, Střelice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.01 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60010:9"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

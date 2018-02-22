@@ -1,56 +1,56 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.9644217,
-                    48.7289641
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> ul. Masarykova <br><b>Adresa:</b> Masarykova 1194, 69151, Lanžhot ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "69007:61"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.980825,
-                    48.7459062
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Kostice u Břeclavě <br><b>Adresa:</b> Nová 142/2, 69152, Kostice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "69007:37"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.9669587,
-                    48.723475
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Lanžhot <br><b>Adresa:</b> Komárnov 784/2, 69151, Lanžhot ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "69007:62"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.980825,
+          48.7459062
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Kostice u Břeclavě <br><b>Adresa:</b> Nová 142/2, 69152, Kostice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69007:37"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.9644217,
+          48.7289641
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> ul. Masarykova <br><b>Adresa:</b> Masarykova 1194, 69151, Lanžhot ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69007:61"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.9669587,
+          48.723475
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Lanžhot <br><b>Adresa:</b> Komárnov 784/2, 69151, Lanžhot ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69007:62"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

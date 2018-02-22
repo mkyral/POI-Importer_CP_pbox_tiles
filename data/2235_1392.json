@@ -1,107 +1,107 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.506868,
-                    49.8365546
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Opatov v Čechách 61 <br><b>Adresa:</b> č.p. 61, 56912, Opatov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:246"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.4793105,
-                    49.7861467
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hlavní 300/101, Svitavy - ČSAD <br><b>Adresa:</b> Hlavní 300/101, Lačnov, 56802, Svitavy ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:214"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.5048861,
-                    49.8241136
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Opatov v Čechách 159 <br><b>Adresa:</b> č.p. 159, 56912, Opatov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:247"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.4968455,
-                    49.821151
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Opatov v Čechách <br><b>Adresa:</b> č.p. 221, 56912, Opatov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:268"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.4770003,
-                    49.7985732
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Opatovec 130 <br><b>Adresa:</b> č.p. 130, 56802, Opatovec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:222"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.4809142,
-                    49.8040966
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Opatovec 162, obchod <br><b>Adresa:</b> č.p. 162, 56802, Opatovec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:221"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.4793105,
+          49.7861467
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hlavní 300/101, Svitavy - ČSAD <br><b>Adresa:</b> Hlavní 300/101, Lačnov, 56802, Svitavy ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:214"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.4809142,
+          49.8040966
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Opatovec 162, obchod <br><b>Adresa:</b> č.p. 162, 56802, Opatovec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:221"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.4770003,
+          49.7985732
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Opatovec 130 <br><b>Adresa:</b> č.p. 130, 56802, Opatovec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:222"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.506868,
+          49.8365546
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Opatov v Čechách 61 <br><b>Adresa:</b> č.p. 61, 56912, Opatov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:246"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.5048861,
+          49.8241136
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Opatov v Čechách 159 <br><b>Adresa:</b> č.p. 159, 56912, Opatov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:247"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.4968455,
+          49.821151
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Opatov v Čechách <br><b>Adresa:</b> č.p. 221, 56912, Opatov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:268"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

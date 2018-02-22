@@ -1,107 +1,107 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.8964841,
-                    48.8476243
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Velké Bílovice - Čejkovská samoobsluha <br><b>Adresa:</b> Čejkovská 991, 69102, Velké Bílovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "69007:32"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.8885044,
-                    48.8518538
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Velké Bílovice - Svárov Universal <br><b>Adresa:</b> Svárov 67, 69102, Velké Bílovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "69007:30"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.8925086,
-                    48.8493879
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Velké Bílovice - nám.Osvoboditelů KD <br><b>Adresa:</b> nám. Osvoboditelů 1363, 69102, Velké Bílovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "69007:31"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.9322247,
-                    48.8334328
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Moravský Žižkov <br><b>Adresa:</b> Břeclavská 222, 69101, Moravský Žižkov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "69007:26"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.8946356,
-                    48.8477209
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Velké Bílovice <br><b>Adresa:</b> U Školky 366, 69102, Velké Bílovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "69007:33"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.9292403,
-                    48.8344704
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Moravský Žižkov - OÚ <br><b>Adresa:</b> Bílovská 145, 69101, Moravský Žižkov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "69007:25"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.9292403,
+          48.8344704
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Moravský Žižkov - OÚ <br><b>Adresa:</b> Bílovská 145, 69101, Moravský Žižkov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69007:25"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.9322247,
+          48.8334328
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Moravský Žižkov <br><b>Adresa:</b> Břeclavská 222, 69101, Moravský Žižkov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69007:26"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.8885044,
+          48.8518538
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Velké Bílovice - Svárov Universal <br><b>Adresa:</b> Svárov 67, 69102, Velké Bílovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69007:30"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.8925086,
+          48.8493879
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Velké Bílovice - nám.Osvoboditelů KD <br><b>Adresa:</b> nám. Osvoboditelů 1363, 69102, Velké Bílovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69007:31"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.8964841,
+          48.8476243
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Velké Bílovice - Čejkovská samoobsluha <br><b>Adresa:</b> Čejkovská 991, 69102, Velké Bílovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69007:32"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.8946356,
+          48.8477209
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Velké Bílovice <br><b>Adresa:</b> U Školky 366, 69102, Velké Bílovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69007:33"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

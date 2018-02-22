@@ -1,56 +1,56 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.8630558,
-                    50.0695244
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Chodov č.61 <br><b>Adresa:</b> č.p. 61, 36464, Chodov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "30071:504"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.8502586,
-                    50.106239
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Vodná <br><b>Adresa:</b> Karlovy Vary; Bečov nad Teplou; Vodná <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "30071:506"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.8390802,
-                    50.0840359
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Bečov nad Teplou, na budově pošty <br><b>Adresa:</b> nám. 5. května 2, 36464, Bečov nad Teplou <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 14.82 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "30071:514"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          12.8630558,
+          50.0695244
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Chodov č.61 <br><b>Adresa:</b> č.p. 61, 36464, Chodov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30071:504"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.8502586,
+          50.106239
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vodná <br><b>Adresa:</b> Karlovy Vary; Bečov nad Teplou; Vodná <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30071:506"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.8390802,
+          50.0840359
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bečov nad Teplou, na budově pošty <br><b>Adresa:</b> nám. 5. května 2, 36464, Bečov nad Teplou <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 14.82 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30071:514"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

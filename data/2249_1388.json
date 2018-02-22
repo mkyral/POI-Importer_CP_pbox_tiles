@@ -1,90 +1,90 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.704208,
-                    50.0230614
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> točna TQM,Úblo (na stojanu,nejbl.č.7 u parkoviště) <br><b>Adresa:</b> Opava; Brumovice; Úblo <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:40",
-                "ref": "74907:48"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.7529041,
-                    50.0486474
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> na čp.175-potraviny M+M, Úvalno <br><b>Adresa:</b> č.p. 175, 79391, Úvalno ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "79207:453"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.6897625,
-                    50.052514
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Býkov, na čp.68 - OÚ, Býkov-Láryšov <br><b>Adresa:</b> Býkov 68, 79401, Býkov-Láryšov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "79207:437"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.7409332,
-                    50.0469656
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pošta Úvalno (stojan) <br><b>Adresa:</b> č.p. 58, 79391, Úvalno <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 18.76 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 15:50",
-                "ref": "79207:429"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.7532093,
-                    50.0151422
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Partner Brumovice (stojan) <br><b>Adresa:</b> Hlavní 75/56, 74771, Brumovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo 15:00; Tu 15:00; We 15:00; Th 15:00; Fr 10:00",
-                "ref": "74907:174"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          17.7532093,
+          50.0151422
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Partner Brumovice (stojan) <br><b>Adresa:</b> Hlavní 75/56, 74771, Brumovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo 15:00; Tu 15:00; We 15:00; Th 15:00; Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74907:174"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.704208,
+          50.0230614
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> točna TQM,Úblo (na stojanu,nejbl.č.7 u parkoviště) <br><b>Adresa:</b> Opava; Brumovice; Úblo <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:40",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74907:48"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.7409332,
+          50.0469656
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Úvalno (stojan) <br><b>Adresa:</b> č.p. 58, 79391, Úvalno <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 18.76 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 15:50",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79207:429"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.6897625,
+          50.052514
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Býkov, na čp.68 - OÚ, Býkov-Láryšov <br><b>Adresa:</b> Býkov 68, 79401, Býkov-Láryšov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79207:437"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.7529041,
+          50.0486474
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> na čp.175-potraviny M+M, Úvalno <br><b>Adresa:</b> č.p. 175, 79391, Úvalno ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79207:453"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

@@ -1,158 +1,158 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3399068,
-                    49.6319342
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hrabří č.p.4 <br><b>Adresa:</b> Hrabří 4, 26401, Vysoký Chlumec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "26107:190"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.4079247,
-                    49.6193366
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Vápenice č.p.3 <br><b>Adresa:</b> Vápenice 3, 26401, Vysoký Chlumec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:15",
-                "ref": "26107:192"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3634051,
-                    49.6586315
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Břekova Lhota 9 <br><b>Adresa:</b> Břekova Lhota 9, 26401, Dublovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:45",
-                "ref": "26107:223"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3823771,
-                    49.6415435
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Oříkov <br><b>Adresa:</b> Oříkov 29, 26401, Sedlčany ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:10",
-                "ref": "26107:191"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3890942,
-                    49.6186282
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Vysoký Chlumec <br><b>Adresa:</b> č.p. 72, 26252, Vysoký Chlumec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "26107:392"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3589963,
-                    49.6514385
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Štileček <br><b>Adresa:</b> Třebnice 6, 26401, Sedlčany ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:40",
-                "ref": "26107:222"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3452133,
-                    49.6487247
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Třebnice č.p.73 <br><b>Adresa:</b> Třebnice 73, 26401, Sedlčany ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:20",
-                "ref": "26107:221"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3917866,
-                    49.6144089
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Vysoký Chlumec - pivovar č.p.29 <br><b>Adresa:</b> č.p. 29, 26252, Vysoký Chlumec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:20",
-                "ref": "26107:194"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3833537,
-                    49.6537718
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Solopysky č.p.62 <br><b>Adresa:</b> Solopysky 19, 26401, Sedlčany ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:10",
-                "ref": "26107:220"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.3399068,
+          49.6319342
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hrabří č.p.4 <br><b>Adresa:</b> Hrabří 4, 26401, Vysoký Chlumec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:190"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3823771,
+          49.6415435
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Oříkov <br><b>Adresa:</b> Oříkov 29, 26401, Sedlčany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:10",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:191"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.4079247,
+          49.6193366
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vápenice č.p.3 <br><b>Adresa:</b> Vápenice 3, 26401, Vysoký Chlumec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:192"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3917866,
+          49.6144089
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vysoký Chlumec - pivovar č.p.29 <br><b>Adresa:</b> č.p. 29, 26252, Vysoký Chlumec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:20",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:194"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3833537,
+          49.6537718
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Solopysky č.p.62 <br><b>Adresa:</b> Solopysky 19, 26401, Sedlčany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:10",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:220"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3452133,
+          49.6487247
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Třebnice č.p.73 <br><b>Adresa:</b> Třebnice 73, 26401, Sedlčany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:20",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:221"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3589963,
+          49.6514385
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Štileček <br><b>Adresa:</b> Třebnice 6, 26401, Sedlčany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:40",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:222"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3634051,
+          49.6586315
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Břekova Lhota 9 <br><b>Adresa:</b> Břekova Lhota 9, 26401, Dublovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:223"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3890942,
+          49.6186282
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Vysoký Chlumec <br><b>Adresa:</b> č.p. 72, 26252, Vysoký Chlumec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:392"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

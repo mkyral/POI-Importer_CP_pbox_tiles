@@ -1,175 +1,175 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.5719082,
-                    49.3751643
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Závist 1 <br><b>Adresa:</b> č.p. 1, 67922, Závist ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "68007:91"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.5980718,
-                    49.3297352
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Šebrov 19 <br><b>Adresa:</b> Šebrov 19, 67922, Šebrov-Kateřina ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "68007:83"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.5513717,
-                    49.3512384
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Lažany obchod <br><b>Adresa:</b> č.p. 102, 67922, Lažany ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "68007:88"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.5531809,
-                    49.3387209
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Lipůvka 34 <br><b>Adresa:</b> č.p. 34, 67922, Lipůvka ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "68007:87"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.5765126,
-                    49.3349129
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Svinošice 9 <br><b>Adresa:</b> č.p. 9, 67922, Svinošice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "68007:85"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.5661471,
-                    49.3673891
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Milonice potraviny <br><b>Adresa:</b> č.p. 24, 67922, Milonice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:15",
-                "ref": "68007:92"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.5503802,
-                    49.3537066
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Lažany OÚ <br><b>Adresa:</b> č.p. 129, 67922, Lažany ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "68007:89"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.5500577,
-                    49.3386472
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Lipůvka <br><b>Adresa:</b> č.p. 175, 67922, Lipůvka ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "68007:86"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.6010771,
-                    49.3286203
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Šebrov 113 <br><b>Adresa:</b> Šebrov 113, 67922, Šebrov-Kateřina ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "68007:84"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.5436235,
-                    49.3702245
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Újezd u Černé Hory 42 <br><b>Adresa:</b> č.p. 42, 67922, Újezd u Černé Hory ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "68007:90"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.5980718,
+          49.3297352
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Šebrov 19 <br><b>Adresa:</b> Šebrov 19, 67922, Šebrov-Kateřina ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68007:83"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.6010771,
+          49.3286203
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Šebrov 113 <br><b>Adresa:</b> Šebrov 113, 67922, Šebrov-Kateřina ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68007:84"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.5765126,
+          49.3349129
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Svinošice 9 <br><b>Adresa:</b> č.p. 9, 67922, Svinošice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68007:85"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.5500577,
+          49.3386472
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Lipůvka <br><b>Adresa:</b> č.p. 175, 67922, Lipůvka ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68007:86"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.5531809,
+          49.3387209
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lipůvka 34 <br><b>Adresa:</b> č.p. 34, 67922, Lipůvka ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68007:87"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.5513717,
+          49.3512384
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lažany obchod <br><b>Adresa:</b> č.p. 102, 67922, Lažany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68007:88"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.5503802,
+          49.3537066
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lažany OÚ <br><b>Adresa:</b> č.p. 129, 67922, Lažany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68007:89"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.5436235,
+          49.3702245
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Újezd u Černé Hory 42 <br><b>Adresa:</b> č.p. 42, 67922, Újezd u Černé Hory ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68007:90"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.5719082,
+          49.3751643
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Závist 1 <br><b>Adresa:</b> č.p. 1, 67922, Závist ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68007:91"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.5661471,
+          49.3673891
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Milonice potraviny <br><b>Adresa:</b> č.p. 24, 67922, Milonice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68007:92"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

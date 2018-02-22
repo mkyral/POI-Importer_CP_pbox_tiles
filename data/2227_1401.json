@@ -1,158 +1,158 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.8115673,
-                    49.268091
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Číhalín prodejna <br><b>Adresa:</b> č.p. 8, 67507, Číhalín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "67407:104"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.7638115,
-                    49.2843587
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Číchov 100 <br><b>Adresa:</b> č.p. 100, 67521, Číchov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "67407:136"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.7920032,
-                    49.3139039
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kouty č. p. 63 <br><b>Adresa:</b> č.p. 63, 67508, Kouty ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:45",
-                "ref": "67407:109"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.7619535,
-                    49.2824557
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Číchov 13 <br><b>Adresa:</b> č.p. 13, 67521, Číchov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 26.64 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:15",
-                "ref": "67407:135"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.7959719,
-                    49.3160167
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Kouty u Třebíče <br><b>Adresa:</b> č.p. 11, 67508, Kouty ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:45",
-                "ref": "67407:298"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.7491487,
-                    49.3055929
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Bransouze, nádraží <br><b>Adresa:</b> č.p. 84, 67521, Bransouze ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "67407:137"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.8195846,
-                    49.2932498
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Čechtín <br><b>Adresa:</b> č.p. 55, 67507, Čechtín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "67407:297"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.7462427,
-                    49.3232691
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> náves, Dolní Smrčné <br><b>Adresa:</b> Dolní Smrčné 5, 58832, Brtnice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:15",
-                "ref": "58607:132"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.766899,
-                    49.3130215
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Chlum náves <br><b>Adresa:</b> č.p. 31, 67507, Chlum ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "67407:107"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.7462427,
+          49.3232691
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> náves, Dolní Smrčné <br><b>Adresa:</b> Dolní Smrčné 5, 58832, Brtnice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:132"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8115673,
+          49.268091
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Číhalín prodejna <br><b>Adresa:</b> č.p. 8, 67507, Číhalín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:104"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.766899,
+          49.3130215
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Chlum náves <br><b>Adresa:</b> č.p. 31, 67507, Chlum ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:107"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7920032,
+          49.3139039
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kouty č. p. 63 <br><b>Adresa:</b> č.p. 63, 67508, Kouty ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:109"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7619535,
+          49.2824557
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Číchov 13 <br><b>Adresa:</b> č.p. 13, 67521, Číchov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 26.64 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:135"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7638115,
+          49.2843587
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Číchov 100 <br><b>Adresa:</b> č.p. 100, 67521, Číchov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:136"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7491487,
+          49.3055929
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bransouze, nádraží <br><b>Adresa:</b> č.p. 84, 67521, Bransouze ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:137"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8195846,
+          49.2932498
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Čechtín <br><b>Adresa:</b> č.p. 55, 67507, Čechtín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:297"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7959719,
+          49.3160167
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Kouty u Třebíče <br><b>Adresa:</b> č.p. 11, 67508, Kouty ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:298"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

@@ -1,90 +1,90 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.854288,
-                    48.8288322
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> ul. Úlehlova <br><b>Adresa:</b> Úlehlova 676/2, 69145, Podivín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "69007:57"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.8131367,
-                    48.8583899
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Rakvice <br><b>Adresa:</b> Náměstí 20, 69103, Rakvice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "69007:59"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.8456253,
-                    48.8260264
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> nám Masarykovo-strará radnice <br><b>Adresa:</b> Masarykovo nám. 192/2, 69145, Podivín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "69007:56"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.8471881,
-                    48.8277816
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Podivín <br><b>Adresa:</b> Komenského 311/17, 69145, Podivín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "69007:58"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.8520134,
-                    48.8341296
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> ul. Nerudova - JEDNOTA 208 <br><b>Adresa:</b> Nerudova 748/2, 69145, Podivín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "69007:55"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.8520134,
+          48.8341296
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> ul. Nerudova - JEDNOTA 208 <br><b>Adresa:</b> Nerudova 748/2, 69145, Podivín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69007:55"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.8456253,
+          48.8260264
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> nám Masarykovo-strará radnice <br><b>Adresa:</b> Masarykovo nám. 192/2, 69145, Podivín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69007:56"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.854288,
+          48.8288322
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> ul. Úlehlova <br><b>Adresa:</b> Úlehlova 676/2, 69145, Podivín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69007:57"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.8471881,
+          48.8277816
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Podivín <br><b>Adresa:</b> Komenského 311/17, 69145, Podivín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69007:58"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.8131367,
+          48.8583899
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Rakvice <br><b>Adresa:</b> Náměstí 20, 69103, Rakvice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69007:59"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

@@ -1,56 +1,56 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.7554422,
-                    48.944877
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> prodejna, Lopeník <br><b>Adresa:</b> č.p. 248, 68767, Lopeník ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "68607:128"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.8064776,
-                    48.9744551
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> motorest, Rasová <br><b>Adresa:</b> č.p. 286, 68771, Komňa ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:30",
-                "ref": "68607:139"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.7683036,
-                    48.9730774
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Bystřice pod Lopúeníkem <br><b>Adresa:</b> č.p. 196, 68755, Bystřice pod Lopeníkem ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "68607:262"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          17.7554422,
+          48.944877
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> prodejna, Lopeník <br><b>Adresa:</b> č.p. 248, 68767, Lopeník ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68607:128"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.8064776,
+          48.9744551
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> motorest, Rasová <br><b>Adresa:</b> č.p. 286, 68771, Komňa ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68607:139"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.7683036,
+          48.9730774
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Bystřice pod Lopúeníkem <br><b>Adresa:</b> č.p. 196, 68755, Bystřice pod Lopeníkem ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68607:262"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

@@ -1,124 +1,124 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.9575746,
-                    49.0112557
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> obchod Mokrá, Násedlovice <br><b>Adresa:</b> č.p. 282, 69636, Násedlovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "69507:105"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.876562,
-                    48.9953201
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> ul. Nádražní u CHEMOPLASTU <br><b>Adresa:</b> Nádražní 652/63, 69172, Klobouky u Brna ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "60011:74"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.9108343,
-                    48.9889316
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Krumvíř <br><b>Adresa:</b> č.p. 185, 69173, Krumvíř ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "60011:154"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.9603811,
-                    49.012538
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Násedlovice <br><b>Adresa:</b> č.p. 129, 69636, Násedlovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "69507:104"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.8938572,
-                    49.0178473
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Bohumilice <br><b>Adresa:</b> Bohumilice 36, 69172, Klobouky u Brna ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "60011:78"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.883152,
-                    48.9967636
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kašnice u prodejny JEDNOTA <br><b>Adresa:</b> č.p. 29, 69172, Kašnice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "60011:76"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.9145338,
-                    48.9876738
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Krumvíř - Na křižovatce <br><b>Adresa:</b> č.p. 26, 69173, Krumvíř ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "60011:84"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.9108343,
+          48.9889316
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Krumvíř <br><b>Adresa:</b> č.p. 185, 69173, Krumvíř ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60011:154"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.876562,
+          48.9953201
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> ul. Nádražní u CHEMOPLASTU <br><b>Adresa:</b> Nádražní 652/63, 69172, Klobouky u Brna ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60011:74"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.883152,
+          48.9967636
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kašnice u prodejny JEDNOTA <br><b>Adresa:</b> č.p. 29, 69172, Kašnice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60011:76"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.8938572,
+          49.0178473
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bohumilice <br><b>Adresa:</b> Bohumilice 36, 69172, Klobouky u Brna ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60011:78"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.9145338,
+          48.9876738
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Krumvíř - Na křižovatce <br><b>Adresa:</b> č.p. 26, 69173, Krumvíř ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60011:84"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.9603811,
+          49.012538
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Násedlovice <br><b>Adresa:</b> č.p. 129, 69636, Násedlovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69507:104"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.9575746,
+          49.0112557
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> obchod Mokrá, Násedlovice <br><b>Adresa:</b> č.p. 282, 69636, Násedlovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69507:105"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

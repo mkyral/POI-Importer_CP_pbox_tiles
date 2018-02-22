@@ -1,39 +1,39 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3646734,
-                    50.5263767
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Božanov OÚ <br><b>Adresa:</b> č.p. 110, 54974, Božanov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "54707:319"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3864038,
-                    50.557365
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Otovice u Broumova <br><b>Adresa:</b> č.p. 196, 54972, Otovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "54707:326"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.3646734,
+          50.5263767
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Božanov OÚ <br><b>Adresa:</b> č.p. 110, 54974, Božanov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54707:319"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3864038,
+          50.557365
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Otovice u Broumova <br><b>Adresa:</b> č.p. 196, 54972, Otovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54707:326"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

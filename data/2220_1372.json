@@ -1,56 +1,56 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.1534622,
-                    50.9428705
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Řasnice <br><b>Adresa:</b> č.p. 326, 46401, Dolní Řasnice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "46307:271"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.2012618,
-                    50.9314109
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hajniště  57 - obchod <br><b>Adresa:</b> Hajniště 57, 46365, Nové Město pod Smrkem ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "46307:318"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.1465052,
-                    50.9422552
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Krásný Les 267 <br><b>Adresa:</b> č.p. 268, 46401, Krásný Les ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "46307:308"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.1534622,
+          50.9428705
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Řasnice <br><b>Adresa:</b> č.p. 326, 46401, Dolní Řasnice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "46307:271"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.1465052,
+          50.9422552
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Krásný Les 267 <br><b>Adresa:</b> č.p. 268, 46401, Krásný Les ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "46307:308"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2012618,
+          50.9314109
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hajniště  57 - obchod <br><b>Adresa:</b> Hajniště 57, 46365, Nové Město pod Smrkem ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "46307:318"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

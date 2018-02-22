@@ -1,175 +1,175 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3766839,
-                    49.7785761
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Čím . OÚ č.p.16 <br><b>Adresa:</b> č.p. 16, 26203, Čím ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "26107:364"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3908152,
-                    49.7655791
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> náves, Křeničná  č.p.12 <br><b>Adresa:</b> Křeničná 12, 26203, Chotilsko ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:50",
-                "ref": "26107:363"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3851894,
-                    49.7537785
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hněvšín čp.7 <br><b>Adresa:</b> Hněvšín 3, 26203, Chotilsko ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:25",
-                "ref": "26107:361"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3625867,
-                    49.7535499
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Sejcká Lhota - zbrojnice č.p.8 <br><b>Adresa:</b> Sejcká Lhota 8, 26203, Chotilsko ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:10",
-                "ref": "26107:344"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3356261,
-                    49.7446509
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Mokrsko - zast.ČSAD č.p.11 <br><b>Adresa:</b> Mokrsko 11, 26203, Chotilsko ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:40",
-                "ref": "26107:343"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.4129816,
-                    49.7683335
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Nebřich hotel Hladina za 29 <br><b>Adresa:</b> Nebřich 29, 25744, Neveklov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "25607:260"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3520025,
-                    49.7697172
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Chotilsko čp.6 OÚ <br><b>Adresa:</b> č.p. 7, 26203, Chotilsko ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:45",
-                "ref": "26107:360"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3401612,
-                    49.7534908
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Prostřední Lhota - obchod č.p.35 <br><b>Adresa:</b> Prostřední Lhota 35, 26203, Chotilsko ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:50",
-                "ref": "26107:342"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.4121868,
-                    49.7531331
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Živohošť E100 - Krakonoš <br><b>Adresa:</b> Živohošť E100, 25756, Křečovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "25607:291"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3508416,
-                    49.7803473
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Korkyně č.p 24 <br><b>Adresa:</b> č.p. 24, 26206, Korkyně ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "26107:371"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.4129816,
+          49.7683335
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nebřich hotel Hladina za 29 <br><b>Adresa:</b> Nebřich 29, 25744, Neveklov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "25607:260"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.4121868,
+          49.7531331
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Živohošť E100 - Krakonoš <br><b>Adresa:</b> Živohošť E100, 25756, Křečovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "25607:291"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3404338,
+          49.7534164
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Prostřední Lhota - obchod č.p.35 <br><b>Adresa:</b> Prostřední Lhota 35, 26203, Chotilsko <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 21.27 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:50",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:342"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3361031,
+          49.7447673
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Mokrsko - zast.ČSAD č.p.11 <br><b>Adresa:</b> Mokrsko 11, 26203, Chotilsko <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 36.65 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:40",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:343"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3625867,
+          49.7535499
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Sejcká Lhota - zbrojnice č.p.8 <br><b>Adresa:</b> Sejcká Lhota 8, 26203, Chotilsko ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:10",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:344"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3520025,
+          49.7697172
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Chotilsko čp.6 OÚ <br><b>Adresa:</b> č.p. 7, 26203, Chotilsko ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:360"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3851894,
+          49.7537785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hněvšín čp.7 <br><b>Adresa:</b> Hněvšín 3, 26203, Chotilsko ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:25",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:361"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3908152,
+          49.7655791
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> náves, Křeničná  č.p.12 <br><b>Adresa:</b> Křeničná 12, 26203, Chotilsko ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:50",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:363"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3766839,
+          49.7785761
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Čím . OÚ č.p.16 <br><b>Adresa:</b> č.p. 16, 26203, Čím ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:364"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3508416,
+          49.7803473
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Korkyně č.p 24 <br><b>Adresa:</b> č.p. 24, 26206, Korkyně ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:371"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

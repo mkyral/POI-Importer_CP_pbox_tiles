@@ -1,90 +1,90 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.486113,
-                    49.6086246
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pošta Pražmo <br><b>Adresa:</b> č.p. 81, 73904, Pražmo <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 3.15 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 14:00",
-                "ref": "73807:204"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.4787846,
-                    49.5815277
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> napr.čp.181,Krásná (stoj.zat.BUS-U Rekreantu) <br><b>Adresa:</b> Frýdek-Místek; Krásná; Krásná <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "73807:84"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.5365534,
-                    49.5847163
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Penzion U Přehrady, u čp.400, Morávka (stojan) <br><b>Adresa:</b> Frýdek-Místek; Morávka; Morávka <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "73807:82"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.5155298,
-                    49.6006501
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pošta Morávka <br><b>Adresa:</b> č.p. 125, 73904, Morávka <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 80.85 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 14:00",
-                "ref": "73807:205"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.4853007,
-                    49.6105823
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hotel Ondráš, na čp.162, Raškovice <br><b>Adresa:</b> č.p. 162, 73904, Raškovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 12.34 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 13:00",
-                "ref": "73807:87"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          18.486113,
+          49.6086246
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Pražmo <br><b>Adresa:</b> č.p. 81, 73904, Pražmo <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 3.15 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 14:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "73807:204"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.5155298,
+          49.6006501
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Morávka <br><b>Adresa:</b> č.p. 125, 73904, Morávka <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 80.85 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 14:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "73807:205"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.5365534,
+          49.5847163
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Penzion U Přehrady, u čp.400, Morávka (stojan) <br><b>Adresa:</b> Frýdek-Místek; Morávka; Morávka <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "73807:82"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.4787846,
+          49.5815277
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> napr.čp.181,Krásná (stoj.zat.BUS-U Rekreantu) <br><b>Adresa:</b> Frýdek-Místek; Krásná; Krásná <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "73807:84"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.4853007,
+          49.6105823
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hotel Ondráš, na čp.162, Raškovice <br><b>Adresa:</b> č.p. 162, 73904, Raškovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 12.34 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 13:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "73807:87"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

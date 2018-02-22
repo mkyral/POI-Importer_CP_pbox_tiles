@@ -1,90 +1,90 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.8622027,
-                    48.9662066
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Starý Hrozenkov <br><b>Adresa:</b> č.p. 11, 68774, Starý Hrozenkov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 13:00",
-                "ref": "68607:273"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.8796071,
-                    48.9591053
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pila, Starý Hrozenkov <br><b>Adresa:</b> Uherské Hradiště; Starý Hrozenkov; Starý Hrozenkov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 13:00",
-                "ref": "68607:144"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.8699309,
-                    48.9642475
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> dolní konec, Starý Hrozenkov <br><b>Adresa:</b> č.p. 136, 68774, Starý Hrozenkov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "68607:143"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.8532363,
-                    48.9407462
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> zastávka ČSAD, Vyškovec <br><b>Adresa:</b> č.p. 1, 68774, Vyškovec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:45",
-                "ref": "68607:145"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.8807015,
-                    48.9801844
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> OÚ, Žítková <br><b>Adresa:</b> č.p. 50, 68774, Žítková ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "68607:146"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          17.8699309,
+          48.9642475
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> dolní konec, Starý Hrozenkov <br><b>Adresa:</b> č.p. 136, 68774, Starý Hrozenkov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68607:143"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.8796071,
+          48.9591053
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pila, Starý Hrozenkov <br><b>Adresa:</b> Uherské Hradiště; Starý Hrozenkov; Starý Hrozenkov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 13:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68607:144"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.8532363,
+          48.9407462
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> zastávka ČSAD, Vyškovec <br><b>Adresa:</b> č.p. 1, 68774, Vyškovec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68607:145"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.8807015,
+          48.9801844
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> OÚ, Žítková <br><b>Adresa:</b> č.p. 50, 68774, Žítková ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68607:146"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.8622027,
+          48.9662066
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Starý Hrozenkov <br><b>Adresa:</b> č.p. 11, 68774, Starý Hrozenkov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 13:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68607:273"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

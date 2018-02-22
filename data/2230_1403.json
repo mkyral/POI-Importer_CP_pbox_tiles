@@ -1,175 +1,175 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.0638193,
-                    49.2013782
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Studenec Jednota <br><b>Adresa:</b> č.p. 160, 67502, Studenec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "67407:73"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.07703,
-                    49.1539696
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Stropešín OÚ <br><b>Adresa:</b> č.p. 3, 67555, Stropešín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:15",
-                "ref": "67407:228"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.0369496,
-                    49.1639005
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Plešice 1 - náves <br><b>Adresa:</b> Plešice 21, 67552, Třebenice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:45",
-                "ref": "67407:69"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.0634772,
-                    49.1801487
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kozlany u prodejny <br><b>Adresa:</b> č.p. 48, 67502, Kozlany ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "67407:72"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9977521,
-                    49.2009863
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Číměř - OÚ <br><b>Adresa:</b> č.p. 50, 67501, Číměř ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "67407:53"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.0508197,
-                    49.1617361
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Chroustov náves <br><b>Adresa:</b> Chroustov 2, 67552, Třebenice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "67407:70"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.0592672,
-                    49.199719
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Studenec - Horní náves <br><b>Adresa:</b> č.p. 8, 67502, Studenec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:05",
-                "ref": "67407:74"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.041198,
-                    49.1895637
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Koněšín <br><b>Adresa:</b> č.p. 145, 67502, Koněšín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "67407:293"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.0824184,
-                    49.179883
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Třesov zastávka BUS <br><b>Adresa:</b> č.p. 22, 67502, Třesov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:15",
-                "ref": "67407:71"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.0129037,
-                    49.1627858
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Třebenice náves <br><b>Adresa:</b> č.p. 110, 67552, Třebenice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "67407:68"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.07703,
+          49.1539696
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Stropešín OÚ <br><b>Adresa:</b> č.p. 3, 67555, Stropešín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:228"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.041198,
+          49.1895637
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Koněšín <br><b>Adresa:</b> č.p. 145, 67502, Koněšín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:293"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9977521,
+          49.2009863
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Číměř - OÚ <br><b>Adresa:</b> č.p. 50, 67501, Číměř ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:53"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0129037,
+          49.1627858
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Třebenice náves <br><b>Adresa:</b> č.p. 110, 67552, Třebenice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:68"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0369496,
+          49.1639005
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Plešice 1 - náves <br><b>Adresa:</b> Plešice 21, 67552, Třebenice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:69"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0508197,
+          49.1617361
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Chroustov náves <br><b>Adresa:</b> Chroustov 2, 67552, Třebenice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:70"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0824184,
+          49.179883
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Třesov zastávka BUS <br><b>Adresa:</b> č.p. 22, 67502, Třesov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:71"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0634772,
+          49.1801487
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kozlany u prodejny <br><b>Adresa:</b> č.p. 48, 67502, Kozlany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:72"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0638193,
+          49.2013782
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Studenec Jednota <br><b>Adresa:</b> č.p. 160, 67502, Studenec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:73"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0592672,
+          49.199719
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Studenec - Horní náves <br><b>Adresa:</b> č.p. 8, 67502, Studenec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:05",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:74"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

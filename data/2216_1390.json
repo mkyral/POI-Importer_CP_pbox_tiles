@@ -1,141 +1,141 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.8067894,
-                    49.9424623
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Černé Voděrady 16 <br><b>Adresa:</b> nám. lípy svobody 16, 28163, Černé Voděrady ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "25107:218"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.8508581,
-                    49.9479149
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> před OÚ, Konojedy 7 <br><b>Adresa:</b> č.p. 7, 28163, Konojedy ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "25107:219"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.8236872,
-                    49.9239855
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> kiosek, Hradec 53 <br><b>Adresa:</b> Hradec 53, 28163, Stříbrná Skalice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "25107:201"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.8169795,
-                    49.9020988
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u hospody, Hradové Střimelice 45 <br><b>Adresa:</b> Hradové Střimelice 45, 28163, Stříbrná Skalice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "25107:199"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.8468749,
-                    49.8975639
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> budova pošty /kříž/, Stříbrná Skalice <br><b>Adresa:</b> K radnici 20, 28167, Stříbrná Skalice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "25107:243"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.7800054,
-                    49.9318828
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Zvánovice 31 <br><b>Adresa:</b> Školní 31, 25165, Zvánovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "25107:80"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.783376,
-                    49.9044391
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Ondřejov č.p. 84 <br><b>Adresa:</b> nám. 9. května 84, 25165, Ondřejov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "25107:300"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.8072279,
-                    49.9156627
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u zastávky ČSAD, Kostelní Střimelice 17 <br><b>Adresa:</b> Kostelní Střimelice 17, 28163, Stříbrná Skalice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "25107:200"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.8169795,
+          49.9020988
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u hospody, Hradové Střimelice 45 <br><b>Adresa:</b> Hradové Střimelice 45, 28163, Stříbrná Skalice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "25107:199"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.8072279,
+          49.9156627
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u zastávky ČSAD, Kostelní Střimelice 17 <br><b>Adresa:</b> Kostelní Střimelice 17, 28163, Stříbrná Skalice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "25107:200"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.8236872,
+          49.9239855
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> kiosek, Hradec 53 <br><b>Adresa:</b> Hradec 53, 28163, Stříbrná Skalice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "25107:201"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.8067894,
+          49.9424623
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Černé Voděrady 16 <br><b>Adresa:</b> nám. lípy svobody 16, 28163, Černé Voděrady ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "25107:218"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.8508581,
+          49.9479149
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> před OÚ, Konojedy 7 <br><b>Adresa:</b> č.p. 7, 28163, Konojedy ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "25107:219"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.8468749,
+          49.8975639
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> budova pošty /kříž/, Stříbrná Skalice <br><b>Adresa:</b> K radnici 20, 28167, Stříbrná Skalice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "25107:243"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.783376,
+          49.9044391
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Ondřejov č.p. 84 <br><b>Adresa:</b> nám. 9. května 84, 25165, Ondřejov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "25107:300"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.7800054,
+          49.9318828
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Zvánovice 31 <br><b>Adresa:</b> Školní 31, 25165, Zvánovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "25107:80"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

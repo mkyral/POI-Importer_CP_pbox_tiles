@@ -1,90 +1,90 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9891156,
-                    49.6747769
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> autobusová zastávka, Kocanda <br><b>Adresa:</b> Kocanda 335, 59201, Herálec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:55",
-                "ref": "59205:8"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9363644,
-                    49.7131384
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Vortová <br><b>Adresa:</b> č.p. 59, 53961, Vortová ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:15",
-                "ref": "53900:82"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9939356,
-                    49.6905864
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> hotel \"Žákova hora\", Herálec <br><b>Adresa:</b> č.p. 194, 59201, Herálec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "59205:19"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9911259,
-                    49.6886434
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Herálec pod Žákovou horou <br><b>Adresa:</b> Český Herálec 80, 59201, Herálec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 13:00",
-                "ref": "59205:2"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9920459,
-                    49.690849
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u nákupního střediska, Herálec <br><b>Adresa:</b> Český Herálec 114, 59201, Herálec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "59205:18"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.9363644,
+          49.7131384
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Vortová <br><b>Adresa:</b> č.p. 59, 53961, Vortová ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53900:82"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9920459,
+          49.690849
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u nákupního střediska, Herálec <br><b>Adresa:</b> Český Herálec 114, 59201, Herálec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59205:18"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9939356,
+          49.6905864
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> hotel \"Žákova hora\", Herálec <br><b>Adresa:</b> č.p. 194, 59201, Herálec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59205:19"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9911259,
+          49.6886434
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Herálec pod Žákovou horou <br><b>Adresa:</b> Český Herálec 80, 59201, Herálec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 13:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59205:2"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9891156,
+          49.6747769
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> autobusová zastávka, Kocanda <br><b>Adresa:</b> Kocanda 335, 59201, Herálec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:55",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59205:8"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

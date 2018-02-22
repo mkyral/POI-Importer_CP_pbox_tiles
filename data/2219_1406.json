@@ -1,90 +1,90 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.0523769,
-                    49.0248217
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> prodejna, Nový Vojířov <br><b>Adresa:</b> Nový Vojířov 2, 37833, Nová Bystřice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:15",
-                "ref": "37702:141"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.1020231,
-                    49.0194844
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> náměstí Míru, Nová Bystřice <br><b>Adresa:</b> Mírové nám. 53, 37833, Nová Bystřice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 31.61 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "37702:127"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.0802069,
-                    49.0354062
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hradiště <br><b>Adresa:</b> Hradiště 18, 37833, Nová Bystřice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 07:00",
-                "ref": "37702:140"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.1018893,
-                    49.0208105
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> budova pošty, Nová Bystřice <br><b>Adresa:</b> Hradecká 269, 37833, Nová Bystřice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 14:00",
-                "ref": "37702:126"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.1068011,
-                    49.0188204
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u ALMY a.s., Nová Bystřice <br><b>Adresa:</b> Stará 82, 37833, Nová Bystřice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "37702:128"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.1018893,
+          49.0208105
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> budova pošty, Nová Bystřice <br><b>Adresa:</b> Hradecká 269, 37833, Nová Bystřice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 14:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:126"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.1020231,
+          49.0194844
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> náměstí Míru, Nová Bystřice <br><b>Adresa:</b> Mírové nám. 53, 37833, Nová Bystřice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 31.61 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:127"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.1068011,
+          49.0188204
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u ALMY a.s., Nová Bystřice <br><b>Adresa:</b> Stará 82, 37833, Nová Bystřice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:128"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.0801147,
+          49.0352242
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hradiště <br><b>Adresa:</b> Hradiště 18, 37833, Nová Bystřice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 21.33 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 07:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:140"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.0523769,
+          49.0248217
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> prodejna, Nový Vojířov <br><b>Adresa:</b> Nový Vojířov 2, 37833, Nová Bystřice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:141"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

@@ -1,124 +1,124 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.8281485,
-                    49.689534
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Odry, Vítovka 4 (stojan) <br><b>Adresa:</b> Nový Jičín; Odry; Vítovka <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "74207:310"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.7663905,
-                    49.7080713
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Heřmánky 275 <br><b>Adresa:</b> č.p. 275, 74235, Heřmánky ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:30",
-                "ref": "74207:321"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.8341321,
-                    49.6686164
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Odry, Nádražní 293/20, Jednota <br><b>Adresa:</b> Nádražní 293/20, 74235, Odry ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "74207:302"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.8053249,
-                    49.6819767
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Odry, Loučky 125, Jednota (stojan) <br><b>Adresa:</b> Nový Jičín; Odry; Loučky <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "74207:323"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.7881665,
-                    49.6947343
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jakubčovice nad Odrou,Oderská 100,Partner  (stoj) <br><b>Adresa:</b> Oderská 100, 74236, Jakubčovice nad Odrou ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "74207:318"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.8055905,
-                    49.7146221
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Heřmanice u Oder 57 <br><b>Adresa:</b> č.p. 57, 74235, Heřmanice u Oder ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "74207:328"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.8111305,
-                    49.721953
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Heřmanice u Oder, Véska 71 (stojan) <br><b>Adresa:</b> Nový Jičín; Heřmanice u Oder; Véska <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:45",
-                "ref": "74207:320"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          17.8341321,
+          49.6686164
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Odry, Nádražní 293/20, Jednota <br><b>Adresa:</b> Nádražní 293/20, 74235, Odry ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74207:302"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.8281485,
+          49.689534
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Odry, Vítovka 4 (stojan) <br><b>Adresa:</b> Nový Jičín; Odry; Vítovka <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74207:310"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.7881665,
+          49.6947343
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jakubčovice nad Odrou,Oderská 100,Partner  (stoj) <br><b>Adresa:</b> Oderská 100, 74236, Jakubčovice nad Odrou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74207:318"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.8111305,
+          49.721953
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Heřmanice u Oder, Véska 71 (stojan) <br><b>Adresa:</b> Nový Jičín; Heřmanice u Oder; Véska <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74207:320"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.7663905,
+          49.7080713
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Heřmánky 275 <br><b>Adresa:</b> č.p. 275, 74235, Heřmánky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74207:321"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.8053249,
+          49.6819767
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Odry, Loučky 125, Jednota (stojan) <br><b>Adresa:</b> Nový Jičín; Odry; Loučky <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74207:323"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.8055905,
+          49.7146221
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Heřmanice u Oder 57 <br><b>Adresa:</b> č.p. 57, 74235, Heřmanice u Oder ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74207:328"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

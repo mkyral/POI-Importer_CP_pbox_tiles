@@ -1,73 +1,73 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.7054574,
-                    49.5477613
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Partner Dolní Lomná <br><b>Adresa:</b> č.p. 164, 73991, Dolní Lomná <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 4.7 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 15:00",
-                "ref": "73917:128"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.6364495,
-                    49.5259232
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Obchod Turoňová,na čp.123, Horní Lomná <br><b>Adresa:</b> č.p. 123, 73991, Horní Lomná <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 13.21 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "73917:110"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.6387542,
-                    49.5340772
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Za Pohostinstvím Salajka,čp.50,Hor.Lomná (stojan) <br><b>Adresa:</b> Frýdek-Místek; Horní Lomná; Horní Lomná <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:15",
-                "ref": "73917:111"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.6917446,
-                    49.5459863
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Za stánkem Šotkovski, čp.105, Dolní Lomná (stojan) <br><b>Adresa:</b> Frýdek-Místek; Dolní Lomná; Dolní Lomná <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u></p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "73917:108"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          18.6917446,
+          49.5459863
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Za stánkem Šotkovski, čp.105, Dolní Lomná (stojan) <br><b>Adresa:</b> Frýdek-Místek; Dolní Lomná; Dolní Lomná <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "73917:108"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.6364495,
+          49.5259232
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Obchod Turoňová,na čp.123, Horní Lomná <br><b>Adresa:</b> č.p. 123, 73991, Horní Lomná <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 13.21 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "73917:110"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.6387542,
+          49.5340772
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Za Pohostinstvím Salajka,čp.50,Hor.Lomná (stojan) <br><b>Adresa:</b> Frýdek-Místek; Horní Lomná; Horní Lomná <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "73917:111"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.7054574,
+          49.5477613
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Partner Dolní Lomná <br><b>Adresa:</b> č.p. 164, 73991, Dolní Lomná <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 4.7 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 15:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "73917:128"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

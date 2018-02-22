@@ -1,175 +1,175 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.819665,
-                    50.0587927
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> náves, Tismice u OÚ čp. 33 <br><b>Adresa:</b> č.p. 33, 28201, Tismice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "25107:263"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.8499715,
-                    50.0479333
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> OÚ, Tuchoraz 99 <br><b>Adresa:</b> č.p. 99, 28201, Tuchoraz ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "25107:271"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.8401777,
-                    50.0282568
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u čekárny ČSAD, Přehvozdí 6 <br><b>Adresa:</b> č.p. 6, 28163, Přehvozdí ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "25107:202"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.7700837,
-                    50.0491949
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Skřivany č.p. 45 /stojan/ <br><b>Adresa:</b> Skřivany 45, 28201, Přišimasy ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "25107:286"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.842479,
-                    50.0500846
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Zahrady 185, Český Brod <br><b>Adresa:</b> Zahrady 185, 28201, Český Brod ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "25107:261"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.81028,
-                    50.0460282
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Mrzky proti čp. 97 <br><b>Adresa:</b> č.p. 97, 28201, Mrzky ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "25107:264"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.792813,
-                    50.0226466
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Doubravčice 48 <br><b>Adresa:</b> Českobrodská 48, 28201, Doubravčice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "25107:265"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.7903301,
-                    50.0581441
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Limuzy, zast. ČSAD čp. 16 <br><b>Adresa:</b> Limuzy 16, 28201, Tismice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "25107:268"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.8370003,
-                    50.0485705
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> náves, Vrátkov u čp. 34 <br><b>Adresa:</b> č.p. 34, 28201, Vrátkov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "25107:262"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.7776721,
-                    50.0267052
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Masojedy 10 <br><b>Adresa:</b> č.p. 10, 28201, Masojedy ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "25107:266"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.8401777,
+          50.0282568
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u čekárny ČSAD, Přehvozdí 6 <br><b>Adresa:</b> č.p. 6, 28163, Přehvozdí ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "25107:202"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.842479,
+          50.0500846
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Zahrady 185, Český Brod <br><b>Adresa:</b> Zahrady 185, 28201, Český Brod ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "25107:261"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.8370003,
+          50.0485705
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> náves, Vrátkov u čp. 34 <br><b>Adresa:</b> č.p. 34, 28201, Vrátkov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "25107:262"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.819665,
+          50.0587927
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> náves, Tismice u OÚ čp. 33 <br><b>Adresa:</b> č.p. 33, 28201, Tismice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "25107:263"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.81028,
+          50.0460282
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Mrzky proti čp. 97 <br><b>Adresa:</b> č.p. 97, 28201, Mrzky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "25107:264"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.792813,
+          50.0226466
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Doubravčice 48 <br><b>Adresa:</b> Českobrodská 48, 28201, Doubravčice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "25107:265"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.7776721,
+          50.0267052
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Masojedy 10 <br><b>Adresa:</b> č.p. 10, 28201, Masojedy ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "25107:266"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.7903301,
+          50.0581441
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Limuzy, zast. ČSAD čp. 16 <br><b>Adresa:</b> Limuzy 16, 28201, Tismice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "25107:268"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.8499715,
+          50.0479333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> OÚ, Tuchoraz 99 <br><b>Adresa:</b> č.p. 99, 28201, Tuchoraz ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "25107:271"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.7700837,
+          50.0491949
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Skřivany č.p. 45 /stojan/ <br><b>Adresa:</b> Skřivany 45, 28201, Přišimasy ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "25107:286"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

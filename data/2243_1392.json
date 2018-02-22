@@ -1,124 +1,124 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.172658,
-                    49.8158085
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Dlouhá Loučka, Šumvaldská 220, škola <br><b>Adresa:</b> Šumvaldská 220, 78386, Dlouhá Loučka ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "77072:221"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.2112607,
-                    49.8361797
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Dl.Loučka,Valšův Důl naproti č.p. 498, AZ <br><b>Adresa:</b> Olomouc; Dlouhá Loučka; Dlouhá Loučka <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "77072:217"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.1899765,
-                    49.818608
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Dlouhá Loučka, Zámecká 8, pošta <br><b>Adresa:</b> Zámecká 8, 78386, Dlouhá Loučka ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 15:15",
-                "ref": "77072:220"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.2248649,
-                    49.7968457
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Paseka 94, pošta <br><b>Adresa:</b> č.p. 94, 78397, Paseka ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 15:00",
-                "ref": "77072:223"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.1684879,
-                    49.8378556
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Dlouhá Loučka, Plinkout 44 (stojan) <br><b>Adresa:</b> Plinkout 44, 78386, Dlouhá Loučka ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "77072:218"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.1904601,
-                    49.7823744
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Újezd, Haukovice 529, obchod <br><b>Adresa:</b> Haukovice 529, 78396, Újezd ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "77072:330"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.1988172,
-                    49.8206681
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Dlouhá Loučka, 9. května 404 (AZ) <br><b>Adresa:</b> 9. května 404, 78386, Dlouhá Loučka ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "77072:222"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          17.2112607,
+          49.8361797
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dl.Loučka,Valšův Důl naproti č.p. 498, AZ <br><b>Adresa:</b> Olomouc; Dlouhá Loučka; Dlouhá Loučka <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "77072:217"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.1684879,
+          49.8378556
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dlouhá Loučka, Plinkout 44 (stojan) <br><b>Adresa:</b> Plinkout 44, 78386, Dlouhá Loučka ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "77072:218"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.1899765,
+          49.818608
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dlouhá Loučka, Zámecká 8, pošta <br><b>Adresa:</b> Zámecká 8, 78386, Dlouhá Loučka ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 15:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "77072:220"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.172658,
+          49.8158085
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dlouhá Loučka, Šumvaldská 220, škola <br><b>Adresa:</b> Šumvaldská 220, 78386, Dlouhá Loučka ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "77072:221"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.1988172,
+          49.8206681
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dlouhá Loučka, 9. května 404 (AZ) <br><b>Adresa:</b> 9. května 404, 78386, Dlouhá Loučka ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "77072:222"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.2248649,
+          49.7968457
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Paseka 94, pošta <br><b>Adresa:</b> č.p. 94, 78397, Paseka ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 15:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "77072:223"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.1904601,
+          49.7823744
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Újezd, Haukovice 529, obchod <br><b>Adresa:</b> Haukovice 529, 78396, Újezd ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "77072:330"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

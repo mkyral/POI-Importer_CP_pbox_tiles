@@ -1,158 +1,158 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.2104805,
-                    49.1542046
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kuroslepy, hasičská zbroj. <br><b>Adresa:</b> č.p. 19, 67575, Kuroslepy ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "67407:267"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.2189376,
-                    49.2067066
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Horní Lhotice <br><b>Adresa:</b> Horní Lhotice 6, 67573, Kralice nad Oslavou ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "67407:256"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.2009245,
-                    49.1998017
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Kralice nad Oslavou <br><b>Adresa:</b> Jinošovská 78, 67573, Kralice nad Oslavou ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "67407:329"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.202774,
-                    49.197283
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kralice nad Oslavou, zastávka BUS <br><b>Adresa:</b> Třebíčská 60, 67573, Kralice nad Oslavou ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "67407:258"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.2369194,
-                    49.18397
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Sudice <br><b>Adresa:</b> č.p. 116, 67573, Sudice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "67407:255"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.2397688,
-                    49.2047628
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Lesní Jakubov <br><b>Adresa:</b> č.p. 25, 67573, Lesní Jakubov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "67407:254"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.2556001,
-                    49.1908723
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Rapotice <br><b>Adresa:</b> Bítešská 37, 67573, Rapotice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:15",
-                "ref": "67407:330"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1940723,
-                    49.1715654
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Březník <br><b>Adresa:</b> č.p. 104, 67574, Březník ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "67407:331"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.2034253,
-                    49.1924974
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kralice nad Oslavou, vlak.nádraží <br><b>Adresa:</b> Nádražní 65, 67573, Kralice nad Oslavou ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:40",
-                "ref": "67407:257"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.2397688,
+          49.2047628
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lesní Jakubov <br><b>Adresa:</b> č.p. 25, 67573, Lesní Jakubov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:254"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2369194,
+          49.18397
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Sudice <br><b>Adresa:</b> č.p. 116, 67573, Sudice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:255"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2189376,
+          49.2067066
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Horní Lhotice <br><b>Adresa:</b> Horní Lhotice 6, 67573, Kralice nad Oslavou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:256"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2034253,
+          49.1924974
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kralice nad Oslavou, vlak.nádraží <br><b>Adresa:</b> Nádražní 65, 67573, Kralice nad Oslavou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:40",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:257"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.202774,
+          49.197283
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kralice nad Oslavou, zastávka BUS <br><b>Adresa:</b> Třebíčská 60, 67573, Kralice nad Oslavou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:258"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2104805,
+          49.1542046
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kuroslepy, hasičská zbroj. <br><b>Adresa:</b> č.p. 19, 67575, Kuroslepy ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:267"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2009245,
+          49.1998017
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Kralice nad Oslavou <br><b>Adresa:</b> Jinošovská 78, 67573, Kralice nad Oslavou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:329"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2556001,
+          49.1908723
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Rapotice <br><b>Adresa:</b> Bítešská 37, 67573, Rapotice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:330"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1940723,
+          49.1715654
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Březník <br><b>Adresa:</b> č.p. 104, 67574, Březník ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:331"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

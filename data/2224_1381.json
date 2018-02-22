@@ -1,158 +1,158 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.5155788,
-                    50.4329651
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Prodejna, Choteč <br><b>Adresa:</b> č.p. 14, 50781, Choteč ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "50770:401"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.5423678,
-                    50.4254689
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> OÚ, Svatojánský Ujezd <br><b>Adresa:</b> č.p. 54, 50781, Svatojanský Újezd ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "50770:402"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4694229,
-                    50.4308657
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Lužany u Jičína <br><b>Adresa:</b> č.p. 144, 50706, Lužany ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "50770:213"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4764131,
-                    50.4399088
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Lužany - kemp <br><b>Adresa:</b> Jičín; Lužany; Lužany <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "50770:105"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4771461,
-                    50.412001
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kamenice <br><b>Adresa:</b> Kamenice 2, 50601, Konecchlumí <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 72.86 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "50770:64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.5371,
-                    50.4483684
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> zast. ČSAD, Hřídelec <br><b>Adresa:</b> Hřídelec 36, 50781, Lázně Bělohrad ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "50770:407"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.521826,
-                    50.4117491
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta  Mlázovice <br><b>Adresa:</b> Náměstí 46, 50758, Mlázovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:15",
-                "ref": "50770:309"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.5562318,
-                    50.4460668
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Prodejna, Lány <br><b>Adresa:</b> Lány 88, 50781, Lázně Bělohrad ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "50770:403"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4823098,
-                    50.4370128
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Horní část obce, Lužany u Jičína <br><b>Adresa:</b> č.p. 113, 50706, Lužany ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:15",
-                "ref": "50770:144"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.4764131,
+          50.4399088
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lužany - kemp <br><b>Adresa:</b> Jičín; Lužany; Lužany <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "50770:105"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4823098,
+          50.4370128
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Horní část obce, Lužany u Jičína <br><b>Adresa:</b> č.p. 113, 50706, Lužany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "50770:144"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4694229,
+          50.4308657
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Lužany u Jičína <br><b>Adresa:</b> č.p. 144, 50706, Lužany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "50770:213"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.521826,
+          50.4117491
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta  Mlázovice <br><b>Adresa:</b> Náměstí 46, 50758, Mlázovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "50770:309"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.5155788,
+          50.4329651
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Prodejna, Choteč <br><b>Adresa:</b> č.p. 14, 50781, Choteč ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "50770:401"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.5423678,
+          50.4254689
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> OÚ, Svatojánský Ujezd <br><b>Adresa:</b> č.p. 54, 50781, Svatojanský Újezd ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "50770:402"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.5562318,
+          50.4460668
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Prodejna, Lány <br><b>Adresa:</b> Lány 88, 50781, Lázně Bělohrad ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "50770:403"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.5371,
+          50.4483684
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> zast. ČSAD, Hřídelec <br><b>Adresa:</b> Hřídelec 36, 50781, Lázně Bělohrad ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "50770:407"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4771461,
+          50.412001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kamenice <br><b>Adresa:</b> Kamenice 2, 50601, Konecchlumí <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 72.86 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "50770:64"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

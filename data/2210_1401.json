@@ -1,107 +1,107 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.2562606,
-                    49.3103308
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Březí <br><b>Adresa:</b> Březí 4, 39701, Kluky ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "39707:56"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.2879956,
-                    49.3222861
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta, Chřešťovice <br><b>Adresa:</b> Chřešťovice 87, 39817, Albrechtice nad Vltavou ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "39707:173"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3075053,
-                    49.2987545
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jehnědno <br><b>Adresa:</b> Jehnědno 21, 39701, Albrechtice nad Vltavou ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "39707:58"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.2483598,
-                    49.3136443
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta, Kluky u Písku <br><b>Adresa:</b> č.p. 5, 39819, Kluky <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.73 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "39707:175"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3098844,
-                    49.282515
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Údraž <br><b>Adresa:</b> Údraž 83, 39701, Albrechtice nad Vltavou ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "39707:60"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3108967,
-                    49.2908935
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Údražské Chalupy <br><b>Adresa:</b> Údraž 57, 39701, Albrechtice nad Vltavou ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:15",
-                "ref": "39707:59"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.2879956,
+          49.3222861
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta, Chřešťovice <br><b>Adresa:</b> Chřešťovice 87, 39817, Albrechtice nad Vltavou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39707:173"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2483598,
+          49.3136443
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta, Kluky u Písku <br><b>Adresa:</b> č.p. 5, 39819, Kluky <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.73 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39707:175"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2562606,
+          49.3103308
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Březí <br><b>Adresa:</b> Březí 4, 39701, Kluky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39707:56"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3075053,
+          49.2987545
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jehnědno <br><b>Adresa:</b> Jehnědno 21, 39701, Albrechtice nad Vltavou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39707:58"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3108967,
+          49.2908935
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Údražské Chalupy <br><b>Adresa:</b> Údraž 57, 39701, Albrechtice nad Vltavou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39707:59"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3098844,
+          49.282515
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Údraž <br><b>Adresa:</b> Údraž 83, 39701, Albrechtice nad Vltavou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39707:60"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

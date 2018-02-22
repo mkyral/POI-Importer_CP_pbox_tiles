@@ -1,22 +1,22 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.5529029,
-                    50.0041236
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Horní Žandov, náves-dočasně sejmuta <br><b>Adresa:</b> Cheb; Dolní Žandov; Horní Žandov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "35007:41"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          12.5529029,
+          50.0041236
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Horní Žandov, náves-dočasně sejmuta <br><b>Adresa:</b> Cheb; Dolní Žandov; Horní Žandov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "35007:41"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

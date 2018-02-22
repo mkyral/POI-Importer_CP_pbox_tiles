@@ -1,22 +1,22 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.521234,
-                    49.7211112
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Město Libavá, Náměstí 2,budova pošty (uvnitř) <br><b>Adresa:</b> Náměstí 2, 78307, Město Libavá ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo 17:15; Tu 16:00; We 17:15; Th 16:00; Fr 09:00",
-                "ref": "77072:532"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          17.521234,
+          49.7211112
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Město Libavá, Náměstí 2,budova pošty (uvnitř) <br><b>Adresa:</b> Náměstí 2, 78307, Město Libavá ",
+        "amenity": "post_box",
+        "collection_times": "Mo 17:15; Tu 16:00; We 17:15; Th 16:00; Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "77072:532"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

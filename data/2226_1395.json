@@ -1,124 +1,124 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.7230288,
-                    49.6212212
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Macourov 3 <br><b>Adresa:</b> Macourov 3, 58222, Žižkovo Pole ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:163"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.7291008,
-                    49.6624703
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jitkov 60 - prodejna, \"S\" <br><b>Adresa:</b> č.p. 60, 58301, Jitkov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:298"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.6830033,
-                    49.6242503
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Krátká Ves 55 - prodejna <br><b>Adresa:</b> č.p. 55, 58222, Krátká Ves ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:161"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.6911915,
-                    49.6433999
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Česká Bělá <br><b>Adresa:</b> č.p. 122, 58261, Česká Bělá ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:24"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.6581073,
-                    49.6560966
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kojetín 20 <br><b>Adresa:</b> č.p. 20, 58001, Kojetín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:69"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.6590222,
-                    49.6357295
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Havlíčkův Brod, Jilemník 32 - váha <br><b>Adresa:</b> Jilemník 32, 58001, Havlíčkův Brod ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:66"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.7105704,
-                    49.6198858
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Žižkovo Pole (Samotín) - zbrojnice <br><b>Adresa:</b> Samotín 70, 58222, Žižkovo Pole ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:162"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.6830033,
+          49.6242503
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Krátká Ves 55 - prodejna <br><b>Adresa:</b> č.p. 55, 58222, Krátká Ves ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:161"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7105704,
+          49.6198858
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Žižkovo Pole (Samotín) - zbrojnice <br><b>Adresa:</b> Samotín 70, 58222, Žižkovo Pole ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:162"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7230288,
+          49.6212212
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Macourov 3 <br><b>Adresa:</b> Macourov 3, 58222, Žižkovo Pole ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:163"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.6911915,
+          49.6433999
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Česká Bělá <br><b>Adresa:</b> č.p. 122, 58261, Česká Bělá ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:24"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7291008,
+          49.6624703
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jitkov 60 - prodejna, \"S\" <br><b>Adresa:</b> č.p. 60, 58301, Jitkov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:298"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.6590222,
+          49.6357295
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Havlíčkův Brod, Jilemník 32 - váha <br><b>Adresa:</b> Jilemník 32, 58001, Havlíčkův Brod ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:66"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.6581073,
+          49.6560966
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kojetín 20 <br><b>Adresa:</b> č.p. 20, 58001, Kojetín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:69"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

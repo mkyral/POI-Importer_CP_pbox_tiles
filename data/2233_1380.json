@@ -1,56 +1,56 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.271376,
-                    50.512202
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Bělý křižovatka <br><b>Adresa:</b> Bělý 24, 54931, Machov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "54707:142"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.2900367,
-                    50.4979888
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Machovská Lhota <br><b>Adresa:</b> Machovská Lhota 1, 54931, Machov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "54707:143"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.2749069,
-                    50.4986301
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Machov <br><b>Adresa:</b> č.p. 129, 54963, Machov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "54707:144"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.271376,
+          50.512202
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bělý křižovatka <br><b>Adresa:</b> Bělý 24, 54931, Machov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54707:142"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2900367,
+          50.4979888
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Machovská Lhota <br><b>Adresa:</b> Machovská Lhota 1, 54931, Machov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54707:143"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2749069,
+          50.4986301
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Machov <br><b>Adresa:</b> č.p. 129, 54963, Machov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54707:144"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

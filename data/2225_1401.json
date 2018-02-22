@@ -1,107 +1,107 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.5795551,
-                    49.2935818
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> tf. budka, Prostředkovice <br><b>Adresa:</b> Prostředkovice 22, 58833, Suchá ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:35",
-                "ref": "58607:142"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.5881917,
-                    49.2815858
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Stonařov <br><b>Adresa:</b> č.p. 207, 58833, Stonařov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.4 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 14:30",
-                "ref": "58607:258"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.571411,
-                    49.3185986
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> vývěska, Beranovec <br><b>Adresa:</b> Beranovec 11, 58833, Suchá ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:15",
-                "ref": "58607:144"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.5860277,
-                    49.2819581
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> č.p. 232, Stonařov <br><b>Adresa:</b> č.p. 232, 58833, Stonařov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:05",
-                "ref": "58607:137"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.5883374,
-                    49.2834413
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> č.p. 142, Stonařov <br><b>Adresa:</b> č.p. 142, 58833, Stonařov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "58607:138"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.6427995,
-                    49.2899569
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> zastávka  ICOM, Jestřebí <br><b>Adresa:</b> Jestřebí 56, 58832, Brtnice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:05",
-                "ref": "58607:129"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.6427995,
+          49.2899569
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> zastávka  ICOM, Jestřebí <br><b>Adresa:</b> Jestřebí 56, 58832, Brtnice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:05",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:129"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.5860277,
+          49.2819581
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> č.p. 232, Stonařov <br><b>Adresa:</b> č.p. 232, 58833, Stonařov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:05",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:137"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.5883374,
+          49.2834413
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> č.p. 142, Stonařov <br><b>Adresa:</b> č.p. 142, 58833, Stonařov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:138"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.5795551,
+          49.2935818
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> tf. budka, Prostředkovice <br><b>Adresa:</b> Prostředkovice 22, 58833, Suchá ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:35",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:142"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.571411,
+          49.3185986
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> vývěska, Beranovec <br><b>Adresa:</b> Beranovec 11, 58833, Suchá ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:144"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.5881917,
+          49.2815858
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Stonařov <br><b>Adresa:</b> č.p. 207, 58833, Stonařov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.4 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 14:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:258"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

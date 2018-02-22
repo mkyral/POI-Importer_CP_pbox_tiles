@@ -1,90 +1,90 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.3793557,
-                    50.1220037
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pošta Vrbno pod Pradědem <br><b>Adresa:</b> Jesenická 256/12, 79326, Vrbno pod Pradědem ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 15:20",
-                "ref": "79207:509"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.3774728,
-                    50.1261197
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Mnichov čp.373,Vrbno p.Prad.(stojan před obchodem) <br><b>Adresa:</b> Mnichov 373, 79326, Vrbno pod Pradědem ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "79207:311"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.3713565,
-                    50.1228382
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> TS,Jesenická 205/24,Vrbno p. Prad.(na stojanu) <br><b>Adresa:</b> Jesenická 205/24, 79326, Vrbno pod Pradědem ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "79207:309"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.3799098,
-                    50.1379428
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Mnichov čp.23,Vrbno p.Pr.(na sloupu před obchodem) <br><b>Adresa:</b> Mnichov 23, 79326, Vrbno pod Pradědem ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:40",
-                "ref": "79207:312"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.3630316,
-                    50.1276628
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Železná čp.144,Vrbno pod Prad.(stojan za obchodem) <br><b>Adresa:</b> Bruntál; Vrbno pod Pradědem; Železná <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:45",
-                "ref": "79207:310"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          17.3713565,
+          50.1228382
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> TS,Jesenická 205/24,Vrbno p. Prad.(na stojanu) <br><b>Adresa:</b> Jesenická 205/24, 79326, Vrbno pod Pradědem ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79207:309"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.3630316,
+          50.1276628
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Železná čp.144,Vrbno pod Prad.(stojan za obchodem) <br><b>Adresa:</b> Bruntál; Vrbno pod Pradědem; Železná <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79207:310"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.3774728,
+          50.1261197
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Mnichov čp.373,Vrbno p.Prad.(stojan před obchodem) <br><b>Adresa:</b> Mnichov 373, 79326, Vrbno pod Pradědem ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79207:311"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.3799098,
+          50.1379428
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Mnichov čp.23,Vrbno p.Pr.(na sloupu před obchodem) <br><b>Adresa:</b> Mnichov 23, 79326, Vrbno pod Pradědem ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:40",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79207:312"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.3793557,
+          50.1220037
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Vrbno pod Pradědem <br><b>Adresa:</b> Jesenická 256/12, 79326, Vrbno pod Pradědem ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 15:20",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79207:509"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

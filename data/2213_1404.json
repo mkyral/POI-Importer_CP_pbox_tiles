@@ -1,90 +1,90 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.566794,
-                    49.0986957
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Školská č. 233, Ševětín <br><b>Adresa:</b> Školská 233, 37363, Ševětín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 16.62 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:30",
-                "ref": "37271:86"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.5721029,
-                    49.0996756
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Budova pošty, nám. Š. Lomnického č. 2,  Ševětín <br><b>Adresa:</b> náměstí Šimona Lomnického 2, 37363, Ševětín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.02 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 13:00",
-                "ref": "37271:85"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.5479314,
-                    49.1246668
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Drahotěšice č. 49 <br><b>Adresa:</b> č.p. 49, 37341, Drahotěšice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.16 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "37271:331"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.5486695,
-                    49.1435968
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Radonice č. 6 <br><b>Adresa:</b> Radonice 6, 37341, Dolní Bukovsko <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 43.64 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "37271:332"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.5223312,
-                    49.1136215
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Vlkov č. 16 <br><b>Adresa:</b> č.p. 16, 37341, Vlkov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.39 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "37271:327"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.5223312,
+          49.1136215
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vlkov č. 16 <br><b>Adresa:</b> č.p. 16, 37341, Vlkov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.39 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:327"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5479314,
+          49.1246668
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Drahotěšice č. 49 <br><b>Adresa:</b> č.p. 49, 37341, Drahotěšice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.16 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:331"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5486695,
+          49.1435968
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Radonice č. 6 <br><b>Adresa:</b> Radonice 6, 37341, Dolní Bukovsko <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 43.64 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:332"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5721029,
+          49.0996756
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Budova pošty, nám. Š. Lomnického č. 2,  Ševětín <br><b>Adresa:</b> náměstí Šimona Lomnického 2, 37363, Ševětín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.02 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 13:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:85"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.566794,
+          49.0986957
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Školská č. 233, Ševětín <br><b>Adresa:</b> Školská 233, 37363, Ševětín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 16.62 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:86"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

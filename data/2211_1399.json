@@ -1,141 +1,141 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3340903,
-                    49.4021227
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> prodejna, Branice <br><b>Adresa:</b> č.p. 22, 39843, Branice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:35",
-                "ref": "39007:410"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3764602,
-                    49.3981873
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Křižanov <br><b>Adresa:</b> č.p. 48, 39843, Křižanov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:25",
-                "ref": "39007:408"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3831453,
-                    49.422795
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Líšnice <br><b>Adresa:</b> Líšnice 39, 39901, Sepekov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:10",
-                "ref": "39007:632"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3371053,
-                    49.4021358
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Branice <br><b>Adresa:</b> č.p. 10, 39843, Branice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:35",
-                "ref": "39007:411"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3639962,
-                    49.4139161
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Okrouhlá <br><b>Adresa:</b> č.p. 21, 39843, Okrouhlá ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:05",
-                "ref": "39007:409"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.4103359,
-                    49.4093196
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Zálší <br><b>Adresa:</b> Zálší 3, 39901, Sepekov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "39007:633"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.387516,
-                    49.3882776
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jestřebice <br><b>Adresa:</b> Jestřebice 47, 39843, Bernartice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:40",
-                "ref": "39007:406"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.356916,
-                    49.3877262
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta, Veselíčko u Mil. <br><b>Adresa:</b> č.p. 24, 39842, Veselíčko ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:30",
-                "ref": "39007:677"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.387516,
+          49.3882776
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jestřebice <br><b>Adresa:</b> Jestřebice 47, 39843, Bernartice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:40",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:406"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3764602,
+          49.3981873
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Křižanov <br><b>Adresa:</b> č.p. 48, 39843, Křižanov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:25",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:408"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3639962,
+          49.4139161
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Okrouhlá <br><b>Adresa:</b> č.p. 21, 39843, Okrouhlá ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:05",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:409"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3340903,
+          49.4021227
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> prodejna, Branice <br><b>Adresa:</b> č.p. 22, 39843, Branice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:35",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:410"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3371053,
+          49.4021358
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Branice <br><b>Adresa:</b> č.p. 10, 39843, Branice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:35",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:411"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3831453,
+          49.422795
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Líšnice <br><b>Adresa:</b> Líšnice 39, 39901, Sepekov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:10",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:632"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.4103359,
+          49.4093196
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Zálší <br><b>Adresa:</b> Zálší 3, 39901, Sepekov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:633"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.356916,
+          49.3877262
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta, Veselíčko u Mil. <br><b>Adresa:</b> č.p. 24, 39842, Veselíčko ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:677"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

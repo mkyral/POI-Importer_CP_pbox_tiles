@@ -1,141 +1,141 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.0314367,
-                    49.2137458
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Bohdalice <br><b>Adresa:</b> Bohdalice 117, 68341, Bohdalice-Pavlovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:30",
-                "ref": "68207:163"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.0157851,
-                    49.2431724
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Terešov 2 <br><b>Adresa:</b> Terešov 2, 68201, Hlubočany ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "68207:29"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.971582,
-                    49.2176284
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Lysovice 36 - obchod <br><b>Adresa:</b> č.p. 36, 68201, Lysovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "68207:26"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.9653175,
-                    49.2384067
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Rostěnice -   kult. dům <br><b>Adresa:</b> Rostěnice 109, 68201, Rostěnice-Zvonovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "68207:24"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.0267524,
-                    49.2297164
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Manerov Jednota  č.61 <br><b>Adresa:</b> Manerov 61, 68341, Bohdalice-Pavlovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:30",
-                "ref": "68207:62"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.0049612,
-                    49.2181105
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Partner Kučerov <br><b>Adresa:</b> č.p. 22, 68201, Kučerov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "68207:157"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.0279928,
-                    49.2116347
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Bohdalice  obchod <br><b>Adresa:</b> Bohdalice 45, 68341, Bohdalice-Pavlovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 13:00",
-                "ref": "68207:61"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.9979383,
-                    49.2308914
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hlubočany 55 - obchod <br><b>Adresa:</b> č.p. 55, 68201, Hlubočany ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "68207:28"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          17.0049612,
+          49.2181105
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Partner Kučerov <br><b>Adresa:</b> č.p. 22, 68201, Kučerov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68207:157"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.0314367,
+          49.2137458
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Bohdalice <br><b>Adresa:</b> Bohdalice 117, 68341, Bohdalice-Pavlovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68207:163"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.9653175,
+          49.2384067
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Rostěnice -   kult. dům <br><b>Adresa:</b> Rostěnice 109, 68201, Rostěnice-Zvonovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68207:24"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.971582,
+          49.2176284
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lysovice 36 - obchod <br><b>Adresa:</b> č.p. 36, 68201, Lysovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68207:26"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.9979383,
+          49.2308914
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hlubočany 55 - obchod <br><b>Adresa:</b> č.p. 55, 68201, Hlubočany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68207:28"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.0157851,
+          49.2431724
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Terešov 2 <br><b>Adresa:</b> Terešov 2, 68201, Hlubočany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68207:29"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.0279928,
+          49.2116347
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bohdalice  obchod <br><b>Adresa:</b> Bohdalice 45, 68341, Bohdalice-Pavlovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 13:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68207:61"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.0267524,
+          49.2297164
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Manerov Jednota  č.61 <br><b>Adresa:</b> Manerov 61, 68341, Bohdalice-Pavlovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68207:62"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

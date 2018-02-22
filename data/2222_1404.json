@@ -1,124 +1,124 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.3359415,
-                    49.1403011
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> budova pošty, Velká Lhota <br><b>Adresa:</b> Velká Lhota 21, 38001, Volfířov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.91 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:10",
-                "ref": "37702:237"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.3680061,
-                    49.1384086
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> č.46, Řečice <br><b>Adresa:</b> Řečice 36, 38001, Volfířov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:30",
-                "ref": "37702:230"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.3088214,
-                    49.1055509
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> č. 35, Lipnice <br><b>Adresa:</b> Lipnice 19, 38001, Český Rudolec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:50",
-                "ref": "37702:239"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.3160267,
-                    49.1420463
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Brandlín <br><b>Adresa:</b> Brandlín 55, 38001, Volfířov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "37702:236"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.3590379,
-                    49.1253117
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> č.3, Šach <br><b>Adresa:</b> Šach 3, 38001, Volfířov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "37702:235"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.3247215,
-                    49.1229766
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Radlice <br><b>Adresa:</b> Radlice 27, 38001, Volfířov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "37702:238"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.3742184,
-                    49.1066628
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Volfířov <br><b>Adresa:</b> č.p. 11, 38001, Volfířov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "37702:229"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.3742184,
+          49.1066628
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Volfířov <br><b>Adresa:</b> č.p. 11, 38001, Volfířov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:229"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.3680061,
+          49.1384086
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> č.46, Řečice <br><b>Adresa:</b> Řečice 36, 38001, Volfířov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:230"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.3590379,
+          49.1253117
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> č.3, Šach <br><b>Adresa:</b> Šach 3, 38001, Volfířov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:235"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.3160267,
+          49.1420463
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Brandlín <br><b>Adresa:</b> Brandlín 55, 38001, Volfířov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:236"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.3359415,
+          49.1403011
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> budova pošty, Velká Lhota <br><b>Adresa:</b> Velká Lhota 21, 38001, Volfířov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.91 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:10",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:237"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.3247215,
+          49.1229766
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Radlice <br><b>Adresa:</b> Radlice 27, 38001, Volfířov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:238"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.3088214,
+          49.1055509
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> č. 35, Lipnice <br><b>Adresa:</b> Lipnice 19, 38001, Český Rudolec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:50",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:239"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

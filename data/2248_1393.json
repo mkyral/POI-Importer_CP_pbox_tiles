@@ -1,39 +1,39 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.6373571,
-                    49.7611462
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Budišov n.Bud., Staré Oldřůvky čp. 67 <br><b>Adresa:</b> Staré Oldřůvky 67, 74787, Budišov nad Budišovkou ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo 09:00; Tu 09:00; We 11:05; Th 11:05; Fr 09:00",
-                "ref": "74907:312"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.5901491,
-                    49.7647397
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Budišov n.B., Podlesí čp. 129, restaurace <br><b>Adresa:</b> Podlesí 129, 74787, Budišov nad Budišovkou ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo 08:30; Tu 08:30; We 11:15; Th 11:15; Fr 08:30",
-                "ref": "74907:309"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          17.5901491,
+          49.7647397
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Budišov n.B., Podlesí čp. 129, restaurace <br><b>Adresa:</b> Podlesí 129, 74787, Budišov nad Budišovkou ",
+        "amenity": "post_box",
+        "collection_times": "Mo 08:30; Tu 08:30; We 11:15; Th 11:15; Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74907:309"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.6373571,
+          49.7611462
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Budišov n.Bud., Staré Oldřůvky čp. 67 <br><b>Adresa:</b> Staré Oldřůvky 67, 74787, Budišov nad Budišovkou ",
+        "amenity": "post_box",
+        "collection_times": "Mo 09:00; Tu 09:00; We 11:05; Th 11:05; Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74907:312"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

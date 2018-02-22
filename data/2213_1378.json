@@ -1,107 +1,107 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.5233473,
-                    50.5770103
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> V obci, Drchlava - u autobus.zastávky <br><b>Adresa:</b> Drchlava 1, 47201, Chlum ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:10",
-                "ref": "47007:139"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.5802314,
-                    50.6099837
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Jestřebí <br><b>Adresa:</b> č.p. 140, 47161, Jestřebí <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.09 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "47007:280"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.5863382,
-                    50.6098048
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Č.p. 69, Jestřebí <br><b>Adresa:</b> č.p. 69, 47161, Jestřebí ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "47007:37"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.5621229,
-                    50.5780733
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> U Obecního úřadu č.p.95, Chlum <br><b>Adresa:</b> č.p. 95, 47201, Chlum ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "47007:137"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.5353166,
-                    50.5960976
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> V obci, Pavlovice - u autobus.zastávky <br><b>Adresa:</b> Pavlovice 2, 47201, Jestřebí ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:45",
-                "ref": "47007:138"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.5656736,
-                    50.6026468
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Zastávka, poblíž čp.2, Újezd <br><b>Adresa:</b> Újezd 2, 47161, Jestřebí ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "47007:93"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.5621229,
+          50.5780733
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> U Obecního úřadu č.p.95, Chlum <br><b>Adresa:</b> č.p. 95, 47201, Chlum ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "47007:137"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5353166,
+          50.5960976
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> V obci, Pavlovice - u autobus.zastávky <br><b>Adresa:</b> Pavlovice 2, 47201, Jestřebí ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "47007:138"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5233473,
+          50.5770103
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> V obci, Drchlava - u autobus.zastávky <br><b>Adresa:</b> Drchlava 1, 47201, Chlum ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:10",
+        "operator": "Česká pošta, s.p.",
+        "ref": "47007:139"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5802314,
+          50.6099837
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Jestřebí <br><b>Adresa:</b> č.p. 140, 47161, Jestřebí <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.09 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "47007:280"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5863382,
+          50.6098048
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Č.p. 69, Jestřebí <br><b>Adresa:</b> č.p. 69, 47161, Jestřebí ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "47007:37"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5656736,
+          50.6026468
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Zastávka, poblíž čp.2, Újezd <br><b>Adresa:</b> Újezd 2, 47161, Jestřebí ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "47007:93"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

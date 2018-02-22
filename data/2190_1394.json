@@ -1,22 +1,22 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.5580406,
-                    49.6711499
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Rozvadov - pošta <br><b>Adresa:</b> č.p. 230, 34806, Rozvadov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "34707:231"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          12.5580406,
+          49.6711499
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Rozvadov - pošta <br><b>Adresa:</b> č.p. 230, 34806, Rozvadov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "34707:231"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

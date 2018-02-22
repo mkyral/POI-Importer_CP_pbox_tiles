@@ -1,107 +1,107 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3006834,
-                    49.6308071
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Nedvězí obchod č.p. 90 <br><b>Adresa:</b> č.p. 90, 56992, Nedvězí ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:449"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3244031,
-                    49.6545543
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Jedlová u Poličky <br><b>Adresa:</b> č.p. 390, 56991, Jedlová ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:471"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.2824502,
-                    49.6118959
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> obchod, Ubušínek <br><b>Adresa:</b> č.p. 41, 59265, Ubušínek ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "59302:66"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3469439,
-                    49.6308041
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u Peterků č.p. 220, Bystré u Poličky <br><b>Adresa:</b> Nerudova 220, 56992, Bystré ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:447"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3453895,
-                    49.6300302
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Bystré u Poličky <br><b>Adresa:</b> nám. Na podkově 6, 56992, Bystré ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:472"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3025633,
-                    49.6619233
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jednota Horní Jedlová č.7, Jedlová u Pol. <br><b>Adresa:</b> č.p. 7, 56991, Jedlová ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:434"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.3025633,
+          49.6619233
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jednota Horní Jedlová č.7, Jedlová u Pol. <br><b>Adresa:</b> č.p. 7, 56991, Jedlová ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:434"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3469439,
+          49.6308041
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u Peterků č.p. 220, Bystré u Poličky <br><b>Adresa:</b> Nerudova 220, 56992, Bystré ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:447"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3006834,
+          49.6308071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nedvězí obchod č.p. 90 <br><b>Adresa:</b> č.p. 90, 56992, Nedvězí ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:449"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3244031,
+          49.6545543
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Jedlová u Poličky <br><b>Adresa:</b> č.p. 390, 56991, Jedlová ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:471"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3453895,
+          49.6300302
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Bystré u Poličky <br><b>Adresa:</b> nám. Na podkově 6, 56992, Bystré ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:472"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2824502,
+          49.6118959
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> obchod, Ubušínek <br><b>Adresa:</b> č.p. 41, 59265, Ubušínek ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59302:66"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

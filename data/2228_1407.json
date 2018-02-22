@@ -1,90 +1,90 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.903301,
-                    48.9695742
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pavlice - hasič.stanice <br><b>Adresa:</b> č.p. 54, 67156, Pavlice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "66907:156"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.8983792,
-                    48.970963
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pavlice - sokolovna <br><b>Adresa:</b> č.p. 135, 67156, Pavlice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:15",
-                "ref": "66907:155"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.8876822,
-                    48.9788836
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Grešlové Mýto <br><b>Adresa:</b> č.p. 55, 67156, Grešlové Mýto ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "66907:274"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.8520779,
-                    48.9326384
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Štítary-ZŠ <br><b>Adresa:</b> č.p. 191, 67102, Štítary ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "66907:88"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.8423342,
-                    48.9355476
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Štítary-obchod <br><b>Adresa:</b> č.p. 153, 67102, Štítary ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "66907:89"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.8983792,
+          48.970963
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pavlice - sokolovna <br><b>Adresa:</b> č.p. 135, 67156, Pavlice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:155"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.903301,
+          48.9695742
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pavlice - hasič.stanice <br><b>Adresa:</b> č.p. 54, 67156, Pavlice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:156"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8876822,
+          48.9788836
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Grešlové Mýto <br><b>Adresa:</b> č.p. 55, 67156, Grešlové Mýto ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:274"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8520779,
+          48.9326384
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Štítary-ZŠ <br><b>Adresa:</b> č.p. 191, 67102, Štítary ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:88"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8423342,
+          48.9355476
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Štítary-obchod <br><b>Adresa:</b> č.p. 153, 67102, Štítary ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:89"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

@@ -1,39 +1,39 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.8811566,
-                    48.8149852
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jelení vrchy č.p. 13 <br><b>Adresa:</b> Jelení 13, 38451, Nová Pec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "38307:113"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.822301,
-                    48.8595471
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Budova pošty  Stožec <br><b>Adresa:</b> č.p. 54, 38444, Stožec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "38307:81"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.8811566,
+          48.8149852
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jelení vrchy č.p. 13 <br><b>Adresa:</b> Jelení 13, 38451, Nová Pec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38307:113"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.822301,
+          48.8595471
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Budova pošty  Stožec <br><b>Adresa:</b> č.p. 54, 38444, Stožec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38307:81"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

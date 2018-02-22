@@ -1,90 +1,90 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.409095,
-                    48.7763481
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Věžovatá Pláně č. 3 <br><b>Adresa:</b> č.p. 3, 38232, Věžovatá Pláně <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 24.64 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "37271:728"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3908252,
-                    48.7940992
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Malčice č. 4 <br><b>Adresa:</b> Malčice 4, 38232, Mirkovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 29.49 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:40",
-                "ref": "37271:734"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.35236,
-                    48.7815143
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Obchod, Přídolí 110 <br><b>Adresa:</b> č.p. 110, 38101, Přídolí <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 15.01 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "37271:570"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.4073541,
-                    48.7937122
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Zubčice č. 45 <br><b>Adresa:</b> č.p. 45, 38232, Zubčice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 33.37 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "37271:730"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3578757,
-                    48.7816943
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Přídolí - č.p. 76 <br><b>Adresa:</b> č.p. 76, 38101, Přídolí <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 36.75 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "37271:569"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.3578757,
+          48.7816943
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Přídolí - č.p. 76 <br><b>Adresa:</b> č.p. 76, 38101, Přídolí <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 36.75 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:569"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.35236,
+          48.7815143
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Obchod, Přídolí 110 <br><b>Adresa:</b> č.p. 110, 38101, Přídolí <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 15.01 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:570"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.409095,
+          48.7763481
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Věžovatá Pláně č. 3 <br><b>Adresa:</b> č.p. 3, 38232, Věžovatá Pláně <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 24.64 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:728"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.4073541,
+          48.7937122
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Zubčice č. 45 <br><b>Adresa:</b> č.p. 45, 38232, Zubčice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 33.37 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:730"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3908252,
+          48.7940992
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Malčice č. 4 <br><b>Adresa:</b> Malčice 4, 38232, Mirkovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 29.49 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:40",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:734"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

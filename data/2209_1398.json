@@ -1,73 +1,73 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.1526824,
-                    49.4773746
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Nevězice <br><b>Adresa:</b> č.p. 86, 39804, Nevězice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "39707:140"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.1803279,
-                    49.4476702
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Žbonín <br><b>Adresa:</b> Zbonín 13, 39701, Varvažov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 07:45",
-                "ref": "39707:80"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.2129134,
-                    49.4506993
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jickovice <br><b>Adresa:</b> č.p. 64, 39901, Jickovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "39007:622"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.2273961,
-                    49.4929142
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Zahrádka 14 <br><b>Adresa:</b> Zahrádka 14, 39901, Kostelec nad Vltavou ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:05",
-                "ref": "39007:631"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.2129134,
+          49.4506993
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jickovice <br><b>Adresa:</b> č.p. 64, 39901, Jickovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:622"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2273961,
+          49.4929142
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Zahrádka 14 <br><b>Adresa:</b> Zahrádka 14, 39901, Kostelec nad Vltavou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:05",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:631"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.1526824,
+          49.4773746
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nevězice <br><b>Adresa:</b> č.p. 86, 39804, Nevězice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39707:140"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.1803279,
+          49.4476702
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Žbonín <br><b>Adresa:</b> Zbonín 13, 39701, Varvažov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 07:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39707:80"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

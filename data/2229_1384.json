@@ -1,158 +1,158 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9194497,
-                    50.2624672
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Černilov <br><b>Adresa:</b> č.p. 310, 50343, Černilov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "50370:278"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9789523,
-                    50.2696393
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Zastávka ČSAD Výrava <br><b>Adresa:</b> Hradec Králové; Výrava; Výrava <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "50370:220"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9777835,
-                    50.2707853
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Obchod Výrava <br><b>Adresa:</b> č.p. 139, 50303, Výrava ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "50370:221"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9322955,
-                    50.2625348
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Černilov 201 <br><b>Adresa:</b> č.p. 201, 50343, Černilov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "50370:145"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9840868,
-                    50.2654561
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Výrava čp. 105 <br><b>Adresa:</b> č.p. 105, 50303, Výrava ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "50370:222"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9137578,
-                    50.2634121
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Černilov 50 <br><b>Adresa:</b> č.p. 50, 50343, Černilov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "50370:146"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9619646,
-                    50.2867014
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Libřice <br><b>Adresa:</b> č.p. 111, 50344, Libřice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "50370:279"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9606187,
-                    50.2421127
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> samoobsluha, Librantice <br><b>Adresa:</b> č.p. 128, 50346, Librantice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "50370:212"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9216358,
-                    50.2399198
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Divec, Divec <br><b>Adresa:</b> č.p. 41, 50003, Divec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "50370:240"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.9322955,
+          50.2625348
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Černilov 201 <br><b>Adresa:</b> č.p. 201, 50343, Černilov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "50370:145"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9137578,
+          50.2634121
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Černilov 50 <br><b>Adresa:</b> č.p. 50, 50343, Černilov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "50370:146"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9606187,
+          50.2421127
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> samoobsluha, Librantice <br><b>Adresa:</b> č.p. 128, 50346, Librantice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "50370:212"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9789523,
+          50.2696393
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Zastávka ČSAD Výrava <br><b>Adresa:</b> Hradec Králové; Výrava; Výrava <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "50370:220"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9777835,
+          50.2707853
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Obchod Výrava <br><b>Adresa:</b> č.p. 139, 50303, Výrava ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "50370:221"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9840868,
+          50.2654561
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Výrava čp. 105 <br><b>Adresa:</b> č.p. 105, 50303, Výrava ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "50370:222"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9216358,
+          50.2399198
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Divec, Divec <br><b>Adresa:</b> č.p. 41, 50003, Divec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "50370:240"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9194497,
+          50.2624672
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Černilov <br><b>Adresa:</b> č.p. 310, 50343, Černilov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "50370:278"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9619646,
+          50.2867014
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Libřice <br><b>Adresa:</b> č.p. 111, 50344, Libřice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "50370:279"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

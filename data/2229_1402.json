@@ -1,90 +1,90 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9746803,
-                    49.2645595
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Nárameč - před Jednotou <br><b>Adresa:</b> č.p. 8, 67503, Nárameč ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:15",
-                "ref": "67407:80"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9737538,
-                    49.2325586
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hostákov, před obchodem <br><b>Adresa:</b> Hostákov 5, 67501, Vladislav ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:10",
-                "ref": "67407:58"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9859206,
-                    49.2472888
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Valdíkov - u čekárny <br><b>Adresa:</b> č.p. 1, 67503, Valdíkov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "67407:81"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9929948,
-                    49.2112419
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Vladislav - zdrav.středisko <br><b>Adresa:</b> č.p. 100, 67501, Vladislav ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:45",
-                "ref": "67407:60"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.9280624,
-                    49.2536834
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Trnava 174 - Jednota <br><b>Adresa:</b> č.p. 174, 67401, Trnava ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "67407:40"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.9280624,
+          49.2536834
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Trnava 174 - Jednota <br><b>Adresa:</b> č.p. 174, 67401, Trnava ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:40"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9737538,
+          49.2325586
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hostákov, před obchodem <br><b>Adresa:</b> Hostákov 5, 67501, Vladislav ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:10",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:58"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9929948,
+          49.2112419
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vladislav - zdrav.středisko <br><b>Adresa:</b> č.p. 100, 67501, Vladislav ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:60"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9746803,
+          49.2645595
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nárameč - před Jednotou <br><b>Adresa:</b> č.p. 8, 67503, Nárameč ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:80"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9859206,
+          49.2472888
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Valdíkov - u čekárny <br><b>Adresa:</b> č.p. 1, 67503, Valdíkov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:81"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

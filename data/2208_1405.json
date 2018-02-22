@@ -1,141 +1,141 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.0872737,
-                    49.0589633
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hracholusky <br><b>Adresa:</b> č.p. 17, 38301, Hracholusky ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "38307:33"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.0875298,
-                    49.0761646
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Protivec <br><b>Adresa:</b> Protivec 1, 38301, Strunkovice nad Blanicí ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:15",
-                "ref": "38307:26"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.1295129,
-                    49.0387644
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Žitná <br><b>Adresa:</b> Žitná 17, 38411, Hracholusky <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 14.01 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "37271:848"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.1338244,
-                    49.0759984
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Velký  Bor <br><b>Adresa:</b> Velký Bor 33, 38411, Strunkovice nad Blanicí <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 35.92 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "37271:839"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.0705781,
-                    49.0648807
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Svojnice <br><b>Adresa:</b> Svojnice 7, 38301, Strunkovice nad Blanicí ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "38307:32"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.0741976,
-                    49.0474632
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Vitějovice - bud.pošty <br><b>Adresa:</b> č.p. 46, 38427, Vitějovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:30",
-                "ref": "38307:66"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.1087481,
-                    49.0829869
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Malý Bor <br><b>Adresa:</b> Malý Bor 3, 38301, Strunkovice nad Blanicí ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "38307:25"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.0931974,
-                    49.0864506
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Šipoun <br><b>Adresa:</b> Šipoun 3, 38301, Strunkovice nad Blanicí ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "38307:31"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.1338244,
+          49.0759984
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Velký  Bor <br><b>Adresa:</b> Velký Bor 33, 38411, Strunkovice nad Blanicí <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 35.92 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:839"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.1295129,
+          49.0387644
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Žitná <br><b>Adresa:</b> Žitná 17, 38411, Hracholusky <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 14.01 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:848"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.1087481,
+          49.0829869
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Malý Bor <br><b>Adresa:</b> Malý Bor 3, 38301, Strunkovice nad Blanicí ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38307:25"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.0875298,
+          49.0761646
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Protivec <br><b>Adresa:</b> Protivec 1, 38301, Strunkovice nad Blanicí ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38307:26"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.0931974,
+          49.0864506
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Šipoun <br><b>Adresa:</b> Šipoun 3, 38301, Strunkovice nad Blanicí ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38307:31"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.0705781,
+          49.0648807
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Svojnice <br><b>Adresa:</b> Svojnice 7, 38301, Strunkovice nad Blanicí ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38307:32"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.0872737,
+          49.0589633
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hracholusky <br><b>Adresa:</b> č.p. 17, 38301, Hracholusky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38307:33"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.0741976,
+          49.0474632
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vitějovice - bud.pošty <br><b>Adresa:</b> č.p. 46, 38427, Vitějovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38307:66"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

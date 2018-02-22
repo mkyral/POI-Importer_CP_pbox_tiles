@@ -1,124 +1,124 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.5650888,
-                    50.0963183
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Doleček čp. 26, Pastviny <br><b>Adresa:</b> č.p. 47, 56401, Pastviny ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:316"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.5973451,
-                    50.0888363
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> zastávka ČSAD, Vlčkovice <br><b>Adresa:</b> Vlčkovice 40, 56164, Mladkov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:346"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.539579,
-                    50.1107088
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Klášterec nad Orlicí č.p. 197 Partner Konzum <br><b>Adresa:</b> č.p. 197, 56182, Klášterec nad Orlicí ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:329"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.5464807,
-                    50.0671283
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Nekoř prodejna  U Lehků <br><b>Adresa:</b> č.p. 80, 56163, Nekoř ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:331"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.6050616,
-                    50.1198518
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> prodejna, České Petrovice <br><b>Adresa:</b> č.p. 62, 56401, České Petrovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:317"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.5524569,
-                    50.1115993
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Klášterec nad Orlicí č.p. 167 <br><b>Adresa:</b> č.p. 167, 56182, Klášterec nad Orlicí ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:321"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.5395537,
-                    50.1096479
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> konzum Zbudov, Klášterec nad Orlicí <br><b>Adresa:</b> Zbudov 3, 56182, Klášterec nad Orlicí ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:328"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.5650888,
+          50.0963183
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Doleček čp. 26, Pastviny <br><b>Adresa:</b> č.p. 47, 56401, Pastviny ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:316"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.6050616,
+          50.1198518
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> prodejna, České Petrovice <br><b>Adresa:</b> č.p. 62, 56401, České Petrovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:317"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.5524569,
+          50.1115993
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Klášterec nad Orlicí č.p. 167 <br><b>Adresa:</b> č.p. 167, 56182, Klášterec nad Orlicí ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:321"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.5395537,
+          50.1096479
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> konzum Zbudov, Klášterec nad Orlicí <br><b>Adresa:</b> Zbudov 3, 56182, Klášterec nad Orlicí ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:328"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.539579,
+          50.1107088
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Klášterec nad Orlicí č.p. 197 Partner Konzum <br><b>Adresa:</b> č.p. 197, 56182, Klášterec nad Orlicí ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:329"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.5464807,
+          50.0671283
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nekoř prodejna  U Lehků <br><b>Adresa:</b> č.p. 80, 56163, Nekoř ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:331"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.5973451,
+          50.0888363
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> zastávka ČSAD, Vlčkovice <br><b>Adresa:</b> Vlčkovice 40, 56164, Mladkov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:346"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

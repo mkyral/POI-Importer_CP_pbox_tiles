@@ -1,158 +1,158 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.9698912,
-                    49.8320898
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> č.p.4 /stojan/, Útěchvosty <br><b>Adresa:</b> Útěchvosty 4, 28506, Podveky ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "28505:30"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.9817384,
-                    49.8204988
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> č.p.13,  Zalíbená/stojan/ <br><b>Adresa:</b> Zalíbená 13, 28506, Podveky ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "28505:31"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.9435041,
-                    49.8286035
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> č.p.12 /kříž/, Malovidy, stojan <br><b>Adresa:</b> Malovidy 12, 28506, Rataje nad Sázavou ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "28505:32"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.9875314,
-                    49.8292214
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> č.p.9 /kříž/, Ježovice <br><b>Adresa:</b> Ježovice 9, 28506, Podveky ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "28505:29"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.9939622,
-                    49.8256002
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> č.p.9 hasičská zbrojnice /kříž/, Podveky <br><b>Adresa:</b> č.p. 9, 28506, Podveky ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "28505:28"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.9564353,
-                    49.7898886
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> č.p.25 u hostince /stojan/, Soběšín <br><b>Adresa:</b> č.p. 25, 28506, Soběšín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "28505:34"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.0040935,
-                    49.8023178
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> prodejna /kříž/, Vranice 30 <br><b>Adresa:</b> Vranice 30, 28504, Zbizuby ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:15",
-                "ref": "28500:49"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.0219361,
-                    49.8234582
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u obchodu /stojan/, Zbizuby 11 <br><b>Adresa:</b> č.p. 11, 28504, Zbizuby ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:15",
-                "ref": "28500:47"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.9740871,
-                    49.8034671
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> č.p.41 zastávka ČSAD /kříž/, Otryby <br><b>Adresa:</b> Otryby 41, 28506, Soběšín ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "28505:33"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.0219361,
+          49.8234582
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u obchodu /stojan/, Zbizuby 11 <br><b>Adresa:</b> č.p. 11, 28504, Zbizuby ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28500:47"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.0040935,
+          49.8023178
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> prodejna /kříž/, Vranice 30 <br><b>Adresa:</b> Vranice 30, 28504, Zbizuby ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28500:49"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.9939622,
+          49.8256002
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> č.p.9 hasičská zbrojnice /kříž/, Podveky <br><b>Adresa:</b> č.p. 9, 28506, Podveky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28505:28"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.9875314,
+          49.8292214
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> č.p.9 /kříž/, Ježovice <br><b>Adresa:</b> Ježovice 9, 28506, Podveky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28505:29"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.9698912,
+          49.8320898
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> č.p.4 /stojan/, Útěchvosty <br><b>Adresa:</b> Útěchvosty 4, 28506, Podveky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28505:30"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.9817384,
+          49.8204988
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> č.p.13,  Zalíbená/stojan/ <br><b>Adresa:</b> Zalíbená 13, 28506, Podveky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28505:31"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.9435041,
+          49.8286035
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> č.p.12 /kříž/, Malovidy, stojan <br><b>Adresa:</b> Malovidy 12, 28506, Rataje nad Sázavou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28505:32"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.9740871,
+          49.8034671
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> č.p.41 zastávka ČSAD /kříž/, Otryby <br><b>Adresa:</b> Otryby 41, 28506, Soběšín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28505:33"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.9564353,
+          49.7898886
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> č.p.25 u hostince /stojan/, Soběšín <br><b>Adresa:</b> č.p. 25, 28506, Soběšín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28505:34"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

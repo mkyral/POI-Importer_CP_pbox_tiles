@@ -1,107 +1,107 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.0190775,
-                    49.4190534
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Myslejovice, Křenůvky 75 (obchod-stojan) <br><b>Adresa:</b> Křenůvky 75, 79804, Myslejovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.06 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:15",
-                "ref": "79907:135"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.0418363,
-                    49.4228404
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Alojzov, za č.p. 56, na zastávce FTL <br><b>Adresa:</b> Prostějov; Alojzov; Alojzov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "79907:134"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.9973591,
-                    49.4279064
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Prostějovičky 96 (stojan) <br><b>Adresa:</b> č.p. 96, 79803, Prostějovičky <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 20.3 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "79907:76"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.0315201,
-                    49.4073477
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pošta Myslejovice (stojan) <br><b>Adresa:</b> č.p. 145, 79805, Myslejovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 13.93 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:15",
-                "ref": "79907:420"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.0241642,
-                    49.4058735
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Myslejovice 34 (točna-stojan) <br><b>Adresa:</b> Prostějov; Myslejovice; Myslejovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "79907:139"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.0388707,
-                    49.3932145
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Myslejovice, Kobylničky 30 (obchod) <br><b>Adresa:</b> Kobylničky 30, 79804, Myslejovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 3.78 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "79907:136"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          17.0420055,
+          49.4229045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Alojzov, za č.p. 56, na zastávce FTL <br><b>Adresa:</b> Prostějov; Alojzov; Alojzov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79907:134"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.0190775,
+          49.4190534
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Myslejovice, Křenůvky 75 (obchod-stojan) <br><b>Adresa:</b> Křenůvky 75, 79804, Myslejovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.06 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79907:135"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.0388707,
+          49.3932145
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Myslejovice, Kobylničky 30 (obchod) <br><b>Adresa:</b> Kobylničky 30, 79804, Myslejovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 3.78 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79907:136"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.0241609,
+          49.4057508
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Myslejovice 34 (točna-stojan) <br><b>Adresa:</b> Prostějov; Myslejovice; Myslejovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79907:139"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.0315201,
+          49.4073477
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Myslejovice (stojan) <br><b>Adresa:</b> č.p. 145, 79805, Myslejovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 13.93 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79907:420"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.9973591,
+          49.4279064
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Prostějovičky 96 (stojan) <br><b>Adresa:</b> č.p. 96, 79803, Prostějovičky <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 20.3 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79907:76"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

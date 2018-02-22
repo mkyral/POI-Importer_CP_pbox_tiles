@@ -1,73 +1,73 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.2209724,
-                    49.0656187
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> obchod Jednoty, Vřesovice <br><b>Adresa:</b> č.p. 226, 69648, Vřesovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "69507:138"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.1549276,
-                    49.052014
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> kulturní dům Čeložnice <br><b>Adresa:</b> č.p. 145, 69651, Čeložnice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "69507:162"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.2114984,
-                    49.0469325
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> obchod, Labuty 8 <br><b>Adresa:</b> č.p. 8, 69648, Labuty ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "69507:136"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.1687996,
-                    49.0408815
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta  Moravany u Kyjova <br><b>Adresa:</b> č.p. 205, 69650, Moravany ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "69507:159"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          17.2114984,
+          49.0469325
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> obchod, Labuty 8 <br><b>Adresa:</b> č.p. 8, 69648, Labuty ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69507:136"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.2209724,
+          49.0656187
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> obchod Jednoty, Vřesovice <br><b>Adresa:</b> č.p. 226, 69648, Vřesovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69507:138"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.1687996,
+          49.0408815
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta  Moravany u Kyjova <br><b>Adresa:</b> č.p. 205, 69650, Moravany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69507:159"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.1549276,
+          49.052014
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> kulturní dům Čeložnice <br><b>Adresa:</b> č.p. 145, 69651, Čeložnice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69507:162"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

@@ -1,107 +1,107 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1347297,
-                    49.4024227
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> hasičská zbrojnice, Kundratice <br><b>Adresa:</b> č.p. 71, 59451, Kundratice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:30",
-                "ref": "59502:33"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1038644,
-                    49.3918626
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Horní Město, Křižanov <br><b>Adresa:</b> Za Branou 453, 59451, Křižanov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "59502:27"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1488228,
-                    49.4075587
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u zastávky ZDAR, Horní Libochová <br><b>Adresa:</b> č.p. 53, 59451, Horní Libochová ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:45",
-                "ref": "59502:34"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1621564,
-                    49.4249409
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> obchod, Radkov <br><b>Adresa:</b> č.p. 74, 59253, Radkov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "59302:89"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1106232,
-                    49.3884443
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Křižanov <br><b>Adresa:</b> Benešovo náměstí 12, 59451, Křižanov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "59502:48"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1241941,
-                    49.4325934
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jednota, Pikárec <br><b>Adresa:</b> č.p. 56, 59253, Pikárec ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "59302:78"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.1241941,
+          49.4325934
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jednota, Pikárec <br><b>Adresa:</b> č.p. 56, 59253, Pikárec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59302:78"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1621564,
+          49.4249409
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> obchod, Radkov <br><b>Adresa:</b> č.p. 74, 59253, Radkov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59302:89"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1038644,
+          49.3918626
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Horní Město, Křižanov <br><b>Adresa:</b> Za Branou 453, 59451, Křižanov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59502:27"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1347297,
+          49.4024227
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> hasičská zbrojnice, Kundratice <br><b>Adresa:</b> č.p. 71, 59451, Kundratice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59502:33"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1488228,
+          49.4075587
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u zastávky ZDAR, Horní Libochová <br><b>Adresa:</b> č.p. 53, 59451, Horní Libochová ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59502:34"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1106232,
+          49.3884443
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Křižanov <br><b>Adresa:</b> Benešovo náměstí 12, 59451, Křižanov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59502:48"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

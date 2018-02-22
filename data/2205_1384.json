@@ -1,107 +1,107 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.8069382,
-                    50.2469451
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Smilovice   u domu      čp.6 <br><b>Adresa:</b> č.p. 6, 27054, Smilovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "26907:199"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.8227293,
-                    50.2657118
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> partner Vinařice u Loun <br><b>Adresa:</b> č.p. 4, 43915, Vinařice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "43807:263"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.8432672,
-                    50.285861
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Nová Ves, poblíž zastávky BUS, poblíž č.p. 50 <br><b>Adresa:</b> Louny; Nová Ves; Nová Ves <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "43807:181"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.8645168,
-                    50.2401417
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Milý  Bor  u domu  čp.85 <br><b>Adresa:</b> č.p. 85, 27054, Milý ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:45",
-                "ref": "26907:204"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.8160611,
-                    50.2552443
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kozojedy  u domu čp.11 <br><b>Adresa:</b> č.p. 11, 27054, Kozojedy ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:10",
-                "ref": "26907:200"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    13.8155651,
-                    50.2772114
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Na zámku u č.p. 73, Divice <br><b>Adresa:</b> Divice 73, 43915, Vinařice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "43807:250"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.8069382,
+          50.2469451
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Smilovice   u domu      čp.6 <br><b>Adresa:</b> č.p. 6, 27054, Smilovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26907:199"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.8160611,
+          50.2552443
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kozojedy  u domu čp.11 <br><b>Adresa:</b> č.p. 11, 27054, Kozojedy ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:10",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26907:200"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.8645168,
+          50.2401417
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Milý  Bor  u domu  čp.85 <br><b>Adresa:</b> č.p. 85, 27054, Milý ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26907:204"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.8432672,
+          50.285861
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nová Ves, poblíž zastávky BUS, poblíž č.p. 50 <br><b>Adresa:</b> Louny; Nová Ves; Nová Ves <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43807:181"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.8155651,
+          50.2772114
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Na zámku u č.p. 73, Divice <br><b>Adresa:</b> Divice 73, 43915, Vinařice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43807:250"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.8227293,
+          50.2657118
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> partner Vinařice u Loun <br><b>Adresa:</b> č.p. 4, 43915, Vinařice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43807:263"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

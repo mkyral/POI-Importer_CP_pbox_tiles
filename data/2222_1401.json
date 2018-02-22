@@ -1,158 +1,158 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.3582064,
-                    49.3085242
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> hasičská zbrojnice, Švábov <br><b>Adresa:</b> č.p. 37, 58851, Švábov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:45",
-                "ref": "58607:158"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.3071532,
-                    49.2932261
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Horní Ves <br><b>Adresa:</b> č.p. 124, 39301, Horní Ves ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "39307:108"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.3227134,
-                    49.3232726
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Horní Cerekev - Tyršova 409 <br><b>Adresa:</b> Tyršova 409, 39403, Horní Cerekev ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:15",
-                "ref": "39307:139"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.2996135,
-                    49.3170682
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hříběcí <br><b>Adresa:</b> Hříběcí 74, 39301, Horní Cerekev ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "39307:109"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.3263063,
-                    49.3149583
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Březinova 234, 394 03 Horní Cerekev <br><b>Adresa:</b> Březinova 234, 39403, Horní Cerekev ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "39307:9"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.3248802,
-                    49.3110392
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Horní Cerekev - nádraží <br><b>Adresa:</b> Březinova 193, 39403, Horní Cerekev ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "39307:137"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.3747323,
-                    49.3210959
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> náves, Bezděčín <br><b>Adresa:</b> Bezděčín 28, 58851, Batelov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "58607:154"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.326082,
-                    49.320992
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Horní Cerekev - Tyršova 67 <br><b>Adresa:</b> Tyršova 67, 39403, Horní Cerekev ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "39307:138"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.328199,
-                    49.3186925
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Buduva pošty Horní Cerekev <br><b>Adresa:</b> Březinova 11, 39403, Horní Cerekev ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "39307:345"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.3071532,
+          49.2932261
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Horní Ves <br><b>Adresa:</b> č.p. 124, 39301, Horní Ves ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:108"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2996135,
+          49.3170682
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hříběcí <br><b>Adresa:</b> Hříběcí 74, 39301, Horní Cerekev ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:109"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.3248802,
+          49.3110392
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Horní Cerekev - nádraží <br><b>Adresa:</b> Březinova 193, 39403, Horní Cerekev ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:137"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.326082,
+          49.320992
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Horní Cerekev - Tyršova 67 <br><b>Adresa:</b> Tyršova 67, 39403, Horní Cerekev ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:138"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.3227134,
+          49.3232726
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Horní Cerekev - Tyršova 409 <br><b>Adresa:</b> Tyršova 409, 39403, Horní Cerekev ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:139"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.328199,
+          49.3186925
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Buduva pošty Horní Cerekev <br><b>Adresa:</b> Březinova 11, 39403, Horní Cerekev ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:345"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.3263063,
+          49.3149583
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Březinova 234, 394 03 Horní Cerekev <br><b>Adresa:</b> Březinova 234, 39403, Horní Cerekev ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:9"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.3747323,
+          49.3210959
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> náves, Bezděčín <br><b>Adresa:</b> Bezděčín 28, 58851, Batelov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:154"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.3582064,
+          49.3085242
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> hasičská zbrojnice, Švábov <br><b>Adresa:</b> č.p. 37, 58851, Švábov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:158"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

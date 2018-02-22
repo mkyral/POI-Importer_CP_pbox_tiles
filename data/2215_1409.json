@@ -1,124 +1,124 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.7546448,
-                    48.8468561
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Petříkov <br><b>Adresa:</b> č.p. 69, 37401, Petříkov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 17.52 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "37271:383"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.7453815,
-                    48.8567624
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Těšínov <br><b>Adresa:</b> Těšínov 49, 37401, Petříkov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 12.25 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "37271:384"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.6833084,
-                    48.8271226
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hrádek <br><b>Adresa:</b> Hrádek 11, 37401, Trhové Sviny <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 61.24 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "37271:380"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.7032789,
-                    48.8385106
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Budova pošty Olešnice <br><b>Adresa:</b> č.p. 1, 37331, Olešnice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.72 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "37271:448"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.7048591,
-                    48.8413798
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Obecní úřad Olešnice <br><b>Adresa:</b> č.p. 226, 37331, Olešnice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 12.04 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "37271:426"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.6947422,
-                    48.8606689
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Lhotka <br><b>Adresa:</b> Lhotka 10, 37401, Olešnice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 41.32 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "37271:385"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.7215327,
-                    48.8238465
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Buková <br><b>Adresa:</b> Buková 16, 37401, Olešnice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 25.93 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "37271:382"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.6833084,
+          48.8271226
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hrádek <br><b>Adresa:</b> Hrádek 11, 37401, Trhové Sviny <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 61.24 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:380"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.7215327,
+          48.8238465
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Buková <br><b>Adresa:</b> Buková 16, 37401, Olešnice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 25.93 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:382"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.7546448,
+          48.8468561
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Petříkov <br><b>Adresa:</b> č.p. 69, 37401, Petříkov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 17.52 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:383"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.7453815,
+          48.8567624
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Těšínov <br><b>Adresa:</b> Těšínov 49, 37401, Petříkov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 12.25 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:384"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.6947422,
+          48.8606689
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lhotka <br><b>Adresa:</b> Lhotka 10, 37401, Olešnice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 41.32 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:385"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.7048591,
+          48.8413798
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Obecní úřad Olešnice <br><b>Adresa:</b> č.p. 226, 37331, Olešnice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 12.04 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:426"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.7032789,
+          48.8385106
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Budova pošty Olešnice <br><b>Adresa:</b> č.p. 1, 37331, Olešnice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.72 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:448"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

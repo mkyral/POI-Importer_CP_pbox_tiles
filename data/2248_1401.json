@@ -1,158 +1,158 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.6055495,
-                    49.2910205
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Žeranovice-obchod č.p.29,Holešov <br><b>Adresa:</b> č.p. 29, 76901, Žeranovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:45",
-                "ref": "76707:117"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.615205,
-                    49.3196816
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Přílepy -hostinec č.p.25 <br><b>Adresa:</b> č.p. 25, 76901, Přílepy ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "76707:106"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.602773,
-                    49.3097239
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Martinice, obchod č.p.17 <br><b>Adresa:</b> č.p. 17, 76901, Martinice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "76707:100"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.5876359,
-                    49.2741028
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Lechotice 100 - OÚ <br><b>Adresa:</b> č.p. 100, 76852, Lechotice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "76707:113"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.6250854,
-                    49.2780255
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Racková PST, Racková <br><b>Adresa:</b> č.p. 166, 76001, Racková ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "76607:50"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.6498534,
-                    49.2926744
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u zastávky, Žabárna, Fryšták <br><b>Adresa:</b> Zlín; Fryšták; Fryšták <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "76607:123"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.6025776,
-                    49.2918596
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Žeranovice-restaurace č.p.1,Holešov <br><b>Adresa:</b> č.p. 1, 76901, Žeranovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "76707:116"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.6152596,
-                    49.3016193
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Horní Lapač,soukr.výroba č.p.9 <br><b>Adresa:</b> č.p. 9, 76901, Horní Lapač ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "76707:101"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.6254746,
-                    49.3171538
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Přílepy-obchod č.p.236,Holešov <br><b>Adresa:</b> č.p. 236, 76901, Přílepy ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "76707:114"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          17.6498534,
+          49.2926744
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u zastávky, Žabárna, Fryšták <br><b>Adresa:</b> Zlín; Fryšták; Fryšták <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "76607:123"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.6250854,
+          49.2780255
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Racková PST, Racková <br><b>Adresa:</b> č.p. 166, 76001, Racková ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "76607:50"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.602773,
+          49.3097239
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Martinice, obchod č.p.17 <br><b>Adresa:</b> č.p. 17, 76901, Martinice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "76707:100"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.6152596,
+          49.3016193
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Horní Lapač,soukr.výroba č.p.9 <br><b>Adresa:</b> č.p. 9, 76901, Horní Lapač ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "76707:101"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.615205,
+          49.3196816
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Přílepy -hostinec č.p.25 <br><b>Adresa:</b> č.p. 25, 76901, Přílepy ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "76707:106"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.5876359,
+          49.2741028
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lechotice 100 - OÚ <br><b>Adresa:</b> č.p. 100, 76852, Lechotice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "76707:113"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.6254746,
+          49.3171538
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Přílepy-obchod č.p.236,Holešov <br><b>Adresa:</b> č.p. 236, 76901, Přílepy ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "76707:114"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.6025776,
+          49.2918596
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Žeranovice-restaurace č.p.1,Holešov <br><b>Adresa:</b> č.p. 1, 76901, Žeranovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "76707:116"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.6055495,
+          49.2910205
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Žeranovice-obchod č.p.29,Holešov <br><b>Adresa:</b> č.p. 29, 76901, Žeranovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "76707:117"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

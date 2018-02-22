@@ -1,141 +1,141 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3227911,
-                    49.4874674
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Dmýštice <br><b>Adresa:</b> Dmýštice 6, 39901, Milevsko ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:45",
-                "ref": "39007:615"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.2877874,
-                    49.4950656
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pechova Lhota <br><b>Adresa:</b> Pechova Lhota 27, 39901, Hrejkovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "39007:629"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.2908275,
-                    49.4746566
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta, Hrejkovice <br><b>Adresa:</b> č.p. 47, 39859, Hrejkovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "39007:686"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3005535,
-                    49.4426374
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Osek <br><b>Adresa:</b> č.p. 38, 39901, Osek ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "39007:620"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3027697,
-                    49.4649726
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Chlumek <br><b>Adresa:</b> Chlumek 24, 39901, Hrejkovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:45",
-                "ref": "39007:627"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.2400615,
-                    49.4726846
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Sobědraž <br><b>Adresa:</b> Sobědraž 32, 39901, Kostelec nad Vltavou ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:45",
-                "ref": "39007:630"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.3009284,
-                    49.4841192
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Níkovice <br><b>Adresa:</b> Níkovice 9, 39901, Hrejkovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:30",
-                "ref": "39007:628"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.2856252,
-                    49.4520622
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Velká <br><b>Adresa:</b> Velká 30, 39901, Milevsko ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "39007:621"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.3227911,
+          49.4874674
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dmýštice <br><b>Adresa:</b> Dmýštice 6, 39901, Milevsko ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:615"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3005535,
+          49.4426374
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Osek <br><b>Adresa:</b> č.p. 38, 39901, Osek ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:620"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2856252,
+          49.4520622
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Velká <br><b>Adresa:</b> Velká 30, 39901, Milevsko ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:621"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3027697,
+          49.4649726
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Chlumek <br><b>Adresa:</b> Chlumek 24, 39901, Hrejkovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:627"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3009284,
+          49.4841192
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Níkovice <br><b>Adresa:</b> Níkovice 9, 39901, Hrejkovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:628"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2877874,
+          49.4950656
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pechova Lhota <br><b>Adresa:</b> Pechova Lhota 27, 39901, Hrejkovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:629"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2400615,
+          49.4726846
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Sobědraž <br><b>Adresa:</b> Sobědraž 32, 39901, Kostelec nad Vltavou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:630"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2908275,
+          49.4746566
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta, Hrejkovice <br><b>Adresa:</b> č.p. 47, 39859, Hrejkovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:686"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

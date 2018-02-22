@@ -1,107 +1,107 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.3818818,
-                    49.5996002
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> na čp. 223,  Lubno (na bývalém obchodě) <br><b>Adresa:</b> Lubno 223, 73911, Frýdlant nad Ostravicí <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.3 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "73807:117"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.3692126,
-                    49.5780639
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Unipro, Nová Ves, na čp.251, Frýdlant n.O. <br><b>Adresa:</b> Nová Ves 251, 73911, Frýdlant nad Ostravicí <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 13.59 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "73807:112"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.4143734,
-                    49.5967153
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> na Hasičská zbrojnici, č.p. 597,  Janovice <br><b>Adresa:</b> č.p. 597, 73911, Janovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 13.42 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "73807:121"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.4439489,
-                    49.6065437
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Obchod U Nováka, u čp.338, Krásná (stojan u plotu) <br><b>Adresa:</b> Frýdek-Místek; Krásná; Krásná <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:00",
-                "ref": "73807:85"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.4138575,
-                    49.5825402
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> vedle čp.85-OÚ,Malenovice(na zdi konzumu bez čp.) <br><b>Adresa:</b> Frýdek-Místek; Malenovice; Malenovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:30",
-                "ref": "73807:113"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    18.409244,
-                    49.5707599
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Na Konečné, u čp.206, Malenovice (stojan u plotu) <br><b>Adresa:</b> Frýdek-Místek; Malenovice; Malenovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "73807:114"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          18.3692126,
+          49.5780639
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Unipro, Nová Ves, na čp.251, Frýdlant n.O. <br><b>Adresa:</b> Nová Ves 251, 73911, Frýdlant nad Ostravicí <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 13.59 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "73807:112"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.4138575,
+          49.5825402
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> vedle čp.85-OÚ,Malenovice(na zdi konzumu bez čp.) <br><b>Adresa:</b> Frýdek-Místek; Malenovice; Malenovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "73807:113"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.409244,
+          49.5707599
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Na Konečné, u čp.206, Malenovice (stojan u plotu) <br><b>Adresa:</b> Frýdek-Místek; Malenovice; Malenovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "73807:114"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.3818818,
+          49.5996002
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> na čp. 223,  Lubno (na bývalém obchodě) <br><b>Adresa:</b> Lubno 223, 73911, Frýdlant nad Ostravicí <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.3 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "73807:117"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.4143734,
+          49.5967153
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> na Hasičská zbrojnici, č.p. 597,  Janovice <br><b>Adresa:</b> č.p. 597, 73911, Janovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 13.42 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "73807:121"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.4439489,
+          49.6065437
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Obchod U Nováka, u čp.338, Krásná (stojan u plotu) <br><b>Adresa:</b> Frýdek-Místek; Krásná; Krásná <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "73807:85"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

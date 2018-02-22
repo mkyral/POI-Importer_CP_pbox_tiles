@@ -1,192 +1,192 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.3133751,
-                    49.2293796
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Zdounky č.280 - Jednota <br><b>Adresa:</b> Zborovská 280, 76802, Zdounky ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "76707:23"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.2681185,
-                    49.2300788
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Troubky č.10 - Obecní úřad <br><b>Adresa:</b> Troubky 10, 76802, Troubky-Zdislavice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:35",
-                "ref": "76707:26"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.3102475,
-                    49.2483132
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Nětčice č.33 - býv.obchod <br><b>Adresa:</b> Nětčice 33, 76802, Zdounky ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "76707:25"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.2667388,
-                    49.2594088
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Medlov č.23 <br><b>Adresa:</b> Medlov 23, 76802, Zborovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:45",
-                "ref": "76707:68"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.2621599,
-                    49.2253699
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Zdislavice č.35 - hasičská zbrojnice <br><b>Adresa:</b> Zdislavice 35, 76802, Troubky-Zdislavice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:20",
-                "ref": "76707:27"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.2945601,
-                    49.2206195
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Těšánky č.16 - hospoda <br><b>Adresa:</b> Těšánky 16, 76802, Zdounky ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "76707:29"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.285049,
-                    49.2493108
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Zborovice <br><b>Adresa:</b> Hlavní 188, 76832, Zborovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 15:35",
-                "ref": "76707:215"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.2879592,
-                    49.2470601
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Nerudova, Zborovice <br><b>Adresa:</b> Nerudova 24, 76832, Zborovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "76707:190"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.3083493,
-                    49.2107943
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Divoky č.50 - náves <br><b>Adresa:</b> Divoky 50, 76802, Zdounky ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "76707:30"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.281498,
-                    49.2523768
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> PILANA,Hlavní 52, Zborovice <br><b>Adresa:</b> ; ;  <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "76707:189"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.2855532,
-                    49.2538196
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Lesní, Zborovice <br><b>Adresa:</b> Za Nádražím 334, 76832, Zborovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "76707:191"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          17.281498,
+          49.2523768
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> PILANA,Hlavní 52, Zborovice <br><b>Adresa:</b> ; ;  <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "76707:189"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.2879592,
+          49.2470601
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nerudova, Zborovice <br><b>Adresa:</b> Nerudova 24, 76832, Zborovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "76707:190"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.2855532,
+          49.2538196
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lesní, Zborovice <br><b>Adresa:</b> Za Nádražím 334, 76832, Zborovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "76707:191"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.285049,
+          49.2493108
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Zborovice <br><b>Adresa:</b> Hlavní 188, 76832, Zborovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 15:35",
+        "operator": "Česká pošta, s.p.",
+        "ref": "76707:215"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.3133751,
+          49.2293796
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Zdounky č.280 - Jednota <br><b>Adresa:</b> Zborovská 280, 76802, Zdounky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "76707:23"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.3102475,
+          49.2483132
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nětčice č.33 - býv.obchod <br><b>Adresa:</b> Nětčice 33, 76802, Zdounky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "76707:25"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.2681185,
+          49.2300788
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Troubky č.10 - Obecní úřad <br><b>Adresa:</b> Troubky 10, 76802, Troubky-Zdislavice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:35",
+        "operator": "Česká pošta, s.p.",
+        "ref": "76707:26"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.2621599,
+          49.2253699
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Zdislavice č.35 - hasičská zbrojnice <br><b>Adresa:</b> Zdislavice 35, 76802, Troubky-Zdislavice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:20",
+        "operator": "Česká pošta, s.p.",
+        "ref": "76707:27"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.2945601,
+          49.2206195
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Těšánky č.16 - hospoda <br><b>Adresa:</b> Těšánky 16, 76802, Zdounky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "76707:29"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.3083493,
+          49.2107943
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Divoky č.50 - náves <br><b>Adresa:</b> Divoky 50, 76802, Zdounky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "76707:30"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.2667388,
+          49.2594088
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Medlov č.23 <br><b>Adresa:</b> Medlov 23, 76802, Zborovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "76707:68"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

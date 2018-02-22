@@ -1,90 +1,90 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.9617074,
-                    49.4879735
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Vícov 46 (Obecní úřad) <br><b>Adresa:</b> č.p. 46, 79803, Vícov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 7.59 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:30",
-                "ref": "79907:80"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.8774165,
-                    49.4933359
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Malé Hradisko 40 Partner I <br><b>Adresa:</b> č.p. 40, 79849, Malé Hradisko <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 37.23 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:30",
-                "ref": "79907:447"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.933463,
-                    49.4955331
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Stínava 20 (stojan) <br><b>Adresa:</b> č.p. 20, 79803, Stínava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.56 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 13:30",
-                "ref": "79907:83"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.8900488,
-                    49.4548996
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Bousín 4 (obchod) <br><b>Adresa:</b> č.p. 4, 79861, Bousín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 7.08 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 12:40",
-                "ref": "79907:95"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.9549908,
-                    49.4889952
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Vícov 172 (obchod) <br><b>Adresa:</b> č.p. 172, 79803, Vícov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.15 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:30",
-                "ref": "79907:81"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.8774165,
+          49.4933359
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Malé Hradisko 40 Partner I <br><b>Adresa:</b> č.p. 40, 79849, Malé Hradisko <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 37.23 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79907:447"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.9617074,
+          49.4879735
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vícov 46 (Obecní úřad) <br><b>Adresa:</b> č.p. 46, 79803, Vícov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 7.59 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79907:80"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.9549908,
+          49.4889952
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vícov 172 (obchod) <br><b>Adresa:</b> č.p. 172, 79803, Vícov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.15 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79907:81"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.933463,
+          49.4955331
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Stínava 20 (stojan) <br><b>Adresa:</b> č.p. 20, 79803, Stínava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.56 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 13:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79907:83"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.8900488,
+          49.4548996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bousín 4 (obchod) <br><b>Adresa:</b> č.p. 4, 79861, Bousín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 7.08 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:40",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79907:95"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

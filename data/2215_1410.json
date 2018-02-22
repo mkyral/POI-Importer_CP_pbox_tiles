@@ -1,90 +1,90 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.7358601,
-                    48.7615325
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Budova pošty  Horní Stropnice <br><b>Adresa:</b> č.p. 65, 37335, Horní Stropnice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 23.97 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "37271:450"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.7219443,
-                    48.7808211
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Náves Svébohy <br><b>Adresa:</b> Svébohy 24, 37401, Horní Stropnice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 41.87 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "37271:427"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.70928,
-                    48.8068397
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Žár 45 <br><b>Adresa:</b> č.p. 45, 37401, Žár <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 108.32 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "37271:422"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.7555106,
-                    48.7695986
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Světví <br><b>Adresa:</b> Světví 285, 37401, Horní Stropnice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 183.11 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:30",
-                "ref": "37271:428"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.6825612,
-                    48.7958485
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Náves Žumberk <br><b>Adresa:</b> Žumberk 24, 37401, Žár <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 35.03 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "37271:424"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.70928,
+          48.8068397
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Žár 45 <br><b>Adresa:</b> č.p. 45, 37401, Žár <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 108.32 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:422"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.6825612,
+          48.7958485
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Náves Žumberk <br><b>Adresa:</b> Žumberk 24, 37401, Žár <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 35.03 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:424"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.7219443,
+          48.7808211
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Náves Svébohy <br><b>Adresa:</b> Svébohy 24, 37401, Horní Stropnice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 41.87 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:427"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.7555106,
+          48.7695986
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Světví <br><b>Adresa:</b> Světví 285, 37401, Horní Stropnice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 183.11 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:428"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.7358601,
+          48.7615325
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Budova pošty  Horní Stropnice <br><b>Adresa:</b> č.p. 65, 37335, Horní Stropnice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 23.97 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:450"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

@@ -1,141 +1,141 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4456378,
-                    50.0804853
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hostinec, Tetov - stojan <br><b>Adresa:</b> Pardubice; Tetov; Tetov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "53500:62"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4387218,
-                    50.0949914
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Požární zbrojnice, Bílé  Vchýnice - držák <br><b>Adresa:</b> Pardubice; Kladruby nad Labem; Bílé Vchynice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "53500:63"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.3906768,
-                    50.0785058
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Uhlířská Lhota, č.p. 46, u obchodu <br><b>Adresa:</b> č.p. 46, 28126, Uhlířská Lhota ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "28000:113"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4233745,
-                    50.105228
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kundratice čp. 10 <br><b>Adresa:</b> Kundratice 10, 28126, Žiželice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "28000:115"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4267633,
-                    50.0769047
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Hlavečník - stojan <br><b>Adresa:</b> č.p. 57, 53315, Hlavečník ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "53500:81"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4230912,
-                    50.1183025
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hradišťko II čp. 1 <br><b>Adresa:</b> Hradišťko II 1, 28126, Žiželice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "28000:116"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4028732,
-                    50.0882307
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> koloniál, Rasochy čp. 9 <br><b>Adresa:</b> Rasochy 9, 28126, Uhlířská Lhota ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "28000:114"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.3867659,
-                    50.1099694
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Rozehnaly čp. 1 <br><b>Adresa:</b> Rozehnaly 1, 28126, Radovesnice II ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "28000:119"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.3906768,
+          50.0785058
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Uhlířská Lhota, č.p. 46, u obchodu <br><b>Adresa:</b> č.p. 46, 28126, Uhlířská Lhota ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28000:113"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4028732,
+          50.0882307
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> koloniál, Rasochy čp. 9 <br><b>Adresa:</b> Rasochy 9, 28126, Uhlířská Lhota ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28000:114"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4233745,
+          50.105228
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kundratice čp. 10 <br><b>Adresa:</b> Kundratice 10, 28126, Žiželice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28000:115"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4230912,
+          50.1183025
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hradišťko II čp. 1 <br><b>Adresa:</b> Hradišťko II 1, 28126, Žiželice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28000:116"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.3867659,
+          50.1099694
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Rozehnaly čp. 1 <br><b>Adresa:</b> Rozehnaly 1, 28126, Radovesnice II ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28000:119"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4456378,
+          50.0804853
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hostinec, Tetov - stojan <br><b>Adresa:</b> Pardubice; Tetov; Tetov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53500:62"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4387218,
+          50.0949914
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Požární zbrojnice, Bílé  Vchýnice - držák <br><b>Adresa:</b> Pardubice; Kladruby nad Labem; Bílé Vchynice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53500:63"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4267633,
+          50.0769047
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Hlavečník - stojan <br><b>Adresa:</b> č.p. 57, 53315, Hlavečník ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53500:81"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

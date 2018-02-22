@@ -1,22 +1,22 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.7466305,
-                    49.869358
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Planá u ML., Smetanova naproti 689 <br><b>Adresa:</b> Smetanova 689, 34815, Planá ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "34707:92"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          12.7466305,
+          49.869358
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Planá u ML., Smetanova naproti 689 <br><b>Adresa:</b> Smetanova 689, 34815, Planá ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "34707:92"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

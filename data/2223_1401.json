@@ -1,141 +1,141 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.3930908,
-                    49.3187001
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Za tratí, Batelov <br><b>Adresa:</b> Za Tratí 277/21, 58851, Batelov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:15",
-                "ref": "58607:151"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4410742,
-                    49.2831177
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Prodejna, Čenkov <br><b>Adresa:</b> Čenkov 27, 58901, Třešť ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:35",
-                "ref": "58607:233"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.3905666,
-                    49.2851746
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> prodejna Jednoty, Rácov <br><b>Adresa:</b> Rácov 43, 58851, Batelov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:30",
-                "ref": "58607:156"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4101403,
-                    49.2887693
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> obecní váha, Lovětín <br><b>Adresa:</b> Lovětín 17, 58851, Batelov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:45",
-                "ref": "58607:155"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.3921328,
-                    49.3128137
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u zdravotního střediska, Batelov <br><b>Adresa:</b> Družstevní 449/10, 58851, Batelov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:15",
-                "ref": "58607:150"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.3964657,
-                    49.3137504
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Batelov <br><b>Adresa:</b> Třešťská 71/2, 58851, Batelov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 15:15",
-                "ref": "58607:265"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4289286,
-                    49.2701842
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Obecní úřad, Růžená <br><b>Adresa:</b> č.p. 7, 58901, Růžená ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "58607:234"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.446373,
-                    49.308915
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Prodejna, Buková <br><b>Adresa:</b> Buková 24, 58901, Třešť ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:05",
-                "ref": "58607:232"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.3921328,
+          49.3128137
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u zdravotního střediska, Batelov <br><b>Adresa:</b> Družstevní 449/10, 58851, Batelov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:150"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.3930908,
+          49.3187001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Za tratí, Batelov <br><b>Adresa:</b> Za Tratí 277/21, 58851, Batelov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:151"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4101403,
+          49.2887693
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> obecní váha, Lovětín <br><b>Adresa:</b> Lovětín 17, 58851, Batelov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:155"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.3905666,
+          49.2851746
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> prodejna Jednoty, Rácov <br><b>Adresa:</b> Rácov 43, 58851, Batelov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:156"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.446373,
+          49.308915
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Prodejna, Buková <br><b>Adresa:</b> Buková 24, 58901, Třešť ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:05",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:232"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4410742,
+          49.2831177
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Prodejna, Čenkov <br><b>Adresa:</b> Čenkov 27, 58901, Třešť ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:35",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:233"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4289286,
+          49.2701842
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Obecní úřad, Růžená <br><b>Adresa:</b> č.p. 7, 58901, Růžená ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:234"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.3964657,
+          49.3137504
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Batelov <br><b>Adresa:</b> Třešťská 71/2, 58851, Batelov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 15:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:265"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

@@ -1,90 +1,90 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.6367281,
-                    49.7908047
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Nábřeží 688, Budišov n.Bud.-Autocamping <br><b>Adresa:</b> Opava; Budišov nad Budišovkou; Budišov nad Budišovkou <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "74907:308"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.6303144,
-                    49.7951291
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pošta Budišov nad Budišovkou <br><b>Adresa:</b> 9. května 40, 74787, Budišov nad Budišovkou ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 15:45",
-                "ref": "74907:185"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.6275394,
-                    49.7953655
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Budišov n Bud.,Berounská 5 (z boku-autob.stanov.) <br><b>Adresa:</b> Berounská 5, 74787, Budišov nad Budišovkou <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 23.76 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 13:00",
-                "ref": "74907:303"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.6184413,
-                    49.795546
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Budišov n.B,Linaset-na vstup.bráně, Čs.armády 362 <br><b>Adresa:</b> Československé armády 362, 74787, Budišov nad Budišovkou <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 58.72 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:30",
-                "ref": "74907:304"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.6287457,
-                    49.7931721
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Budišov n.Bud., Partyzánská 670 <br><b>Adresa:</b> Partyzánská 670, 74787, Budišov nad Budišovkou ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "74907:307"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          17.6303144,
+          49.7951291
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Budišov nad Budišovkou <br><b>Adresa:</b> 9. května 40, 74787, Budišov nad Budišovkou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 15:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74907:185"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.6275394,
+          49.7953655
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Budišov n Bud.,Berounská 5 (z boku-autob.stanov.) <br><b>Adresa:</b> Berounská 5, 74787, Budišov nad Budišovkou <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 23.76 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 13:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74907:303"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.6184413,
+          49.795546
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Budišov n.B,Linaset-na vstup.bráně, Čs.armády 362 <br><b>Adresa:</b> Československé armády 362, 74787, Budišov nad Budišovkou <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 58.72 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74907:304"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.6287457,
+          49.7931721
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Budišov n.Bud., Partyzánská 670 <br><b>Adresa:</b> Partyzánská 670, 74787, Budišov nad Budišovkou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74907:307"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.6367281,
+          49.7908047
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nábřeží 688, Budišov n.Bud.-Autocamping <br><b>Adresa:</b> Opava; Budišov nad Budišovkou; Budišov nad Budišovkou <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74907:308"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

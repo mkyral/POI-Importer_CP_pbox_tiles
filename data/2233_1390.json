@@ -1,141 +1,141 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3423341,
-                    49.9217662
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> JEDNOTA, Horní Sloupnice č.p. 341 <br><b>Adresa:</b> Horní Sloupnice 341, 56553, Sloupnice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:663"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3122531,
-                    49.9215123
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Sloupnice <br><b>Adresa:</b> Horní Sloupnice 3, 56553, Sloupnice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:666"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.3252975,
-                    49.9193645
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Horní Sloupnice čp.221, Horní Sloupnice <br><b>Adresa:</b> Horní Sloupnice 221, 56553, Sloupnice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:662"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.2632698,
-                    49.9179043
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> autobusová zastávka, Netřeby <br><b>Adresa:</b> Netřeby 11, 56601, České Heřmanice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:822"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.2610246,
-                    49.9091462
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Bohuňovice obchod č. 28 <br><b>Adresa:</b> č.p. 28, 57001, Bohuňovice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:641"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.2955128,
-                    49.9261841
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Dolní Sloupnice č.p. 139 <br><b>Adresa:</b> Dolní Sloupnice 139, 56553, Sloupnice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:661"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.276023,
-                    49.9288267
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Borová, zast. ČSAD, Vysoké Mýto <br><b>Adresa:</b> Borová 3, 56601, České Heřmanice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:823"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.28527,
-                    49.9496086
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jednota Voděrady č.77, Vys. Mýto <br><b>Adresa:</b> č.p. 77, 56601, Voděrady ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:820"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.2610246,
+          49.9091462
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bohuňovice obchod č. 28 <br><b>Adresa:</b> č.p. 28, 57001, Bohuňovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:641"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2955128,
+          49.9261841
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dolní Sloupnice č.p. 139 <br><b>Adresa:</b> Dolní Sloupnice 139, 56553, Sloupnice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:661"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3252975,
+          49.9193645
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Horní Sloupnice čp.221, Horní Sloupnice <br><b>Adresa:</b> Horní Sloupnice 221, 56553, Sloupnice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:662"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3423341,
+          49.9217662
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> JEDNOTA, Horní Sloupnice č.p. 341 <br><b>Adresa:</b> Horní Sloupnice 341, 56553, Sloupnice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:663"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3122531,
+          49.9215123
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Sloupnice <br><b>Adresa:</b> Horní Sloupnice 3, 56553, Sloupnice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:666"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.28527,
+          49.9496086
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jednota Voděrady č.77, Vys. Mýto <br><b>Adresa:</b> č.p. 77, 56601, Voděrady ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:820"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2632698,
+          49.9179043
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> autobusová zastávka, Netřeby <br><b>Adresa:</b> Netřeby 11, 56601, České Heřmanice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:822"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.276023,
+          49.9288267
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Borová, zast. ČSAD, Vysoké Mýto <br><b>Adresa:</b> Borová 3, 56601, České Heřmanice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:823"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

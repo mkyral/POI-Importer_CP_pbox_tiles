@@ -1,90 +1,90 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.0949524,
-                    48.7222931
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Bližná č. 8 <br><b>Adresa:</b> Bližná 8, 38226, Černá v Pošumaví <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 25.21 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "37271:641"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.1497958,
-                    48.6959032
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Milná č. 33 <br><b>Adresa:</b> Milná 33, 38226, Frymburk <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 49.96 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "37271:642"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.1079158,
-                    48.7378882
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Budova pošty Černá v Pošumaví <br><b>Adresa:</b> č.p. 73, 38223, Černá v Pošumaví <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.54 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "37271:649"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.0865786,
-                    48.7426583
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Nádraží ČD, Hůrka č. 30 <br><b>Adresa:</b> Hůrka 30, 38226, Horní Planá <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.47 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "37271:635"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.113249,
-                    48.7393453
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Černá v Pošumaví 46 <br><b>Adresa:</b> č.p. 46, 38223, Černá v Pošumaví <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 16.68 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:00",
-                "ref": "37271:646"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.0865786,
+          48.7426583
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nádraží ČD, Hůrka č. 30 <br><b>Adresa:</b> Hůrka 30, 38226, Horní Planá <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.47 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:635"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.0949524,
+          48.7222931
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bližná č. 8 <br><b>Adresa:</b> Bližná 8, 38226, Černá v Pošumaví <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 25.21 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:641"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.1497958,
+          48.6959032
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Milná č. 33 <br><b>Adresa:</b> Milná 33, 38226, Frymburk <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 49.96 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:642"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.113249,
+          48.7393453
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Černá v Pošumaví 46 <br><b>Adresa:</b> č.p. 46, 38223, Černá v Pošumaví <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 16.68 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:646"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.1079158,
+          48.7378882
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Budova pošty Černá v Pošumaví <br><b>Adresa:</b> č.p. 73, 38223, Černá v Pošumaví <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.54 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:649"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

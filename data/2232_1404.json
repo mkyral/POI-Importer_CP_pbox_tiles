@@ -1,141 +1,141 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1890465,
-                    49.1142061
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Senorady, v Lohu <br><b>Adresa:</b> č.p. 143, 67575, Mohelno ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "67407:266"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1945621,
-                    49.1159391
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Mohelno <br><b>Adresa:</b> č.p. 197, 67575, Mohelno ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 13:00",
-                "ref": "67407:332"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1935177,
-                    49.113585
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Mohelno 89 - hostinec <br><b>Adresa:</b> č.p. 89, 67575, Mohelno ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "67407:259"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1883653,
-                    49.1159541
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Senorady, aut. zastávka <br><b>Adresa:</b> č.p. 114, 67575, Mohelno ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "67407:265"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.2186569,
-                    49.1104815
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Lhánice, prodejna <br><b>Adresa:</b> č.p. 3, 67575, Lhánice ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "67407:263"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1957089,
-                    49.1142722
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Senorady, sokolovna <br><b>Adresa:</b> č.p. 2, 67575, Mohelno ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:00",
-                "ref": "67407:264"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1903591,
-                    49.1177014
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Mohelno - MŠ <br><b>Adresa:</b> č.p. 397, 67575, Mohelno ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "67407:260"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.1730208,
-                    49.1434339
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kladeruby, smíšené zboží <br><b>Adresa:</b> č.p. 74, 67575, Kladeruby nad Oslavou ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "67407:268"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.1935177,
+          49.113585
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Mohelno 89 - hostinec <br><b>Adresa:</b> č.p. 89, 67575, Mohelno ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:259"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1903591,
+          49.1177014
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Mohelno - MŠ <br><b>Adresa:</b> č.p. 397, 67575, Mohelno ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:260"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2186569,
+          49.1104815
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lhánice, prodejna <br><b>Adresa:</b> č.p. 3, 67575, Lhánice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:263"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1957089,
+          49.1142722
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Senorady, sokolovna <br><b>Adresa:</b> č.p. 2, 67575, Mohelno ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:264"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1883653,
+          49.1159541
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Senorady, aut. zastávka <br><b>Adresa:</b> č.p. 114, 67575, Mohelno ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:265"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1890465,
+          49.1142061
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Senorady, v Lohu <br><b>Adresa:</b> č.p. 143, 67575, Mohelno ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:266"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1730208,
+          49.1434339
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kladeruby, smíšené zboží <br><b>Adresa:</b> č.p. 74, 67575, Kladeruby nad Oslavou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:268"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1945621,
+          49.1159391
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Mohelno <br><b>Adresa:</b> č.p. 197, 67575, Mohelno ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 13:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:332"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

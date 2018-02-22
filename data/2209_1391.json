@@ -1,141 +1,141 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.1629111,
-                    49.8807493
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> autobusová zastávka č.p.2, Hatě <br><b>Adresa:</b> Hatě 2, 26727, Skuhrov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "17704:514"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.1864146,
-                    49.890135
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u obchodu č.p.64, Svinaře <br><b>Adresa:</b> Obecní 64, 26728, Svinaře ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "17704:519"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.1595626,
-                    49.8793598
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u prodejny č.p.46, Hatě <br><b>Adresa:</b> Hatě 46, 26727, Skuhrov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "17704:513"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.2022924,
-                    49.8860054
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u požární zbrojnice, Halouny <br><b>Adresa:</b> Beroun; Svinaře; Halouny <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "17704:516"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.2187171,
-                    49.8505336
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> čp.77, prodejna Kytín <br><b>Adresa:</b> č.p. 77, 25210, Kytín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 98.27 m",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "17704:452"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.1835924,
-                    49.8920484
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> čp. 77, pošta Svinaře <br><b>Adresa:</b> Obecní 77, 26728, Svinaře ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "17704:43"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.1551461,
-                    49.8913186
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> na návsi č.p.313, Leč <br><b>Adresa:</b> sady Míru 313, Leč, 26727, Liteň ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "17704:506"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    14.1740793,
-                    49.884304
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> u LDS č.p.8, Hodyně <br><b>Adresa:</b> Hodyně 8, 26727, Skuhrov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "17704:515"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          14.1835924,
+          49.8920484
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> čp. 77, pošta Svinaře <br><b>Adresa:</b> Obecní 77, 26728, Svinaře ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "17704:43"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2187171,
+          49.8505336
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> čp.77, prodejna Kytín <br><b>Adresa:</b> č.p. 77, 25210, Kytín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 98.27 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "17704:452"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.1551461,
+          49.8913186
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> na návsi č.p.313, Leč <br><b>Adresa:</b> sady Míru 313, Leč, 26727, Liteň ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "17704:506"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.1595626,
+          49.8793598
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u prodejny č.p.46, Hatě <br><b>Adresa:</b> Hatě 46, 26727, Skuhrov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "17704:513"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.1629111,
+          49.8807493
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> autobusová zastávka č.p.2, Hatě <br><b>Adresa:</b> Hatě 2, 26727, Skuhrov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "17704:514"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.1740793,
+          49.884304
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u LDS č.p.8, Hodyně <br><b>Adresa:</b> Hodyně 8, 26727, Skuhrov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "17704:515"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2022924,
+          49.8860054
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u požární zbrojnice, Halouny <br><b>Adresa:</b> Beroun; Svinaře; Halouny <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "17704:516"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.1864146,
+          49.890135
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u obchodu č.p.64, Svinaře <br><b>Adresa:</b> Obecní 64, 26728, Svinaře ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "17704:519"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

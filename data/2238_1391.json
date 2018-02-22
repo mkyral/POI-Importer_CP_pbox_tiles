@@ -1,39 +1,39 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.7149823,
-                    49.8468308
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Koruna obchod 10 <br><b>Adresa:</b> č.p. 10, 56301, Koruna ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:706"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.7753426,
-                    49.8746383
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Hoštejn 106, Jednota <br><b>Adresa:</b> č.p. 106, 78901, Hoštejn ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "78807:330"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.7149823,
+          49.8468308
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Koruna obchod 10 <br><b>Adresa:</b> č.p. 10, 56301, Koruna ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:706"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.7753426,
+          49.8746383
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hoštejn 106, Jednota <br><b>Adresa:</b> č.p. 106, 78901, Hoštejn ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "78807:330"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

@@ -1,107 +1,107 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.7040521,
-                    49.9357785
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Herbortice obchod 17 <br><b>Adresa:</b> Herbortice 17, 56301, Cotkytle ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:715"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.7089488,
-                    49.9124587
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Strážná zast. BUS u OÚ č.21 <br><b>Adresa:</b> č.p. 21, 56301, Strážná ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:716"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.7242962,
-                    49.9364647
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pošta č.p. 100, Cotkytle <br><b>Adresa:</b> č.p. 100, 56132, Cotkytle ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:731"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.7343534,
-                    49.9173284
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Janoušov otočka BUS č.8 <br><b>Adresa:</b> Janoušov 8, 56301, Cotkytle ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "56707:717"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.7531449,
-                    49.9343363
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Štíty, Crhov 3 (stojan) <br><b>Adresa:</b> Šumperk; Štíty; Crhov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 09:30",
-                "ref": "78807:323"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.7869479,
-                    49.9080198
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Drozdov 136 <br><b>Adresa:</b> č.p. 136, 78901, Drozdov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:00",
-                "ref": "78807:333"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.7040521,
+          49.9357785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Herbortice obchod 17 <br><b>Adresa:</b> Herbortice 17, 56301, Cotkytle ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:715"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.7089488,
+          49.9124587
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Strážná zast. BUS u OÚ č.21 <br><b>Adresa:</b> č.p. 21, 56301, Strážná ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:716"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.7343534,
+          49.9173284
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Janoušov otočka BUS č.8 <br><b>Adresa:</b> Janoušov 8, 56301, Cotkytle ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:717"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.7242962,
+          49.9364647
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta č.p. 100, Cotkytle <br><b>Adresa:</b> č.p. 100, 56132, Cotkytle ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:731"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.7531449,
+          49.9343363
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Štíty, Crhov 3 (stojan) <br><b>Adresa:</b> Šumperk; Štíty; Crhov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "78807:323"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.7869479,
+          49.9080198
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Drozdov 136 <br><b>Adresa:</b> č.p. 136, 78901, Drozdov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "78807:333"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

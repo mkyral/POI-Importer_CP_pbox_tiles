@@ -1,90 +1,90 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4865967,
-                    49.7193398
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Kněž - BUS, \"S\" <br><b>Adresa:</b> Kněž 4, 58291, Tis ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:231"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.4938717,
-                    49.7060362
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Tis <br><b>Adresa:</b> č.p. 112, 58243, Tis ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:14"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.5328233,
-                    49.6842592
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Skuhrov <br><b>Adresa:</b> č.p. 48, 58241, Skuhrov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:12"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.5476947,
-                    49.6807895
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Olešná 11 - prodejna <br><b>Adresa:</b> č.p. 11, 58001, Olešná ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:70"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    15.5209013,
-                    49.7125684
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> pošta Kámen <br><b>Adresa:</b> č.p. 53, 58242, Kámen ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 08:00",
-                "ref": "58007:13"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.5328233,
+          49.6842592
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Skuhrov <br><b>Adresa:</b> č.p. 48, 58241, Skuhrov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:12"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.5209013,
+          49.7125684
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Kámen <br><b>Adresa:</b> č.p. 53, 58242, Kámen ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:13"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4938717,
+          49.7060362
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Tis <br><b>Adresa:</b> č.p. 112, 58243, Tis ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:14"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4865967,
+          49.7193398
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kněž - BUS, \"S\" <br><b>Adresa:</b> Kněž 4, 58291, Tis ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:231"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.5476947,
+          49.6807895
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Olešná 11 - prodejna <br><b>Adresa:</b> č.p. 11, 58001, Olešná ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:70"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

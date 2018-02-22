@@ -1,90 +1,90 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.9953399,
-                    50.1015015
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Pošta Jindřichov u Šumperka <br><b>Adresa:</b> č.p. 92, 78823, Jindřichov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 14:00",
-                "ref": "78807:231"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.0166721,
-                    50.1126077
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jindříchov, Nové Losiny 7, obchod (stojan) <br><b>Adresa:</b> Nové Losiny 7, 78823, Jindřichov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 14:00",
-                "ref": "78807:205"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.9993396,
-                    50.1092457
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jindřichov 58, obchod (stojan) <br><b>Adresa:</b> č.p. 58, 78823, Jindřichov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 13:30",
-                "ref": "78807:204"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    17.0020186,
-                    50.09101
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jindřichov, Pusté Žibřidovice u č.p.12 AZ (stojan) <br><b>Adresa:</b> Šumperk; Jindřichov; Pusté Žibřidovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 11:45",
-                "ref": "78807:206"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.9900428,
-                    50.0980088
-                ]
-            },
-            "properties": {
-                "_note": "<br><b>Poznámka:</b> Jindřichov 95, vrátnice papírny <br><b>Adresa:</b> č.p. 95, 78823, Jindřichov ",
-                "operator": "Česká pošta, s.p.",
-                "amenity": "post_box",
-                "collection_times": "Mo-Fr 10:50",
-                "ref": "78807:203"
-            }
-        }
-    ]
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          16.9900428,
+          50.0980088
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jindřichov 95, vrátnice papírny <br><b>Adresa:</b> č.p. 95, 78823, Jindřichov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:50",
+        "operator": "Česká pošta, s.p.",
+        "ref": "78807:203"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.9993396,
+          50.1092457
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jindřichov 58, obchod (stojan) <br><b>Adresa:</b> č.p. 58, 78823, Jindřichov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 13:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "78807:204"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.0166721,
+          50.1126077
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jindříchov, Nové Losiny 7, obchod (stojan) <br><b>Adresa:</b> Nové Losiny 7, 78823, Jindřichov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 14:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "78807:205"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.0020186,
+          50.09101
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jindřichov, Pusté Žibřidovice u č.p.12 AZ (stojan) <br><b>Adresa:</b> Šumperk; Jindřichov; Pusté Žibřidovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "78807:206"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.9953399,
+          50.1015015
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Jindřichov u Šumperka <br><b>Adresa:</b> č.p. 92, 78823, Jindřichov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 14:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "78807:231"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
 }

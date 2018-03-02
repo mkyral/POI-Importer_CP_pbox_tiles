@@ -37,6 +37,23 @@
     {
       "geometry": {
         "coordinates": [
+          16.3948119,
+          49.9749629
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> parkoviště u požární zbrojnice <br><b>Adresa:</b> Mistra Jaroslava Kociana 54, 56201, Ústí nad Orlicí ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:102"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           16.4080482,
           49.9761328
         ],
@@ -65,6 +82,23 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "56707:104"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3960222,
+          49.9694669
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Ústí nad Orlicí 1 <br><b>Adresa:</b> T. G. Masaryka 897, 56201, Ústí nad Orlicí ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:105"
       },
       "type": "Feature"
     },
@@ -113,7 +147,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Škola Na Štěpnici, Ústí nad Orlicí <br><b>Adresa:</b> Na Štěpnici 300, 56201, Ústí nad Orlicí ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 15:30",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "56707:52"
       },
@@ -130,7 +164,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Pivnice u Skoby, Ústí nad Orlicí <br><b>Adresa:</b> Letohradská 1363, 56201, Ústí nad Orlicí ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 15:30",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "56707:53"
       },
@@ -147,7 +181,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Nemocnice, Ústí nad Orlicí <br><b>Adresa:</b> Čs. armády 1076, 56201, Ústí nad Orlicí ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 15:30",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "56707:54"
       },
@@ -164,7 +198,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Jilemnického, Ústí nad Orlicí <br><b>Adresa:</b> Jilemnického 183, 56201, Ústí nad Orlicí ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 15:30",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "56707:55"
       },
@@ -181,7 +215,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Pickova, Ústí nad Orlicí <br><b>Adresa:</b> V Lukách 1370, 56201, Ústí nad Orlicí ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 15:30",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "56707:56"
       },
@@ -198,7 +232,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Chodská ulice, Ústí nad Orlicí <br><b>Adresa:</b> Chodská 1193, 56206, Ústí nad Orlicí ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 15:30",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "56707:57"
       },
@@ -215,7 +249,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> pošta Ústí nad Orlicí 6 <br><b>Adresa:</b> Polská 1308, 56206, Ústí nad Orlicí ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 15:30",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "56707:58"
       },
@@ -232,7 +266,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Pramen 021 - Dukla, Ústí nad Orlicí <br><b>Adresa:</b> Dukelská 332, Hylváty, 56201, Ústí nad Orlicí ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 15:30",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "56707:59"
       },

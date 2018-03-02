@@ -300,7 +300,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> u bývalé školy,  Radovesnice I, Lošanská 23 <br><b>Adresa:</b> Lošanská 23, 28002, Radovesnice I ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:15",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "28000:39"
       },
@@ -334,7 +334,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> proti obchodu, Křečhoř 45 <br><b>Adresa:</b> č.p. 45, 28002, Křečhoř ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:30",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "28000:42"
       },
@@ -368,7 +368,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> obchod, Hradištko I, Veltrubská 19 <br><b>Adresa:</b> Veltrubská 19, Hradišťko I, 28002, Veltruby ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 11:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "28000:50"
       },
@@ -405,23 +405,6 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "28000:55"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.181062,
-          50.0189791
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> obchod výfuk, Štítary, Na Výfuku 42 <br><b>Adresa:</b> Na Výfuku 42, Kolín VI, 28002, Kolín ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "28000:57"
       },
       "type": "Feature"
     },
@@ -470,7 +453,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> náves č.p. 15, Kamhájek <br><b>Adresa:</b> Kamhajek 15, 28002, Křečhoř ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:15",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "28000:95"
       },
@@ -504,7 +487,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> obch. střed. Eden, Velim /stojan/, Palackého 409 <br><b>Adresa:</b> Palackého 409, 28101, Velim ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "28000:99"
       },

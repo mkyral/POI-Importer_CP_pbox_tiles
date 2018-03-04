@@ -54,13 +54,13 @@
     {
       "geometry": {
         "coordinates": [
-          16.2787979,
-          49.0172988
+          16.2786899,
+          49.0172436
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Dobelice <br><b>Adresa:</b> č.p. 48, 67201, Dobelice ",
+        "_note": "<br><b>Poznámka:</b> Dobelice <br><b>Adresa:</b> č.p. 48, 67201, Dobelice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.99 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:30",
         "operator": "Česká pošta, s.p.",
@@ -71,13 +71,13 @@
     {
       "geometry": {
         "coordinates": [
-          16.2793702,
-          49.0262652
+          16.281203,
+          49.0256063
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Rybníky-zastávka <br><b>Adresa:</b> Znojmo; Rybníky; Rybníky <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "_note": "<br><b>Poznámka:</b> Rybníky-zastávka <br><b>Adresa:</b> Znojmo; Rybníky; Rybníky <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:30",
         "operator": "Česká pošta, s.p.",
@@ -88,13 +88,13 @@
     {
       "geometry": {
         "coordinates": [
-          16.2777493,
-          49.0257985
+          16.277967,
+          49.0258282
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Rybníky-KD <br><b>Adresa:</b> č.p. 59, 67201, Rybníky ",
+        "_note": "<br><b>Poznámka:</b> Rybníky-KD <br><b>Adresa:</b> č.p. 59, 67201, Rybníky <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 16.22 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:30",
         "operator": "Česká pošta, s.p.",
@@ -139,13 +139,30 @@
     {
       "geometry": {
         "coordinates": [
+          16.2631411,
+          49.0186428
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vémyslice - zastávka <br><b>Adresa:</b> Znojmo; Vémyslice; Vémyslice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:245"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           16.2623295,
           49.0185707
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Višňové u Znojma <br><b>Adresa:</b> č.p. 127, 67142, Vémyslice ",
+        "_note": "<br><b>Poznámka:</b> pošta Višňové u Znojma <br><b>Adresa:</b> č.p. 127, 67142, Vémyslice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:30",
         "operator": "Česká pošta, s.p.",

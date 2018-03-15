@@ -37,13 +37,13 @@
     {
       "geometry": {
         "coordinates": [
-          14.4578694,
-          50.4154619
+          14.4581337,
+          50.4152464
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Boží Voda, <br><b>Adresa:</b> č.p. 217, 27721, Liběchov ",
+        "_note": "<br><b>Poznámka:</b> Boží Voda, <br><b>Adresa:</b> č.p. 217, 27721, Liběchov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 30.42 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 09:00",
         "operator": "Česká pošta, s.p.",
@@ -54,13 +54,13 @@
     {
       "geometry": {
         "coordinates": [
-          14.463709,
-          50.4224864
+          14.4638893,
+          50.4226007
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 62, 27721, Želízy ",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 62, 27721, Želízy <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 18.02 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 11:00",
         "operator": "Česká pošta, s.p.",
@@ -82,6 +82,23 @@
         "collection_times": "Mo-Fr 08:15",
         "operator": "Česká pošta, s.p.",
         "ref": "27607:138"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5017078,
+          50.426554
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 8, 27721, Dolní Zimoř <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 51.88 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:20",
+        "operator": "Česká pošta, s.p.",
+        "ref": "27607:139"
       },
       "type": "Feature"
     },

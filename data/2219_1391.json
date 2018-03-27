@@ -54,13 +54,30 @@
     {
       "geometry": {
         "coordinates": [
-          15.0480534,
-          49.8557276
+          15.0297206,
+          49.8526912
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> náves  /stojan/, Mitrov u čp. 4 <br><b>Adresa:</b> Mitrov 4, 28504, Uhlířské Janovice ",
+        "_note": "<br><b>Poznámka:</b> č.p. 17 /stojan/, Opatovice II. <br><b>Adresa:</b> Opatovice II 17, 28504, Uhlířské Janovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 45.16 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28500:14"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.0474258,
+          49.8553783
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> náves  /stojan/, Mitrov u čp. 4 <br><b>Adresa:</b> Mitrov 4, 28504, Uhlířské Janovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 59.46 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:15",
         "operator": "Česká pošta, s.p.",
@@ -71,13 +88,13 @@
     {
       "geometry": {
         "coordinates": [
-          15.0346621,
-          49.8467473
+          15.0351208,
+          49.8467611
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> náves /stojan/, Malejovice u čp. 3 <br><b>Adresa:</b> Malejovice 3, 28504, Uhlířské Janovice ",
+        "_note": "<br><b>Poznámka:</b> náves /stojan/, Malejovice u čp. 3 <br><b>Adresa:</b> Malejovice 3, 28504, Uhlířské Janovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 32.94 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:15",
         "operator": "Česká pošta, s.p.",
@@ -167,23 +184,6 @@
         "collection_times": "Mo-Fr 08:15",
         "operator": "Česká pošta, s.p.",
         "ref": "28500:22"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.0294331,
-          49.8726764
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> u vývěsní tabule /stojan/, Ostašov u čp. 8 <br><b>Adresa:</b> Ostašov 8, 28504, Staňkovice ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:15",
-        "operator": "Česká pošta, s.p.",
-        "ref": "28500:40"
       },
       "type": "Feature"
     },

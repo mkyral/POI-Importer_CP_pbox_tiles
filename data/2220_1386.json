@@ -173,13 +173,13 @@
     {
       "geometry": {
         "coordinates": [
-          15.1390024,
-          50.1432486
+          15.1284855,
+          50.1417067
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Na hrázi 132, Poděbrady <br><b>Adresa:</b> Nymburk; Poděbrady; Poděbrady III <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "_note": "<br><b>Poznámka:</b> Na hrázi 132, Poděbrady <br><b>Adresa:</b> Nymburk; Poděbrady; Poděbrady III <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 10:00",
         "operator": "Česká pošta, s.p.",
@@ -201,6 +201,23 @@
         "collection_times": "Mo-Fr 09:00",
         "operator": "Česká pošta, s.p.",
         "ref": "29000:27"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.1190896,
+          50.1478349
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dr. Beneše, park UŠO, Poděbrady <br><b>Adresa:</b> Nymburk; Poděbrady; Poděbrady II <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "29000:29"
       },
       "type": "Feature"
     },

@@ -3,13 +3,13 @@
     {
       "geometry": {
         "coordinates": [
-          14.4857433,
-          50.3469232
+          14.4837155,
+          50.3470139
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Pražská u nemocnice <br><b>Adresa:</b> Mělník; Mělník; Mělník <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "_note": "<br><b>Poznámka:</b> Pražská u nemocnice <br><b>Adresa:</b> Mělník; Mělník; Mělník <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 13:00",
         "operator": "Česká pošta, s.p.",
@@ -88,13 +88,13 @@
     {
       "geometry": {
         "coordinates": [
-          14.4763612,
-          50.3527279
+          14.476387,
+          50.3528418
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Mělník 1 <br><b>Adresa:</b> Tyršova 100/12, 27601, Mělník ",
+        "_note": "<br><b>Poznámka:</b> pošta Mělník 1 <br><b>Adresa:</b> Tyršova 100/12, 27601, Mělník <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 12.8 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 16:00",
         "operator": "Česká pošta, s.p.",
@@ -105,13 +105,13 @@
     {
       "geometry": {
         "coordinates": [
-          14.4762845,
-          50.3527862
+          14.4762899,
+          50.3527901
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Mělník 1 <br><b>Adresa:</b> Tyršova 100/12, 27601, Mělník <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.47 m",
+        "_note": "<br><b>Poznámka:</b> pošta Mělník 1 <br><b>Adresa:</b> Tyršova 100/12, 27601, Mělník <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.57 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 16:00",
         "operator": "Česká pošta, s.p.",
@@ -167,23 +167,6 @@
         "collection_times": "Mo-Fr 10:00",
         "operator": "Česká pošta, s.p.",
         "ref": "27607:234"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.492848,
-          50.347752
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Mladoboleslavská- motot. <br><b>Adresa:</b> Mělník; Mělník; Mělník <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 13:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "27607:4"
       },
       "type": "Feature"
     },

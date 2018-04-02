@@ -139,17 +139,34 @@
     {
       "geometry": {
         "coordinates": [
-          18.2778265,
-          49.8533667
+          18.2776692,
+          49.8533484
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Trocnovská x Newtonova (na stojanu), Přívoz <br><b>Adresa:</b> Ostrava-město; Ostrava; Přívoz <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "_note": "<br><b>Poznámka:</b> Trocnovská x Newtonova (na stojanu), Přívoz <br><b>Adresa:</b> Ostrava-město; Ostrava; Přívoz <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 16:00",
         "operator": "Česká pošta, s.p.",
         "ref": "70071:22"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.277971,
+          49.8487507
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nádražní x Mánesova (na stojanu), Přívoz <br><b>Adresa:</b> Ostrava-město; Ostrava; Přívoz <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 16:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "70071:23"
       },
       "type": "Feature"
     },

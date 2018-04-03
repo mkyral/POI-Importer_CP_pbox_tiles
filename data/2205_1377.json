@@ -207,6 +207,23 @@
     {
       "geometry": {
         "coordinates": [
+          13.8224166,
+          50.6369439
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> U zámku 2411/16, 41501, Teplice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 16:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "40371:178"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           13.8187505,
           50.6361571
         ],
@@ -371,23 +388,6 @@
         "collection_times": "Mo-Fr 16:00",
         "operator": "Česká pošta, s.p.",
         "ref": "40371:190"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.8366778,
-          50.6386726
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Pražská(kiosek)-na křižovatce s ul. U Hadích lázní <br><b>Adresa:</b> Teplice; Teplice; Teplice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 16:30",
-        "operator": "Česká pošta, s.p.",
-        "ref": "40371:191"
       },
       "type": "Feature"
     },
@@ -581,8 +581,8 @@
     {
       "geometry": {
         "coordinates": [
-          13.8232006,
-          50.6575402
+          13.8232061,
+          50.6575481
         ],
         "type": "Point"
       },

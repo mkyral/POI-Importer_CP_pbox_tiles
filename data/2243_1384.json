@@ -28,7 +28,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Česká Ves, Jesenická 235, prod. Husquarna (stojan) <br><b>Adresa:</b> Jesenická 235, 79081, Česká Ves ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 15:00",
+        "collection_times": "Mo-Fr 14:30",
         "operator": "Česká pošta, s.p.",
         "ref": "79007:20"
       },
@@ -79,26 +79,9 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Pošta Česká Ves <br><b>Adresa:</b> Jánského 328, 79081, Česká Ves ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 15:00",
+        "collection_times": "Mo-Fr 14:30",
         "operator": "Česká pošta, s.p.",
         "ref": "79007:63"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.2100308,
-          50.2368421
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Jeseník, Husova 1224/17 (stojan) <br><b>Adresa:</b> Husova 1224/17, 79001, Jeseník ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 14:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "79007:7"
       },
       "type": "Feature"
     }

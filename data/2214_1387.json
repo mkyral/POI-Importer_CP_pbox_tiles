@@ -475,6 +475,23 @@
         "ref": "25107:182"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.6774112,
+          50.1153104
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Partner Šestajovice, Revoluční 1412 <br><b>Adresa:</b> Revoluční 1412, 25092, Šestajovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "25107:322"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

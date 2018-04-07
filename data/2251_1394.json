@@ -3,13 +3,13 @@
     {
       "geometry": {
         "coordinates": [
-          17.8509593,
-          49.6983357
+          17.8515038,
+          49.6982628
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Odry, Tošovice 3, hasič. zbrojnice (stojan) <br><b>Adresa:</b> Nový Jičín; Odry; Tošovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "_note": "<br><b>Poznámka:</b> Odry, Tošovice 3, hasič. zbrojnice (stojan) <br><b>Adresa:</b> Nový Jičín; Odry; Tošovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 11:30",
         "operator": "Česká pošta, s.p.",
@@ -65,6 +65,23 @@
         "collection_times": "Mo-Fr 12:30",
         "operator": "Česká pošta, s.p.",
         "ref": "74207:331"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.850793,
+          49.7231043
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Fulnek, Vlkovice 105, potraviny (stojan) <br><b>Adresa:</b> Nový Jičín; Fulnek; Vlkovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74207:337"
       },
       "type": "Feature"
     },

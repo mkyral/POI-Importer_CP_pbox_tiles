@@ -37,6 +37,23 @@
     {
       "geometry": {
         "coordinates": [
+          14.2797912,
+          49.8068246
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Malá Hraštice - obchod č.p.114 <br><b>Adresa:</b> č.p. 114, 26203, Malá Hraštice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:346"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           14.2934051,
           49.8061621
         ],
@@ -167,6 +184,23 @@
         "collection_times": "Mo-Fr 09:00",
         "operator": "Česká pošta, s.p.",
         "ref": "26107:372"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2755559,
+          49.8309639
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Budova pošty Nová Ves pod Pleší <br><b>Adresa:</b> Masarykova třída 125, 26204, Nová Ves pod Pleší ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:376"
       },
       "type": "Feature"
     },

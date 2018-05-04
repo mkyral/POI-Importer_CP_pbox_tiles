@@ -71,6 +71,23 @@
     {
       "geometry": {
         "coordinates": [
+          17.915101,
+          49.9458065
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kateř.,Vrchní 101/19-škola,Opava-Kateřinky <br><b>Adresa:</b> Vrchní 101/19, Kateřinky, 74705, Opava ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 15:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74907:13"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           17.9098464,
           49.9452002
         ],
@@ -405,6 +422,23 @@
         "collection_times": "Mo-Fr 15:15",
         "operator": "Česká pošta, s.p.",
         "ref": "74907:30"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.9130683,
+          49.9190937
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Opava 6 <br><b>Adresa:</b> Hlavní 1040/120, Kylešovice, 74706, Opava ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 15:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74907:31"
       },
       "type": "Feature"
     },

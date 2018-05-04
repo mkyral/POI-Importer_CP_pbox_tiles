@@ -20,13 +20,13 @@
     {
       "geometry": {
         "coordinates": [
-          14.6491638,
-          49.3880856
+          14.6417916,
+          49.3896134
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Větrovy <br><b>Adresa:</b> Větrovy 10, 39001, Tábor ",
+        "_note": "<br><b>Poznámka:</b> Větrovy <br><b>Adresa:</b> Větrovy 40, 39001, Tábor ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -184,6 +184,23 @@
         "collection_times": "Mo-Fr 17:00",
         "operator": "Česká pošta, s.p.",
         "ref": "39007:204"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.6491638,
+          49.3880856
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> ZOO - Tábor <br><b>Adresa:</b> Větrovy 10, 39001, Tábor ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:205"
       },
       "type": "Feature"
     },

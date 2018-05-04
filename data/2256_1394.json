@@ -88,6 +88,23 @@
     {
       "geometry": {
         "coordinates": [
+          18.3369574,
+          49.6758017
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kolaříkova 1604,FM-Místek (stojan před domem) <br><b>Adresa:</b> Kolaříkova 1604, Místek, 73801, Frýdek-Místek ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 16:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "73807:15"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           18.3401752,
           49.6807899
         ],
@@ -218,6 +235,23 @@
         "collection_times": "Mo-Fr 16:00",
         "operator": "Česká pošta, s.p.",
         "ref": "73807:202"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.3288899,
+          49.7100473
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Frýdek-Místek 4-Lískovec <br><b>Adresa:</b> K Sedlištím 370, Lískovec, 73801, Frýdek-Místek ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 14:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "73807:207"
       },
       "type": "Feature"
     },

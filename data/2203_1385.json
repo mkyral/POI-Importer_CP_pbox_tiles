@@ -105,17 +105,34 @@
     {
       "geometry": {
         "coordinates": [
-          13.7095191,
-          50.1942535
+          13.7083309,
+          50.1963131
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Mutějovice - Jednota <br><b>Adresa:</b> Rakovník; Mutějovice; Mutějovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "_note": "<br><b>Poznámka:</b> Mutějovice - Jednota <br><b>Adresa:</b> Rakovník; Mutějovice; Mutějovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 10:00",
         "operator": "Česká pošta, s.p.",
         "ref": "26907:65"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.7047054,
+          50.2172437
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Mutějovice - nádraží ČD <br><b>Adresa:</b> Rakovník; Mutějovice; Mutějovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26907:68"
       },
       "type": "Feature"
     },

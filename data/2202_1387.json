@@ -54,13 +54,13 @@
     {
       "geometry": {
         "coordinates": [
-          13.6136469,
-          50.0738794
+          13.6132419,
+          50.0741135
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> č.p. 19 Nový Dvůr - náves <br><b>Adresa:</b> Nový Dvůr E19, 27035, Řeřichy ",
+        "_note": "<br><b>Poznámka:</b> č.p. 19 Nový Dvůr - náves <br><b>Adresa:</b> Nový Dvůr E19, 27035, Řeřichy <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 38.91 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 09:10",
         "operator": "Česká pošta, s.p.",
@@ -82,6 +82,23 @@
         "collection_times": "Mo-Fr 09:05",
         "operator": "Česká pošta, s.p.",
         "ref": "26907:143"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.5949775,
+          50.0655278
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> č.p. 16  Václavy - OÚ <br><b>Adresa:</b> č.p. 16, 27035, Václavy <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 937.74 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26907:150"
       },
       "type": "Feature"
     },

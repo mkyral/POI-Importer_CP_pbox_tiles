@@ -3,23 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          17.0302983,
-          49.5519664
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Pošta Čechy pod Kosířem (stojan) <br><b>Adresa:</b> náměstí Svobody 289, 79858, Čechy pod Kosířem <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.2 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 15:10",
-        "operator": "Česká pošta, s.p.",
-        "ref": "79907:368"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           17.0238878,
           49.4997955
         ],
@@ -28,9 +11,26 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Lešany u Prostějova 10 Partner I <br><b>Adresa:</b> č.p. 10, 79842, Lešany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.32 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 10:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "79907:440"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.0303098,
+          49.5520578
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Čechy pod Kosířem (stojan) <br><b>Adresa:</b> náměstí Svobody 289, 79858, Čechy pod Kosířem <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79907:443"
       },
       "type": "Feature"
     },
@@ -45,7 +45,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Stařechovice, Služín 29, (stojan u zastávky FTL) <br><b>Adresa:</b> Prostějov; Stařechovice; Služín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 10:45",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "79907:56"
       },
@@ -62,7 +62,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Bílovice-Lutotín, Bílovice 39 (obecní úřad) <br><b>Adresa:</b> Bílovice 39, 79841, Bílovice-Lutotín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 24.87 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "79907:58"
       },
@@ -79,7 +79,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Bílovice-Lutotín, Lutotín 63 (stojan) <br><b>Adresa:</b> Lutotín 63, 79841, Bílovice-Lutotín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.13 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 14:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "79907:59"
       },
@@ -96,7 +96,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Hluchov 30 (pohostinství) <br><b>Adresa:</b> č.p. 30, 79841, Hluchov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.94 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 13:10",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "79907:60"
       },
@@ -113,7 +113,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Hluchov 18 (stojan - u pomníku) <br><b>Adresa:</b> Prostějov; Hluchov; Hluchov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 13:10",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "79907:61"
       },
@@ -130,7 +130,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Čechy pod Kosířem, Mánesova 1 <br><b>Adresa:</b> Mánesova 1, 79858, Čechy pod Kosířem <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 93.07 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 12:30",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "79907:70"
       },
@@ -147,7 +147,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Zdětín 31 (na autobusové zastávce) <br><b>Adresa:</b> Prostějov; Zdětín; Zdětín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 11:30",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "79907:84"
       },

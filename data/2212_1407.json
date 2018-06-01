@@ -232,7 +232,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> ČB, nám. Přemysla Otakara II 78/20 <br><b>Adresa:</b> nám. Přemysla Otakara II. 78/20, České Budějovice 1, 37001, České Budějovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 19.91 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 16:15; Sa 12:30",
+        "collection_times": "Mo-Fr 15:45; Sa 11:00",
         "operator": "Česká pošta, s.p.",
         "ref": "37271:15"
       },
@@ -266,9 +266,26 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> ČB, Nádražní 152 (nádraží ČSD-vchod) <br><b>Adresa:</b> Nádražní 152, České Budějovice 6, 37001, České Budějovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 94.65 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 16:10; Sa 13:30",
+        "collection_times": "Mo-Fr 15:35; Sa 11:00",
         "operator": "Česká pošta, s.p.",
         "ref": "37271:16"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.4832504,
+          48.9766644
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lipenská 1979/1 - roh domu <br><b>Adresa:</b> Lipenská 1979/1, České Budějovice 3, 37001, České Budějovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 15:35",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:17"
       },
       "type": "Feature"
     },
@@ -453,7 +470,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> ČB, Nádražní 118/6 (pošta ČB2) <br><b>Adresa:</b> Nádražní 118/6, České Budějovice 6, 37001, České Budějovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 12.25 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 16:10; Sa 13:30",
+        "collection_times": "Mo-Fr 15:30; Sa 11:00",
         "operator": "Česká pošta, s.p.",
         "ref": "37271:41"
       },
@@ -538,7 +555,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> ČB, B. Němcové 585/54 (nemocnice vchod) <br><b>Adresa:</b> B. Němcové 585/54, České Budějovice 7, 37001, České Budějovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 78.96 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 16:10; Sa 10:30",
+        "collection_times": "Mo-Fr 15:30; Sa 11:00",
         "operator": "Česká pošta, s.p.",
         "ref": "37271:46"
       },

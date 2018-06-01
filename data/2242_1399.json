@@ -11,7 +11,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Dobrochov 43 <br><b>Adresa:</b> č.p. 43, 79807, Dobrochov ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 12:30",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "79907:121"
       },
@@ -28,7 +28,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Určice 143  - nákupní středisko <br><b>Adresa:</b> č.p. 143, 79804, Určice ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 13:30",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "79907:122"
       },
@@ -45,7 +45,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Otaslavice 51 <br><b>Adresa:</b> č.p. 51, 79806, Otaslavice ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 10:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "79907:123"
       },
@@ -62,7 +62,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Otaslavice 187 <br><b>Adresa:</b> č.p. 187, 79806, Otaslavice ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 11:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "79907:124"
       },
@@ -79,7 +79,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Určice 300 (stojan) <br><b>Adresa:</b> č.p. 300, 79804, Určice ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 12:30",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "79907:127"
       },
@@ -96,7 +96,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Výšovice 94 <br><b>Adresa:</b> č.p. 94, 79809, Výšovice ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 12:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "79907:131"
       },
@@ -113,7 +113,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Dětkovice 8 (nákupní středisko-stojan) <br><b>Adresa:</b> č.p. 8, 79804, Dětkovice ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 11:30",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "79907:132"
       },
@@ -130,7 +130,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Vincencov 1 - obchod <br><b>Adresa:</b> č.p. 1, 79804, Vincencov ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:20",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "79907:137"
       },
@@ -147,7 +147,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Prostějov, Žešov u č.p. 81 - stojan <br><b>Adresa:</b> Prostějov; Prostějov; Žešov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 11:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "79907:201"
       },
@@ -164,26 +164,9 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Vranovice-Kelčice, Vranovice 27 (stojan) <br><b>Adresa:</b> Prostějov; Vranovice-Kelčice; Vranovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 12:10",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "79907:208"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.111885,
-          49.4004007
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Vranovice-Kelčice, Kelčice 31 (Obecní úřad-stojan) <br><b>Adresa:</b> Kelčice 31, 79808, Vranovice-Kelčice ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 12:20",
-        "operator": "Česká pošta, s.p.",
-        "ref": "79907:209"
       },
       "type": "Feature"
     },
@@ -198,7 +181,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Partner Vranovice - Kelčice (stojan) <br><b>Adresa:</b> Kelčice 75, 79808, Vranovice-Kelčice ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 12:30",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "79907:210"
       },
@@ -215,7 +198,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Pošta Určice (stojan) <br><b>Adresa:</b> č.p. 81, 79804, Určice ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 14:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "79907:419"
       },
@@ -232,7 +215,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Pošta Otaslavice (stojan) <br><b>Adresa:</b> č.p. 343, 79806, Otaslavice ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 14:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "79907:421"
       },
@@ -249,7 +232,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Pošta Vřesovice <br><b>Adresa:</b> č.p. 41, 79809, Vřesovice ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 13:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "79907:423"
       },

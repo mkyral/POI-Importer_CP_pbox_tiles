@@ -11,7 +11,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Suchdol  (stojan u zast. FTL za č.p. 93) <br><b>Adresa:</b> Prostějov; Suchdol; Suchdol <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 12:40",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "79907:343"
       },
@@ -28,7 +28,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Suchdol 91 (stojan) <br><b>Adresa:</b> č.p. 91, 79845, Suchdol <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 35.53 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 12:40",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "79907:344"
       },
@@ -45,9 +45,26 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Lipová, Seč 45 (prodejna) <br><b>Adresa:</b> Seč 45, 79845, Lipová <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.11 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 11:35",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "79907:346"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.8789666,
+          49.5460177
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Suchdol u Prostějova <br><b>Adresa:</b> Jednov 72, 79845, Suchdol <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79907:368"
       },
       "type": "Feature"
     },
@@ -62,7 +79,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Pošta Ptení <br><b>Adresa:</b> č.p. 89, 79843, Ptení <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.52 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 13:45",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "79907:441"
       },
@@ -79,26 +96,9 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Pošta Stražisko <br><b>Adresa:</b> č.p. 122, 79844, Stražisko <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.6 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "79907:442"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.8789415,
-          49.5460728
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Pošta Suchdol u Prostějova <br><b>Adresa:</b> Jednov 72, 79845, Suchdol <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.39 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 15:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "79907:443"
       },
       "type": "Feature"
     },
@@ -113,7 +113,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Ptení, Holubice 20 (stojan) <br><b>Adresa:</b> Holubice 20, 79803, Ptení <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 13.01 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 13:30",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "79907:82"
       },
@@ -130,7 +130,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Ptení, Ptenský Dvorek 33 (stojan u aut. zastávky) <br><b>Adresa:</b> Prostějov; Ptení; Ptenský Dvorek <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 11:30",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "79907:85"
       },
@@ -147,7 +147,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Stražisko 1 (nákupní středisko) <br><b>Adresa:</b> č.p. 1, 79844, Stražisko <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.72 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "79907:86"
       },
@@ -164,7 +164,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Stražisko, Růžov 8 (stojan) <br><b>Adresa:</b> Růžov 8, 79843, Stražisko <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 20.23 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 10:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "79907:87"
       },
@@ -181,7 +181,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Přemyslovice 121  (nákupní středisko-stojan) <br><b>Adresa:</b> č.p. 121, 79851, Přemyslovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 33.65 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 10:15",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "79907:88"
       },

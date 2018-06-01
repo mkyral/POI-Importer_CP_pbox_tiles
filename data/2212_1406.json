@@ -54,6 +54,23 @@
     {
       "geometry": {
         "coordinates": [
+          14.4761207,
+          49.0002951
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> A.Trägera 380/38 (zastávka MHD) <br><b>Adresa:</b> A. Trägera 380/38, České Budějovice 3, 37010, České Budějovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 15:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:18"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           14.4353676,
           48.9857039
         ],
@@ -79,7 +96,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> ČB, Ant. Barcala 1470/51 (zastávka MHD) <br><b>Adresa:</b> Ant. Barcala 1470/51, České Budějovice 2, 37005, České Budějovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 66.84 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 16:05; Sa 12:30",
+        "collection_times": "Mo-Fr 15:40; Sa 11:00",
         "operator": "Česká pošta, s.p.",
         "ref": "37271:20"
       },
@@ -145,7 +162,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> ul. J. Bendy a A. Barcala - u přechodu <br><b>Adresa:</b> J. Bendy 1313/2, České Budějovice 2, 37005, České Budějovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 393.06 m",
+        "_note": "<br><b>Poznámka:</b> Milady Horákové - u zastávky MHD <br><b>Adresa:</b> Dr. Bureše 1185/1, České Budějovice 2, 37005, České Budějovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 102.43 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 15:40",
         "operator": "Česká pošta, s.p.",
@@ -360,23 +377,6 @@
     {
       "geometry": {
         "coordinates": [
-          14.4773785,
-          48.9832101
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> ČB, Pekárenská 1065/31 (křižovatka s Jírovcovou) <br><b>Adresa:</b> Pekárenská 1065/31, České Budějovice 3, 37004, České Budějovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 116.74 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 15:40",
-        "operator": "Česká pošta, s.p.",
-        "ref": "37271:4"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           14.4756901,
           48.9844961
         ],
@@ -402,7 +402,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> ČB, České Vrbné 2327 (vchod Globus) <br><b>Adresa:</b> České Vrbné 2327, České Budějovice 2, 37011, České Budějovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 123.55 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 16:05; Sa 12:30",
+        "collection_times": "Mo-Fr 15:00; Sa 11:00",
         "operator": "Česká pošta, s.p.",
         "ref": "37271:56"
       },
@@ -521,7 +521,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Budova pošty <br><b>Adresa:</b> Fr. Ondříčka 1243/46, České Budějovice 2, 37011, České Budějovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 23.54 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 15:00; Sa 12:30",
+        "collection_times": "Mo-Fr 14:35; Sa 11:00",
         "operator": "Česká pošta, s.p.",
         "ref": "37271:72"
       },
@@ -538,7 +538,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Budova pošty České Budějovice 12 <br><b>Adresa:</b> K. Šafáře 887/64, České Budějovice 2, 37005, České Budějovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 15.15 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 16:00; Sa 12:30",
+        "collection_times": "Mo-Fr 15:00; Sa 11:00",
         "operator": "Česká pošta, s.p.",
         "ref": "37271:73"
       },
@@ -555,7 +555,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Před budovou pošty <br><b>Adresa:</b> Pražská tř. 2304/69, České Budějovice 3, 37004, České Budějovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 17.24 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 15:30; Sa 10:30",
+        "collection_times": "Mo-Fr 15:30; Sa 11:00",
         "operator": "Česká pošta, s.p.",
         "ref": "37271:74"
       },

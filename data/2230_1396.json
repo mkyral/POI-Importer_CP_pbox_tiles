@@ -164,7 +164,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> autobusová zastávka, Jiříkovice <br><b>Adresa:</b> Jiříkovice 40, 59231, Nové Město na Moravě ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 13:00",
+        "collection_times": "Mo-Fr 12:30",
         "operator": "Česká pošta, s.p.",
         "ref": "59230:21"
       },
@@ -252,23 +252,6 @@
         "collection_times": "Mo-Fr 10:30",
         "operator": "Česká pošta, s.p.",
         "ref": "59230:5"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.0759274,
-          49.5710075
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Brožkův Kopec, Nové Město na Moravě+ <br><b>Adresa:</b> Horní 330, 59231, Nové Město na Moravě ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 11:20",
-        "operator": "Česká pošta, s.p.",
-        "ref": "59230:7"
       },
       "type": "Feature"
     },

@@ -3,23 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          15.5205183,
-          50.6328221
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Dolní Štěpanice has.zbrojnice, Jilemnice <br><b>Adresa:</b> Dolní Štěpanice 38, 51401, Benecko <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 4.26 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:15",
-        "operator": "Česká pošta, s.p.",
-        "ref": "51400:15"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           15.4869951,
           50.636279
         ],
@@ -218,6 +201,23 @@
         "collection_times": "Mo-Fr 08:30",
         "operator": "Česká pošta, s.p.",
         "ref": "51400:70"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.5475702,
+          50.6662626
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 196, 51237, Benecko ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51400:73"
       },
       "type": "Feature"
     }

@@ -67,6 +67,23 @@
         "ref": "54107:32"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9449348,
+          50.5978115
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pod Viaduktem 55 <br><b>Adresa:</b> Pod Viaduktem 55, Libeč, 54101, Trutnov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54107:6"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

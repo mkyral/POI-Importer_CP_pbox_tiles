@@ -3,6 +3,23 @@
     {
       "geometry": {
         "coordinates": [
+          14.9280538,
+          50.4400336
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Kosmonosy <br><b>Adresa:</b> Debřská 223/1, 29306, Kosmonosy ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "29407:1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           14.9002935,
           50.4516186
         ],
@@ -269,23 +286,6 @@
         "collection_times": "Mo-Fr 09:00",
         "operator": "Česká pošta, s.p.",
         "ref": "29407:129"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.8995459,
-          50.4433352
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> zastávka <br><b>Adresa:</b> U Borku 520, 29306, Bradlec <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 43.87 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "29407:13"
       },
       "type": "Feature"
     },

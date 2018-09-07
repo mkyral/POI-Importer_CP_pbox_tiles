@@ -9,7 +9,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Autobusová zastávka, Říčany, Rychta <br><b>Adresa:</b> Praha-východ; Říčany; Strašín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Autobusová zastávka, Černokost. Říčany, Rychta <br><b>Adresa:</b> Praha-východ; Říčany; Strašín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -184,6 +184,23 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "25107:40"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.7145048,
+          49.9871161
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Tehovec - Vojkov 69 <br><b>Adresa:</b> K Mýtu 69, 25162, Tehovec <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 19.57 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "25107:41"
       },
       "type": "Feature"
     },

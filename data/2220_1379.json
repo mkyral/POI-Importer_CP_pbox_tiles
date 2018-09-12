@@ -3,6 +3,23 @@
     {
       "geometry": {
         "coordinates": [
+          15.1660196,
+          50.5688387
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Parkoviště pod hradem Valdštejn <br><b>Adresa:</b> Semily; Turnov; Pelešany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51107:100"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           15.1576606,
           50.5283899
         ],
@@ -31,6 +48,57 @@
         "collection_times": "Mo-Fr 09:30",
         "operator": "Česká pošta, s.p.",
         "ref": "51107:139"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.1435796,
+          50.5557794
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> BUS zastávka Kacanovy, poblíž č.p. 74 <br><b>Adresa:</b> Semily; Kacanovy; Kacanovy <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51107:73"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.1452272,
+          50.5505112
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> točna BUS Kacanovy, poblíž OÚ č.p. 51 <br><b>Adresa:</b> Semily; Kacanovy; Kacanovy <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51107:74"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.1863,
+          50.5247479
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> na návsi poblíž kapličky, u č.p 13 Krčkovice (LDS) <br><b>Adresa:</b> Semily; Hrubá Skála; Krčkovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51107:83"
       },
       "type": "Feature"
     },
@@ -116,6 +184,40 @@
         "collection_times": "Mo-Fr 08:30",
         "operator": "Česká pošta, s.p.",
         "ref": "51107:90"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2012619,
+          50.5602454
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u zastávky BUS Sedmihorky, poblíž č.p. 47 <br><b>Adresa:</b> Semily; Karlovice; Sedmihorky <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51107:91"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.1934487,
+          50.5446715
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> zámek, Hrubá Skála <br><b>Adresa:</b> Semily; Hrubá Skála; Hrubá Skála <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51107:95"
       },
       "type": "Feature"
     }

@@ -54,6 +54,23 @@
     {
       "geometry": {
         "coordinates": [
+          15.4909338,
+          50.6967541
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u zastávka BUS, poblíž č,p. 15 Horní Dušnice <br><b>Adresa:</b> Semily; Jablonec nad Jizerou; Horní Dušnice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:10",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51107:272"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           15.5239785,
           50.6847766
         ],
@@ -82,6 +99,23 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "51107:275"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.5304482,
+          50.693219
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> zast. BUS u hotelu Praha  Vítkovice č.p. 316 <br><b>Adresa:</b> Semily; Vítkovice; Vítkovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:10",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51107:276"
       },
       "type": "Feature"
     }

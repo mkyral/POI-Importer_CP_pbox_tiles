@@ -37,6 +37,23 @@
     {
       "geometry": {
         "coordinates": [
+          15.1421282,
+          50.5875906
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nádražní ul. na stojanu , Turnov <br><b>Adresa:</b> Semily; Turnov; Turnov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51107:11"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           15.1391195,
           50.5873527
         ],
@@ -48,6 +65,23 @@
         "collection_times": "Mo-Fr 10:30",
         "operator": "Česká pošta, s.p.",
         "ref": "51107:12"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.1472586,
+          50.5884322
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> ul.Bezručova x Brigádnická, poblíž č.p. 1410 <br><b>Adresa:</b> Semily; Turnov; Turnov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51107:13"
       },
       "type": "Feature"
     },
@@ -82,6 +116,57 @@
         "collection_times": "Mo-Fr 10:30",
         "operator": "Česká pošta, s.p.",
         "ref": "51107:16"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.1522686,
+          50.579768
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> stojan - v ul. Svobodova, poblíž č.p. 971 <br><b>Adresa:</b> Semily; Turnov; Turnov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51107:17"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.1403269,
+          50.5887658
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> výměníková stanice ul. Kosmonatů poblíž č.p. 1547 <br><b>Adresa:</b> Semily; Turnov; Turnov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51107:19"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.1511773,
+          50.5936545
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> poblíž prodejny COOP ul. Zahradní č.p. 275 <br><b>Adresa:</b> Semily; Turnov; Daliměřice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51107:20"
       },
       "type": "Feature"
     },
@@ -309,6 +394,74 @@
     {
       "geometry": {
         "coordinates": [
+          15.18354,
+          50.5916074
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> náves u BUS zastávky, Bělá, poblíž č.p. 89 <br><b>Adresa:</b> Semily; Mírová pod Kozákovem; Bělá <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51107:68"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.1902562,
+          50.5995272
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> rozcestí Záholice (místní náz.), u Bělá č.p. 50 <br><b>Adresa:</b> Semily; Mírová pod Kozákovem; Bělá <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51107:69"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.1805521,
+          50.6206251
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> zastávka u tunelu Rakousy <br><b>Adresa:</b> Semily; Rakousy; Rakousy <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:10",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51107:70"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.1634112,
+          50.5714607
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> stanoviště LDS, poblíž č.p. 37 Pelešany <br><b>Adresa:</b> Semily; Turnov; Pelešany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51107:75"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           15.1492808,
           50.5726184
         ],
@@ -320,6 +473,23 @@
         "collection_times": "Mo-Fr 08:30",
         "operator": "Česká pošta, s.p.",
         "ref": "51107:76"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.1533166,
+          50.573018
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> BUS zastávka K Hlavatici, Mašov, poblíž č.p. 205 <br><b>Adresa:</b> Semily; Turnov; Mašov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51107:77"
       },
       "type": "Feature"
     },
@@ -371,6 +541,23 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "51107:80"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.1344836,
+          50.5812833
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> požární zbrojnice vedle domu Nudvojovice 1047 <br><b>Adresa:</b> Semily; Turnov; Turnov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51107:81"
       },
       "type": "Feature"
     },

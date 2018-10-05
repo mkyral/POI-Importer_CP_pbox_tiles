@@ -37,6 +37,23 @@
     {
       "geometry": {
         "coordinates": [
+          16.5595746,
+          49.2177017
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Petra Křivky 1a, Brno - Starý Lískovec <br><b>Adresa:</b> Brno-město; Brno; Starý Lískovec <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 16:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60010:213"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           16.5784355,
           49.2125523
         ],
@@ -71,40 +88,6 @@
     {
       "geometry": {
         "coordinates": [
-          16.5686195,
-          49.2126618
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Stránského Billa, Brno Žabovřesky <br><b>Adresa:</b> Brno-město; Brno; Žabovřesky <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 16:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "60010:304"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.5753472,
-          49.2182993
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Makovského náměstí, Brno - Žabovřesky <br><b>Adresa:</b> Brno-město; Brno; Žabovřesky <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 16:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "60010:307"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           16.5771754,
           49.2168014
         ],
@@ -128,7 +111,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Záhřebská 27, Brno - Žabovřesky <br><b>Adresa:</b> Záhřebská 2488/27, Žabovřesky, 61600, Brno ",
+        "_note": "<br><b>Poznámka:</b> Záhřebská 27, Brno - Žabovřesky <br><b>Adresa:</b> Záhřebská 2488/27, Žabovřesky, 61600, Brno <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 16:00",
         "operator": "Česká pošta, s.p.",
@@ -213,7 +196,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Brno 24 <br><b>Adresa:</b> Hlavní 247/64, Komín, 62400, Brno ",
+        "_note": "<br><b>Poznámka:</b> pošta Brno 24 <br><b>Adresa:</b> Hlavní 247/64, Komín, 62400, Brno <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 16:00",
         "operator": "Česká pošta, s.p.",
@@ -394,8 +377,8 @@
     {
       "geometry": {
         "coordinates": [
-          16.5285602,
-          49.2214635
+          16.5900636,
+          49.227822
         ],
         "type": "Point"
       },
@@ -904,13 +887,13 @@
     {
       "geometry": {
         "coordinates": [
-          16.5845716,
-          49.2500698
+          16.5838092,
+          49.2472886
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Horácké náměstí 1, Brno - Řečkovice <br><b>Adresa:</b> Horácké náměstí 1741/1, Řečkovice, 62100, Brno <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 314.27 m",
+        "_note": "<br><b>Poznámka:</b> Horácké náměstí 1, Brno - Řečkovice <br><b>Adresa:</b> Horácké náměstí 1741/1, Řečkovice, 62100, Brno <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 16:00",
         "operator": "Česká pošta, s.p.",
@@ -932,6 +915,23 @@
         "collection_times": "Mo-Fr 16:00",
         "operator": "Česká pošta, s.p.",
         "ref": "60010:435"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.5898621,
+          49.2278347
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bulharská 57, Brno - Královo Pole <br><b>Adresa:</b> Brno-město; Brno; Královo Pole <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 16:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60010:436"
       },
       "type": "Feature"
     },
@@ -1080,7 +1080,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Brno 16 <br><b>Adresa:</b> náměstí Svornosti 2573/6, Žabovřesky, 61600, Brno ",
+        "_note": "<br><b>Poznámka:</b> pošta Brno 16 <br><b>Adresa:</b> náměstí Svornosti 2573/6, Žabovřesky, 61600, Brno <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 16:00",
         "operator": "Česká pošta, s.p.",

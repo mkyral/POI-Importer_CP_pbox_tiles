@@ -60,7 +60,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Obřanská 160, Brno - Obřany <br><b>Adresa:</b> Obřanská 364/160, Maloměřice, 61400, Brno ",
+        "_note": "<br><b>Poznámka:</b> Obřanská 160, Brno - Obřany <br><b>Adresa:</b> Obřanská 364/160, Maloměřice, 61400, Brno <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 16:00",
         "operator": "Česká pošta, s.p.",
@@ -94,7 +94,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Fryčajova 147, Brno - Obřany <br><b>Adresa:</b> Fryčajova 532/147, Obřany, 61400, Brno ",
+        "_note": "<br><b>Poznámka:</b> Fryčajova 147, Brno - Obřany <br><b>Adresa:</b> Fryčajova 532/147, Obřany, 61400, Brno <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 16:00",
         "operator": "Česká pošta, s.p.",
@@ -111,7 +111,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Selská 103, Brno - Obřany <br><b>Adresa:</b> Selská 81/103, Maloměřice, 61400, Brno ",
+        "_note": "<br><b>Poznámka:</b> Selská 103, Brno - Obřany <br><b>Adresa:</b> Selská 81/103, Maloměřice, 61400, Brno <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 16:00",
         "operator": "Česká pošta, s.p.",
@@ -122,17 +122,85 @@
     {
       "geometry": {
         "coordinates": [
-          16.6438516,
-          49.2159123
+          16.6438192,
+          49.2159414
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Selská 19, Brno - Obřany <br><b>Adresa:</b> Selská 234/19, Maloměřice, 61400, Brno <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 4.0 m",
+        "_note": "<br><b>Poznámka:</b> Selská 19, Brno - Obřany <br><b>Adresa:</b> Selská 234/19, Maloměřice, 61400, Brno <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 16:00",
         "operator": "Česká pošta, s.p.",
         "ref": "60010:515"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.633305,
+          49.2206429
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Marie Majerové 17, Brno - Lesná <br><b>Adresa:</b> Brno-město; Brno; Lesná <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 16:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60010:516"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.6305494,
+          49.2210401
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Marie Majerové 1, Brno - Lesná <br><b>Adresa:</b> Brno-město; Brno; Lesná <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 16:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60010:517"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.6252144,
+          49.2235471
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Holasovo náměstí - bazén, Brno - Lesná <br><b>Adresa:</b> Brno-město; Brno; Lesná <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 16:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60010:518"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.6244752,
+          49.2226675
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> konečná MHD, Brno - Lesná <br><b>Adresa:</b> Brno-město; Brno; Lesná <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 16:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60010:519"
       },
       "type": "Feature"
     },
@@ -213,7 +281,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Haškova 5, Brno - Lesná <br><b>Adresa:</b> Haškova 142/5, Lesná, 63800, Brno ",
+        "_note": "<br><b>Poznámka:</b> Haškova 5, Brno - Lesná <br><b>Adresa:</b> Haškova 142/5, Lesná, 63800, Brno <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 16:00",
         "operator": "Česká pošta, s.p.",
@@ -264,7 +332,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Růženec 2, Soběšice <br><b>Adresa:</b> Růženec 624/2, Soběšice, 64400, Brno ",
+        "_note": "<br><b>Poznámka:</b> Růženec 2, Soběšice <br><b>Adresa:</b> Růženec 624/2, Soběšice, 64400, Brno <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 16:00",
         "operator": "Česká pošta, s.p.",
@@ -315,7 +383,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Blažkova 1, Brno - Lesná <br><b>Adresa:</b> Blažkova 13/1, Lesná, 63800, Brno ",
+        "_note": "<br><b>Poznámka:</b> Blažkova 1, Brno - Lesná <br><b>Adresa:</b> Blažkova 13/1, Lesná, 63800, Brno <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 16:00",
         "operator": "Česká pošta, s.p.",
@@ -417,7 +485,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Brno 13 <br><b>Adresa:</b> Zemědělská 649/68, Černá Pole, 61300, Brno ",
+        "_note": "<br><b>Poznámka:</b> pošta Brno 13 <br><b>Adresa:</b> Zemědělská 649/68, Černá Pole, 61300, Brno <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 16:00",
         "operator": "Česká pošta, s.p.",

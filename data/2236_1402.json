@@ -360,6 +360,57 @@
     {
       "geometry": {
         "coordinates": [
+          16.5765732,
+          49.2516329
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Rerychova 16, Brno - Bystrc <br><b>Adresa:</b> Brno-město; Brno; Bystrc <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 16:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60010:330"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.5645607,
+          49.2649165
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kuršova 8, Brno - Bystrc <br><b>Adresa:</b> Brno-město; Brno; Bystrc <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 16:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60010:331"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.5784283,
+          49.2618669
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Ečerova, Brno <br><b>Adresa:</b> Brno-město; Brno; Bystrc <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 16:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60010:332"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           16.5247063,
           49.2222099
         ],
@@ -700,57 +751,6 @@
     {
       "geometry": {
         "coordinates": [
-          16.5840677,
-          49.2384987
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Bankobystrická Billa <br><b>Adresa:</b> Brno-město; Brno; Řečkovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 16:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "60010:420"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.5764912,
-          49.2404554
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Jabloňová 17, Brno - Řečkovice <br><b>Adresa:</b> Brno-město; Brno; Řečkovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 16:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "60010:422"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.5735933,
-          49.240357
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Hudcova 2, Brno . Medlánky <br><b>Adresa:</b> Brno-město; Brno; Medlánky <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 16:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "60010:423"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           16.5704319,
           49.2454162
         ],
@@ -847,57 +847,6 @@
         "collection_times": "Mo-Fr 16:00",
         "operator": "Česká pošta, s.p.",
         "ref": "60010:429"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.5891709,
-          49.2554485
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Jandáskova 15, Brno - Řečkovice <br><b>Adresa:</b> Brno-město; Brno; Řečkovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 16:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "60010:430"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.5864352,
-          49.2508835
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Hapalova 30a, Brno - Řečkovice <br><b>Adresa:</b> Brno-město; Brno; Řečkovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 16:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "60010:431"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.5818765,
-          49.2521493
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Palackého náměstí 10, Brno - Řečkovice <br><b>Adresa:</b> Brno-město; Brno; Řečkovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 16:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "60010:432"
       },
       "type": "Feature"
     },

@@ -9,7 +9,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> chodník před domem <br><b>Adresa:</b> náměstí Svobody 93, 66442, Modřice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 32.87 m",
+        "_note": "<br><b>Poznámka:</b> chodník před domem (městská policie) <br><b>Adresa:</b> náměstí Svobody 90, 66442, Modřice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.68 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -26,7 +26,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> chodník před lékárnou u domova důchodců <br><b>Adresa:</b> Masarykova 1018, 66442, Modřice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 85.16 m",
+        "_note": "<br><b>Poznámka:</b> chodník před lékárnou u domova důchodců <br><b>Adresa:</b> Masarykova 1019, 66442, Modřice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 31.96 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 09:00",
         "operator": "Česká pošta, s.p.",
@@ -54,6 +54,176 @@
     {
       "geometry": {
         "coordinates": [
+          16.6214757,
+          49.1521432
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Chleborádova 3, Brno - Horní Heršpice <br><b>Adresa:</b> Chleborádova 29/3, Dolní Heršpice, 61900, Brno <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 32.77 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 15:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60010:517"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.6191773,
+          49.1448995
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Moravanská 6, Brno - Horní Heršpice <br><b>Adresa:</b> Moravanská 65/6, Přízřenice, 61900, Brno <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.21 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 15:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60010:518"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.6543792,
+          49.1302008
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pěkná 51 samoobsluha, Brno - Chrlice <br><b>Adresa:</b> Pěkná 646/51, Chrlice, 64300, Brno <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 12.75 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 15:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60010:520"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.6567908,
+          49.1315385
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Rebešovická - ČD, Brno - Chrlice <br><b>Adresa:</b> Rebešovická 120/35, Chrlice, 64300, Brno <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 54.04 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 15:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60010:521"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.6531361,
+          49.1362159
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Brno 43 <br><b>Adresa:</b> Chrlické náměstí 1/4, Chrlice, 64300, Brno <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 17.21 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 15:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60010:522"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.6512679,
+          49.1429391
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> plot na zastávce MHD u ZŠ <br><b>Adresa:</b> Požární 32/1, Holásky, 62000, Brno <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 19.2 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 15:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60010:523"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.6475884,
+          49.1514111
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> V Áleji 20, Brno - Holásky <br><b>Adresa:</b> V aleji 113/20, Holásky, 62000, Brno <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 19.78 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 15:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60010:524"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.6562946,
+          49.1516278
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> plot ZŠ u křižovatky Tuřanská/Jiřinová <br><b>Adresa:</b> Tuřanská 199/12, Brněnské Ivanovice, 62000, Brno <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 18.68 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 15:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60010:525"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.65979,
+          49.1487524
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vyšehradská, Brno - Tuřany <br><b>Adresa:</b> Vyšehradská 261/45, Brněnské Ivanovice, 62000, Brno <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 29.1 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 15:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60010:526"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.6669053,
+          49.1464399
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Brno 20 <br><b>Adresa:</b> Tuřanské náměstí 88/3, Tuřany, 62000, Brno <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.46 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 15:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60010:527"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           16.614379,
           49.1289455
         ],
@@ -65,176 +235,6 @@
         "collection_times": "Mo-Fr 11:00",
         "operator": "Česká pošta, s.p.",
         "ref": "60010:6"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.6191833,
-          49.1449462
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Moravanská 6, Brno - Horní Heršpice <br><b>Adresa:</b> Moravanská 65/6, Přízřenice, 61900, Brno ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 16:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "60010:717"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.6211964,
-          49.151912
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Chleborádova 3, Brno - Horní Heršpice <br><b>Adresa:</b> Chleborádova 29/3, Dolní Heršpice, 61900, Brno ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 16:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "60010:718"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.6544405,
-          49.1303082
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Pěkná 51 samoobsluha, Brno - Chrlice <br><b>Adresa:</b> Pěkná 646/51, Chrlice, 64300, Brno ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 16:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "60010:720"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.6568125,
-          49.1320241
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Rebešoviceká - ČD, Brno - Chrlice <br><b>Adresa:</b> Rebešovická 120/35, Chrlice, 64300, Brno ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 16:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "60010:721"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.6529719,
-          49.1361046
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Brno 43 <br><b>Adresa:</b> Chrlické náměstí 1/4, Chrlice, 64300, Brno ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 16:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "60010:722"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.6515747,
-          49.1427572
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Požární 3, Brno - Holásky <br><b>Adresa:</b> Požární 137/3, Holásky, 62000, Brno ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 16:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "60010:723"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.6474464,
-          49.1515627
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> V Áleji 20, Brno - Holásky <br><b>Adresa:</b> V aleji 113/20, Holásky, 62000, Brno ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 16:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "60010:724"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.6551322,
-          49.1522787
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Tuřanská 2, Brno - Tuřany <br><b>Adresa:</b> Tuřanská 74/2, Brněnské Ivanovice, 62000, Brno ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 16:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "60010:725"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.6594771,
-          49.1489154
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Vyšehradská, Brno - Tuřany <br><b>Adresa:</b> Vyšehradská 261/45, Brněnské Ivanovice, 62000, Brno ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 16:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "60010:726"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.6668201,
-          49.1464562
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Brno 20 <br><b>Adresa:</b> Tuřanské náměstí 88/3, Tuřany, 62000, Brno ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 16:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "60010:728"
       },
       "type": "Feature"
     },

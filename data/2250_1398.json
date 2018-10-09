@@ -128,7 +128,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> zastávka ČSAD, Lhota <br><b>Adresa:</b> Vsetín; Kelč; Lhota <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "_note": "<br><b>Poznámka:</b> zastávka ČSAD u č.p. 53, Lhota <br><b>Adresa:</b> Vsetín; Kelč; Lhota <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:15",
         "operator": "Česká pošta, s.p.",
@@ -173,23 +173,6 @@
     {
       "geometry": {
         "coordinates": [
-          17.818956,
-          49.4773529
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Lhota u Choryně <br><b>Adresa:</b> č.p. 56, 75643, Kelč ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:15",
-        "operator": "Česká pošta, s.p.",
-        "ref": "75707:110"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           17.8149532,
           49.4783573
         ],
@@ -207,13 +190,13 @@
     {
       "geometry": {
         "coordinates": [
-          17.8196583,
-          49.4790564
+          17.8191104,
+          49.4786853
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> ZŠ, Kelč <br><b>Adresa:</b> č.p. 229, 75643, Kelč ",
+        "_note": "<br><b>Poznámka:</b> u autobusové zastávky, Kelč <br><b>Adresa:</b> č.p. 231, 75643, Kelč ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 12:20",
         "operator": "Česká pošta, s.p.",

@@ -3,13 +3,13 @@
     {
       "geometry": {
         "coordinates": [
-          17.8640022,
-          49.4932244
+          17.8650948,
+          49.4930692
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> zastávka ČSAD, Kladeruby <br><b>Adresa:</b> č.p. 71, 75643, Kladeruby ",
+        "_note": "<br><b>Poznámka:</b> zastávka ČSAD, Kladeruby <br><b>Adresa:</b> č.p. 51, 75643, Kladeruby ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 09:30",
         "operator": "Česká pošta, s.p.",
@@ -31,6 +31,23 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "75707:109"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.9150352,
+          49.4802734
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> vedle schodů-křižovatka u č.p. 56,Lhota <br><b>Adresa:</b> Lhota 56, 75642, Valašské Meziříčí ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "75707:110"
       },
       "type": "Feature"
     },

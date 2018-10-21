@@ -3,13 +3,13 @@
     {
       "geometry": {
         "coordinates": [
-          15.591771,
-          49.3953629
+          15.5899448,
+          49.3967992
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Jihlava 1 <br><b>Adresa:</b> Masarykovo náměstí 4321/8, 58601, Jihlava ",
+        "_note": "<br><b>Poznámka:</b> pošta Jihlava 1 <br><b>Adresa:</b> Masarykovo náměstí 4321/8, 58601, Jihlava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 207.36 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 17:00",
         "operator": "Česká pošta, s.p.",
@@ -20,13 +20,13 @@
     {
       "geometry": {
         "coordinates": [
-          15.5899448,
-          49.3967992
+          15.5933159,
+          49.3919165
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Hradební 5440/1 - CITY PARK, Jihlava <br><b>Adresa:</b> Hradební 5440/1, 58601, Jihlava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 595.41 m",
+        "_note": "<br><b>Poznámka:</b> Hradební 5440/1 - CITY PARK, Jihlava <br><b>Adresa:</b> Hradební 5440/1, 58601, Jihlava ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 15:05",
         "operator": "Česká pošta, s.p.",
@@ -252,6 +252,23 @@
         "collection_times": "Mo-Fr 14:45",
         "operator": "Česká pošta, s.p.",
         "ref": "58607:22"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.5570637,
+          49.4041087
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> S. K. Neumanna - sídliště, Jihlava <br><b>Adresa:</b> S. K. Neumanna 496/15, Horní Kosov, 58601, Jihlava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 121.66 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 14:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:23"
       },
       "type": "Feature"
     },
@@ -502,7 +519,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Delvita <br><b>Adresa:</b> Havlíčkova 4821/13, 58601, Jihlava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Delvita <br><b>Adresa:</b> Havlíčkova 4821/13, 58601, Jihlava ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 15:50",
         "operator": "Česká pošta, s.p.",

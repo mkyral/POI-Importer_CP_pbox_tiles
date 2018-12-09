@@ -632,6 +632,23 @@
     {
       "geometry": {
         "coordinates": [
+          14.47517,
+          50.0768789
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Soběslavská 2074/68, 130 00n Praha <br><b>Adresa:</b> Soběslavská 2074/68, Vinohrady, 13000, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 16:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "10003:163"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           14.4756501,
           50.0761431
         ],
@@ -825,7 +842,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> náměstí bratří Synků <br><b>Adresa:</b> Na Zámecké 409/6, Nusle, 14000, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 87.91 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Na Zámecké 409/6, Nusle, 14000, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 87.91 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 16:00",
         "operator": "Česká pošta, s.p.",
@@ -910,7 +927,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Ve stínu 10/2103 <br><b>Adresa:</b> Ve stínu 2103/10, Strašnice, 10000, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 32.67 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Ve stínu 2103/10, Strašnice, 10000, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 32.67 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 16:00",
         "operator": "Česká pošta, s.p.",
@@ -1142,23 +1159,6 @@
     {
       "geometry": {
         "coordinates": [
-          14.448496,
-          50.0672176
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Sámova 9 <br><b>Adresa:</b> U vršovického nádraží 1057/22, Vršovice, 10100, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 28.55 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 16:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "10003:488"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           14.452356,
           50.0649215
         ],
@@ -1352,7 +1352,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Průběžná 31 <br><b>Adresa:</b> Srbínská 2009/1a, Strašnice, 10000, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 31.81 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Srbínská 2009/1a, Strašnice, 10000, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 31.81 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 16:00",
         "operator": "Česká pošta, s.p.",
@@ -1488,7 +1488,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Jaromírova 26, (P 21) Praha 2 <br><b>Adresa:</b> Jaromírova 22/26, Nusle, 12800, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.02 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Jaromírova 22/26, Nusle, 12800, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.02 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 16:00",
         "operator": "Česká pošta, s.p.",
@@ -1862,7 +1862,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Praha 28 <br><b>Adresa:</b> Karlovo náměstí 2097/9, Nové Město, 12000, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.22 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Karlovo náměstí 2097/9, Nové Město, 12000, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.22 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 16:00",
         "operator": "Česká pošta, s.p.",
@@ -2678,7 +2678,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Bubens.náb.306 v Hol.tr. pošta Praha 74 <br><b>Adresa:</b> Bubenské nábřeží 306/13, Holešovice, 17000, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 249.19 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Dělnická 213/12, Holešovice, 17000, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 241.82 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 16:00",
         "operator": "Česká pošta, s.p.",
@@ -2916,7 +2916,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Milady Horákové 79 pošta Praha 7 <br><b>Adresa:</b> Milady Horákové 383/79, Holešovice, 17000, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 24.25 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Milady Horákové 383/81, Holešovice, 17000, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 20.78 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 16:00",
         "operator": "Česká pošta, s.p.",
@@ -2933,7 +2933,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Mil. Horákové 79,   pošta Praha 7 <br><b>Adresa:</b> Milady Horákové 383/79, Holešovice, 17000, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 28.07 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Milady Horákové 383/81, Holešovice, 17000, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 23.38 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 16:00",
         "operator": "Česká pošta, s.p.",
@@ -3975,23 +3975,6 @@
         "collection_times": "Mo-Fr 16:00",
         "operator": "Česká pošta, s.p.",
         "ref": "19007:963"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.4856972,
-          50.0999927
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Novovysočanská 30, Praha 9 <br><b>Adresa:</b> Novovysočanská 505/8, Vysočany, 19000, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 29.15 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 16:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "19007:964"
       },
       "type": "Feature"
     },

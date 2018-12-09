@@ -26,7 +26,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> budova OÚ č.p. 33, Příbram na Moravě <br><b>Adresa:</b> č.p. 33, 66484, Příbram na Moravě <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.5 m",
+        "_note": "<br><b>Poznámka:</b> budova OÚ <br><b>Adresa:</b> č.p. 33, 66484, Příbram na Moravě <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.5 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 12:00",
         "operator": "Česká pošta, s.p.",
@@ -43,7 +43,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Zakřany č. 72,  obdhod BYDO <br><b>Adresa:</b> č.p. 72, 66484, Zakřany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.88 m",
+        "_note": "<br><b>Poznámka:</b> obdhod BYDO <br><b>Adresa:</b> č.p. 72, 66484, Zakřany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.88 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 10:00",
         "operator": "Česká pošta, s.p.",
@@ -60,7 +60,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> ZŠ č.p. 92,  Zakřany <br><b>Adresa:</b> č.p. 92, 66484, Zakřany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.81 m",
+        "_note": "<br><b>Poznámka:</b> ZŠ <br><b>Adresa:</b> č.p. 92, 66484, Zakřany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.81 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 10:00",
         "operator": "Česká pošta, s.p.",
@@ -77,7 +77,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> OÚ č.p. 70, Lukovany <br><b>Adresa:</b> č.p. 70, 66484, Lukovany ",
+        "_note": "<br><b>Poznámka:</b> OÚ <br><b>Adresa:</b> č.p. 70, 66484, Lukovany ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 09:00",
         "operator": "Česká pošta, s.p.",
@@ -94,7 +94,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Konzum č.p. 88, Lukovany <br><b>Adresa:</b> č.p. 88, 66484, Lukovany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.12 m",
+        "_note": "<br><b>Poznámka:</b> Konzum <br><b>Adresa:</b> č.p. 88, 66484, Lukovany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.12 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 09:00",
         "operator": "Česká pošta, s.p.",
@@ -111,7 +111,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Vysoké Popovice  u č.p.   131 <br><b>Adresa:</b> č.p. 131, 66484, Vysoké Popovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.27 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 131, 66484, Vysoké Popovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.27 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -184,6 +184,23 @@
         "collection_times": "Mo-Fr 10:00",
         "operator": "Česká pošta, s.p.",
         "ref": "60010:778"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3453338,
+          49.1590164
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> stojan u domu, naproti obch. dům <br><b>Adresa:</b> Masarykova 131, 66411, Zbýšov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60010:780"
       },
       "type": "Feature"
     }

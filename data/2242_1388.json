@@ -118,6 +118,23 @@
         "ref": "78807:89"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.0930711,
+          50.0086544
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Sobotín 99, (stojan) <br><b>Adresa:</b> Šumperk; Sobotín; Sobotín <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:45",
+        "operator": "Česká pošta, s.p.",
+        "ref": "78807:90"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

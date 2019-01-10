@@ -71,34 +71,17 @@
     {
       "geometry": {
         "coordinates": [
-          16.613778,
-          49.3092572
+          16.6125573,
+          49.3101496
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> U Kříže, zast.aut., Vranov u Brna <br><b>Adresa:</b> Brno-venkov; Vranov; Vranov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "_note": "<br><b>Poznámka:</b> U Kříže, zast.aut., Vranov u Brna <br><b>Adresa:</b> Brno-venkov; Vranov; Vranov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 09:00",
         "operator": "Česká pošta, s.p.",
         "ref": "60012:39"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.637137,
-          49.2866181
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> autobusová zastávka, Bor <br><b>Adresa:</b> Brno-venkov; Nedvědice; Nedvědice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "60012:67"
       },
       "type": "Feature"
     },
@@ -116,23 +99,6 @@
         "collection_times": "Mo-Fr 09:00",
         "operator": "Česká pošta, s.p.",
         "ref": "60012:7"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.613778,
-          49.3092572
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> chata, pláž Vranovské přehrady <br><b>Adresa:</b> č.ev. 361, 67102, Štítary <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 10:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "66907:92"
       },
       "type": "Feature"
     },

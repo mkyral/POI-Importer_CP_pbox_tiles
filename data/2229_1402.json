@@ -3,13 +3,30 @@
     {
       "geometry": {
         "coordinates": [
+          15.9264941,
+          49.2288829
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> čekárna na zastávce autobusu <br><b>Adresa:</b> Ptáčov 43, 67401, Třebíč ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:33"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           15.9280624,
           49.2536834
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Trnava 174 - Jednota <br><b>Adresa:</b> č.p. 174, 67401, Trnava ",
+        "_note": "<br><b>Poznámka:</b> Jednota <br><b>Adresa:</b> č.p. 174, 67401, Trnava ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",

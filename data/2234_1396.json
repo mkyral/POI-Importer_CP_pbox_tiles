@@ -3,23 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          16.4255234,
-          49.6083684
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Předměstí č. 3 <br><b>Adresa:</b> Předměstí 1, 56992, Svojanov ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "56707:452"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           16.4296858,
           49.6023666
         ],
@@ -145,7 +128,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta  Olešnice na Moravě <br><b>Adresa:</b> náměstí Míru 92, 67974, Olešnice ",
+        "_note": "<br><b>Poznámka:</b> pošta Olešnice na Moravě <br><b>Adresa:</b> náměstí Míru 92, 67974, Olešnice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -162,7 +145,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Olešnice Veselská <br><b>Adresa:</b> Veselská 532, 67974, Olešnice ",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Veselská 532, 67974, Olešnice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -179,7 +162,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Olešnice - Rovečinské <br><b>Adresa:</b> Rovečínská 2, 67974, Olešnice ",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Rovečínská 2, 67974, Olešnice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 07:45",
         "operator": "Česká pošta, s.p.",
@@ -196,11 +179,28 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Olešnice - Krátká <br><b>Adresa:</b> Krátká 483, 67974, Olešnice ",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Krátká 483, 67974, Olešnice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "68007:265"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.4196271,
+          49.5537661
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Křtěnovská 164, 67974, Olešnice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 07:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68007:266"
       },
       "type": "Feature"
     },
@@ -213,7 +213,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Kněževes <br><b>Adresa:</b> č.p. 7, 67974, Kněževes ",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 7, 67974, Kněževes ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 11:00",
         "operator": "Česká pošta, s.p.",

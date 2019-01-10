@@ -3,6 +3,23 @@
     {
       "geometry": {
         "coordinates": [
+          15.5948154,
+          49.6125614
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> H. Brod, Kyjovská 3187, \"S\" <br><b>Adresa:</b> Kyjovská 3187, 58001, Havlíčkův Brod ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58007:110"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           15.5874425,
           49.6167771
         ],
@@ -105,13 +122,13 @@
     {
       "geometry": {
         "coordinates": [
-          15.6051287,
-          49.6613225
+          15.6040308,
+          49.6607819
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Dolní Krupá <br><b>Adresa:</b> č.p. 55, 58271, Dolní Krupá ",
+        "_note": "<br><b>Poznámka:</b> č.p. 30, 58271, Dolní Krupá <br><b>Adresa:</b> č.p. 30, 58271, Dolní Krupá ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",

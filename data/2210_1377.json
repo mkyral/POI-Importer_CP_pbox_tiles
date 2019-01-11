@@ -118,6 +118,23 @@
         "ref": "41007:208"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3114061,
+          50.6389664
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> náves <br><b>Adresa:</b> ; ;  <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:05",
+        "operator": "Česká pošta, s.p.",
+        "ref": "41007:221"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

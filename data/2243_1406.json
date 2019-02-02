@@ -3,6 +3,23 @@
     {
       "geometry": {
         "coordinates": [
+          17.2184964,
+          48.9802285
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Vracov <br><b>Adresa:</b> náměstí Míru 202, 69642, Vracov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69507:124"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           17.1949139,
           49.0132341
         ],
@@ -122,8 +139,8 @@
     {
       "geometry": {
         "coordinates": [
-          17.1652643,
-          48.991068
+          17.1652447,
+          48.9910637
         ],
         "type": "Point"
       },

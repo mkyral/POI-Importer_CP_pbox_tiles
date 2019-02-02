@@ -9,7 +9,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> BODOS - zastávka, Hrádkov <br><b>Adresa:</b> Blansko; Boskovice; Hrádkov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> u zastávky BUS <br><b>Adresa:</b> Hrádkov 25, 68001, Boskovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 22.45 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:10",
         "operator": "Česká pošta, s.p.",
@@ -43,7 +43,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Žďárná <br><b>Adresa:</b> č.p. 10, 67952, Žďárná <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.86 m",
+        "_note": "<br><b>Poznámka:</b> pošta Žďárná <br><b>Adresa:</b> č.p. 10, 67952, Žďárná <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.66 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -60,11 +60,28 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Němčice u Boskovic <br><b>Adresa:</b> č.p. 151, 67951, Němčice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 23.83 m",
+        "_note": "<br><b>Poznámka:</b> pošta Němčice u Boskovic <br><b>Adresa:</b> č.p. 151, 67951, Němčice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 28.16 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "68007:25"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.7318352,
+          49.4868605
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> na křižovatce u autobusové zastávky <br><b>Adresa:</b> č.p. 5, 68001, Velenov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68007:26"
       },
       "type": "Feature"
     },

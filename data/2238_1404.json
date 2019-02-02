@@ -43,7 +43,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Prace <br><b>Adresa:</b> Ponětovská 129, 66458, Prace <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.26 m",
+        "_note": "<br><b>Poznámka:</b> pošta Prace <br><b>Adresa:</b> Ponětovská 129, 66458, Prace <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.49 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 09:00",
         "operator": "Česká pošta, s.p.",
@@ -54,8 +54,8 @@
     {
       "geometry": {
         "coordinates": [
-          16.7178076,
-          49.1011842
+          16.7178651,
+          49.1011227
         ],
         "type": "Point"
       },
@@ -88,8 +88,8 @@
     {
       "geometry": {
         "coordinates": [
-          16.7217323,
-          49.1141686
+          16.7217411,
+          49.1141857
         ],
         "type": "Point"
       },
@@ -105,8 +105,8 @@
     {
       "geometry": {
         "coordinates": [
-          16.7579009,
-          49.1043758
+          16.7579221,
+          49.1043636
         ],
         "type": "Point"
       },
@@ -167,23 +167,6 @@
         "collection_times": "Mo-Fr 08:15",
         "operator": "Česká pošta, s.p.",
         "ref": "60011:8"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.7573738,
-          49.1043476
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Újezd <br><b>Adresa:</b> Brno-venkov; Újezd u Tišnova; Újezd u Tišnova <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:40",
-        "operator": "Česká pošta, s.p.",
-        "ref": "60012:99"
       },
       "type": "Feature"
     },

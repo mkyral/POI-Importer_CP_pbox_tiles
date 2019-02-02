@@ -3,6 +3,23 @@
     {
       "geometry": {
         "coordinates": [
+          17.7582361,
+          49.2818646
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> na autobusové zastávce <br><b>Adresa:</b> Horní konec 61, Velíková, 76314, Zlín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "76607:104"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           17.7903132,
           49.2776962
         ],
@@ -105,13 +122,13 @@
     {
       "geometry": {
         "coordinates": [
-          17.7856706,
-          49.2954094
+          17.7840555,
+          49.2937892
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Kašava - dolní konec, Podhoranka <br><b>Adresa:</b> Zlín; Kašava; Kašava <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "_note": "<br><b>Poznámka:</b> dolní konec, obchod \"Podhoranka\" <br><b>Adresa:</b> č.p. 316, 76319, Kašava ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 09:00",
         "operator": "Česká pošta, s.p.",
@@ -128,7 +145,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Kašava <br><b>Adresa:</b> č.p. 235, 76319, Kašava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 12.67 m",
+        "_note": "<br><b>Poznámka:</b> pošta Kašava <br><b>Adresa:</b> č.p. 235, 76319, Kašava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 16.86 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",

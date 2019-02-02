@@ -3,13 +3,30 @@
     {
       "geometry": {
         "coordinates": [
-          16.1263665,
-          49.3235969
+          16.1160115,
+          49.30516
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Jednota, Ruda <br><b>Adresa:</b> č.p. 5, 59401, Ruda ",
+        "_note": "<br><b>Poznámka:</b> náves, Lhotka <br><b>Adresa:</b> Lhotka 3, 59401, Ruda ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:55",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59402:19"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1237336,
+          49.322472
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jednota, Ruda <br><b>Adresa:</b> č.p. 32, 59401, Ruda ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 10:35",
         "operator": "Česká pošta, s.p.",
@@ -37,13 +54,13 @@
     {
       "geometry": {
         "coordinates": [
-          16.1202506,
-          49.3221103
+          16.1410177,
+          49.3173981
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> dvůr, Křeptov <br><b>Adresa:</b> č.p. 64, 59401, Ruda ",
+        "_note": "<br><b>Poznámka:</b> dvůr, Křeptov <br><b>Adresa:</b> č.p. 42, 59401, Ruda ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 10:15",
         "operator": "Česká pošta, s.p.",
@@ -156,8 +173,8 @@
     {
       "geometry": {
         "coordinates": [
-          16.0951865,
-          49.2878343
+          16.095183,
+          49.2878683
         ],
         "type": "Point"
       },

@@ -9,7 +9,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Lelekovice <br><b>Adresa:</b> Hlavní 75/7, 66431, Lelekovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 12.48 m",
+        "_note": "<br><b>Poznámka:</b> pošta Lelekovice <br><b>Adresa:</b> Hlavní 75/7, 66431, Lelekovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.22 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 10:00",
         "operator": "Česká pošta, s.p.",
@@ -20,8 +20,8 @@
     {
       "geometry": {
         "coordinates": [
-          16.5311295,
-          49.3035417
+          16.5311328,
+          49.3035579
         ],
         "type": "Point"
       },
@@ -43,7 +43,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Jinačovice <br><b>Adresa:</b> č.p. 83, 66434, Jinačovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.57 m",
+        "_note": "<br><b>Poznámka:</b> Partner Jinačovice <br><b>Adresa:</b> č.p. 83, 66434, Jinačovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 13.53 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 09:00",
         "operator": "Česká pošta, s.p.",
@@ -71,13 +71,13 @@
     {
       "geometry": {
         "coordinates": [
-          16.587318,
-          49.290172
+          16.5874272,
+          49.2904409
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> U Křížku, Lelekovice <br><b>Adresa:</b> Brno-venkov; Lelekovice; Lelekovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "_note": "<br><b>Poznámka:</b> zastávka MHD <br><b>Adresa:</b> Poňava 411/73, 66431, Lelekovice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 09:00",
         "operator": "Česká pošta, s.p.",
@@ -88,13 +88,13 @@
     {
       "geometry": {
         "coordinates": [
-          16.5727058,
-          49.2874622
+          16.5721574,
+          49.2875409
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> U Hrazdirů, Lelekovice <br><b>Adresa:</b> Brno-venkov; Lelekovice; Lelekovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "_note": "<br><b>Poznámka:</b> zastávka MHD <br><b>Adresa:</b> Hlavní 558/62, 66431, Lelekovice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 09:00",
         "operator": "Česká pošta, s.p.",
@@ -111,7 +111,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> náměstí, Lelekovice <br><b>Adresa:</b> Brno-venkov; Lelekovice; Lelekovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> zastávka MHD <br><b>Adresa:</b> Poňava 42/1, 66431, Lelekovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 12.92 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 09:00",
         "operator": "Česká pošta, s.p.",
@@ -173,57 +173,6 @@
     {
       "geometry": {
         "coordinates": [
-          16.5300566,
-          49.2987206
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> nám. 1. května 1081/21, 66434, Kuřim ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "60012:43"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.5289098,
-          49.3068998
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> na křižovatce ulic Zborovská/Jungmannova <br><b>Adresa:</b> Jungmannova 873/20, 66434, Kuřim ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "60012:44"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.5375095,
-          49.312127
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> TOS - správní budova <br><b>Adresa:</b> Blanenská 257/29, 66434, Kuřim ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "60012:45"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           16.5390187,
           49.298517
         ],
@@ -258,13 +207,13 @@
     {
       "geometry": {
         "coordinates": [
-          16.5417593,
-          49.2961849
+          16.543453,
+          49.2973714
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> ul.  Rozdělovací, Kuřim <br><b>Adresa:</b> Brno-venkov; Kuřim; Kuřim <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "_note": "<br><b>Poznámka:</b> za rohem u nástěnky na ul. Rozdělovací <br><b>Adresa:</b> Hojerova 1467/2, 66434, Kuřim ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",

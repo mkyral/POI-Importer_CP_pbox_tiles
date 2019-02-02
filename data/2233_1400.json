@@ -54,8 +54,8 @@
     {
       "geometry": {
         "coordinates": [
-          16.2673086,
-          49.379344
+          16.2673297,
+          49.3793354
         ],
         "type": "Point"
       },
@@ -71,13 +71,13 @@
     {
       "geometry": {
         "coordinates": [
-          16.3413989,
-          49.3668063
+          16.343155,
+          49.3664249
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Horní Loučky <br><b>Adresa:</b> Brno-venkov; Horní Loučky; Horní Loučky <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "_note": "<br><b>Poznámka:</b> u telefonní budka a informační tabule <br><b>Adresa:</b> č.p. 20, 59455, Horní Loučky ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 09:00",
         "operator": "Česká pošta, s.p.",
@@ -105,13 +105,13 @@
     {
       "geometry": {
         "coordinates": [
-          16.3139316,
-          49.3465757
+          16.3139799,
+          49.3457016
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Kuřimské Jestřebí <br><b>Adresa:</b> Brno-venkov; Kuřimské Jestřabí; Kuřimské Jestřabí <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "_note": "<br><b>Poznámka:</b> u informační tabule <br><b>Adresa:</b> č.p. 39, 59455, Kuřimské Jestřabí ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 10:30",
         "operator": "Česká pošta, s.p.",
@@ -122,13 +122,13 @@
     {
       "geometry": {
         "coordinates": [
-          16.2970576,
-          49.3455562
+          16.2985668,
+          49.3457806
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Kuřimská Nová Ves <br><b>Adresa:</b> Brno-venkov; Kuřimská Nová Ves; Kuřimská Nová Ves <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "_note": "<br><b>Poznámka:</b> přes cestu u kontejnerů <br><b>Adresa:</b> č.p. 50, 59455, Kuřimská Nová Ves ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 11:00",
         "operator": "Česká pošta, s.p.",
@@ -139,17 +139,34 @@
     {
       "geometry": {
         "coordinates": [
-          16.2991917,
-          49.3310484
+          16.2988365,
+          49.3310811
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Prosatín <br><b>Adresa:</b> Brno-venkov; Kuřimská Nová Ves; Prosatín <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "_note": "<br><b>Poznámka:</b> přes cestu u informační tabule <br><b>Adresa:</b> Prosatín 7, 59455, Kuřimská Nová Ves ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 11:20",
         "operator": "Česká pošta, s.p.",
         "ref": "60012:98"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3217161,
+          49.3658289
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u OÚ přes vedlejší cestu <br><b>Adresa:</b> č.p. 28, 59455, Újezd u Tišnova ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:40",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60012:99"
       },
       "type": "Feature"
     }

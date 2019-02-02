@@ -3,8 +3,8 @@
     {
       "geometry": {
         "coordinates": [
-          16.1490967,
-          50.2101148
+          16.1490919,
+          50.2101218
         ],
         "type": "Point"
       },
@@ -82,6 +82,23 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "51707:423"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1410878,
+          50.1770853
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> bývalý obchod č.p. 3 (nedoručuje se), Ostašovice <br><b>Adresa:</b> Ostašovice 30, 51721, Lično ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51707:424"
       },
       "type": "Feature"
     },

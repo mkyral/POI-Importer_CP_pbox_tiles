@@ -9,7 +9,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Boskovice <br><b>Adresa:</b> Hybešova 1009/1, 68001, Boskovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.82 m",
+        "_note": "<br><b>Poznámka:</b> pošta Boskovice <br><b>Adresa:</b> Hybešova 1009/1, 68001, Boskovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.12 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 16:00",
         "operator": "Česká pošta, s.p.",
@@ -111,7 +111,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> BODOS - zastávka, Újezd u Boskovic <br><b>Adresa:</b> Blansko; Újezd u Boskovic; Újezd u Boskovic <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> autobusová zastávka <br><b>Adresa:</b> č.p. 82, 68001, Újezd u Boskovic <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 26.18 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 12:00",
         "operator": "Česká pošta, s.p.",
@@ -133,23 +133,6 @@
         "collection_times": "Mo-Fr 16:00",
         "operator": "Česká pošta, s.p.",
         "ref": "68007:2"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.6578603,
-          49.4858742
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Němčice u zastávky <br><b>Adresa:</b> Blansko; Velenov; Velenov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 11:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "68007:26"
       },
       "type": "Feature"
     },
@@ -213,11 +196,28 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Komenského - parkoviště, Boskovice <br><b>Adresa:</b> Blansko; Boskovice; Boskovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> parkoviště, křižovatka u Alberta a BUS nádraží <br><b>Adresa:</b> Komenského 2302, 68001, Boskovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 289.61 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 16:00",
         "operator": "Česká pošta, s.p.",
         "ref": "68007:4"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.6588413,
+          49.4893142
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bezručova - Optika, Boskovice <br><b>Adresa:</b> Bezručova 2073/1, 68001, Boskovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 16:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68007:5"
       },
       "type": "Feature"
     },
@@ -230,7 +230,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Masarykovo nám., Boskovice <br><b>Adresa:</b> Blansko; Boskovice; Boskovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Masarykovo náměstí 8/6, 68001, Boskovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 21.42 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 16:00",
         "operator": "Česká pošta, s.p.",
@@ -264,7 +264,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Nemocnice - zastávka BODOS, Boskovice <br><b>Adresa:</b> Blansko; Boskovice; Boskovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> lékárna u nemocnice <br><b>Adresa:</b> Otakara Kubína 45, 68001, Boskovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 21.68 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 11:00",
         "operator": "Česká pošta, s.p.",

@@ -9,7 +9,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Kosmonosy <br><b>Adresa:</b> Debřská 223/1, 29306, Kosmonosy <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 17.33 m",
+        "_note": "<br><b>Poznámka:</b> pošta Kosmonosy <br><b>Adresa:</b> Debřská 223/1, 29306, Kosmonosy <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.56 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 12:00",
         "operator": "Česká pošta, s.p.",
@@ -43,7 +43,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Mladá Boleslav 1 <br><b>Adresa:</b> Komenského náměstí 95/4, Mladá Boleslav II, 29301, Mladá Boleslav <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 35.48 m",
+        "_note": "<br><b>Poznámka:</b> pošta Mladá Boleslav 1 <br><b>Adresa:</b> Komenského náměstí 95/4, Mladá Boleslav II, 29301, Mladá Boleslav <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 29.36 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 15:00",
         "operator": "Česká pošta, s.p.",
@@ -768,57 +768,6 @@
     {
       "geometry": {
         "coordinates": [
-          14.9301509,
-          50.4446724
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> u zastávky <br><b>Adresa:</b> Hradišťská 1031, 29306, Kosmonosy <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 23.65 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "29407:5"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.9257143,
-          50.4406069
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> naproti objektu, u parku na stojanu <br><b>Adresa:</b> Debřská 10/1, 29306, Kosmonosy <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 26.32 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "29407:6"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.9239963,
-          50.44675
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> naproti objektu, na stojanu <br><b>Adresa:</b> Jizerská 929, 29306, Kosmonosy <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 24.98 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "29407:7"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           14.9184851,
           50.4359152
         ],
@@ -830,23 +779,6 @@
         "collection_times": "Mo-Fr 09:00",
         "operator": "Česká pošta, s.p.",
         "ref": "29407:8"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.9265399,
-          50.4369168
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> prodejna, na stojanu <br><b>Adresa:</b> Karla Veselého 646, 29306, Kosmonosy <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 23.48 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "29407:9"
       },
       "type": "Feature"
     }

@@ -173,6 +173,23 @@
     {
       "geometry": {
         "coordinates": [
+          17.6615536,
+          49.0280101
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u novinového stánku na křižovatce <br><b>Adresa:</b> U Plynárny 1476, 68801, Uherský Brod ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68607:158"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           17.6551658,
           49.028538
         ],
@@ -292,8 +309,8 @@
     {
       "geometry": {
         "coordinates": [
-          17.5813114,
-          49.0098699
+          17.58113,
+          49.0098603
         ],
         "type": "Point"
       },
@@ -309,8 +326,8 @@
     {
       "geometry": {
         "coordinates": [
-          17.6476518,
-          49.0235972
+          17.6477419,
+          49.0236335
         ],
         "type": "Point"
       },
@@ -337,23 +354,6 @@
         "collection_times": "Mo-Fr 10:00",
         "operator": "Česká pošta, s.p.",
         "ref": "68607:275"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.6430538,
-          49.0321075
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Na výsluní, u školy, Luhačovice <br><b>Adresa:</b> Zlín; Luhačovice; Luhačovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 10:30",
-        "operator": "Česká pošta, s.p.",
-        "ref": "76607:171"
       },
       "type": "Feature"
     }

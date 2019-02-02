@@ -54,6 +54,23 @@
     {
       "geometry": {
         "coordinates": [
+          18.0139426,
+          49.0771688
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> autobusová zastávka <br><b>Adresa:</b> Mýto 53, Bylnice, 76331, Brumov-Bylnice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "75707:184"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           18.0169362,
           49.0787723
         ],
@@ -82,6 +99,23 @@
         "collection_times": "Mo-Fr 09:30",
         "operator": "Česká pošta, s.p.",
         "ref": "75707:270"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.9374983,
+          49.0384245
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u telefonní budky <br><b>Adresa:</b> Kochavec 71, 76321, Rokytnice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "76607:145"
       },
       "type": "Feature"
     }

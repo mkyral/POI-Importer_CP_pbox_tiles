@@ -11,43 +11,9 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> pošta Břeclav 2 <br><b>Adresa:</b> Břetislavova 1945/1, 69002, Břeclav ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 14:30",
+        "collection_times": "Mo-Fr 12:00",
         "operator": "Česká pošta, s.p.",
         "ref": "69007:1"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.8832444,
-          48.756585
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Břeclav - Bří Mrštíků - poliklinika <br><b>Adresa:</b> Bří. Mrštíků 1081/2, 69002, Břeclav ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 14:30",
-        "operator": "Česká pošta, s.p.",
-        "ref": "69007:10"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.8812907,
-          48.7550453
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Břeclav - Fugnerova obchod <br><b>Adresa:</b> Fügnerova 2074/3, 69002, Břeclav ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 14:30",
-        "operator": "Česká pošta, s.p.",
-        "ref": "69007:11"
       },
       "type": "Feature"
     },
@@ -62,7 +28,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> pošta Břeclav 1 <br><b>Adresa:</b> U Tržiště 814/2, 69002, Břeclav ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 14:30",
+        "collection_times": "Mo-Fr 12:00",
         "operator": "Česká pošta, s.p.",
         "ref": "69007:12"
       },
@@ -79,7 +45,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> prodejna <br><b>Adresa:</b> J. Palacha 443/4, 69002, Břeclav ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 14:30",
+        "collection_times": "Mo-Fr 12:00",
         "operator": "Česká pošta, s.p.",
         "ref": "69007:13"
       },
@@ -156,23 +122,6 @@
     {
       "geometry": {
         "coordinates": [
-          16.9038034,
-          48.751026
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> na křižovatce přes silnici <br><b>Adresa:</b> Lanžhotská 1296/10, 69002, Břeclav ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 14:30",
-        "operator": "Česká pošta, s.p.",
-        "ref": "69007:2"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           16.8953791,
           48.7508348
         ],
@@ -181,7 +130,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Gumotex u hlavního vchodu <br><b>Adresa:</b> Mládežnická 1124/28, 69002, Břeclav ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 14:30",
+        "collection_times": "Mo-Fr 12:00",
         "operator": "Česká pošta, s.p.",
         "ref": "69007:3"
       },
@@ -198,26 +147,9 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Shopping Center <br><b>Adresa:</b> J. Palacha 3197/13, 69002, Břeclav ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 14:30",
+        "collection_times": "Mo-Fr 12:00",
         "operator": "Česká pošta, s.p.",
         "ref": "69007:5"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.8862808,
-          48.7597827
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> u herny <br><b>Adresa:</b> sídl. Dukelských hrdinů 2686/4, 69002, Břeclav ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 14:30",
-        "operator": "Česká pošta, s.p.",
-        "ref": "69007:6"
       },
       "type": "Feature"
     },
@@ -241,40 +173,6 @@
     {
       "geometry": {
         "coordinates": [
-          16.8833723,
-          48.7628908
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> roh domu <br><b>Adresa:</b> Kupkova 380/2, 69002, Břeclav <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 13.17 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 14:30",
-        "operator": "Česká pošta, s.p.",
-        "ref": "69007:7"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.8818174,
-          48.7640038
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> obchod <br><b>Adresa:</b> Veslařská 2956/5, 69002, Břeclav ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 14:30",
-        "operator": "Česká pošta, s.p.",
-        "ref": "69007:8"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           16.8805782,
           48.7528746
         ],
@@ -283,7 +181,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Břeclav - Nemocnice vrátnice <br><b>Adresa:</b> U Nemocnice 3066/1, 69002, Břeclav ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 14:30",
+        "collection_times": "Mo-Fr 12:00",
         "operator": "Česká pošta, s.p.",
         "ref": "69007:9"
       },

@@ -43,7 +43,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Pařížov - BUS, \"S\" <br><b>Adresa:</b> Pařížov 44, 53843, Běstvina <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 55.37 m",
+        "_note": "<br><b>Poznámka:</b> Pařížov - BUS, \"S\" <br><b>Adresa:</b> Pařížov 5, 53843, Běstvina <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.28 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -65,6 +65,23 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "53840:31"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.6438783,
+          49.8149062
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hoješín VTA <br><b>Adresa:</b> Hoješín 40, 53807, Seč ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53840:40"
       },
       "type": "Feature"
     },

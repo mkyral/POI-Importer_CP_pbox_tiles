@@ -9,7 +9,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Pchery-Humny, 5. května 92 <br><b>Adresa:</b> 5. května 92, Humny, 27308, Pchery <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 7.9 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> 5. května 92, Humny, 27308, Pchery <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 7.9 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -111,7 +111,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> U Brodu 348 <br><b>Adresa:</b> U Brodu 348, 27401, Slaný <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 38.06 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> U Brodu 348, 27401, Slaný <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 38.06 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -128,7 +128,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Arbesova ul. 1645/ sídliště/ <br><b>Adresa:</b> Arbesova 1645, 27401, Slaný <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 13.87 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Arbesova 1645, 27401, Slaný <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 13.87 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -145,7 +145,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Rabasova 1714 <br><b>Adresa:</b> Rabasova 1714, 27401, Slaný <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 26.55 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Rabasova 1714, 27401, Slaný <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 26.55 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -162,7 +162,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Plynárenská čp. 162 <br><b>Adresa:</b> Kladno; Slaný; Slaný <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Plynárenská 1531, 27401, Slaný <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 29.04 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -258,13 +258,30 @@
     {
       "geometry": {
         "coordinates": [
+          14.1401414,
+          50.1779085
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u info tabule <br><b>Adresa:</b> Lidická 63, 27341, Cvrčovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "27207:89"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           14.0723307,
           50.199395
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> zast.ČSAD, Hrdlív <br><b>Adresa:</b> Kladno; Hrdlív; Hrdlív <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> BUS <br><b>Adresa:</b> č.p. 57, 27306, Hrdlív <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 18.35 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -298,7 +315,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Třebichovice zast.ČSAD <br><b>Adresa:</b> Kladno; Třebichovice; Třebichovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 165, 27306, Třebichovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 14.56 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",

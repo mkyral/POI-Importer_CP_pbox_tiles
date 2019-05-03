@@ -3,23 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          15.160536,
-          49.8264354
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Velká Skalice 4, náves <br><b>Adresa:</b> Velká Skalice 4, 28401, Zbraslavice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 21.76 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "28000:199"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           15.1794434,
           49.8278022
         ],
@@ -96,7 +79,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> č.p. 4   /kříž/, Krasoňovice <br><b>Adresa:</b> Krasoňovice 4, 28522, Zbraslavice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 50.29 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 10:40",
+        "collection_times": "Mo-Fr 08:30",
         "operator": "Česká pošta, s.p.",
         "ref": "28520:13"
       },
@@ -218,6 +201,23 @@
         "collection_times": "Mo-Fr 10:30",
         "operator": "Česká pošta, s.p.",
         "ref": "28520:72"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.1602825,
+          49.8263281
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Velká Skalice 4, náves <br><b>Adresa:</b> Velká Skalice 4, 28401, Zbraslavice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28520:75"
       },
       "type": "Feature"
     }

@@ -3,23 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          15.2133565,
-          49.8246057
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Štipoklasy 2, zastávka ČSAD /kříž/ <br><b>Adresa:</b> č.p. 2, 28401, Štipoklasy <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 16.4 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "28000:200"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           15.2083545,
           49.8041124
         ],
@@ -133,6 +116,23 @@
         "collection_times": "Mo-Fr 09:30",
         "operator": "Česká pošta, s.p.",
         "ref": "28600:101"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2131513,
+          49.8246706
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Štipoklasy 2, zastávka ČSAD /kříž/ <br><b>Adresa:</b> č.p. 2, 28401, Štipoklasy ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28600:106"
       },
       "type": "Feature"
     },

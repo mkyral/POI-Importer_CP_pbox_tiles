@@ -3,74 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          15.2164104,
-          50.1299225
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Smíšené zboží Opolany čp. 115 <br><b>Adresa:</b> č.p. 115, 28907, Opolany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 13.35 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:30",
-        "operator": "Česká pošta, s.p.",
-        "ref": "28800:52"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.2487426,
-          50.1222001
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Sány <br><b>Adresa:</b> 9. května 209, 28906, Sány <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.33 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:30",
-        "operator": "Česká pošta, s.p.",
-        "ref": "28800:89"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.2413222,
-          50.133298
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> aut.zastávka, Opolánky <br><b>Adresa:</b> Opolánky 12, 28906, Opolany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 19.37 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:30",
-        "operator": "Česká pošta, s.p.",
-        "ref": "28800:90"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.2427773,
-          50.1427055
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> aut.zastávka, Oškobrh čp. 11 <br><b>Adresa:</b> Oškobrh 11, 28906, Opolany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.49 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:30",
-        "operator": "Česká pošta, s.p.",
-        "ref": "28800:91"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           15.2338266,
           50.1571796
         ],
@@ -184,6 +116,74 @@
         "collection_times": "Mo-Fr 08:30",
         "operator": "Česká pošta, s.p.",
         "ref": "28900:41"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2162951,
+          50.1300171
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Smíšené zboží Opolany čp. 115 <br><b>Adresa:</b> č.p. 115, 28907, Opolany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "29000:45"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2486876,
+          50.1221554
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Sány <br><b>Adresa:</b> 9. května 209, 28906, Sány ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "29000:48"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2410821,
+          50.1332165
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> aut.zastávka, Opolánky <br><b>Adresa:</b> Opolánky 12, 28906, Opolany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "29000:49"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2428283,
+          50.1426075
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> aut.zastávka, Oškobrh čp. 11 <br><b>Adresa:</b> Oškobrh 11, 28906, Opolany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "29000:50"
       },
       "type": "Feature"
     }

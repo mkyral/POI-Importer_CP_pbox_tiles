@@ -3,74 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          15.1780285,
-          50.1264376
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> před budovou pošty Libice nad Cidlinou <br><b>Adresa:</b> Husova 4, 28907, Libice nad Cidlinou <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 7.49 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:30",
-        "operator": "Česká pošta, s.p.",
-        "ref": "28800:13"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.1806365,
-          50.1302858
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Libice n.Cidl., Opolanská 262 - potraviny <br><b>Adresa:</b> Opolanská 262, 28907, Libice nad Cidlinou <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.57 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:30",
-        "operator": "Česká pošta, s.p.",
-        "ref": "28800:51"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.2020429,
-          50.1232978
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Smíšené zboží  Kanín čp. 11 <br><b>Adresa:</b> Kanín 11, 28907, Opolany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 7.91 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:30",
-        "operator": "Česká pošta, s.p.",
-        "ref": "28800:53"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.1887413,
-          50.1447107
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Odřepsy č.39 /zastávka/ <br><b>Adresa:</b> č.p. 39, 28907, Odřepsy <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 50.59 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:30",
-        "operator": "Česká pošta, s.p.",
-        "ref": "28800:54"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           15.1231338,
           50.1433738
         ],
@@ -269,6 +201,74 @@
         "collection_times": "Mo-Fr 09:00",
         "operator": "Česká pošta, s.p.",
         "ref": "29000:32"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.1779346,
+          50.1264075
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> před budovou pošty Libice nad Cidlinou <br><b>Adresa:</b> Husova 4, 28907, Libice nad Cidlinou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "29000:43"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.1806378,
+          50.1301998
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Libice n.Cidl., Opolanská 262 - potraviny <br><b>Adresa:</b> Opolanská 262, 28907, Libice nad Cidlinou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "29000:44"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2021059,
+          50.1232393
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Smíšené zboží  Kanín čp. 11 <br><b>Adresa:</b> Kanín 11, 28907, Opolany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "29000:46"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.1880343,
+          50.1447504
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Odřepsy č.39 /zastávka/ <br><b>Adresa:</b> č.p. 39, 28907, Odřepsy ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "29000:47"
       },
       "type": "Feature"
     },

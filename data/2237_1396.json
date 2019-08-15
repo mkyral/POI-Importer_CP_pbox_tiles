@@ -45,7 +45,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Drvalovice - Jednota <br><b>Adresa:</b> Drválovice 6, 67936, Vanovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 4.86 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:35",
+        "collection_times": "Mo-Fr 08:30",
         "operator": "Česká pošta, s.p.",
         "ref": "68007:202"
       },
@@ -184,6 +184,23 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "68007:223"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.6762769,
+          49.5827285
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jednota <br><b>Adresa:</b> č.p. 163, 67937, Borotín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 4.89 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68007:224"
       },
       "type": "Feature"
     }

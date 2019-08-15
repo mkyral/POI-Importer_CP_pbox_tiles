@@ -11,7 +11,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Martínkov, u prodejny <br><b>Adresa:</b> č.p. 132, 67544, Martínkov ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:45",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "67407:210"
       },
@@ -28,7 +28,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> u obchodu <br><b>Adresa:</b> Horky 68, 67526, Želetava ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:40",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "67407:283"
       },
@@ -45,7 +45,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Šašovice 28, 67526, Želetava ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:50",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "67407:284"
       },
@@ -62,9 +62,26 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 5, 67526, Meziříčko ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "67407:285"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.6917305,
+          49.1452652
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u obchodu <br><b>Adresa:</b> Bítovánky 7, 67526, Želetava ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:286"
       },
       "type": "Feature"
     },
@@ -79,7 +96,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> nám. Míru 2, 67526, Želetava ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "67407:289"
       },
@@ -96,7 +113,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Sadová 293, 67526, Želetava ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:10",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "67407:290"
       },
@@ -113,7 +130,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> pošta Želetava <br><b>Adresa:</b> Podolí 143, 67526, Želetava ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 12:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "67407:304"
       },

@@ -43,7 +43,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Libušská-Výletní <br><b>Adresa:</b> Hl. město Praha; Praha; Písnice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> roh Výletní <br><b>Adresa:</b> Libušská 347/140, Libuš, 14200, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 25.93 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 14:00",
         "operator": "Česká pošta, s.p.",
@@ -77,7 +77,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Písnice-masokombinát <br><b>Adresa:</b> Libušská 319/126, Písnice, 14200, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 58.69 m",
+        "_note": "<br><b>Poznámka:</b> BUS Sídliště Písníce <br><b>Adresa:</b> Libušská 319/126, Písnice, 14200, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 58.69 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 14:00",
         "operator": "Česká pošta, s.p.",
@@ -94,7 +94,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Kolarovova _ Zimova <br><b>Adresa:</b> Hl. město Praha; Praha; Kamýk <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> BUS Sídliště Libuš <br><b>Adresa:</b> Papírníkova 1007/2, Kamýk, 14200, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 87.66 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 14:00",
         "operator": "Česká pošta, s.p.",
@@ -111,7 +111,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Levského- Vazovova <br><b>Adresa:</b> Hl. město Praha; Praha; Modřany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> roh Vazovova <br><b>Adresa:</b> Levského 3221/1, Modřany, 14300, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 44.01 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 14:00",
         "operator": "Česká pošta, s.p.",
@@ -128,11 +128,28 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Generála Šišky <br><b>Adresa:</b> Hl. město Praha; Praha; Modřany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> BUS Sídliště Modřany <br><b>Adresa:</b> Vazovova 3229/1, Modřany, 14300, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 715.24 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 14:00",
         "operator": "Česká pošta, s.p.",
         "ref": "10003:304"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.4231457,
+          50.0061029
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> BUS U Libušského potoka <br><b>Adresa:</b> Nikoly Vapcarova 3273/6, Modřany, 14300, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 14:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "10003:306"
       },
       "type": "Feature"
     },
@@ -196,7 +213,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Čs.exilu - Platonova <br><b>Adresa:</b> Semická 2026/14, Modřany, 14300, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 66.47 m",
+        "_note": "<br><b>Poznámka:</b> BUS Platónova <br><b>Adresa:</b> Semická 2026/14, Modřany, 14300, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 66.47 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 14:00",
         "operator": "Česká pošta, s.p.",
@@ -224,13 +241,13 @@
     {
       "geometry": {
         "coordinates": [
-          14.4159498,
-          50.0071179
+          14.4180302,
+          49.9989354
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Čs.exilu <br><b>Adresa:</b> Hl. město Praha; Praha; Modřany <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "_note": "<br><b>Poznámka:</b> BUS Platónova v ul Čs.exilu <br><b>Adresa:</b> Platónova 2158/1a, Modřany, 14300, Praha ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 14:00",
         "operator": "Česká pošta, s.p.",
@@ -247,7 +264,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> U Olšiček <br><b>Adresa:</b> ; ;  <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> U Olšiček <br><b>Adresa:</b> Hájíčkova 61, Točná, 14300, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 14.58 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 14:00",
         "operator": "Česká pošta, s.p.",
@@ -298,7 +315,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> náměstí Antonína Pecáka, u autobusové zastávky <br><b>Adresa:</b> Hl. město Praha; Praha; Točná <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> BUS Točná <br><b>Adresa:</b> náměstí Antonína Pecáka 7, Točná, 14300, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 31.91 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 14:00",
         "operator": "Česká pošta, s.p.",

@@ -11,7 +11,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Jeronýmova <br><b>Adresa:</b> Hochmanova 1150, 41301, Roudnice nad Labem ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 13:15",
+        "collection_times": "Mo-Fr 12:00",
         "operator": "Česká pošta, s.p.",
         "ref": "41007:300"
       },
@@ -28,7 +28,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Michálkova 1670, 41301, Roudnice nad Labem ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 13:15",
+        "collection_times": "Mo-Fr 12:00",
         "operator": "Česká pošta, s.p.",
         "ref": "41007:302"
       },
@@ -45,7 +45,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Komenského 960, 41301, Roudnice nad Labem ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 13:30",
+        "collection_times": "Mo-Fr 12:00",
         "operator": "Česká pošta, s.p.",
         "ref": "41007:303"
       },
@@ -62,7 +62,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Vrchlického 1627, 41301, Roudnice nad Labem ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 13:30",
+        "collection_times": "Mo-Fr 12:00",
         "operator": "Česká pošta, s.p.",
         "ref": "41007:304"
       },
@@ -79,7 +79,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Bořivojova <br><b>Adresa:</b> Stavbařů 1783, 41301, Roudnice nad Labem ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 13:30",
+        "collection_times": "Mo-Fr 12:00",
         "operator": "Česká pošta, s.p.",
         "ref": "41007:305"
       },
@@ -96,7 +96,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Alej 17.listopadu, Roudnice n.L. <br><b>Adresa:</b> Alej 17. listopadu 1762, 41301, Roudnice nad Labem ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 13:30",
+        "collection_times": "Mo-Fr 12:00",
         "operator": "Česká pošta, s.p.",
         "ref": "41007:306"
       },
@@ -113,9 +113,26 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Žižkova 766, 41301, Roudnice nad Labem ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 13:45",
+        "collection_times": "Mo-Fr 12:00",
         "operator": "Česká pošta, s.p.",
         "ref": "41007:307"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2517231,
+          50.4203521
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Barákova <br><b>Adresa:</b> Špindlerova třída 794, 41301, Roudnice nad Labem ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "41007:308"
       },
       "type": "Feature"
     },
@@ -130,7 +147,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> stojan <br><b>Adresa:</b> V Uličkách 2576, 41301, Roudnice nad Labem ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 13:15",
+        "collection_times": "Mo-Fr 12:00",
         "operator": "Česká pošta, s.p.",
         "ref": "41007:310"
       },
@@ -147,7 +164,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> stojan naproti <br><b>Adresa:</b> Na Hamráčku 30, 41301, Kyškovice ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 11:00",
+        "collection_times": "Mo-Fr 09:00",
         "operator": "Česká pošta, s.p.",
         "ref": "41007:337"
       },
@@ -164,7 +181,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> obchod, stojan <br><b>Adresa:</b> č.p. 43, 41301, Kyškovice ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 11:00",
+        "collection_times": "Mo-Fr 09:00",
         "operator": "Česká pošta, s.p.",
         "ref": "41007:338"
       },
@@ -317,7 +334,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> pošta Roudnice nad Labem <br><b>Adresa:</b> Husovo náměstí 69, 41301, Roudnice nad Labem ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 14:15",
+        "collection_times": "Mo-Fr 12:00",
         "operator": "Česká pošta, s.p.",
         "ref": "41007:445"
       },

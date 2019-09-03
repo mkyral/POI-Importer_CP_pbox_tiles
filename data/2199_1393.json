@@ -11,7 +11,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Globus <br><b>Adresa:</b> č.p. 385, 33017, Chotíkov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 113.45 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 15:00; Sa 11:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "30071:122"
       },
@@ -28,7 +28,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Plzeň, Toužimská 22 <br><b>Adresa:</b> Toužimská 1690/22, Bolevec, 32300, Plzeň <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 18.62 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 15:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "30071:123"
       },
@@ -45,7 +45,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Plzeň, Toužimská 6 <br><b>Adresa:</b> Toužimská 1717/6, Bolevec, 32300, Plzeň <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 12.0 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 15:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "30071:124"
       },
@@ -62,7 +62,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Plzeň, Slupská <br><b>Adresa:</b> Slupská 1158/5, Severní Předměstí, 32300, Plzeň <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 22.07 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 15:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "30071:130"
       },
@@ -79,7 +79,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Plzeň, Vrbovecká - v průchodu <br><b>Adresa:</b> Vrbovecká 1243/6, Severní Předměstí, 32300, Plzeň <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 17.97 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 15:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "30071:131"
       },
@@ -96,7 +96,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Plzeň, Strážnická 24 <br><b>Adresa:</b> Strážnická 1007/24, Severní Předměstí, 32300, Plzeň <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 16.38 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 15:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "30071:132"
       },
@@ -113,26 +113,9 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> pošta Plzeň 10 <br><b>Adresa:</b> Brněnská 967/24, Severní Předměstí, 32300, Plzeň <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 39.25 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 15:00; Sa 11:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "30071:133"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.3588207,
-          49.7610969
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Plzeň, Brněnská 3 <br><b>Adresa:</b> Brněnská 949/3, Severní Předměstí, 32300, Plzeň <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 20.1 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 15:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "30071:134"
       },
       "type": "Feature"
     },
@@ -147,7 +130,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Plzeň, Brněnská - bývalá konečná autobusu <br><b>Adresa:</b> Plzeň-město; Plzeň; Severní Předměstí <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 15:00; Sa 11:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "30071:135"
       },
@@ -394,23 +377,6 @@
     {
       "geometry": {
         "coordinates": [
-          13.3479808,
-          49.742549
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Plzeň, Domažlická, sokolovna - dočasně sejmuta <br><b>Adresa:</b> Domažlická 308/9, Skvrňany, 31800, Plzeň <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 18.64 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 15:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "30071:71"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           13.3206941,
           49.7336303
         ],
@@ -419,7 +385,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> pošta Plzeň 14 <br><b>Adresa:</b> Domažlická 1010/178, Skvrňany, 31800, Plzeň <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 21.89 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 15:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "30071:72"
       },
@@ -436,7 +402,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Plzeň, T.Brzkové-K.Steinera roh <br><b>Adresa:</b> Karla Steinera 910/7, Skvrňany, 31800, Plzeň <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 125.59 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 15:00; Sa 11:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "30071:73"
       },
@@ -453,7 +419,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> pošta Plzeň 18 <br><b>Adresa:</b> Macháčkova 926/22, Skvrňany, 31800, Plzeň ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 15:00; Sa 11:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "30071:74"
       },
@@ -470,7 +436,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Plzeň, Vojanova - konečná tramvaje č. 2 <br><b>Adresa:</b> Plzeň-město; Plzeň; Skvrňany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 15:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "30071:75"
       },
@@ -487,7 +453,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> T. Brzkové Penny Market - ze zadu <br><b>Adresa:</b> Terezie Brzkové 767/60, Skvrňany, 31800, Plzeň <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 30.91 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 15:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "30071:76"
       },
@@ -504,7 +470,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Vejprnická internáty <br><b>Adresa:</b> Vejprnická 484/95, Skvrňany, 31800, Plzeň <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 20.33 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 15:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "30071:78"
       },
@@ -521,7 +487,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Plzeň, roh Křimická, Tichá <br><b>Adresa:</b> Tichá 712/2, Skvrňany, 31800, Plzeň <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 18.37 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 15:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "30071:79"
       },
@@ -538,7 +504,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Plzeň, Vejprnická 8 <br><b>Adresa:</b> Vejprnická 770/8, Skvrňany, 31800, Plzeň <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 24.27 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 15:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "30071:80"
       },
@@ -555,7 +521,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Plzeň, Chebská 15 <br><b>Adresa:</b> Chebská 518/15, Křimice, 32200, Plzeň ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 15:00; Sa 11:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "30071:81"
       },
@@ -572,7 +538,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Plzeň, Tesco - Borská pole <br><b>Adresa:</b> U Letiště 1074/2, Skvrňany, 30100, Plzeň <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 118.48 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 15:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "30071:9"
       },

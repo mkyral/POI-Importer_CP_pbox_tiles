@@ -343,17 +343,51 @@
     {
       "geometry": {
         "coordinates": [
-          17.6729674,
-          49.2377892
+          17.6680345,
+          49.2416287
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Podlesí - obchod, Zlín <br><b>Adresa:</b> Podlesí II 5194, 76005, Zlín ",
+        "_note": "<br><b>Poznámka:</b> na autobusové zast. \"Česká\" u novinového stánku <br><b>Adresa:</b> Moravská 4781, 76005, Zlín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 15:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "76607:35"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.6755653,
+          49.2400529
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Zlín 6 <br><b>Adresa:</b> Podlesí IV 5349, 76005, Zlín ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 15:00",
         "operator": "Česká pošta, s.p.",
         "ref": "76607:37"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.6724842,
+          49.2366509
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> před domem na křižovatce <br><b>Adresa:</b> Na Honech I 4905, 76005, Zlín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 15:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "76607:38"
       },
       "type": "Feature"
     },
@@ -370,24 +404,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 15:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76607:38"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.6680345,
-          49.2416287
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> na autobusové zastávce \"Česká\" u novinového stánku <br><b>Adresa:</b> Moravská 4781, 76005, Zlín ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 15:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "76607:40"
+        "ref": "76607:39"
       },
       "type": "Feature"
     },

@@ -179,7 +179,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> obchod, Holešín <br><b>Adresa:</b> Holešín 71, 67902, Rájec-Jestřebí <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 55.87 m",
+        "_note": "<br><b>Poznámka:</b> obchod, Holešín <br><b>Adresa:</b> Holešín 32, 67902, Rájec-Jestřebí <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 16.66 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -207,13 +207,30 @@
     {
       "geometry": {
         "coordinates": [
-          16.6482858,
-          49.386088
+          16.6326633,
+          49.3843722
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Horní Lhota.obchod <br><b>Adresa:</b> Horní Lhota 106, 67801, Blansko ",
+        "_note": "<br><b>Poznámka:</b> Dolní Lhota-obchod <br><b>Adresa:</b> Dolní Lhota 165, 67801, Blansko <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68007:66"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.6491078,
+          49.3842125
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Horní Lhota.obchod <br><b>Adresa:</b> Horní Lhota 18, 67801, Blansko ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 09:00",
         "operator": "Česká pošta, s.p.",

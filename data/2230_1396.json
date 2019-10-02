@@ -62,7 +62,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> pošta Nové Město na Moravě <br><b>Adresa:</b> Masarykova 1492, 59231, Nové Město na Moravě ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 16:00",
+        "collection_times": "Mo-Fr 15:00",
         "operator": "Česká pošta, s.p.",
         "ref": "59230:1"
       },
@@ -79,7 +79,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> COOP <br><b>Adresa:</b> Žďárská 61, 59231, Nové Město na Moravě ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 10:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "59230:10"
       },
@@ -96,7 +96,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> rychta, Maršovice <br><b>Adresa:</b> Maršovice 80, 59231, Nové Město na Moravě ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 10:20",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "59230:11"
       },
@@ -113,7 +113,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> autobusová zastávka, Rokytno <br><b>Adresa:</b> Rokytno 11, 59231, Nové Město na Moravě ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:15",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "59230:12"
       },
@@ -130,7 +130,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Vratislavovo náměstí 3, 59231, Nové Město na Moravě ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 15:30",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "59230:2"
       },
@@ -147,7 +147,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> prodejna, Vlachovice <br><b>Adresa:</b> č.p. 20, 59231, Vlachovice ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:30",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "59230:20"
       },
@@ -164,7 +164,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> autobusová zastávka, Jiříkovice <br><b>Adresa:</b> Jiříkovice 6, 59231, Nové Město na Moravě <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 17.56 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 12:30",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "59230:21"
       },
@@ -181,7 +181,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> autobusová zastávka, Radňovice <br><b>Adresa:</b> č.p. 52, 59231, Radňovice ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 12:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "59230:22"
       },
@@ -198,7 +198,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> hotel PAVLA, Sýkovec Nové Město na Moravě <br><b>Adresa:</b> č.ev. 25, 59231, Vlachovice ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:50",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "59230:27"
       },
@@ -232,9 +232,26 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> ENPEKA <br><b>Adresa:</b> Drobného 729, 59231, Nové Město na Moravě ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 10:30",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "59230:5"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0707693,
+          49.569948
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Brožkův kopec, Bělisko <br><b>Adresa:</b> Lesní 300, 59231, Nové Město na Moravě ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59230:7"
       },
       "type": "Feature"
     },
@@ -249,7 +266,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> nemocnice - vrátnice, Nové Město na Moravě <br><b>Adresa:</b> Žďárská 720, 59231, Nové Město na Moravě ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 10:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "59230:9"
       },

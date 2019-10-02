@@ -3,6 +3,23 @@
     {
       "geometry": {
         "coordinates": [
+          16.0440301,
+          49.6297668
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Budova RS, Medlov <br><b>Adresa:</b> č.p. 122, 59204, Fryšava pod Žákovou horou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59230:14"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           16.034265,
           49.6140134
         ],
@@ -11,7 +28,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> OÚ, Tři Studně <br><b>Adresa:</b> č.p. 44, 59204, Tři Studně ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:30",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "59230:28"
       },
@@ -28,7 +45,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> OÚ, Tři Studně <br><b>Adresa:</b> č.p. 25, 59204, Tři Studně ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:55",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "59230:29"
       },
@@ -45,7 +62,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> autobusová zastávka, rozcestí Medlov <br><b>Adresa:</b> č.p. 143, 59204, Fryšava pod Žákovou horou ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:15",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "59230:32"
       },
@@ -62,7 +79,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> zast. ZDAR, Kadov <br><b>Adresa:</b> č.p. 18, 59203, Kadov ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:30",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "59230:35"
       },
@@ -79,7 +96,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Partner Fryšava pod Žákovou horou <br><b>Adresa:</b> č.p. 9999, 59204, Fryšava pod Žákovou horou ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:30",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "59230:68"
       },

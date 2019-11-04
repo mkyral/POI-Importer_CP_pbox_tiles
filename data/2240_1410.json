@@ -62,7 +62,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Na Pěšině 2842/13, 69003, Břeclav ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 10:10",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "69007:14"
       },
@@ -79,43 +79,9 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> obchod TPH <br><b>Adresa:</b> Lidická 3007, 69003, Břeclav <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 44.16 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 10:05",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "69007:15"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.8942816,
-          48.7757826
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> roh ulice Vinohradní a Lidická <br><b>Adresa:</b> Vinohradní 3045/2a, 69003, Břeclav ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 10:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "69007:16"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.8852816,
-          48.7739892
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Gen. Šimka 1565/51, 69003, Břeclav ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 10:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "69007:17"
       },
       "type": "Feature"
     },

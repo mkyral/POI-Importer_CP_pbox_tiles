@@ -20,23 +20,6 @@
     {
       "geometry": {
         "coordinates": [
-          17.3137195,
-          49.5335
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Grygov, Komenského 221 (Genoservis-stojan) <br><b>Adresa:</b> Komenského 221, 78373, Grygov ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "77072:117"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           17.2578913,
           49.5097902
         ],
@@ -130,7 +113,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Pošta Grygov <br><b>Adresa:</b> U Parku 119, 78373, Grygov ",
         "amenity": "post_box",
-        "collection_times": "Mo 15:15; Tu 15:15; We 15:15; Th 15:15; Fr 11:30",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "77072:195"
       },
@@ -147,7 +130,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Pošta Charváty <br><b>Adresa:</b> č.p. 3, 78375, Charváty ",
         "amenity": "post_box",
-        "collection_times": "Mo 15:50; Tu 10:10; We 15:50; Th 10:10; Fr 15:50",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "77072:196"
       },

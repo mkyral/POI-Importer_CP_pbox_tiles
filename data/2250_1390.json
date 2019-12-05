@@ -37,6 +37,23 @@
     {
       "geometry": {
         "coordinates": [
+          17.83609,
+          49.9222086
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Slavkov u Opavy (stojan) <br><b>Adresa:</b> Ludvíka Svobody 25, 74757, Slavkov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74907:191"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           17.8088931,
           49.9379254
         ],
@@ -133,23 +150,6 @@
         "collection_times": "Mo-Fr 09:30",
         "operator": "Česká pošta, s.p.",
         "ref": "74907:214"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.83609,
-          49.9222086
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Pošta Slavkov u Opavy (stojan) <br><b>Adresa:</b> Ludvíka Svobody 25, 74757, Slavkov ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 15:45",
-        "operator": "Česká pošta, s.p.",
-        "ref": "74907:221"
       },
       "type": "Feature"
     },

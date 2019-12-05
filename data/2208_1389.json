@@ -179,7 +179,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Slavašovská <br><b>Adresa:</b> Vojanova 783, Beroun-Závodí, 26601, Beroun <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 652.47 m",
+        "_note": "<br><b>Poznámka:</b> u závor <br><b>Adresa:</b> Slavašovská 258/2, Beroun-Závodí, 26601, Beroun <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 26.68 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 15:00",
         "operator": "Česká pošta, s.p.",
@@ -252,6 +252,23 @@
         "collection_times": "Mo-Fr 15:00",
         "operator": "Česká pošta, s.p.",
         "ref": "17704:222"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.0992342,
+          49.9961545
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> BUS Lhotka u Berouna, náves <br><b>Adresa:</b> Lhotka u Berouna 10, 26601, Chyňava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 25.22 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "17704:226"
       },
       "type": "Feature"
     },

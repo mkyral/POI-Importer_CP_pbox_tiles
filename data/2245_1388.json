@@ -11,7 +11,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Stará Rudná,(stojan u obchodu)čp.194,Rudná p.Prad. <br><b>Adresa:</b> Stará Rudná 194, 79331, Rudná pod Pradědem ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "79207:2"
       },
@@ -71,23 +71,6 @@
     {
       "geometry": {
         "coordinates": [
-          17.3155288,
-          50.012337
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Ferrum Form,u čp.13,Malá Morávka (před vstupem) <br><b>Adresa:</b> Bruntál; Malá Morávka; Malá Morávka <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "79207:51"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           17.3995109,
           50.046545
         ],
@@ -96,7 +79,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Pošta Světlá Hora <br><b>Adresa:</b> Světlá 340, 79331, Světlá Hora ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 15:15",
+        "collection_times": "Mo-Fr 14:30",
         "operator": "Česká pošta, s.p.",
         "ref": "79207:510"
       },
@@ -113,7 +96,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Pošta  Andělská Hora (stojan) <br><b>Adresa:</b> č.p. 197, 79331, Andělská Hora <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 13.57 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "79207:511"
       },

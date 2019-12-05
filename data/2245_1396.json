@@ -156,23 +156,6 @@
     {
       "geometry": {
         "coordinates": [
-          17.390075,
-          49.5874127
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Přáslavice 137 (stojan) <br><b>Adresa:</b> č.p. 137, 78354, Přáslavice ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "77072:157"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           17.3900358,
           49.5860981
         ],
@@ -232,7 +215,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Přáslavice 23, Partner (stojan) <br><b>Adresa:</b> č.p. 23, 78354, Přáslavice ",
         "amenity": "post_box",
-        "collection_times": "Mo 17:00; Tu 16:00; We 17:00; Th 16:00; Fr 13:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "77072:177"
       },
@@ -249,7 +232,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Velká Bystřice, Zámecké náměstí 736, pošta <br><b>Adresa:</b> Zámecké náměstí 736, 78353, Velká Bystřice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.36 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 16:15",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "77072:59"
       },

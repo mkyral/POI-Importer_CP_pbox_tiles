@@ -156,13 +156,13 @@
     {
       "geometry": {
         "coordinates": [
-          17.6881921,
-          49.2309336
+          17.6887252,
+          49.2308069
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Zálešná V, Zlín, blízko obchodu <br><b>Adresa:</b> Zálešná V 1183, 76001, Zlín ",
+        "_note": "<br><b>Poznámka:</b> Zálešná V, Zlín, blízko obchodu <br><b>Adresa:</b> Zálešná VI 1194, 76001, Zlín ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 15:00",
         "operator": "Česká pošta, s.p.",
@@ -439,6 +439,23 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "76607:42"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.7013974,
+          49.2116568
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jaroslavice , u autoservisu, Zlín <br><b>Adresa:</b> Anenská 245, Jaroslavice, 76001, Zlín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "76607:46"
       },
       "type": "Feature"
     },

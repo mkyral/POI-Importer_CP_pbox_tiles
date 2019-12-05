@@ -37,6 +37,23 @@
     {
       "geometry": {
         "coordinates": [
+          16.4137442,
+          49.4048045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> nám. Palackého 72, 67923, Lomnice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60012:138"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           16.4120463,
           49.4064378
         ],
@@ -88,13 +105,13 @@
     {
       "geometry": {
         "coordinates": [
-          16.3998428,
-          49.3934457
+          16.3997182,
+          49.3932616
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> u autobusové zastávky <br><b>Adresa:</b> Brusná 2, 67923, Lomnice ",
+        "_note": "<br><b>Poznámka:</b> u autobusové zastávky <br><b>Adresa:</b> Brusná 2, 67923, Lomnice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 22.38 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 09:00",
         "operator": "Česká pošta, s.p.",

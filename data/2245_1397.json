@@ -71,23 +71,6 @@
     {
       "geometry": {
         "coordinates": [
-          17.3441528,
-          49.5207435
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Krčmaň, Náves 15, kaplička (stojan) <br><b>Adresa:</b> Olomouc; Krčmaň; Krčmaň <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "77072:107"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           17.344162,
           49.5206172
         ],
@@ -133,23 +116,6 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "77072:163"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.3813502,
-          49.5274987
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Suchonice za č.p. 36, u obchodu (stojan) <br><b>Adresa:</b> Olomouc; Suchonice; Suchonice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "77072:164"
       },
       "type": "Feature"
     },
@@ -249,7 +215,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Velký Týnec, Na kříbě 59, pošta <br><b>Adresa:</b> Na kříbě 59, 78372, Velký Týnec ",
         "amenity": "post_box",
-        "collection_times": "Mo 16:00; Tu 15:00; We 16:00; Th 15:00; Fr 15:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "77072:176"
       },

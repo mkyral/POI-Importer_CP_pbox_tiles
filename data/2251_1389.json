@@ -3,6 +3,23 @@
     {
       "geometry": {
         "coordinates": [
+          17.870876,
+          49.951362
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jaktař, na stojanu před Přemyslovců 344/6 <br><b>Adresa:</b> Přemyslovců 344/6, Jaktař, 74707, Opava ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74907:188"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           17.8454098,
           49.9854513
         ],
@@ -54,23 +71,6 @@
     {
       "geometry": {
         "coordinates": [
-          17.870876,
-          49.951362
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Jaktař, na stojanu před Přemyslovců 344/6 <br><b>Adresa:</b> Přemyslovců 344/6, Jaktař, 74707, Opava ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "74907:217"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           17.8623378,
           49.9764677
         ],
@@ -79,7 +79,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Pošta Vávrovice <br><b>Adresa:</b> Jantarová 49/40, Vávrovice, 74773, Opava ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 14:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "74907:220"
       },

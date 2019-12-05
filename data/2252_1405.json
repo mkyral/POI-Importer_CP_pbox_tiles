@@ -11,7 +11,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> obchod, Jestřabí <br><b>Adresa:</b> č.p. 128, 76333, Jestřabí ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 10:00",
+        "collection_times": "Mo-Fr 09:00",
         "operator": "Česká pošta, s.p.",
         "ref": "75707:172"
       },
@@ -28,7 +28,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> smíšené zboží, Popov <br><b>Adresa:</b> Popov 109, 76333, Štítná nad Vláří-Popov ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 10:00",
+        "collection_times": "Mo-Fr 09:00",
         "operator": "Česká pošta, s.p.",
         "ref": "75707:173"
       },
@@ -62,26 +62,9 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> autobusová zastávka <br><b>Adresa:</b> Mýto 53, Bylnice, 76331, Brumov-Bylnice ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 10:00",
+        "collection_times": "Mo-Fr 09:00",
         "operator": "Česká pošta, s.p.",
         "ref": "75707:184"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          18.0169362,
-          49.0787723
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> obchod u Machačů <br><b>Adresa:</b> Široká 87, Bylnice, 76331, Brumov-Bylnice ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 10:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "75707:185"
       },
       "type": "Feature"
     },

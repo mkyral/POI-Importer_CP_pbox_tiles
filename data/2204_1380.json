@@ -3,23 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          13.7665105,
-          50.5125625
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Chouč 22, 41804, Hrobčice ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "40371:476"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           13.7827358,
           50.5047892
         ],
@@ -28,26 +11,9 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Mirošovice 22, 41804, Hrobčice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 36.3 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "40371:477"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.7901373,
-          50.4792998
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> zastávka BUS <br><b>Adresa:</b> Teplice; Měrunice; Žichov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "40371:480"
       },
       "type": "Feature"
     },

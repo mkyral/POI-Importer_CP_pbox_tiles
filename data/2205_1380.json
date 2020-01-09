@@ -3,23 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          13.8033772,
-          50.5031418
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Tvrdín 20, 41804, Hrobčice ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "40371:478"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           13.8171448,
           50.4782037
         ],
@@ -28,7 +11,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 67, 41804, Měrunice ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 10:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "40371:481"
       },
@@ -45,26 +28,9 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Červený Újezd 11, 41804, Hrobčice ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 10:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "40371:482"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.8371347,
-          50.5035347
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> zastávka BUS <br><b>Adresa:</b> Teplice; Hrobčice; Mukov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 10:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "40371:483"
       },
       "type": "Feature"
     },

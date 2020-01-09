@@ -122,6 +122,23 @@
     {
       "geometry": {
         "coordinates": [
+          17.2841106,
+          49.5888375
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Olomouc, Hodolany, Ostravská 662/37 (stojan) <br><b>Adresa:</b> Olomouc; Olomouc; Hodolany <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 17:20",
+        "operator": "Česká pošta, s.p.",
+        "ref": "77072:18"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           17.2370715,
           49.5979259
         ],
@@ -706,7 +723,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Olomouc, Nová Ulice,tř. Svornosti 1048/41 (stojan) <br><b>Adresa:</b> Olomouc; Olomouc; Nová Ulice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Olomouc, Nová Ulice,tř. Svornosti 916/35 (stojan) <br><b>Adresa:</b> Olomouc; Olomouc; Nová Ulice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 17:45",
         "operator": "Česká pošta, s.p.",

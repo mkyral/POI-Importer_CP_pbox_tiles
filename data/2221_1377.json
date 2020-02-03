@@ -11,7 +11,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> na čekárně BUS Alšovice, vedle č.p. 60 <br><b>Adresa:</b> Jablonec n. Nis.; Pěnčín; Alšovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 10:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "46307:154"
       },
@@ -28,7 +28,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> čekárna BUS Dupanda- Alšovice, poblíž č.p.210 <br><b>Adresa:</b> Jablonec n. Nis.; Pěnčín; Alšovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 10:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "46307:155"
       },
@@ -45,7 +45,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> zastávka BUS Bratříkov, vedle č.p. 11 <br><b>Adresa:</b> Jablonec n. Nis.; Pěnčín; Bratříkov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 10:30",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "46307:156"
       },
@@ -62,7 +62,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Hasičský dům, Dlouhý <br><b>Adresa:</b> Semily; Záhoří; Dlouhý <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:40",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "51107:173"
       },
@@ -79,7 +79,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Železný Brod, Masarykova 610 <br><b>Adresa:</b> Masarykova 610, 46822, Železný Brod <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 15.13 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 15:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "51107:21"
       },
@@ -96,7 +96,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Železný Brod, Masarykova 172 <br><b>Adresa:</b> Masarykova 172, 46822, Železný Brod <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 15.1 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 15:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "51107:22"
       },
@@ -113,7 +113,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Železný Brod, Malé náměstí 142 <br><b>Adresa:</b> Malé náměstí 142, 46822, Železný Brod <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.87 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 15:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "51107:23"
       },
@@ -130,7 +130,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Železný Brod, Náměstí 3. května 18 <br><b>Adresa:</b> náměstí 3. května 18, 46822, Železný Brod <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 18.85 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 15:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "51107:24"
       },
@@ -147,26 +147,9 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Železný Brod, Nábřeží obránců míru 834 <br><b>Adresa:</b> nábřeží Obránců míru 834, 46822, Železný Brod <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 22.15 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 15:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "51107:25"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.2654296,
-          50.639844
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Železný Brod, Nádraží ČSD <br><b>Adresa:</b> Nádražní 618, 46822, Železný Brod <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 17.23 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 15:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "51107:26"
       },
       "type": "Feature"
     },
@@ -215,7 +198,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> čekárna ČSAD, poblíž Besedice 32, Koberovy <br><b>Adresa:</b> Besedice 32, 46822, Koberovy <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 24.19 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:10",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "51107:30"
       },
@@ -232,7 +215,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> hasičská zbrojnice, Líšný 2.díl 62, Líšný <br><b>Adresa:</b> Líšný 2.díl 62, 46822, Líšný <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 25.47 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:45",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "51107:33"
       },
@@ -249,7 +232,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> stojan u stanoviště LDS, \"AL\" poblíž Prosíčka 9 <br><b>Adresa:</b> Prosíčka 9, 46822, Koberovy <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 26.88 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 10:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "51107:34"
       },
@@ -266,7 +249,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> stojan u zastávky ČSAD vedle Vrát 45, Koberovy <br><b>Adresa:</b> Vrát 45, 46822, Koberovy <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 19.95 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 10:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "51107:35"
       },
@@ -283,7 +266,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> prodejna potravin, Hrubá Horka 81 <br><b>Adresa:</b> Hrubá Horka 81, 46822, Železný Brod <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.02 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 10:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "51107:36"
       },
@@ -317,7 +300,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> čekárna ČSAD u domu Jirkov č.p. 39 <br><b>Adresa:</b> Jirkov 39, 46822, Železný Brod <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 18.8 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:30",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "51107:39"
       },
@@ -334,7 +317,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> čekárna ČSAD, vedle Radčice 100 <br><b>Adresa:</b> č.p. 100, 46822, Radčice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 23.33 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "51107:40"
       },
@@ -368,7 +351,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> prodejna potravin, Bzí 136, Železný Brod <br><b>Adresa:</b> Bzí 136, 46822, Železný Brod <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.84 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:30",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "51107:44"
       },
@@ -385,7 +368,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> zastávka ČSAD naproti Skuhrov, Huntířov 18 <br><b>Adresa:</b> Huntířov 18, 46822, Skuhrov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 23.91 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:20",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "51107:53"
       },
@@ -402,7 +385,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> stojan u zastávky ČSAD vedle Splzov 19, Železný Br <br><b>Adresa:</b> Splzov 19, 46822, Železný Brod <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 22.5 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:30",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "51107:54"
       },
@@ -419,7 +402,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Pošta Železný Brod <br><b>Adresa:</b> Poštovní 404, 46822, Železný Brod <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.7 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 15:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "51107:55"
       },
@@ -436,7 +419,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> pošta Loužnice <br><b>Adresa:</b> č.p. 58, 46822, Loužnice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.77 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "51107:56"
       },
@@ -453,7 +436,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> pošta Huntířov <br><b>Adresa:</b> Huntířov 63, 46822, Skuhrov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.49 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "51107:58"
       },

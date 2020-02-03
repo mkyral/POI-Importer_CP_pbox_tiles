@@ -156,6 +156,23 @@
     {
       "geometry": {
         "coordinates": [
+          18.2206972,
+          49.9347746
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Darkovice <br><b>Adresa:</b> Dlouhá 180/37, 74717, Darkovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "70071:148"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           18.1939984,
           49.9459109
         ],
@@ -181,26 +198,9 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> ČD, Dr. E. Beneše 213/ 26, Hlučín <br><b>Adresa:</b> Dr. Ed. Beneše 213/26, 74801, Hlučín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.91 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 10:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "70071:607"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          18.220718,
-          49.9346842
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Pošta Darkovice <br><b>Adresa:</b> Dlouhá 180/37, 74717, Darkovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.16 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 10:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "70071:613"
       },
       "type": "Feature"
     },
@@ -215,7 +215,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Partner Darkovičky, Kozmická, na čp.242/2 <br><b>Adresa:</b> Kozmická 242/2, Darkovičky, 74801, Hlučín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.85 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 10:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "70071:614"
       },

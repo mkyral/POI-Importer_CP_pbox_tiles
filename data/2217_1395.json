@@ -11,7 +11,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Krasovice 10 <br><b>Adresa:</b> Krasovice 10, 25801, Kondrac ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 11:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "25607:344"
       },
@@ -28,7 +28,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Kondrac 87 <br><b>Adresa:</b> č.p. 87, 25801, Kondrac <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.15 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 11:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "25607:345"
       },
@@ -45,7 +45,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Vracovice 5 <br><b>Adresa:</b> č.p. 5, 25801, Vracovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 44.36 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 10:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "25607:347"
       },
@@ -62,7 +62,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Býkovice 1 <br><b>Adresa:</b> Býkovice 1, 25706, Louňovice pod Blaníkem ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 10:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "25607:365"
       },
@@ -96,7 +96,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Lesáky č.p.4 <br><b>Adresa:</b> Lesáky 4, 25708, Pravonín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 21.58 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:15",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "25607:435"
       },
@@ -113,7 +113,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Karhule č.p.5 <br><b>Adresa:</b> Karhule 5, 25708, Pravonín ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "25607:436"
       },
@@ -150,23 +150,6 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "25607:438"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.8555744,
-          49.6653977
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Ostrov čp.41 <br><b>Adresa:</b> č.p. 41, 25706, Ostrov ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 10:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "26107:39"
       },
       "type": "Feature"
     }

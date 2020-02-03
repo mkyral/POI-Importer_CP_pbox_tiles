@@ -190,6 +190,74 @@
     {
       "geometry": {
         "coordinates": [
+          15.0661788,
+          49.8783487
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nerudova 89, (stojan), Uhl. Janovice <br><b>Adresa:</b> Nerudova 89, 28504, Uhlířské Janovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28500:52"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.0687748,
+          49.8867205
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kolínská 435, u VTA (stojan) Uhl. Janovice <br><b>Adresa:</b> Kolínská 435, 28504, Uhlířské Janovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28500:53"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.0641305,
+          49.8877795
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Okružní 678, pečov. dům(stojan) Uhl. Janovice <br><b>Adresa:</b> Okružní 678, 28504, Uhlířské Janovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28500:54"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.0637245,
+          49.8862442
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Smetanova 483, (stojan), Uhl. Janovice <br><b>Adresa:</b> Smetanova 483, 28504, Uhlířské Janovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28500:55"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           15.0642226,
           49.8809485
         ],
@@ -201,74 +269,6 @@
         "collection_times": "Mo-Fr 08:15",
         "operator": "Česká pošta, s.p.",
         "ref": "28500:6"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.0665878,
-          49.8781897
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Nerudova 89, (stojan), Uhl. Janovice <br><b>Adresa:</b> Nerudova 89, 28504, Uhlířské Janovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 34.24 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "28505:35"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.0685052,
-          49.8868665
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Kolínská 435, u VTA (stojan) Uhl. Janovice <br><b>Adresa:</b> Kolínská 435, 28504, Uhlířské Janovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 25.24 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "28505:36"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.0639119,
-          49.8877864
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Okružní 678, pečov. dům(stojan) Uhl. Janovice <br><b>Adresa:</b> Okružní 678, 28504, Uhlířské Janovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 15.68 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "28505:37"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.0632363,
-          49.8863254
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Smetanova 483, (stojan), Uhl. Janovice <br><b>Adresa:</b> Smetanova 483, 28504, Uhlířské Janovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 36.13 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "28505:38"
       },
       "type": "Feature"
     }

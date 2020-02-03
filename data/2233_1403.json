@@ -11,7 +11,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Partner Ketkovice <br><b>Adresa:</b> č.p. 214, 66491, Ketkovice ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:30",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "60010:16"
       },
@@ -28,7 +28,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> budova OÚ <br><b>Adresa:</b> č.p. 33, 66484, Příbram na Moravě <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.5 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 12:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "60010:160"
       },
@@ -45,7 +45,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> obdhod BYDO <br><b>Adresa:</b> č.p. 72, 66484, Zakřany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.88 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 10:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "60010:162"
       },
@@ -62,7 +62,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> ZŠ <br><b>Adresa:</b> č.p. 92, 66484, Zakřany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.81 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 10:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "60010:163"
       },
@@ -79,7 +79,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> OÚ <br><b>Adresa:</b> č.p. 70, 66484, Lukovany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 139.04 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "60010:164"
       },
@@ -96,7 +96,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Konzum <br><b>Adresa:</b> č.p. 88, 66484, Lukovany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.12 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "60010:165"
       },
@@ -130,43 +130,9 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Partner Vysoké Popovice <br><b>Adresa:</b> č.p. 35, 66484, Vysoké Popovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.15 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "60010:193"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.2640559,
-          49.158803
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> chodník k základní škole u nástěnky <br><b>Adresa:</b> č.p. 99, 66491, Ketkovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 290.15 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:30",
-        "operator": "Česká pošta, s.p.",
-        "ref": "60010:759"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.3436028,
-          49.1563894
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Majrov 174, 66411, Zbýšov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.0 m",
-        "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "60010:777"
+        "ref": "60010:193"
       },
       "type": "Feature"
     },
@@ -181,7 +147,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> parkoviště před domem u telefonní budky <br><b>Adresa:</b> 9. května 93, 66411, Zbýšov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 35.76 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 10:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "60010:778"
       },
@@ -198,7 +164,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> stojan u domu, naproti obch. dům <br><b>Adresa:</b> Masarykova 131, 66411, Zbýšov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 23.36 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 10:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "60010:780"
       },

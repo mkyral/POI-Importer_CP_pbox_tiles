@@ -20,6 +20,23 @@
     {
       "geometry": {
         "coordinates": [
+          13.5668787,
+          49.7867825
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vitinka u čp.1 <br><b>Adresa:</b> Rokycany; Osek; Vitinka <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30072:70"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           13.5768005,
           49.8188544
         ],
@@ -48,6 +65,23 @@
         "collection_times": "Mo-Fr 08:30",
         "operator": "Česká pošta, s.p.",
         "ref": "30072:73"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.5849996,
+          49.8281996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Břasy,Obecní úřad č. 350 <br><b>Adresa:</b> č.p. 350, 33824, Břasy ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30072:74"
       },
       "type": "Feature"
     },

@@ -71,23 +71,6 @@
     {
       "geometry": {
         "coordinates": [
-          15.2929372,
-          50.7384923
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Altman, U Lesíka 557, Tanvald <br><b>Adresa:</b> U Lesíka 567, 46841, Tanvald ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "46307:192"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           15.2674779,
           50.7420778
         ],
@@ -96,7 +79,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> stojan u zast. ČSAD, naproti Údolí Kamenice 313 <br><b>Adresa:</b> Údolí Kamenice 313, 46841, Tanvald <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 31.66 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 13:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "46307:198"
       },
@@ -113,26 +96,9 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> stojan u Kempu Kotlina, Pod Špičákem 650, Tanvald <br><b>Adresa:</b> Pod Špičákem 650, 46841, Tanvald <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 52.34 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "46307:207"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.2191065,
-          50.791184
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> LDS stanoviště Z - Josefův Důl <br><b>Adresa:</b> č.p. 154, 46844, Josefův Důl <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 32.93 m",
-        "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "46307:223"
+        "ref": "46307:207"
       },
       "type": "Feature"
     },
@@ -283,7 +249,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Maxovská silnice naproti 434 u LDS <br><b>Adresa:</b> č.p. 434, 46871, Lučany nad Nisou <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 22.2 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:30",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "46307:245"
       },
@@ -351,7 +317,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Obecní úřad č.p.226, Albrechtice v Jiz. horách <br><b>Adresa:</b> č.p. 226, 46843, Albrechtice v Jizerských horách <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.05 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:30",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "46307:249"
       },
@@ -368,7 +334,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Albrechtice v Jiz.h.624, na zastávce <br><b>Adresa:</b> č.ev. 624, 46843, Albrechtice v Jizerských horách <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 22.29 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:30",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "46307:250"
       },
@@ -385,7 +351,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Obecní úřad Jiřetín p. B. 103, vchod z hl. silnice <br><b>Adresa:</b> č.p. 103, 46843, Jiřetín pod Bukovou <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 32.27 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:30",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "46307:252"
       },
@@ -402,7 +368,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Penzion Permon  613, Albrechtice v Jiz.horách <br><b>Adresa:</b> č.ev. 613, 46843, Albrechtice v Jizerských horách ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "46307:258"
       },

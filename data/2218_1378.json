@@ -20,23 +20,6 @@
     {
       "geometry": {
         "coordinates": [
-          14.9936262,
-          50.5729506
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> u objektu, na stojanu <br><b>Adresa:</b> Sovenice 58, 29413, Chocnějovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 20.59 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "29407:265"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           14.9828792,
           50.5806885
         ],
@@ -65,91 +48,6 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "29407:267"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.9839042,
-          50.6009235
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> zastávka, na stojanu <br><b>Adresa:</b> Buda 8, 29413, Chocnějovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 28.98 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "29407:268"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.9570527,
-          50.5918656
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> hostinec, na budově <br><b>Adresa:</b> Buřínsko 2.díl 6, 29413, Chocnějovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.45 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "29407:269"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.9600202,
-          50.5731106
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> náves, před objektem na stojanu <br><b>Adresa:</b> Podhora 9, 29413, Mohelnice nad Jizerou <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.69 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "29407:270"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.9463634,
-          50.5897021
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> zastávka, na stojanu <br><b>Adresa:</b> Rostkov 4, 29413, Chocnějovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 24.49 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "29407:271"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.9426655,
-          50.5969201
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> u zastávky a vývěsní tabule, na stojanu <br><b>Adresa:</b> Ouč 13, 29413, Chocnějovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 21.19 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "29407:272"
       },
       "type": "Feature"
     },
@@ -198,7 +96,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> OÚ -  Kobyly 17 <br><b>Adresa:</b> č.p. 17, 46345, Kobyly <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 126.4 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:30",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "46307:389"
       },
@@ -215,7 +113,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Prodejna Jednoty, Nechálov 12, Kobyly <br><b>Adresa:</b> č.p. 12, 46345, Kobyly <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 692.44 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:45",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "46307:390"
       },
@@ -232,26 +130,9 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> zastávka BUS Havlovice <br><b>Adresa:</b> Liberec; Kobyly; Havlovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 10:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "46307:391"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.9773503,
-          50.6200157
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> zastávka ČSAD, Libíč 21, Český Dub <br><b>Adresa:</b> Libíč 21, 46343, Český Dub <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 18.79 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "46307:405"
       },
       "type": "Feature"
     },
@@ -269,23 +150,6 @@
         "collection_times": "Mo-Fr 09:30",
         "operator": "Česká pošta, s.p.",
         "ref": "46307:407"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.9603464,
-          50.6191857
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> stojan na rozcestí naproti Lísky E8, Všelibice <br><b>Adresa:</b> Lísky E8, 46348, Všelibice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 27.73 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:45",
-        "operator": "Česká pošta, s.p.",
-        "ref": "46307:422"
       },
       "type": "Feature"
     },

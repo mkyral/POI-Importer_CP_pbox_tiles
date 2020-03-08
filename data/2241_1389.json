@@ -173,13 +173,13 @@
     {
       "geometry": {
         "coordinates": [
-          16.9850452,
-          49.9598483
+          16.9851673,
+          49.9597552
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Šumperk, Uničovská a Čičákova 985/1,křižov(stojan) <br><b>Adresa:</b> Šumperk; Šumperk; Šumperk <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Šumperk, Uničovská a Čičákova 985/1,křižov(stojan) <br><b>Adresa:</b> Šumperk; Šumperk; Šumperk <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -292,13 +292,13 @@
     {
       "geometry": {
         "coordinates": [
-          16.9724896,
-          49.9635498
+          16.9780664,
+          49.9654536
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Šumperk, Slovanská 268/2 <br><b>Adresa:</b> Slovanská 268/2, 78701, Šumperk ",
+        "_note": "<br><b>Poznámka:</b> Šumperk, Slovanská 268/2 <br><b>Adresa:</b> Slovanská 268/2, 78701, Šumperk <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 451.73 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -343,13 +343,13 @@
     {
       "geometry": {
         "coordinates": [
-          17.0007323,
-          49.9676817
+          16.9890056,
+          49.9654595
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Vikýřovice, U Kaple 339 (stojan) <br><b>Adresa:</b> U Kaple 339, 78813, Vikýřovice ",
+        "_note": "<br><b>Poznámka:</b> Vikýřovice, U Kaple 339 (stojan) <br><b>Adresa:</b> U Kaple 339, 78813, Vikýřovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 874.66 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -417,7 +417,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Šumperk, Čajkovského 2089/14 A (stojan) <br><b>Adresa:</b> Čajkovského 2089/14a, 78701, Šumperk ",
+        "_note": "<br><b>Poznámka:</b> Šumperk, Čajkovského 2089/14 A (stojan) <br><b>Adresa:</b> Čajkovského 2089/14a, 78701, Šumperk <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -490,23 +490,6 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "78807:55"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.9704794,
-          49.9657853
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Šumperk, nám. Míru 94/20 <br><b>Adresa:</b> nám. Míru 94/20, 78701, Šumperk ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "78807:6"
       },
       "type": "Feature"
     },

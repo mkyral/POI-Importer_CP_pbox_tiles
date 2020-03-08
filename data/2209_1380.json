@@ -71,6 +71,23 @@
     {
       "geometry": {
         "coordinates": [
+          14.1601312,
+          50.5132131
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Památník-parkoviště <br><b>Adresa:</b> Principova alej 304, 41155, Terezín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 423.43 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "41007:167"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           14.1877135,
           50.5034933
         ],
@@ -167,23 +184,6 @@
         "collection_times": "Mo-Fr 09:00",
         "operator": "Česká pošta, s.p.",
         "ref": "41007:406"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.1509912,
-          50.4933048
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Bohušovice nad Ohří <br><b>Adresa:</b> Husovo náměstí 42, 41156, Bohušovice nad Ohří ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "41007:431"
       },
       "type": "Feature"
     }

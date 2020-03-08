@@ -3,6 +3,23 @@
     {
       "geometry": {
         "coordinates": [
+          13.3588207,
+          49.7610969
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Plzeň 23 <br><b>Adresa:</b> alej Svobody 1274/21, Severní Předměstí, 32300, Plzeň <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 812.31 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30071:104"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           13.3491622,
           49.776749
         ],
@@ -48,6 +65,23 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "30071:124"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.3569883,
+          49.7621309
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Plzeň, Kotíkovská 15 <br><b>Adresa:</b> Kotíkovská 649/15, Severní Předměstí, 32300, Plzeň <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 390.73 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30071:129"
       },
       "type": "Feature"
     },
@@ -411,13 +445,13 @@
     {
       "geometry": {
         "coordinates": [
-          13.327403,
-          49.7446768
+          13.3209954,
+          49.7454096
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Plzeň 18 <br><b>Adresa:</b> Macháčkova 926/22, Skvrňany, 31800, Plzeň ",
+        "_note": "<br><b>Poznámka:</b> pošta Plzeň 18 <br><b>Adresa:</b> Macháčkova 926/22, Skvrňany, 31800, Plzeň <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 467.71 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -428,13 +462,13 @@
     {
       "geometry": {
         "coordinates": [
-          13.3209954,
-          49.7454096
+          13.3230938,
+          49.7467825
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Plzeň, Vojanova - konečná tramvaje č. 2 <br><b>Adresa:</b> Plzeň-město; Plzeň; Skvrňany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Plzeň, Vojanova - konečná tramvaje č. 2 <br><b>Adresa:</b> Plzeň-město; Plzeň; Skvrňany <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",

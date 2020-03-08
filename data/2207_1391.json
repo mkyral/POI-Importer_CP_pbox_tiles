@@ -135,6 +135,23 @@
         "ref": "17704:890"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.9797608,
+          49.8524964
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> ČD nádraží Lochovice <br><b>Adresa:</b> č.p. 213, 26723, Lochovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 771.13 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "17704:894"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

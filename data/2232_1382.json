@@ -105,13 +105,13 @@
     {
       "geometry": {
         "coordinates": [
-          16.2324034,
-          50.3585855
+          16.2449391,
+          50.3566888
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> KOVAP <br><b>Adresa:</b> Doly 180, 54922, Nový Hrádek ",
+        "_note": "<br><b>Poznámka:</b> KOVAP <br><b>Adresa:</b> Doly 180, 54922, Nový Hrádek <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 914.26 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -167,23 +167,6 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "54707:410"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.1883212,
-          50.3456802
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> zastávka BUS <br><b>Adresa:</b> Blažkov 3, 54901, Slavoňov ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "54707:411"
       },
       "type": "Feature"
     }

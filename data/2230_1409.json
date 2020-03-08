@@ -173,13 +173,13 @@
     {
       "geometry": {
         "coordinates": [
-          16.0481535,
-          48.8593136
+          16.0475984,
+          48.8594565
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> náměstí Svobody 1551/4, 66902, Znojmo <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 37.83 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> náměstí Svobody 1551/4, 66902, Znojmo <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 12.56 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 15:45",
         "operator": "Česká pošta, s.p.",
@@ -507,6 +507,23 @@
         "collection_times": "Mo-Fr 15:21",
         "operator": "Česká pošta, s.p.",
         "ref": "66907:7"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0481535,
+          48.8593136
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> DPS <br><b>Adresa:</b> Vančurova 3612/17a, 66902, Znojmo <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 818.58 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 15:22",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:8"
       },
       "type": "Feature"
     }

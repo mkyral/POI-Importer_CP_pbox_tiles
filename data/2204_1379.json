@@ -3,13 +3,13 @@
     {
       "geometry": {
         "coordinates": [
-          13.7746074,
-          50.5506436
+          13.7747943,
+          50.550774
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> u adresy: Sídliště U Nového nádraží 703 <br><b>Adresa:</b> Teplice; Bílina; Teplické Předměstí <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> u adresy: Sídliště U Nového nádraží 703 <br><b>Adresa:</b> Teplice; Bílina; Teplické Předměstí <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 10:00",
         "operator": "Česká pošta, s.p.",
@@ -20,51 +20,17 @@
     {
       "geometry": {
         "coordinates": [
-          13.7860763,
-          50.5500558
+          13.7746074,
+          50.5506436
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Čapkova 847, Teplické Předměstí, 41801, Bílina ",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Čapkova 847, Teplické Předměstí, 41801, Bílina <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 813.2 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 10:00",
         "operator": "Česká pošta, s.p.",
         "ref": "40371:205"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.7786135,
-          50.5578134
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Havířská 582/27, Teplické Předměstí, 41801, Bílina ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 10:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "40371:206"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.7731797,
-          50.5466059
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Zámecká 32/2, 41801, Bílina ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 10:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "40371:207"
       },
       "type": "Feature"
     },
@@ -77,7 +43,41 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> u adresy Nábřeží 466 <br><b>Adresa:</b> Teplice; Bílina; Mostecké Předměstí <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Havířská 582/27, Teplické Předměstí, 41801, Bílina <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 620.26 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "40371:206"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.7733407,
+          50.5428301
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Zámecká 32/2, 41801, Bílina <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 420.14 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "40371:207"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.7715544,
+          50.5508323
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u adresy Nábřeží 466 <br><b>Adresa:</b> Teplice; Bílina; Mostecké Předměstí <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 10:00",
         "operator": "Česká pošta, s.p.",
@@ -139,13 +139,13 @@
     {
       "geometry": {
         "coordinates": [
-          13.7715707,
-          50.5491394
+          13.771715,
+          50.5491852
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Břežánská 150/15, Mostecké Předměstí, 41801, Bílina ",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Břežánská 150/15, Mostecké Předměstí, 41801, Bílina <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.4 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 10:00",
         "operator": "Česká pošta, s.p.",
@@ -179,7 +179,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Pražská 206/95, Pražské Předměstí, 41801, Bílina ",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Pražská 206/95, Pražské Předměstí, 41801, Bílina <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",

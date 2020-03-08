@@ -37,23 +37,6 @@
     {
       "geometry": {
         "coordinates": [
-          15.4164782,
-          50.7322499
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Havírna č. 255, Paseky nad Jizerou <br><b>Adresa:</b> č.p. 255, 51247, Paseky nad Jizerou <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 7.25 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "46307:255"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           15.4533991,
           50.7294189
         ],
@@ -62,7 +45,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> sportovní hala, Rokytnice nad Jizerou 1 <br><b>Adresa:</b> Horní Rokytnice 461, 51244, Rokytnice nad Jizerou <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 679.27 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:30",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "46307:438"
       },
@@ -79,7 +62,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Vilémov(místní název), na stojanu u č.p. 218 <br><b>Adresa:</b> Semily; Rokytnice nad Jizerou; Dolní Rokytnice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:30",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "46307:439"
       },
@@ -96,7 +79,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> potraviny, Františkov <br><b>Adresa:</b> Františkov 56, 51245, Rokytnice nad Jizerou <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.78 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "46307:443"
       },
@@ -113,26 +96,9 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> pošta Rokytnice nad Jizerou 1 <br><b>Adresa:</b> Dolní Rokytnice 360, 51244, Rokytnice nad Jizerou <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 7.65 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 12:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "46307:452"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.4412256,
-          50.7306169
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Koloniál Matyášová <br><b>Adresa:</b> Dolní Rokytnice 35, 51244, Rokytnice nad Jizerou <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 16.92 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:30",
-        "operator": "Česká pošta, s.p.",
-        "ref": "46307:455"
       },
       "type": "Feature"
     },
@@ -269,40 +235,6 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "51107:269"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.4469575,
-          50.7046527
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> u zastávky BUS naproti č.p.15 Buřany <br><b>Adresa:</b> Semily; Jablonec nad Jizerou; Buřany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "51107:270"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.4676532,
-          50.700601
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> u LDS, poblíž č.p. 142 Bratrouchov <br><b>Adresa:</b> Semily; Jablonec nad Jizerou; Bratrouchov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "51107:271"
       },
       "type": "Feature"
     },

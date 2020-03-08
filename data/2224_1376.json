@@ -3,23 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          15.4822851,
-          50.7161532
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Škola Františkov <br><b>Adresa:</b> Františkov 80, 51245, Rokytnice nad Jizerou <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 14.5 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:30",
-        "operator": "Česká pošta, s.p.",
-        "ref": "46307:442"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           15.4746192,
           50.7361562
         ],
@@ -28,7 +11,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> RTK, Rokytnice nad Jizerou 3 <br><b>Adresa:</b> Horní Rokytnice 437, 51245, Rokytnice nad Jizerou <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 48.61 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 10:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "46307:444"
       },
@@ -45,26 +28,9 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> pošta Rokytnice n.Jizerou 3 <br><b>Adresa:</b> Horní Rokytnice 307, 51245, Rokytnice nad Jizerou <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.96 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 11:30",
-        "operator": "Česká pošta, s.p.",
-        "ref": "46307:453"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.4909338,
-          50.6967541
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> u zastávka BUS, poblíž č,p. 15 Horní Dušnice <br><b>Adresa:</b> Semily; Jablonec nad Jizerou; Horní Dušnice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
-        "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "51107:272"
+        "ref": "46307:453"
       },
       "type": "Feature"
     },

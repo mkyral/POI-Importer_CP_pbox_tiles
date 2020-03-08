@@ -79,7 +79,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Novosady 1566, 76901, Holešov ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 10:30",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "76707:121"
       },
@@ -96,7 +96,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Flora <br><b>Adresa:</b> Novosady 1382, 76901, Holešov ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 10:30",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "76707:122"
       },
@@ -113,7 +113,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Družby 1381, Všetuly, 76901, Holešov ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 10:30",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "76707:123"
       },
@@ -147,9 +147,26 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> koloniál <br><b>Adresa:</b> č.p. 58, 76843, Němčice ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:30",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "76707:125"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.5738243,
+          49.3293876
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Palackého 530/33, 76901, Holešov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "76707:126"
       },
       "type": "Feature"
     },
@@ -181,7 +198,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Domov důchodců <br><b>Adresa:</b> Příční 1475, 76901, Holešov ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 10:30",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "76707:131"
       },
@@ -232,7 +249,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> pošta Holešov <br><b>Adresa:</b> Palackého 521/8, 76901, Holešov ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 10:30",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "76707:227"
       },

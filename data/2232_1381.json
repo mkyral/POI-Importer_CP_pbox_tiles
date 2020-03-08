@@ -139,23 +139,6 @@
     {
       "geometry": {
         "coordinates": [
-          16.1793071,
-          50.4175176
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Běloveská 522, Náchod <br><b>Adresa:</b> Běloveská 522, 54701, Náchod <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 27.18 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 13:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "54707:7"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           16.1890051,
           50.4198804
         ],
@@ -166,7 +149,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "54707:703"
+        "ref": "54707:217"
       },
       "type": "Feature"
     },
@@ -183,7 +166,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "54707:704"
+        "ref": "54707:218"
       },
       "type": "Feature"
     },
@@ -200,7 +183,24 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "54707:705"
+        "ref": "54707:219"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1793071,
+          50.4175176
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Běloveská 522, Náchod <br><b>Adresa:</b> Běloveská 522, 54701, Náchod <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 27.18 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54707:7"
       },
       "type": "Feature"
     }

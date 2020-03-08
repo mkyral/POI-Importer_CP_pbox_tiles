@@ -79,7 +79,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Masarykovo nám., Třebechovice p.O. <br><b>Adresa:</b> Hradec Králové; Třebechovice pod Orebem; Třebechovice pod Orebem <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 10:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "50370:201"
       },
@@ -88,13 +88,13 @@
     {
       "geometry": {
         "coordinates": [
-          15.9790133,
-          50.1913887
+          15.9794494,
+          50.1918088
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Jednota, Krňovice <br><b>Adresa:</b> Hradec Králové; Třebechovice pod Orebem; Krňovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "_note": "<br><b>Poznámka:</b> zastávka BUS, Krňovice <br><b>Adresa:</b> Krňovice 21, 50346, Třebechovice pod Orebem ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -105,13 +105,13 @@
     {
       "geometry": {
         "coordinates": [
-          15.9427055,
-          50.1979812
+          15.9421269,
+          50.1978771
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Jednota, Běleč n.O. <br><b>Adresa:</b> Hradec Králové; Běleč nad Orlicí; Běleč nad Orlicí <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "_note": "<br><b>Poznámka:</b> zastávka BUS, Běleč nad Orlicí <br><b>Adresa:</b> č.p. 29, 50346, Běleč nad Orlicí ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -173,23 +173,6 @@
     {
       "geometry": {
         "coordinates": [
-          15.9086448,
-          50.2164412
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Podhůrská ul.stanice MHD <br><b>Adresa:</b> Hradec Králové; Hradec Králové; Svinary <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "50370:242"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           15.9885675,
           50.2009276
         ],
@@ -198,7 +181,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> pošta Třebechovice pod Orebem <br><b>Adresa:</b> Žižkova 850, 50346, Třebechovice pod Orebem ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 10:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "50370:280"
       },

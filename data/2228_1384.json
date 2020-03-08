@@ -37,13 +37,13 @@
     {
       "geometry": {
         "coordinates": [
-          15.8309127,
-          50.2890517
+          15.8310142,
+          50.2885492
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Trotina <br><b>Adresa:</b> Hradec Králové; Smiřice; Trotina <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "_note": "<br><b>Poznámka:</b> Trotina <br><b>Adresa:</b> Trotina 4, 50303, Smiřice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -88,13 +88,30 @@
     {
       "geometry": {
         "coordinates": [
-          15.86695,
-          50.2377835
+          15.8977795,
+          50.23419
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Piletice, zastávka MHD, Piletice <br><b>Adresa:</b> Hradec Králové; Hradec Králové; Piletice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "_note": "<br><b>Poznámka:</b> zastávka MHD, Slatina <br><b>Adresa:</b> Librantická 95/30, Slatina, 50003, Hradec Králové ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "50370:241"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8680564,
+          50.2374291
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Piletická, u čp. 47/32 <br><b>Adresa:</b> Piletická 47/32, Piletice, 50003, Hradec Králové ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -122,13 +139,13 @@
     {
       "geometry": {
         "coordinates": [
-          15.8556259,
-          50.2714349
+          15.851374,
+          50.2725026
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Skalička,zastávka, Skalička <br><b>Adresa:</b> Hradec Králové; Skalice; Skalička <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "_note": "<br><b>Poznámka:</b> zastávka BUS, Skalička <br><b>Adresa:</b> Skalička 32, 50003, Skalice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -147,7 +164,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Velká <br><b>Adresa:</b> Velká 17/22, Pouchov, 50341, Hradec Králové ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 10:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "50370:70"
       },

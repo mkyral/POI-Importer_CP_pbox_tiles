@@ -11,7 +11,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> U kostela,napr.čp.22,Kunčice p.O.(stojan zast.BUS) <br><b>Adresa:</b> Frýdek-Místek; Kunčice pod Ondřejníkem; Kunčice pod Ondřejníkem <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 10:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "73807:143"
       },
@@ -28,7 +28,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Pošta Kunčice pod Ondřejníkem (stojan) <br><b>Adresa:</b> č.p. 569, 73913, Kunčice pod Ondřejníkem <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 31.14 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 14:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "73807:145"
       },
@@ -99,23 +99,6 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "74207:108"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          18.2055511,
-          49.5385311
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Frenštát pod Rad., Martinská čtvrť 1135, DPS <br><b>Adresa:</b> Martinská čtvrť 1135, 74401, Frenštát pod Radhoštěm <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.69 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "74207:110"
       },
       "type": "Feature"
     },

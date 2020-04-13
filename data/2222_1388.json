@@ -105,40 +105,6 @@
     {
       "geometry": {
         "coordinates": [
-          15.3502265,
-          50.0253511
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Záboří <br><b>Adresa:</b> Školní 164, 28574, Záboří nad Labem <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.34 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "28000:235"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.3489654,
-          50.0306503
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> U Nádraží 62, Záboří <br><b>Adresa:</b> U Nádraží 62, 28574, Záboří nad Labem <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 23.89 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "28000:236"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           15.3048962,
           50.0283802
         ],
@@ -150,6 +116,40 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "28000:81"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.350315,
+          50.0253545
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Záboří <br><b>Adresa:</b> Školní 164, 28574, Záboří nad Labem ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28400:46"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.3491558,
+          50.0308269
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> U Nádraží 62, Záboří <br><b>Adresa:</b> U Nádraží 62, 28574, Záboří nad Labem ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "28400:47"
       },
       "type": "Feature"
     }

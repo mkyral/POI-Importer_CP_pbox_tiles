@@ -11,7 +11,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> K.Vary, Tašovice, U Brodu 158, u kapličky <br><b>Adresa:</b> U Brodu 158, Tašovice, 36018, Karlovy Vary ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 14:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "36207:10"
       },
@@ -147,7 +147,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Karlovy Vary 6 - pošta <br><b>Adresa:</b> Chebská 370/81a, Dvory, 36006, Karlovy Vary ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 14:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "36207:190"
       },
@@ -164,7 +164,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Karlovy Vary 7 - pošta <br><b>Adresa:</b> Studentská 118/77, Doubí, 36007, Karlovy Vary ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 14:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "36207:191"
       },
@@ -198,26 +198,9 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Dvory, Loketská 262/10, Stavba <br><b>Adresa:</b> Loketská 262/10, Dvory, 36006, Karlovy Vary ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 14:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "36207:53"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          12.7898944,
-          50.2137538
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Hory <br><b>Adresa:</b> Karlovy Vary; Hory; Hory <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-        "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "36207:81"
+        "ref": "36207:53"
       },
       "type": "Feature"
     }

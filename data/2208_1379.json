@@ -20,6 +20,23 @@
     {
       "geometry": {
         "coordinates": [
+          14.1434665,
+          50.53968
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> penzion <br><b>Adresa:</b> U Trati 2041/3, Předměstí, 41201, Litoměřice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "41007:103"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           14.1410792,
           50.5373389
         ],
@@ -405,6 +422,23 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "41007:134"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.0634619,
+          50.5396718
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> kotviště <br><b>Adresa:</b> č.p. 49, 41201, Velké Žernoseky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "41007:139"
       },
       "type": "Feature"
     },

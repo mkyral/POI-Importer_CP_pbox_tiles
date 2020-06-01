@@ -54,17 +54,34 @@
     {
       "geometry": {
         "coordinates": [
-          15.8235386,
-          49.8810001
+          15.8234023,
+          49.881297
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Vysonín - zbrojnice, \"S\" <br><b>Adresa:</b> Chrudim; Lukavice; Výsonín <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "_note": "<br><b>Poznámka:</b> Vysonín - zbrojnice, \"S\" <br><b>Adresa:</b> Výsonín 5, 53821, Lukavice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "53700:61"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9053103,
+          49.8709491
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Silnice 12 <br><b>Adresa:</b> Silnice 12, 53851, Horka ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53700:88"
       },
       "type": "Feature"
     },

@@ -3,13 +3,13 @@
     {
       "geometry": {
         "coordinates": [
-          13.2814568,
-          49.5416574
+          13.2836576,
+          49.5414033
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Dlouhá Louka, náves <br><b>Adresa:</b> Plzeň-jih; Lužany; Dlouhá Louka <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "_note": "<br><b>Poznámka:</b> Dlouhá Louka, náves <br><b>Adresa:</b> Plzeň-jih; Lužany; Dlouhá Louka <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -37,13 +37,13 @@
     {
       "geometry": {
         "coordinates": [
-          13.3165774,
-          49.531554
+          13.3169382,
+          49.5309081
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Nezdice, náves <br><b>Adresa:</b> Plzeň-jih; Nezdice; Nezdice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "_note": "<br><b>Poznámka:</b> Nezdice, náves <br><b>Adresa:</b> Plzeň-jih; Nezdice; Nezdice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -54,13 +54,13 @@
     {
       "geometry": {
         "coordinates": [
-          13.3392807,
-          49.5340657
+          13.3394537,
+          49.5338716
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Zelené, prodejna <br><b>Adresa:</b> Zelené 23, 33401, Lužany ",
+        "_note": "<br><b>Poznámka:</b> Zelené, prodejna <br><b>Adresa:</b> Zelené 23, 33401, Lužany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 24.94 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -88,13 +88,30 @@
     {
       "geometry": {
         "coordinates": [
-          13.3156246,
-          49.5461487
+          13.2733368,
+          49.5265081
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Lužany, OÚ, čp 25 <br><b>Adresa:</b> č.p. 25, 33454, Lužany ",
+        "_note": "<br><b>Poznámka:</b> Vřeskovice, náves <br><b>Adresa:</b> Klatovy; Vřeskovice; Vřeskovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30072:176"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.3155294,
+          49.5460713
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lužany, OÚ, čp 25 <br><b>Adresa:</b> č.p. 25, 33454, Lužany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.01 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",

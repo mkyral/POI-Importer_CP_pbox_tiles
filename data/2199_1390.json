@@ -37,23 +37,6 @@
     {
       "geometry": {
         "coordinates": [
-          13.3082653,
-          49.9501866
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Ondřejov požární zbrojnice <br><b>Adresa:</b> Plzeň-sever; Pláně; Ondřejov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "30071:352"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           13.3085708,
           49.9161614
         ],
@@ -71,13 +54,13 @@
     {
       "geometry": {
         "coordinates": [
-          13.3082653,
-          49.9501866
+          13.3112412,
+          49.9503911
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Pláně,prodejna Pláně <br><b>Adresa:</b> Plzeň-sever; Pláně; Pláně <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "_note": "<br><b>Poznámka:</b> Pláně,prodejna Pláně <br><b>Adresa:</b> Plzeň-sever; Pláně; Pláně <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -105,13 +88,30 @@
     {
       "geometry": {
         "coordinates": [
-          13.2877364,
-          49.9268036
+          13.3222519,
+          49.9431018
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Dražeň,OÚ <br><b>Adresa:</b> č.p. 26, 33101, Dražeň ",
+        "_note": "<br><b>Poznámka:</b> Korýtka,zastávka ČSAD <br><b>Adresa:</b> Plzeň-sever; Pláně; Korýtka <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30071:360"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.2878209,
+          49.9268122
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dražeň,OÚ <br><b>Adresa:</b> č.p. 26, 33101, Dražeň <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.13 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",

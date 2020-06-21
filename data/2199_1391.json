@@ -3,13 +3,13 @@
     {
       "geometry": {
         "coordinates": [
-          13.2974034,
-          49.8396883
+          13.297052,
+          49.8391252
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Stýskaly - proti prodejně u čp.38 <br><b>Adresa:</b> Stýskaly 38, 33011, Žilov ",
+        "_note": "<br><b>Poznámka:</b> Stýskaly - proti prodejně u čp.38 <br><b>Adresa:</b> Stýskaly 38, 33011, Žilov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 67.52 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -173,13 +173,13 @@
     {
       "geometry": {
         "coordinates": [
-          13.3014095,
-          49.885459
+          13.3016107,
+          49.8856448
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Bučí - prodejna, u čp.57 <br><b>Adresa:</b> č.p. 57, 33152, Bučí ",
+        "_note": "<br><b>Poznámka:</b> Bučí - prodejna, u čp.57 <br><b>Adresa:</b> č.p. 57, 33152, Bučí <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 25.2 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -235,23 +235,6 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "30071:304"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.3027788,
-          49.8851747
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Buč - autobusová zastávka <br><b>Adresa:</b> Plzeň-sever; Bezvěrov; Buč <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "30071:322"
       },
       "type": "Feature"
     }

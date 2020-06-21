@@ -20,17 +20,34 @@
     {
       "geometry": {
         "coordinates": [
-          13.5398209,
-          49.5042407
+          13.5399148,
+          49.5041728
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Prádlo <br><b>Adresa:</b> č.p. 49, 33501, Prádlo ",
+        "_note": "<br><b>Poznámka:</b> Prádlo <br><b>Adresa:</b> č.p. 49, 33501, Prádlo <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.15 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "30072:233"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.5356816,
+          49.4983865
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Novotníky <br><b>Adresa:</b> Novotníky 31, 33501, Prádlo <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 74.01 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30072:234"
       },
       "type": "Feature"
     },
@@ -71,13 +88,13 @@
     {
       "geometry": {
         "coordinates": [
-          13.6068231,
-          49.4973423
+          13.60678,
+          49.4981192
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Nepomuk - Dvorec Huť <br><b>Adresa:</b> Plzeň-jih; Nepomuk; Dvorec <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "_note": "<br><b>Poznámka:</b> Nepomuk - Dvorec Huť <br><b>Adresa:</b> Plzeň-jih; Nepomuk; Dvorec <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -88,13 +105,13 @@
     {
       "geometry": {
         "coordinates": [
-          13.60678,
-          49.4981192
+          13.6067076,
+          49.4980826
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Nepomuk 3 - pošta <br><b>Adresa:</b> Blatenská 135, Dvorec, 33503, Nepomuk <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.63 m",
+        "_note": "<br><b>Poznámka:</b> Nepomuk 3 - pošta <br><b>Adresa:</b> Blatenská 135, Dvorec, 33503, Nepomuk ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",

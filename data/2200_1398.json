@@ -3,13 +3,13 @@
     {
       "geometry": {
         "coordinates": [
-          13.4455157,
-          49.4875594
+          13.4449786,
+          49.4875424
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Radkovice u čp. 25 <br><b>Adresa:</b> Radkovice 25, 34012, Měčín ",
+        "_note": "<br><b>Poznámka:</b> Radkovice u čp. 25 <br><b>Adresa:</b> Radkovice 25, 34012, Měčín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 38.85 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -20,13 +20,13 @@
     {
       "geometry": {
         "coordinates": [
-          13.4276766,
-          49.4530296
+          13.4275975,
+          49.4529677
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Petrovice u čp. 40 <br><b>Adresa:</b> Petrovice 40, 34012, Měčín ",
+        "_note": "<br><b>Poznámka:</b> Petrovice u čp. 40 <br><b>Adresa:</b> Petrovice 40, 34012, Měčín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.95 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -37,13 +37,13 @@
     {
       "geometry": {
         "coordinates": [
-          13.3856221,
-          49.4678769
+          13.3844688,
+          49.4677366
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Nedanice u čp. 9 <br><b>Adresa:</b> Nedanice 9, 34012, Měčín ",
+        "_note": "<br><b>Poznámka:</b> Nedanice u čp. 9 <br><b>Adresa:</b> Nedanice 9, 34012, Měčín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 84.81 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -54,13 +54,13 @@
     {
       "geometry": {
         "coordinates": [
-          13.4009689,
-          49.4823121
+          13.4011325,
+          49.4822677
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Měčín - stojan u domu peč.služby čp.96 <br><b>Adresa:</b> V Konci 96, 34012, Měčín ",
+        "_note": "<br><b>Poznámka:</b> Měčín - stojan u domu peč.služby čp.96 <br><b>Adresa:</b> V Konci 96, 34012, Měčín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 12.81 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -88,13 +88,13 @@
     {
       "geometry": {
         "coordinates": [
-          13.365603,
-          49.4937148
+          13.3666407,
+          49.4942895
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Kbel - autobusová zastávka <br><b>Adresa:</b> Plzeň-jih; Kbel; Kbel <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "_note": "<br><b>Poznámka:</b> Kbel - autobusová zastávka <br><b>Adresa:</b> Plzeň-jih; Kbel; Kbel <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -105,13 +105,13 @@
     {
       "geometry": {
         "coordinates": [
-          13.3760117,
-          49.4859595
+          13.3767359,
+          49.4863245
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Malinec - na prodejně <br><b>Adresa:</b> Plzeň-jih; Kbel; Malinec <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "_note": "<br><b>Poznámka:</b> Malinec - na prodejně <br><b>Adresa:</b> Plzeň-jih; Kbel; Malinec <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -122,30 +122,13 @@
     {
       "geometry": {
         "coordinates": [
-          13.3666447,
-          49.4942695
+          13.3737482,
+          49.4421629
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Nová Ves - náves <br><b>Adresa:</b> Plzeň-jih; Kbel; Nová Ves <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "33907:167"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.3747098,
-          49.4425588
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Měcholupy - hasičská zbrojnice <br><b>Adresa:</b> Klatovy; Předslav; Měcholupy <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "_note": "<br><b>Poznámka:</b> Měcholupy - hasičská zbrojnice <br><b>Adresa:</b> Klatovy; Předslav; Měcholupy <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -156,13 +139,13 @@
     {
       "geometry": {
         "coordinates": [
-          13.4039537,
-          49.4798152
+          13.4043285,
+          49.4799359
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Měčín - pošta <br><b>Adresa:</b> Farní 43, 34012, Měčín ",
+        "_note": "<br><b>Poznámka:</b> Měčín - pošta <br><b>Adresa:</b> Farní 43, 34012, Měčín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 30.23 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -173,13 +156,13 @@
     {
       "geometry": {
         "coordinates": [
-          13.3902105,
-          49.4485053
+          13.3904304,
+          49.4485271
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Makov 7, 33901, Předslav ",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Makov 7, 33901, Předslav <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 16.09 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",

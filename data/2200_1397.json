@@ -135,6 +135,23 @@
         "ref": "30072:312"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.3793888,
+          49.4981255
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nová Ves - náves <br><b>Adresa:</b> Plzeň-jih; Kbel; Nová Ves <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "33907:167"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

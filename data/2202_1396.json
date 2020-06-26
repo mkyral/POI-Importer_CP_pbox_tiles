@@ -3,13 +3,13 @@
     {
       "geometry": {
         "coordinates": [
-          13.5400989,
-          49.5822034
+          13.5353909,
+          49.5844067
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Blovice - sídliště <br><b>Adresa:</b> Plzeň-jih; Blovice; Blovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "_note": "<br><b>Poznámka:</b> Blovice - sídliště <br><b>Adresa:</b> Plzeň-jih; Blovice; Blovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -20,13 +20,13 @@
     {
       "geometry": {
         "coordinates": [
-          13.5400989,
-          49.5822034
+          13.5402732,
+          49.5820075
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Blovice - náměstí <br><b>Adresa:</b> Plzeň-jih; Blovice; Blovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "_note": "<br><b>Poznámka:</b> Blovice - náměstí <br><b>Adresa:</b> Plzeň-jih; Blovice; Blovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -37,8 +37,8 @@
     {
       "geometry": {
         "coordinates": [
-          13.5401284,
-          49.582104
+          13.5403624,
+          49.580667
         ],
         "type": "Point"
       },
@@ -122,13 +122,13 @@
     {
       "geometry": {
         "coordinates": [
-          13.6057129,
-          49.5642265
+          13.60752,
+          49.562014
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Louňava - prodejna <br><b>Adresa:</b> Plzeň-jih; Louňová; Louňová <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "_note": "<br><b>Poznámka:</b> Louňava - prodejna <br><b>Adresa:</b> Plzeň-jih; Louňová; Louňová <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -156,34 +156,17 @@
     {
       "geometry": {
         "coordinates": [
-          13.5872966,
-          49.5665485
+          13.5871202,
+          49.5665729
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Hradišťská Lhotka <br><b>Adresa:</b> Plzeň-jih; Blovice; Hradišťská Lhotka <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "_note": "<br><b>Poznámka:</b> Hradišťská Lhotka <br><b>Adresa:</b> Plzeň-jih; Blovice; Hradišťská Lhotka <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "30072:302"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.5458193,
-          49.5660859
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Vlčice, náves <br><b>Adresa:</b> Plzeň-jih; Blovice; Vlčice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "30072:303"
       },
       "type": "Feature"
     },
@@ -196,7 +179,24 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Vlčice, penzion <br><b>Adresa:</b> Plzeň-jih; Blovice; Vlčice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Vlčice, náves <br><b>Adresa:</b> Plzeň-jih; Blovice; Vlčice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30072:303"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.5458193,
+          49.5660859
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vlčice, penzion <br><b>Adresa:</b> Plzeň-jih; Blovice; Vlčice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -207,13 +207,13 @@
     {
       "geometry": {
         "coordinates": [
-          13.5559769,
-          49.5642187
+          13.5556027,
+          49.5642874
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Stará Huť <br><b>Adresa:</b> Plzeň-jih; Blovice; Stará Huť <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "_note": "<br><b>Poznámka:</b> Stará Huť <br><b>Adresa:</b> Plzeň-jih; Blovice; Stará Huť <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",

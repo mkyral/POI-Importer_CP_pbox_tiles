@@ -3,13 +3,13 @@
     {
       "geometry": {
         "coordinates": [
-          13.1454528,
-          49.2860909
+          13.1447662,
+          49.2861154
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Nýrsko-KEMP <br><b>Adresa:</b> Klatovy; Nýrsko; Nýrsko <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "_note": "<br><b>Poznámka:</b> Nýrsko-KEMP <br><b>Adresa:</b> Klatovy; Nýrsko; Nýrsko <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -122,17 +122,34 @@
     {
       "geometry": {
         "coordinates": [
-          13.1525078,
-          49.3057609
+          13.1540782,
+          49.305558
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Bystřice n/Úhl. - prodejna <br><b>Adresa:</b> Klatovy; Nýrsko; Bystřice nad Úhlavou <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "_note": "<br><b>Poznámka:</b> Bystřice n/Úhl. - prodejna <br><b>Adresa:</b> Klatovy; Nýrsko; Bystřice nad Úhlavou <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "33907:203"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.1835071,
+          49.3213942
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Petrovice nad Úhlavou <br><b>Adresa:</b> Klatovy; Janovice nad Úhlavou; Petrovice nad Úhlavou <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "33907:205"
       },
       "type": "Feature"
     },

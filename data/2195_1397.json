@@ -88,13 +88,13 @@
     {
       "geometry": {
         "coordinates": [
-          12.9822198,
-          49.5381123
+          12.9817746,
+          49.5392559
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Semošice, prodejna <br><b>Adresa:</b> Domažlice; Horšovský Týn; Semošice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "_note": "<br><b>Poznámka:</b> Semošice, prodejna <br><b>Adresa:</b> Domažlice; Horšovský Týn; Semošice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -105,17 +105,34 @@
     {
       "geometry": {
         "coordinates": [
-          12.9661298,
-          49.5063818
+          12.9659917,
+          49.5064132
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Lazce č. 7 <br><b>Adresa:</b> Lazce 7, 34601, Horšovský Týn ",
+        "_note": "<br><b>Poznámka:</b> Lazce č. 7 <br><b>Adresa:</b> Lazce 7, 34601, Horšovský Týn <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.57 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "34407:182"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.0068612,
+          49.5000586
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Přívozec, čekárna <br><b>Adresa:</b> Domažlice; Blížejov; Přívozec <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "34407:204"
       },
       "type": "Feature"
     },

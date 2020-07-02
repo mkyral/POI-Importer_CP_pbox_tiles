@@ -105,6 +105,23 @@
     {
       "geometry": {
         "coordinates": [
+          15.5496656,
+          49.94303
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nový Dvůr - náves, \"S\" <br><b>Adresa:</b> Nový Dvůr 72, 53803, Podhořany u Ronova ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53800:31"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           15.5374829,
           49.9374117
         ],
@@ -156,30 +173,13 @@
     {
       "geometry": {
         "coordinates": [
-          15.5417606,
-          49.9087787
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Tuchov - BUS, \"S\" <br><b>Adresa:</b> Tuchov 14, 53843, Bousov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 29.82 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "53840:24"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           15.5353776,
           49.9017691
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Bousov 25 - prodejna, \"S\" <br><b>Adresa:</b> č.p. 25, 53843, Bousov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 19.1 m",
+        "_note": "<br><b>Poznámka:</b> Bousov 33 - prodejna, \"S\" <br><b>Adresa:</b> č.p. 33, 53843, Bousov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 14.25 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",

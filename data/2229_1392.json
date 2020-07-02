@@ -139,13 +139,13 @@
     {
       "geometry": {
         "coordinates": [
-          15.9700832,
-          49.825161
+          15.9700571,
+          49.8254742
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Malinné - zbrojnice, \"S\" <br><b>Adresa:</b> Chrudim; Prosetín; Malinné <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "_note": "<br><b>Poznámka:</b> Malinné - zbrojnice, \"S\" <br><b>Adresa:</b> Malinné 12, 53973, Prosetín ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -190,13 +190,13 @@
     {
       "geometry": {
         "coordinates": [
-          15.9373191,
-          49.8294461
+          15.9379882,
+          49.8294013
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Mokrýšov - zbrojnice <br><b>Adresa:</b> Chrudim; Prosetín; Mokrýšov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "_note": "<br><b>Poznámka:</b> Mokrýšov - zbrojnice <br><b>Adresa:</b> Mokrýšov 11, 53973, Prosetín ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -258,6 +258,23 @@
     {
       "geometry": {
         "coordinates": [
+          15.9848571,
+          49.8344561
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Skuteč, V. Nováka - VTA, \"S\" <br><b>Adresa:</b> Vítězslava Nováka 622, 53973, Skuteč ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53970:7"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           15.9574208,
           49.8327252
         ],
@@ -275,13 +292,13 @@
     {
       "geometry": {
         "coordinates": [
-          15.9878791,
-          49.8265751
+          15.9881226,
+          49.8263144
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Žďárec u Skutče - BUS <br><b>Adresa:</b> Chrudim; Skuteč; Žďárec u Skutče <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "_note": "<br><b>Poznámka:</b> Žďárec u Skutče - BUS <br><b>Adresa:</b> Žďárec u Skutče 25, 53973, Skuteč ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",

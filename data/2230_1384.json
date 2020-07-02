@@ -20,23 +20,6 @@
     {
       "geometry": {
         "coordinates": [
-          16.0434976,
-          50.2857443
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta České Meziříčí <br><b>Adresa:</b> Záhumenská 445, 51771, České Meziříčí ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "51707:124"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           16.012816,
           50.2503669
         ],
@@ -201,6 +184,23 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "51707:567"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0434976,
+          50.2857443
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta České Meziříčí <br><b>Adresa:</b> Záhumenská 445, 51771, České Meziříčí ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51707:580"
       },
       "type": "Feature"
     }

@@ -11,7 +11,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Mariánské Lázně, Hlavní tř.146, prodejna HASSO <br><b>Adresa:</b> Hlavní třída 146/70, 35301, Mariánské Lázně ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 12:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "34707:172"
       },
@@ -28,9 +28,26 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Mariánské Lázně, Janáčkova 570 <br><b>Adresa:</b> Janáčkova 570/1, 35301, Mariánské Lázně ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 12:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "34707:174"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.6969965,
+          49.9574057
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Mariánské Lázně, Příčná 647/3 <br><b>Adresa:</b> Příčná 647/3, 35301, Mariánské Lázně ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "34707:175"
       },
       "type": "Feature"
     },
@@ -45,7 +62,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Mariánské Lázně, Dyleňská 680/13 <br><b>Adresa:</b> Dyleňská 680/10, Úšovice, 35301, Mariánské Lázně ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 12:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "34707:176"
       },
@@ -62,7 +79,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Mariánské Lázně, Kollárova 115, <br><b>Adresa:</b> Kollárova 115/22, Úšovice, 35301, Mariánské Lázně ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 12:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "34707:177"
       },
@@ -79,7 +96,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Úšovice,  Česká 755/1, prodejna elektro <br><b>Adresa:</b> Česká 755/1, Úšovice, 35301, Mariánské Lázně ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 12:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "34707:179"
       },
@@ -96,7 +113,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Mariánské Lázně, Městská nemocnice, <br><b>Adresa:</b> Cheb; Mariánské Lázně; Mariánské Lázně <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 12:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "34707:181"
       },
@@ -113,7 +130,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Mariánské Lázně, Klub důchodců Hlavní 314, <br><b>Adresa:</b> Hlavní třída 314/29, 35301, Mariánské Lázně ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 12:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "34707:182"
       },
@@ -130,7 +147,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Mariánské Lázně, Hlavní 142, <br><b>Adresa:</b> Hlavní třída 142/54, 35301, Mariánské Lázně <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 17.32 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 12:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "34707:183"
       },
@@ -147,7 +164,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Mariánské Lázně, Hotel Palace Praha, Hlavní tř.67 <br><b>Adresa:</b> Hlavní třída 67/8, 35301, Mariánské Lázně <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 118.98 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 12:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "34707:185"
       },
@@ -164,7 +181,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Mariánské Lázně, Ibsenova, zastávka trolejbusu <br><b>Adresa:</b> Cheb; Mariánské Lázně; Mariánské Lázně <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 12:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "34707:186"
       },
@@ -181,7 +198,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Mariánské Lázně, Centrální lázně, Goethovo náměstí <br><b>Adresa:</b> Cheb; Mariánské Lázně; Mariánské Lázně <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 12:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "34707:187"
       },
@@ -198,7 +215,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Mariánské Lázně, Léčebna Berounka, Anglická 120/17 <br><b>Adresa:</b> Anglická 120/17, 35301, Mariánské Lázně ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 12:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "34707:188"
       },
@@ -249,7 +266,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Mariánské Lázně 1 -pošta <br><b>Adresa:</b> Poštovní 160/17, 35301, Mariánské Lázně ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 12:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "34707:246"
       },

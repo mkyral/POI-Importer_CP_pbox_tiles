@@ -128,7 +128,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Újezd-Pila, č. 93 <br><b>Adresa:</b> č.p. 93, 34401, Újezd ",
+        "_note": "<br><b>Poznámka:</b> Újezd-Pila, č. 93 <br><b>Adresa:</b> č.p. 93, 34401, Újezd <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -139,13 +139,30 @@
     {
       "geometry": {
         "coordinates": [
-          12.8695682,
-          49.4355419
+          12.8353769,
+          49.417857
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Újezd, prodejna <br><b>Adresa:</b> Domažlice; Újezd; Újezd <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "_note": "<br><b>Poznámka:</b> Chodov u OÚ <br><b>Adresa:</b> Domažlice; Chodov; Chodov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "34407:36"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.8702723,
+          49.4353614
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Újezd, prodejna <br><b>Adresa:</b> Domažlice; Újezd; Újezd <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",

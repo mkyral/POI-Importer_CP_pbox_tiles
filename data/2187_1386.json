@@ -3,13 +3,30 @@
     {
       "geometry": {
         "coordinates": [
-          12.2518922,
-          50.1591486
+          12.2684629,
+          50.1756562
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Lipná 34 <br><b>Adresa:</b> Lipná 34, 35201, Hazlov ",
+        "_note": "<br><b>Poznámka:</b> Skalka, autobusová zastávka <br><b>Adresa:</b> Cheb; Hazlov; Skalka <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "35007:104"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.2514161,
+          50.1586322
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lipná 34 <br><b>Adresa:</b> Lipná 34, 35201, Hazlov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 66.71 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -37,13 +54,13 @@
     {
       "geometry": {
         "coordinates": [
-          12.2724879,
-          50.1566791
+          12.2725154,
+          50.1567324
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 395, 35132, Hazlov ",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 395, 35132, Hazlov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.24 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",

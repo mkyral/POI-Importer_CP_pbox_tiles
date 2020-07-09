@@ -3,6 +3,23 @@
     {
       "geometry": {
         "coordinates": [
+          12.4873758,
+          50.0629264
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Okrouhlá 36, prodejna <br><b>Adresa:</b> č.p. 36, 35002, Okrouhlá <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 270.67 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "35007:31"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           12.4804997,
           50.0094616
         ],
@@ -88,13 +105,13 @@
     {
       "geometry": {
         "coordinates": [
-          12.5106793,
-          50.0282724
+          12.5102488,
+          50.0282216
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Salajna, autobusová zastávka <br><b>Adresa:</b> Cheb; Dolní Žandov; Salajna <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "_note": "<br><b>Poznámka:</b> Salajna, autobusová zastávka <br><b>Adresa:</b> Cheb; Dolní Žandov; Salajna <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",

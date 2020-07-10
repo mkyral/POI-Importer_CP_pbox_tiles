@@ -71,17 +71,34 @@
     {
       "geometry": {
         "coordinates": [
-          12.6130154,
-          50.162435
+          12.6130181,
+          50.1624625
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Citice - pošta <br><b>Adresa:</b> č.p. 166, 35601, Citice ",
+        "_note": "<br><b>Poznámka:</b> Citice - pošta <br><b>Adresa:</b> č.p. 166, 35601, Citice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 3.06 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "35007:169"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.6519042,
+          50.174076
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Sokolov, prodejna PENNY <br><b>Adresa:</b> Sokolov; Sokolov; Sokolov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 13:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "35007:174"
       },
       "type": "Feature"
     },
@@ -122,13 +139,13 @@
     {
       "geometry": {
         "coordinates": [
-          12.6157786,
-          50.1336362
+          12.6157015,
+          50.1336426
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Rudolec č.34, hospoda <br><b>Adresa:</b> Rudolec 34, 35601, Březová ",
+        "_note": "<br><b>Poznámka:</b> Rudolec č.34, hospoda <br><b>Adresa:</b> Rudolec 34, 35601, Březová <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.54 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -173,13 +190,13 @@
     {
       "geometry": {
         "coordinates": [
-          12.5735232,
-          50.1656247
+          12.5734186,
+          50.1655826
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Bukovany, na budově OÚ <br><b>Adresa:</b> č.p. 47, 35755, Bukovany ",
+        "_note": "<br><b>Poznámka:</b> Bukovany, na budově OÚ <br><b>Adresa:</b> č.p. 47, 35755, Bukovany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.8 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -190,13 +207,13 @@
     {
       "geometry": {
         "coordinates": [
-          12.5750142,
-          50.16293
+          12.5751483,
+          50.1629558
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Bukovany u Sokolova - pošta <br><b>Adresa:</b> č.p. 156, 35755, Bukovany ",
+        "_note": "<br><b>Poznámka:</b> Bukovany u Sokolova - pošta <br><b>Adresa:</b> č.p. 156, 35755, Bukovany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.98 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",

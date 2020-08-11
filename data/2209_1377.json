@@ -122,13 +122,30 @@
     {
       "geometry": {
         "coordinates": [
-          14.1602594,
-          50.6729355
+          14.1583348,
+          50.6771789
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Povrly <br><b>Adresa:</b> Mírová 56/12, 40332, Povrly ",
+        "_note": "<br><b>Poznámka:</b> Lužecká-na stojanu u autobus.zastávky <br><b>Adresa:</b> Ústí nad Labem; Povrly; Povrly <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "40371:218"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.1603881,
+          50.672848
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Povrly <br><b>Adresa:</b> Mírová 56/12, 40332, Povrly <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 13.31 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",

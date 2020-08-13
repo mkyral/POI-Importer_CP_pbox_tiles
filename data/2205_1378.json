@@ -88,13 +88,13 @@
     {
       "geometry": {
         "coordinates": [
-          13.8762847,
-          50.6243042
+          13.8747545,
+          50.6158048
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Pražská 17, Úpořiny, 41501, Bystřany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 938.71 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Pražská 17, Úpořiny, 41501, Bystřany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 43.65 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -156,13 +156,13 @@
     {
       "geometry": {
         "coordinates": [
-          13.8739785,
-          50.5786032
+          13.8742333,
+          50.5787659
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Mošnov 33, 41501, Bžany ",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Mošnov 33, 41501, Bžany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 25.52 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -190,13 +190,13 @@
     {
       "geometry": {
         "coordinates": [
-          13.8781001,
-          50.5900658
+          13.8735001,
+          50.5901237
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 63, 41501, Bžany ",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 63, 41501, Bžany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 324.9 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -224,13 +224,13 @@
     {
       "geometry": {
         "coordinates": [
-          13.8616148,
-          50.6035274
+          13.8636251,
+          50.6030082
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> zastávka BUS <br><b>Adresa:</b> Teplice; Bžany; Lysec <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "_note": "<br><b>Poznámka:</b> zastávka BUS <br><b>Adresa:</b> Teplice; Bžany; Lysec <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -258,13 +258,13 @@
     {
       "geometry": {
         "coordinates": [
-          13.8544517,
-          50.6091016
+          13.8544209,
+          50.6092105
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Pytlíkov 11, 41501, Bžany ",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Pytlíkov 11, 41501, Bžany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 12.31 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -275,17 +275,34 @@
     {
       "geometry": {
         "coordinates": [
-          13.8762709,
-          50.6230221
+          13.8762843,
+          50.6242949
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> křižovatka <br><b>Adresa:</b> Teplice; Bystřany; Nové Dvory <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "_note": "<br><b>Poznámka:</b> křižovatka <br><b>Adresa:</b> Teplice; Bystřany; Nové Dvory <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "40371:405"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.8063759,
+          50.6117649
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Autobusová zastávka BUS <br><b>Adresa:</b> Teplice; Zabrušany; Straky <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "40371:426"
       },
       "type": "Feature"
     },

@@ -20,13 +20,13 @@
     {
       "geometry": {
         "coordinates": [
-          16.929687,
-          50.0716844
+          16.9296618,
+          50.0717834
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Hanušovice, Školní 197, nádraží ČD <br><b>Adresa:</b> Školní 197, 78833, Hanušovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.16 m",
+        "_note": "<br><b>Poznámka:</b> Hanušovice, Školní 197, nádraží ČD <br><b>Adresa:</b> Školní 197, 78833, Hanušovice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -54,17 +54,34 @@
     {
       "geometry": {
         "coordinates": [
-          16.9225802,
-          50.1173
+          16.9226126,
+          50.1171687
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Hanušovice, Vysoké Žibřidovice 49 (stojan) <br><b>Adresa:</b> Vysoké Žibřidovice 49, 78832, Hanušovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 14.79 m",
+        "_note": "<br><b>Poznámka:</b> Hanušovice, Vysoké Žibřidovice 49 (stojan) <br><b>Adresa:</b> Vysoké Žibřidovice 49, 78832, Hanušovice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "78807:207"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.8751271,
+          50.10083
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Malá Morava, Vojtíškov 101 (stojan) <br><b>Adresa:</b> Vojtíškov 101, 78833, Malá Morava ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "78807:225"
       },
       "type": "Feature"
     },

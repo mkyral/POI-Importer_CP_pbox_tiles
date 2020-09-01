@@ -3,13 +3,13 @@
     {
       "geometry": {
         "coordinates": [
-          17.7949866,
-          49.734185
+          17.7953246,
+          49.7355407
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Odry, Kamenka E15 (stojan) <br><b>Adresa:</b> Nový Jičín; Odry; Kamenka <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Odry, Kamenka E15 (stojan) <br><b>Adresa:</b> Nový Jičín; Odry; Kamenka <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -20,13 +20,30 @@
     {
       "geometry": {
         "coordinates": [
-          17.8342185,
-          49.7467549
+          17.8319458,
+          49.7247771
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Fulnek, Dolejší Kunčice 56, bus. zastávka <br><b>Adresa:</b> Nový Jičín; Fulnek; Dolejší Kunčice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Fulnek, Vlkovice 103, potraviny (stojan) <br><b>Adresa:</b> Nový Jičín; Fulnek; Vlkovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74207:337"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.8344505,
+          49.7468745
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Fulnek, Dolejší Kunčice 56, bus. zastávka <br><b>Adresa:</b> Nový Jičín; Fulnek; Dolejší Kunčice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -65,23 +82,6 @@
         "collection_times": "Mo-Fr 12:15",
         "operator": "Česká pošta, s.p.",
         "ref": "74907:149"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.7552451,
-          49.7730067
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Pošta Vítkov 1 (stojan) <br><b>Adresa:</b> Pivovarská 325, 74901, Vítkov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 572.42 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 15:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "74907:151"
       },
       "type": "Feature"
     },

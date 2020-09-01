@@ -3,13 +3,13 @@
     {
       "geometry": {
         "coordinates": [
-          13.7946448,
-          50.2278372
+          13.7947588,
+          50.2278235
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 90, 27055, Pochvalov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.25 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 90, 27055, Pochvalov ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -20,13 +20,13 @@
     {
       "geometry": {
         "coordinates": [
-          13.7829019,
-          50.2068358
+          13.7828174,
+          50.2066744
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Kroučová čp.17 <br><b>Adresa:</b> č.p. 17, 27054, Kroučová <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 18.93 m",
+        "_note": "<br><b>Poznámka:</b> Kroučová čp.17 <br><b>Adresa:</b> č.p. 17, 27054, Kroučová ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -37,13 +37,13 @@
     {
       "geometry": {
         "coordinates": [
-          13.754287,
-          50.2127858
+          13.7541636,
+          50.2124906
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Třeboc  u domu  čp.91 <br><b>Adresa:</b> č.p. 91, 27054, Třeboc <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 33.99 m",
+        "_note": "<br><b>Poznámka:</b> Třeboc  u domu  čp.91 <br><b>Adresa:</b> č.p. 91, 27054, Třeboc ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -54,13 +54,13 @@
     {
       "geometry": {
         "coordinates": [
-          13.7480643,
-          50.1886333
+          13.7480288,
+          50.1886968
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Hředle - pošta <br><b>Adresa:</b> č.p. 99, 27008, Hředle <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 7.5 m",
+        "_note": "<br><b>Poznámka:</b> Hředle - pošta <br><b>Adresa:</b> č.p. 99, 27008, Hředle ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -71,30 +71,13 @@
     {
       "geometry": {
         "coordinates": [
-          13.7117842,
-          50.1962539
+          13.731808,
+          50.2180076
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Mutějovice - č.p. 119 <br><b>Adresa:</b> Rakovník; Mutějovice; Mutějovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "26907:66"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.7316457,
-          50.2181552
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> obecní úřad čp.20, Lhota pod Džbánem <br><b>Adresa:</b> Lhota pod Džbánem 20, 27007, Mutějovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 20.07 m",
+        "_note": "<br><b>Poznámka:</b> obecní úřad čp.20, Lhota pod Džbánem <br><b>Adresa:</b> Lhota pod Džbánem 20, 27007, Mutějovice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -105,13 +88,30 @@
     {
       "geometry": {
         "coordinates": [
-          13.7464575,
-          50.1920707
+          13.7159452,
+          50.2108879
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> před domem čp.85, Hředle <br><b>Adresa:</b> č.p. 85, 27008, Hředle <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.37 m",
+        "_note": "<br><b>Poznámka:</b> Mutějovice - nádraží ČD <br><b>Adresa:</b> Rakovník; Mutějovice; Mutějovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26907:68"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.7463529,
+          50.1920364
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> před domem čp.85, Hředle <br><b>Adresa:</b> č.p. 85, 27008, Hředle ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",

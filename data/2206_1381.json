@@ -37,13 +37,13 @@
     {
       "geometry": {
         "coordinates": [
-          13.9341874,
-          50.4360583
+          13.934638,
+          50.4358499
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> zastávka <br><b>Adresa:</b> Lukohořany 22, 41115, Děčany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 39.45 m",
+        "_note": "<br><b>Poznámka:</b> zastávka <br><b>Adresa:</b> Lukohořany 22, 41115, Děčany ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -71,13 +71,30 @@
     {
       "geometry": {
         "coordinates": [
-          13.9674893,
-          50.443607
+          13.8993056,
+          50.4575029
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 33, 41115, Lkáň <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.09 m",
+        "_note": "<br><b>Poznámka:</b> pošta Třebívlice, před na stojanu <br><b>Adresa:</b> Komenského náměstí 17, 41115, Třebívlice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "41007:415"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.9674035,
+          50.4436036
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 33, 41115, Lkáň ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",

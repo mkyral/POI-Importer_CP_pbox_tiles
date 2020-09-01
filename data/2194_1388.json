@@ -3,13 +3,13 @@
     {
       "geometry": {
         "coordinates": [
-          12.890881,
-          50.0436239
+          12.8913625,
+          50.0432484
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Brť <br><b>Adresa:</b> Karlovy Vary; Otročín; Brť <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Brť <br><b>Adresa:</b> Karlovy Vary; Otročín; Brť <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -20,30 +20,13 @@
     {
       "geometry": {
         "coordinates": [
-          12.8511004,
-          50.0405484
+          12.8786747,
+          50.0534318
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Tisová, uprostřed vesnice, <br><b>Adresa:</b> Karlovy Vary; Otročín; Tisová <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "30071:500"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          12.8790784,
-          50.0539631
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Měchov, obchod <br><b>Adresa:</b> Karlovy Vary; Otročín; Měchov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Měchov, obchod <br><b>Adresa:</b> Karlovy Vary; Otročín; Měchov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -54,17 +37,34 @@
     {
       "geometry": {
         "coordinates": [
-          12.8929209,
-          50.0303359
+          12.8928646,
+          50.0303204
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Otročín, na budově pošty <br><b>Adresa:</b> č.p. 57, 36401, Otročín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 4.38 m",
+        "_note": "<br><b>Poznámka:</b> Otročín, na budově pošty <br><b>Adresa:</b> č.p. 57, 36401, Otročín ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "30071:513"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.8356818,
+          50.0199774
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Poutnov, obchod, <br><b>Adresa:</b> Cheb; Teplá; Poutnov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "34707:200"
       },
       "type": "Feature"
     }

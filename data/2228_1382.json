@@ -71,13 +71,13 @@
     {
       "geometry": {
         "coordinates": [
-          15.871193,
-          50.4005827
+          15.8714008,
+          50.4006089
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Stanovice <br><b>Adresa:</b> Trutnov; Stanovice; Stanovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Stanovice <br><b>Adresa:</b> Trutnov; Stanovice; Stanovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -88,13 +88,13 @@
     {
       "geometry": {
         "coordinates": [
-          15.8886359,
-          50.4013491
+          15.8886331,
+          50.4012741
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Kuks <br><b>Adresa:</b> č.p. 3, 54443, Kuks <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.34 m",
+        "_note": "<br><b>Poznámka:</b> pošta Kuks <br><b>Adresa:</b> č.p. 3, 54443, Kuks ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -116,6 +116,23 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "54107:476"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9070656,
+          50.345969
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dolecká (Kaufland), Jaroměř <br><b>Adresa:</b> Dolecká 970, Pražské Předměstí, 55101, Jaroměř ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54707:34"
       },
       "type": "Feature"
     },

@@ -3,13 +3,30 @@
     {
       "geometry": {
         "coordinates": [
-          12.8051905,
-          49.4885393
+          12.7641938,
+          49.4965759
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Vlkanov, u autobusové zastávky <br><b>Adresa:</b> Domažlice; Vlkanov; Vlkanov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "_note": "<br><b>Poznámka:</b> Mnichov, prodejna <br><b>Adresa:</b> Domažlice; Mnichov; Mnichov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "34407:120"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.8065852,
+          49.4876306
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vlkanov, u autobusové zastávky <br><b>Adresa:</b> Domažlice; Vlkanov; Vlkanov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -20,13 +37,13 @@
     {
       "geometry": {
         "coordinates": [
-          12.8066469,
-          49.4595664
+          12.8066093,
+          49.4593816
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Postřekov - pošta <br><b>Adresa:</b> č.p. 270, 34535, Postřekov ",
+        "_note": "<br><b>Poznámka:</b> Postřekov - pošta <br><b>Adresa:</b> č.p. 270, 34535, Postřekov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 20.73 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",

@@ -20,13 +20,13 @@
     {
       "geometry": {
         "coordinates": [
-          16.5927208,
-          49.0349438
+          16.5928058,
+          49.035069
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Hrušovany u Brna <br><b>Adresa:</b> Jiřího z Poděbrad 224, 66462, Hrušovany u Brna ",
+        "_note": "<br><b>Poznámka:</b> pošta Hrušovany u Brna <br><b>Adresa:</b> Jiřího z Poděbrad 224, 66462, Hrušovany u Brna <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 15.24 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 12:00",
         "operator": "Česká pošta, s.p.",
@@ -37,13 +37,13 @@
     {
       "geometry": {
         "coordinates": [
-          16.5998804,
-          49.012591
+          16.5998958,
+          49.0126162
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Žabčice <br><b>Adresa:</b> Nádražní 366, 66463, Žabčice ",
+        "_note": "<br><b>Poznámka:</b> pošta Žabčice <br><b>Adresa:</b> Nádražní 366, 66463, Žabčice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 3.02 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -54,13 +54,13 @@
     {
       "geometry": {
         "coordinates": [
-          16.5247014,
-          48.9822923
+          16.5247477,
+          48.9822301
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Pohořelice <br><b>Adresa:</b> Brněnská 3, 69123, Pohořelice ",
+        "_note": "<br><b>Poznámka:</b> pošta Pohořelice <br><b>Adresa:</b> Brněnská 3, 69123, Pohořelice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 7.7 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 12:00",
         "operator": "Česká pošta, s.p.",
@@ -71,13 +71,30 @@
     {
       "geometry": {
         "coordinates": [
-          16.6017842,
-          49.0181452
+          16.5935365,
+          49.0377535
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> obchod <br><b>Adresa:</b> č.p. 180, 66463, Unkovice ",
+        "_note": "<br><b>Poznámka:</b> Obecní úřad <br><b>Adresa:</b> Masarykova 17, 66462, Hrušovany u Brna <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 23.75 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60011:29"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.6018732,
+          49.0180288
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> obchod <br><b>Adresa:</b> č.p. 180, 66463, Unkovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 14.48 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",

@@ -37,13 +37,13 @@
     {
       "geometry": {
         "coordinates": [
-          16.9722561,
-          49.9670057
+          16.9725218,
+          49.9667306
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Pošta Šumperk 1 (stojan) <br><b>Adresa:</b> Gen. Svobody 100/13, 78701, Šumperk ",
+        "_note": "<br><b>Poznámka:</b> Pošta Šumperk 1 (stojan) <br><b>Adresa:</b> Gen. Svobody 100/13, 78701, Šumperk <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 36.02 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -292,13 +292,13 @@
     {
       "geometry": {
         "coordinates": [
-          16.9724896,
-          49.9635498
+          16.9780664,
+          49.9654536
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Šumperk, Slovanská 268/2 <br><b>Adresa:</b> Slovanská 268/2, 78701, Šumperk ",
+        "_note": "<br><b>Poznámka:</b> Šumperk, Slovanská 268/2 <br><b>Adresa:</b> Slovanská 268/2, 78701, Šumperk <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 451.73 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -343,13 +343,13 @@
     {
       "geometry": {
         "coordinates": [
-          17.0007323,
-          49.9676817
+          16.9890056,
+          49.9654595
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Vikýřovice, U Kaple 339 (stojan) <br><b>Adresa:</b> U Kaple 339, 78813, Vikýřovice ",
+        "_note": "<br><b>Poznámka:</b> Vikýřovice, U Kaple 339 (stojan) <br><b>Adresa:</b> U Kaple 339, 78813, Vikýřovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 874.66 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -417,7 +417,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Šumperk, Čajkovského 2089/14 A (stojan) <br><b>Adresa:</b> Čajkovského 2089/14a, 78701, Šumperk ",
+        "_note": "<br><b>Poznámka:</b> Šumperk, Čajkovského 2089/14 A (stojan) <br><b>Adresa:</b> Čajkovského 2089/14a, 78701, Šumperk <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -479,34 +479,17 @@
     {
       "geometry": {
         "coordinates": [
-          17.0299944,
-          50.0004133
+          17.0300358,
+          50.0004953
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Petrov nad Desnou 154, nádraží ČD (stojan) <br><b>Adresa:</b> č.p. 154, 78814, Petrov nad Desnou ",
+        "_note": "<br><b>Poznámka:</b> Petrov nad Desnou 154, nádraží ČD (stojan) <br><b>Adresa:</b> č.p. 154, 78814, Petrov nad Desnou <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.59 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "78807:55"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.9704794,
-          49.9657853
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Šumperk, nám. Míru 94/20 <br><b>Adresa:</b> nám. Míru 94/20, 78701, Šumperk ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "78807:6"
       },
       "type": "Feature"
     },

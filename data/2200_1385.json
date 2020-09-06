@@ -105,13 +105,30 @@
     {
       "geometry": {
         "coordinates": [
-          13.4163387,
-          50.2252373
+          13.4102672,
+          50.2273644
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Mírová 533, nemocnice, Podbořany <br><b>Adresa:</b> Mírová 533, 44101, Podbořany ",
+        "_note": "<br><b>Poznámka:</b> Příčná, Podbořany, poblíž č.p. 900 <br><b>Adresa:</b> Louny; Žatec; Žatec <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 15:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43807:26"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.4152359,
+          50.2259539
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Mírová 533, nemocnice, Podbořany <br><b>Adresa:</b> Mírová 533, 44101, Podbořany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 111.86 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 15:00",
         "operator": "Česká pošta, s.p.",

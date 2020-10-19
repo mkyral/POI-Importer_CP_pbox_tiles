@@ -37,6 +37,23 @@
     {
       "geometry": {
         "coordinates": [
+          15.2442867,
+          50.5777322
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u obchodu <br><b>Adresa:</b> Lestkov 96, 51263, Radostná pod Kozákovem <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51107:124"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           15.2665456,
           50.585706
         ],
@@ -122,23 +139,6 @@
     {
       "geometry": {
         "coordinates": [
-          15.267232,
-          50.6219752
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> čp. 38, Smrčí <br><b>Adresa:</b> Smrčí 38, 51301, Záhoří <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 49.35 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "51107:172"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           15.2692885,
           50.6153934
         ],
@@ -218,23 +218,6 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "51107:71"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.209723,
-          50.5847127
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> zastávka BUS Chutnovka, poblíž č.p. 21 <br><b>Adresa:</b> Semily; Mírová pod Kozákovem; Chutnovka <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "51107:72"
       },
       "type": "Feature"
     },

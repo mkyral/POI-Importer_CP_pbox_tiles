@@ -275,23 +275,6 @@
     {
       "geometry": {
         "coordinates": [
-          14.3897018,
-          50.163511
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Masarykova 1379, 25263, Roztoky <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 22.47 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "17704:306"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           14.3932761,
           50.1644079
         ],
@@ -592,6 +575,23 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "19007:2106"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3741156,
+          50.1735231
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Husinecká 8, 25068, Husinec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "19007:2109"
       },
       "type": "Feature"
     },

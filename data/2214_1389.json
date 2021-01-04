@@ -3,23 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          14.6175308,
-          49.9989862
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Do kopečka 11, Lipany, 10300, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 42.63 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 14:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "10003:50"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           14.6492705,
           49.9896025
         ],
@@ -269,6 +252,23 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "25107:31"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.6170037,
+          49.9991653
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Do kopečka 11, Lipany, 10300, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "25107:328"
       },
       "type": "Feature"
     },

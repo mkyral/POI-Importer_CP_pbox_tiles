@@ -3,13 +3,30 @@
     {
       "geometry": {
         "coordinates": [
+          16.2635878,
+          50.5391944
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> partner <br><b>Adresa:</b> č.p. 134, 54962, Suchý Důl ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54707:171"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           16.2847843,
           50.5370128
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Slavný, zast. BUS <br><b>Adresa:</b> Náchod; Suchý Důl; Slavný <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Slavný, zast. BUS <br><b>Adresa:</b> Slavný 38, 54954, Suchý Důl <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 2.82 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",

@@ -173,23 +173,6 @@
     {
       "geometry": {
         "coordinates": [
-          18.0776304,
-          49.720079
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Partner Studénka 1 <br><b>Adresa:</b> 2. května 504, 74213, Studénka ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "72572:534"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           18.0550379,
           49.7137996
         ],
@@ -207,17 +190,34 @@
     {
       "geometry": {
         "coordinates": [
-          18.0545435,
-          49.6688631
+          18.0776304,
+          49.720079
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Partner Bartošovice na Moravě <br><b>Adresa:</b> č.p. 135, 74254, Bartošovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 7.98 m",
+        "_note": "<br><b>Poznámka:</b> Partner Studénka 1 <br><b>Adresa:</b> 2. května 504, 74213, Studénka ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "72572:537"
+        "ref": "72572:610"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.0544589,
+          49.6688167
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Partner Bartošovice na Moravě <br><b>Adresa:</b> č.p. 135, 74254, Bartošovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "72572:612"
       },
       "type": "Feature"
     },
@@ -234,7 +234,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "72572:538"
+        "ref": "72572:613"
       },
       "type": "Feature"
     },

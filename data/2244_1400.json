@@ -54,13 +54,13 @@
     {
       "geometry": {
         "coordinates": [
-          17.2961542,
-          49.3501022
+          17.2966298,
+          49.3501084
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Kojetín, nám. Svobody 819, u křižovatky (stojan) <br><b>Adresa:</b> Přerov; Kojetín; Kojetín I-Město <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "_note": "<br><b>Poznámka:</b> Kojetín, nám. Svobody 819, u křižovatky (stojan) <br><b>Adresa:</b> Přerov; Kojetín; Kojetín I-Město <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -71,13 +71,13 @@
     {
       "geometry": {
         "coordinates": [
-          17.3010332,
-          49.3506537
+          17.3007752,
+          49.3510615
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Kojetín, nám. Míru 83 (stojan) <br><b>Adresa:</b> náměstí Míru 83, Kojetín I-Město, 75201, Kojetín ",
+        "_note": "<br><b>Poznámka:</b> Kojetín, nám. Míru 83 (stojan) <br><b>Adresa:</b> náměstí Míru 83, Kojetín I-Město, 75201, Kojetín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 49.06 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -88,13 +88,13 @@
     {
       "geometry": {
         "coordinates": [
-          17.2997305,
-          49.3578953
+          17.2995637,
+          49.3577569
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Kojetín, Olomoucká 303, u křižovatky (stojan) <br><b>Adresa:</b> Přerov; Kojetín; Kojetín I-Město <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "_note": "<br><b>Poznámka:</b> Kojetín, Olomoucká 303, u křižovatky (stojan) <br><b>Adresa:</b> Přerov; Kojetín; Kojetín I-Město <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -105,17 +105,34 @@
     {
       "geometry": {
         "coordinates": [
-          17.2967367,
-          49.3537974
+          17.2978207,
+          49.353768
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Kojetín, Sladovní 1291 (stojan) <br><b>Adresa:</b> Sladovní 1291, Kojetín I-Město, 75201, Kojetín ",
+        "_note": "<br><b>Poznámka:</b> Kojetín, Sladovní 1291 (stojan) <br><b>Adresa:</b> Sladovní 1291, Kojetín I-Město, 75201, Kojetín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 78.61 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "75007:89"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.3026267,
+          49.3477621
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kojetín, 6.května 1160, u polikliniky (stojan) <br><b>Adresa:</b> 6. května 1160, Kojetín I-Město, 75201, Kojetín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "75007:90"
       },
       "type": "Feature"
     },
@@ -128,24 +145,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Kojetín, 6.května 1160, u polikliniky (stojan) <br><b>Adresa:</b> 6. května 1160, Kojetín I-Město, 75201, Kojetín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 255.65 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "75007:90"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.3045219,
-          49.3455848
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Kojetín, Nádražní 458, před nádražím (stojan) <br><b>Adresa:</b> Přerov; Kojetín; Kojetín I-Město <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "_note": "<br><b>Poznámka:</b> Kojetín, Nádražní 458, před nádražím (stojan) <br><b>Adresa:</b> Přerov; Kojetín; Kojetín I-Město <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -156,13 +156,13 @@
     {
       "geometry": {
         "coordinates": [
-          17.2906449,
-          49.371906
+          17.2909436,
+          49.3718285
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Uhřičice 26, u obchodu (stojan) <br><b>Adresa:</b> Přerov; Uhřičice; Uhřičice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "_note": "<br><b>Poznámka:</b> Uhřičice 26, u obchodu (stojan) <br><b>Adresa:</b> Přerov; Uhřičice; Uhřičice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -190,13 +190,13 @@
     {
       "geometry": {
         "coordinates": [
-          17.2993008,
-          49.3309369
+          17.2989634,
+          49.3308347
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Kojetín, Popůvky 6, u křižovatky (stojan) <br><b>Adresa:</b> Přerov; Kojetín; Kojetín II-Popůvky <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "_note": "<br><b>Poznámka:</b> Kojetín, Popůvky 6, u křižovatky (stojan) <br><b>Adresa:</b> Přerov; Kojetín; Kojetín II-Popůvky <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",

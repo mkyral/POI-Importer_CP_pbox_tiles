@@ -139,17 +139,34 @@
     {
       "geometry": {
         "coordinates": [
-          17.2583618,
-          49.6181056
+          17.2580741,
+          49.617841
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Olomouc, Černovír, Hlušovická 163/2, točna autobus <br><b>Adresa:</b> Hlušovická 163/2, Černovír, 77900, Olomouc <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 36.0 m",
+        "_note": "<br><b>Poznámka:</b> Olomouc, Černovír, Hlušovická 163/2, točna autobus <br><b>Adresa:</b> Hlušovická 163/2, Černovír, 77900, Olomouc <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 16:00",
         "operator": "Česká pošta, s.p.",
         "ref": "77072:72"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.2565943,
+          49.6124033
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Olomouc, Černovír, Frajtovo nám. 156/3 <br><b>Adresa:</b> Frajtovo nám. 156/3, Černovír, 77900, Olomouc <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.26 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 16:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "77072:73"
       },
       "type": "Feature"
     },
@@ -173,13 +190,13 @@
     {
       "geometry": {
         "coordinates": [
-          17.287735,
-          49.6117059
+          17.288055,
+          49.6117312
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Olomouc, Chválkovice, Selské nám. 200/15 (stojan) <br><b>Adresa:</b> Olomouc; Olomouc; Chválkovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "_note": "<br><b>Poznámka:</b> Olomouc, Chválkovice, Selské nám. 200/15 (stojan) <br><b>Adresa:</b> Olomouc; Olomouc; Chválkovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 16:00",
         "operator": "Česká pošta, s.p.",
@@ -190,8 +207,8 @@
     {
       "geometry": {
         "coordinates": [
-          17.288055,
-          49.6117312
+          17.2965024,
+          49.6157238
         ],
         "type": "Point"
       },

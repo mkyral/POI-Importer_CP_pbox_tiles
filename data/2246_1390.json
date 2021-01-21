@@ -16,6 +16,23 @@
         "ref": "79207:30"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.4759485,
+          49.9221465
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Točna BUS, u čp.17, Nová Pláň (na stojanu) <br><b>Adresa:</b> Bruntál; Nová Pláň; Nová Pláň <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79207:33"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

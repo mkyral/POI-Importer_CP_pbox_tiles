@@ -2100,7 +2100,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Globus <br><b>Adresa:</b> Gregorova 2115/10, Chodov, 14800, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 55.4 m",
+        "_note": "<br><b>Poznámka:</b> Hotel Globus <br><b>Adresa:</b> Gregorova 2115/10, Chodov, 14800, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 55.4 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 14:00",
         "operator": "Česká pošta, s.p.",
@@ -2474,7 +2474,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> vchod Arkády <br><b>Adresa:</b> Na Pankráci 1727/86, Nusle, 14000, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 104.99 m",
+        "_note": "<br><b>Poznámka:</b> OC Arkády <br><b>Adresa:</b> Na Pankráci 1727/86, Nusle, 14000, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 104.99 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 14:00",
         "operator": "Česká pošta, s.p.",
@@ -2655,6 +2655,23 @@
     {
       "geometry": {
         "coordinates": [
+          14.4224369,
+          50.0623883
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> V pevnosti 13/4, Vyšehrad, 12800, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 14:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "10003:624"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           14.4772373,
           50.0147538
         ],
@@ -2683,23 +2700,6 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "10003:9"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.4224248,
-          50.0626928
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> V pevnosti 13/4, Vyšehrad, 12800, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 33.88 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 14:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "11007:173"
       },
       "type": "Feature"
     }

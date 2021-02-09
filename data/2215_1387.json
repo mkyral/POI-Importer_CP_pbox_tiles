@@ -292,17 +292,34 @@
     {
       "geometry": {
         "coordinates": [
+          14.6797426,
+          50.1108046
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> 9. května 26/18, 25092, Šestajovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "25107:295"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           14.6814263,
           50.1081827
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> 9. května 26/18, 25092, Šestajovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 315.4 m",
+        "_note": "<br><b>Poznámka:</b> pošta Partner Šestajovice <br><b>Adresa:</b> Revoluční 149/41, 25092, Šestajovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.4 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "25107:295"
+        "ref": "25107:322"
       },
       "type": "Feature"
     },

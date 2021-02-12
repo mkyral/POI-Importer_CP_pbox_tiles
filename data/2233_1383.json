@@ -20,13 +20,13 @@
     {
       "geometry": {
         "coordinates": [
-          16.3114409,
-          50.2941476
+          16.3114872,
+          50.2942179
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Penzion, Prázova bouda <br><b>Adresa:</b> Šediviny 18, 51801, Dobré ",
+        "_note": "<br><b>Poznámka:</b> Penzion, Prázova bouda <br><b>Adresa:</b> Šediviny 18, 51801, Dobré <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.48 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -71,13 +71,13 @@
     {
       "geometry": {
         "coordinates": [
-          16.2847378,
-          50.3209525
+          16.2847023,
+          50.3209544
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> prodejna, Dobřany <br><b>Adresa:</b> č.p. 43, 51801, Dobřany ",
+        "_note": "<br><b>Poznámka:</b> prodejna, Dobřany <br><b>Adresa:</b> č.p. 43, 51801, Dobřany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 2.53 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -88,13 +88,13 @@
     {
       "geometry": {
         "coordinates": [
-          16.2813278,
-          50.3124855
+          16.2814944,
+          50.3126726
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> bývalá sběrna mléka, Nedvězí <br><b>Adresa:</b> Nedvězí 73, 51801, Kounov ",
+        "_note": "<br><b>Poznámka:</b> bývalá sběrna mléka, Nedvězí <br><b>Adresa:</b> Nedvězí 73, 51801, Kounov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 23.94 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -105,13 +105,13 @@
     {
       "geometry": {
         "coordinates": [
-          16.301047,
-          50.3066408
+          16.3010296,
+          50.306714
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> č.p.44, Šediviny <br><b>Adresa:</b> Šediviny 44, 51801, Kounov ",
+        "_note": "<br><b>Poznámka:</b> č.p.44, Šediviny <br><b>Adresa:</b> Šediviny 44, 51801, Kounov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.24 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -139,17 +139,34 @@
     {
       "geometry": {
         "coordinates": [
-          16.3451761,
-          50.2919433
+          16.3455201,
+          50.2915517
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Zastávka ČSAD Kristýna, Deštné v Orlických horách <br><b>Adresa:</b> č.p. 237, 51791, Deštné v Orlických horách ",
+        "_note": "<br><b>Poznámka:</b> Zastávka ČSAD Kristýna, Deštné v Orlických horách <br><b>Adresa:</b> č.p. 237, 51791, Deštné v Orlických horách <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 49.95 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "51707:560"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3161477,
+          50.320797
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Zastávka ČSAD Plasnice, Deštné v Orlic. horách <br><b>Adresa:</b> Rychnov nad Kněž; Deštné v Orlických horách; Deštné v Orlických horách <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51707:561"
       },
       "type": "Feature"
     }

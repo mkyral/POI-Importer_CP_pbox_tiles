@@ -88,23 +88,6 @@
     {
       "geometry": {
         "coordinates": [
-          17.819968,
-          49.7801264
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Pošta Větřkovice u Vítkova <br><b>Adresa:</b> č.p. 197, 74743, Větřkovice ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "74907:186"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           17.813256,
           49.763547
         ],
@@ -116,6 +99,23 @@
         "collection_times": "Mo-Fr 08:05",
         "operator": "Česká pošta, s.p.",
         "ref": "74907:333"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.819968,
+          49.7801264
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Větřkovice u Vítkova <br><b>Adresa:</b> č.p. 197, 74743, Větřkovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74907:335"
       },
       "type": "Feature"
     }

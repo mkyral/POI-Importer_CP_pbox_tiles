@@ -3,17 +3,34 @@
     {
       "geometry": {
         "coordinates": [
+          18.3614578,
+          49.6134553
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Pržno (stojan před poštou) <br><b>Adresa:</b> č.p. 161, 73911, Pržno ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "73807:115"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           18.3651086,
           49.6191619
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> U požární zbrojnice,u čp.140,Pržno(stoj.zast.BUS) <br><b>Adresa:</b> Frýdek-Místek; Pržno; Pržno <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> U požární zbrojnice,u čp.140,Pržno(stoj.zast.BUS) <br><b>Adresa:</b> Frýdek-Místek; Pržno; Pržno <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 14:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "73807:216"
+        "ref": "73807:116"
       },
       "type": "Feature"
     },
@@ -28,7 +45,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> u čp.99, Metylovice (stojan na zast.BUS - Mužný) <br><b>Adresa:</b> Frýdek-Místek; Metylovice; Metylovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 14:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "73807:218"
       },
@@ -45,7 +62,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Prodejna M a J,na čp.201, Metylovice <br><b>Adresa:</b> č.p. 201, 73949, Metylovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.93 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 14:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "73807:219"
       },
@@ -190,23 +207,6 @@
     {
       "geometry": {
         "coordinates": [
-          18.3616251,
-          49.6133538
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Pošta Pržno (stojan před poštou) <br><b>Adresa:</b> č.p. 161, 73911, Pržno <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 16.52 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 14:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "73807:88"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           18.3352856,
           49.6139162
         ],
@@ -215,7 +215,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Metylovice 495 (stojan před bývalou poštou) <br><b>Adresa:</b> č.p. 495, 73949, Metylovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.29 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 14:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "73807:89"
       },

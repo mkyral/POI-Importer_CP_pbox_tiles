@@ -88,6 +88,40 @@
     {
       "geometry": {
         "coordinates": [
+          15.2004964,
+          50.8992619
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u BUS zastávky Přebytek, poblíž  Ludvíkov p/S 136 <br><b>Adresa:</b> Liberec; Nové Město pod Smrkem; Ludvíkov pod Smrkem <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "46307:314"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.1948952,
+          50.8938831
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Obří Sud, Lázně Libverda č.p.186 <br><b>Adresa:</b> č.p. 186, 46362, Lázně Libverda ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "46307:315"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           15.1716931,
           50.869411
         ],

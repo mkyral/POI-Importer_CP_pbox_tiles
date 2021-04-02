@@ -111,7 +111,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> V. Nováka <br><b>Adresa:</b> Trutnov; Trutnov; Dolní Předměstí <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> V. Nováka <br><b>Adresa:</b> Vítězslava Nováka 245, Dolní Předměstí, 54101, Trutnov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 24.04 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 12:00",
         "operator": "Česká pošta, s.p.",
@@ -122,13 +122,30 @@
     {
       "geometry": {
         "coordinates": [
-          15.9809217,
-          50.5487266
+          15.9083036,
+          50.5637225
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Bohuslavice jednota <br><b>Adresa:</b> Trutnov; Trutnov; Bohuslavice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "_note": "<br><b>Poznámka:</b> autobusové nádraží <br><b>Adresa:</b> Horská 5, Střední Předměstí, 54101, Trutnov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54107:17"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9750922,
+          50.5497756
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bohuslavice jednota <br><b>Adresa:</b> Mostní 22, Bohuslavice, 54101, Trutnov ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -139,13 +156,13 @@
     {
       "geometry": {
         "coordinates": [
-          15.9117463,
-          50.5456459
+          15.9117248,
+          50.5457353
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Bojiště prodejna <br><b>Adresa:</b> Trutnov; Trutnov; Bojiště <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "_note": "<br><b>Poznámka:</b> Bojiště prodejna <br><b>Adresa:</b> Stará 77, Bojiště, 54101, Trutnov ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -156,13 +173,13 @@
     {
       "geometry": {
         "coordinates": [
-          15.9460353,
-          50.5368925
+          15.9487448,
+          50.5340271
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Starý Rokytník prodejna <br><b>Adresa:</b> Trutnov; Trutnov; Starý Rokytník <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "_note": "<br><b>Poznámka:</b> Starý Rokytník prodejna <br><b>Adresa:</b> Starý Rokytník 222, 54101, Trutnov ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",

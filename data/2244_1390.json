@@ -37,13 +37,13 @@
     {
       "geometry": {
         "coordinates": [
-          17.3066196,
-          49.8969714
+          17.3068897,
+          49.896322
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> na BUS zast.,část Stránské,vedle čp.69,Rýmařov <br><b>Adresa:</b> Bruntál; Rýmařov; Stránské <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "_note": "<br><b>Poznámka:</b> na BUS zast.,část Stránské,vedle čp.69,Rýmařov <br><b>Adresa:</b> Bruntál; Rýmařov; Stránské <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -139,34 +139,17 @@
     {
       "geometry": {
         "coordinates": [
-          17.2862006,
-          49.9186987
+          17.285682,
+          49.918716
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Ondřejov 95,Rýmařov (stojan u hospody na zast.BUS) <br><b>Adresa:</b> Bruntál; Rýmařov; Ondřejov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "_note": "<br><b>Poznámka:</b> Ondřejov 95,Rýmařov (stojan u hospody na zast.BUS) <br><b>Adresa:</b> Bruntál; Rýmařov; Ondřejov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "79207:81"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.2269977,
-          49.9246847
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Stříbrné Hory,u č.9,Horní Město (stoj.na zast.BUS) <br><b>Adresa:</b> Bruntál; Horní Město; Stříbrné Hory <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "79207:93"
       },
       "type": "Feature"
     },

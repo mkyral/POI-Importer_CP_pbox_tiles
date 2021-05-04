@@ -45,7 +45,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Partner Jinačovice <br><b>Adresa:</b> č.p. 83, 66434, Jinačovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 13.53 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "60012:206"
       },
@@ -156,6 +156,23 @@
     {
       "geometry": {
         "coordinates": [
+          16.5390187,
+          49.298517
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Na Loučkách 1221/1, 66434, Kuřim ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60012:43"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           16.5571704,
           49.3050961
         ],
@@ -167,23 +184,6 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "60012:47"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.5382122,
-          49.298152
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Na Loučkách 1221/1, 66434, Kuřim <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 71.21 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "60012:49"
       },
       "type": "Feature"
     },

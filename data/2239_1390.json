@@ -3,13 +3,13 @@
     {
       "geometry": {
         "coordinates": [
-          16.7947385,
-          49.9312122
+          16.7919326,
+          49.9317058
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Jedlí 18, obchod (stojan) <br><b>Adresa:</b> Šumperk; Jedlí; Jedlí <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "_note": "<br><b>Poznámka:</b> Jedlí 18, obchod (stojan) <br><b>Adresa:</b> Šumperk; Jedlí; Jedlí <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -20,13 +20,13 @@
     {
       "geometry": {
         "coordinates": [
-          16.8324188,
-          49.9437453
+          16.8346021,
+          49.9437095
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Zborov 32 (stojan) <br><b>Adresa:</b> Šumperk; Zborov; Zborov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "_note": "<br><b>Poznámka:</b> Zborov 32 (stojan) <br><b>Adresa:</b> Šumperk; Zborov; Zborov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -48,23 +48,6 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "78807:329"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.7872108,
-          49.9079681
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Drozdov, u autob.zastávky napr.čp. 136 <br><b>Adresa:</b> Šumperk; Drozdov; Drozdov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "78807:333"
       },
       "type": "Feature"
     },
@@ -105,13 +88,13 @@
     {
       "geometry": {
         "coordinates": [
-          16.7998134,
-          49.9317793
+          16.7999448,
+          49.9318205
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Pošta Jedlí (stojan) <br><b>Adresa:</b> č.p. 16, 78901, Jedlí ",
+        "_note": "<br><b>Poznámka:</b> Pošta Jedlí (stojan) <br><b>Adresa:</b> č.p. 16, 78901, Jedlí <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.46 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",

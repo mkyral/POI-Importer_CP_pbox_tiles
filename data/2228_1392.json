@@ -37,13 +37,13 @@
     {
       "geometry": {
         "coordinates": [
-          15.8209732,
-          49.8274084
+          15.8211154,
+          49.8273297
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Nová Ves 15 <br><b>Adresa:</b> Nová Ves 15, 53825, Nasavrky ",
+        "_note": "<br><b>Poznámka:</b> Nová Ves 15 <br><b>Adresa:</b> Nová Ves 15, 53825, Nasavrky <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 13.44 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -116,6 +116,23 @@
         "collection_times": "Mo-Fr 08:30",
         "operator": "Česká pošta, s.p.",
         "ref": "53900:52"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8251817,
+          49.8379273
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kvítek - BUS, \"S\" <br><b>Adresa:</b> Bratroňov 34, 53825, Ctětín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 30.55 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:15",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53900:54"
       },
       "type": "Feature"
     },

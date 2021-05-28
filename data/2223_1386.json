@@ -88,17 +88,34 @@
     {
       "geometry": {
         "coordinates": [
-          15.4573799,
-          50.1632091
+          15.4572485,
+          50.1632993
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Nádraží ČD <br><b>Adresa:</b> Nádražní 133, Chlumec nad Cidlinou IV, 50351, Chlumec nad Cidlinou ",
+        "_note": "<br><b>Poznámka:</b> Nádraží ČD <br><b>Adresa:</b> Nádražní 133, Chlumec nad Cidlinou IV, 50351, Chlumec nad Cidlinou <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 13.72 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "50370:310"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4493143,
+          50.1473117
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> DD Palackého <br><b>Adresa:</b> Palackého 165, Chlumec nad Cidlinou III, 50351, Chlumec nad Cidlinou <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 16.53 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "50370:311"
       },
       "type": "Feature"
     },
@@ -111,24 +128,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> DD Palackého <br><b>Adresa:</b> Palackého 165, Chlumec nad Cidlinou III, 50351, Chlumec nad Cidlinou <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 617.17 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "50370:311"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.4452372,
-          50.1425708
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Olešnice-kulturní dům, Olešnice <br><b>Adresa:</b> č.p. 44, 50351, Olešnice ",
+        "_note": "<br><b>Poznámka:</b> Olešnice-kulturní dům, Olešnice <br><b>Adresa:</b> č.p. 44, 50351, Olešnice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 33.12 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",

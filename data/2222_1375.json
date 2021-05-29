@@ -190,13 +190,13 @@
     {
       "geometry": {
         "coordinates": [
-          15.3656501,
-          50.7699166
+          15.3656431,
+          50.7698479
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Kořenov 801- nádraží <br><b>Adresa:</b> č.p. 801, 46849, Kořenov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Kořenov 801- nádraží <br><b>Adresa:</b> č.p. 801, 46849, Kořenov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 7.66 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -218,23 +218,6 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "46307:244"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.3807926,
-          50.7689287
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> zast.BUS- Martinské údolí Kořenov,naproti  č.p.581 <br><b>Adresa:</b> Jablonec n. Nis.; Kořenov; Kořenov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "46307:257"
       },
       "type": "Feature"
     }

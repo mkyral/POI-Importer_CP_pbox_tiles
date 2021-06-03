@@ -224,13 +224,30 @@
     {
       "geometry": {
         "coordinates": [
-          13.2930773,
-          49.6548327
+          13.2992399,
+          49.6576336
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Dobřany,nové sídliště <br><b>Adresa:</b> Plzeň-jih; Dobřany; Dobřany <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "_note": "<br><b>Poznámka:</b> Dobřany,sídliště Pančava <br><b>Adresa:</b> Plzeň-jih; Dobřany; Dobřany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30072:35"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.2921291,
+          49.6525449
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dobřany,nové sídliště <br><b>Adresa:</b> Plzeň-jih; Dobřany; Dobřany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",

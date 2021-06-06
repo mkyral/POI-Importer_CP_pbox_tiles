@@ -71,13 +71,13 @@
     {
       "geometry": {
         "coordinates": [
-          15.9797076,
-          49.0277887
+          15.9791993,
+          49.0280103
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> stojan přes u cestu u obchodu <br><b>Adresa:</b> č.p. 101, 67153, Rozkoš ",
+        "_note": "<br><b>Poznámka:</b> stojan přes u cestu u obchodu <br><b>Adresa:</b> č.p. 101, 67153, Rozkoš <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 44.52 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 09:00",
         "operator": "Česká pošta, s.p.",
@@ -99,23 +99,6 @@
         "collection_times": "Mo-Fr 12:00",
         "operator": "Česká pošta, s.p.",
         "ref": "66907:271"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.9870878,
-          49.0378558
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Pulkov 15, 67557, Biskupice-Pulkov ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "67407:224"
       },
       "type": "Feature"
     }

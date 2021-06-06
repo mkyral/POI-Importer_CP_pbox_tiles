@@ -3,17 +3,34 @@
     {
       "geometry": {
         "coordinates": [
-          15.9340433,
-          49.074018
+          15.9342874,
+          49.0739864
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Příštpo, sokolovna <br><b>Adresa:</b> č.p. 57, 67551, Příštpo ",
+        "_note": "<br><b>Poznámka:</b> Příštpo, sokolovna <br><b>Adresa:</b> č.p. 57, 67551, Příštpo <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 18.13 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "67407:195"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9871897,
+          49.0380255
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Pulkov 15, 67557, Biskupice-Pulkov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 20.29 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "67407:224"
       },
       "type": "Feature"
     }

@@ -105,13 +105,30 @@
     {
       "geometry": {
         "coordinates": [
-          17.6921853,
-          49.6657262
+          17.6750211,
+          49.6375922
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Potštát, Lipná 64, obchod (stojan) <br><b>Adresa:</b> Lipná 64, 75362, Potštát ",
+        "_note": "<br><b>Poznámka:</b> Potštát, Kyžlířov 10, aut. zastávka (stojan) <br><b>Adresa:</b> Přerov; Potštát; Kyžlířov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "75007:232"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.6922805,
+          49.6657271
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Potštát, Lipná 64, obchod (stojan) <br><b>Adresa:</b> Lipná 64, 75362, Potštát <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.85 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",

@@ -71,13 +71,13 @@
     {
       "geometry": {
         "coordinates": [
-          16.7318352,
-          49.4868605
+          16.7136467,
+          49.4466215
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> na křižovatce u autobusové zastávky <br><b>Adresa:</b> č.p. 5, 68001, Velenov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Němčice autobusová zastávka <br><b>Adresa:</b> č.p. 1, 67951, Němčice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 225.32 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -116,6 +116,23 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "68007:28"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.7321758,
+          49.4870757
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> na křižovatce u autobusové zastávky <br><b>Adresa:</b> č.p. 5, 68001, Velenov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 34.33 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "68007:29"
       },
       "type": "Feature"
     }

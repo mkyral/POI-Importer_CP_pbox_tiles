@@ -3,17 +3,34 @@
     {
       "geometry": {
         "coordinates": [
+          17.1965656,
+          50.1639147
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bělá pod Pradědem, Domašov u č.p. 189, na AZ <br><b>Adresa:</b> Jeseník; Bělá pod Pradědem; Domašov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "78807:511"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           17.1719264,
           50.1566879
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Bělá p.Prad.,Filipovice E61,Hotel St.pošta  (stoj) <br><b>Adresa:</b> Jeseník; Bělá pod Pradědem; Filipovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Bělá p.Prad.,Filipovice E61,Hotel St.pošta  (stoj) <br><b>Adresa:</b> Jeseník; Bělá pod Pradědem; Filipovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "79007:16"
+        "ref": "78807:513"
       },
       "type": "Feature"
     }

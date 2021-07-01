@@ -9,11 +9,11 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Mikulovice, okal Hlavní 345, aut.zastávka (stojan) <br><b>Adresa:</b> Jeseník; Mikulovice; Mikulovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Mikulovice, okal Hlavní 345, aut.zastávka (stojan) <br><b>Adresa:</b> Jeseník; Mikulovice; Mikulovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "79007:29"
+        "ref": "78807:524"
       },
       "type": "Feature"
     },
@@ -26,45 +26,45 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Supíkovice 135, prodejna (stojan) <br><b>Adresa:</b> Jeseník; Supíkovice; Supíkovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Supíkovice 135, prodejna (stojan) <br><b>Adresa:</b> Jeseník; Supíkovice; Supíkovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "79007:37"
+        "ref": "78807:527"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          17.2543431,
-          50.2978477
+          17.2547401,
+          50.2977338
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Partner Supíkovice (stojan) <br><b>Adresa:</b> č.p. 130, 79051, Supíkovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 30.92 m",
+        "_note": "<br><b>Poznámka:</b> Partner Supíkovice (stojan) <br><b>Adresa:</b> č.p. 130, 79051, Supíkovice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "79007:51"
+        "ref": "78807:538"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          17.2635823,
-          50.3259802
+          17.2645042,
+          50.3199204
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Partner Velké Kunětice (stojan) <br><b>Adresa:</b> č.p. 146, 79052, Velké Kunětice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 677.2 m",
+        "_note": "<br><b>Poznámka:</b> Partner Velké Kunětice (stojan) <br><b>Adresa:</b> č.p. 146, 79052, Velké Kunětice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "79007:52"
+        "ref": "78807:539"
       },
       "type": "Feature"
     }

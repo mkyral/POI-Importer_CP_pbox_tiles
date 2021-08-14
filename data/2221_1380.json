@@ -9,7 +9,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> náves, Mladějov v Čechách <br><b>Adresa:</b> Jičín; Mladějov; Mladějov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> náves, Mladějov v Čechách <br><b>Adresa:</b> č.p. 22, 50745, Mladějov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 37.67 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -43,7 +43,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Libunec <br><b>Adresa:</b> Libunec 31, 50601, Libuň <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 7.53 m",
+        "_note": "<br><b>Poznámka:</b> Libunec, hasičská zbrojnice <br><b>Adresa:</b> Libunec 31, 50601, Libuň <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 7.53 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -60,7 +60,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Pařezská Lhota <br><b>Adresa:</b> Jičín; Holín; Pařezská Lhota <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Pařezská Lhota <br><b>Adresa:</b> Pařezská Lhota 20, 50601, Holín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 28.11 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -94,7 +94,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Zámostí <br><b>Adresa:</b> Jičín; Zámostí-Blata; Zámostí <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Zámostí, zastávka <br><b>Adresa:</b> Zámostí 8, 50601, Zámostí-Blata <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 65.41 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -111,7 +111,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Blata <br><b>Adresa:</b> Jičín; Zámostí-Blata; Blata <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Blata <br><b>Adresa:</b> Blata 41, 50601, Zámostí-Blata <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 15.99 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -128,7 +128,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Drštěkryje <br><b>Adresa:</b> Jičín; Samšina; Drštěkryje <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Drštěkryje <br><b>Adresa:</b> Drštěkryje 12, 50601, Samšina <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 33.01 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -145,7 +145,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Plhov <br><b>Adresa:</b> Plhov 44, 50601, Samšina <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 18.75 m",
+        "_note": "<br><b>Poznámka:</b> Plhov, hasičská zbrojnice <br><b>Adresa:</b> Plhov 44, 50601, Samšina <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 18.75 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -179,11 +179,62 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Hubojedy <br><b>Adresa:</b> Jičín; Mladějov; Hubojedy <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Hubojedy <br><b>Adresa:</b> Hubojedy 17, 50601, Mladějov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 25.69 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "50770:99"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2622841,
+          50.5067972
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> čp. 25, Újezd pod Troskami <br><b>Adresa:</b> č.p. 25, 51263, Újezd pod Troskami <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 15.53 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51107:107"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2571089,
+          50.4940189
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> čp. 44, Hrdoňovice <br><b>Adresa:</b> Hrdoňovice 44, 51263, Újezd pod Troskami <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 33.68 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51107:108"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2248299,
+          50.5108793
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Troskovice 40 <br><b>Adresa:</b> č.p. 40, 51263, Troskovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 23.77 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51107:109"
       },
       "type": "Feature"
     }

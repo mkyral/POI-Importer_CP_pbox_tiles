@@ -3,6 +3,40 @@
     {
       "geometry": {
         "coordinates": [
+          18.193757,
+          49.9008729
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> ČD, Dr. E. Beneše 213/ 26, Hlučín <br><b>Adresa:</b> Dr. Ed. Beneše 213/26, 74801, Hlučín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "70071:103"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.2006292,
+          49.9197817
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Partner Darkovičky, Nový Svět 302/2 (stojan) <br><b>Adresa:</b> Nový svět 302/2, Darkovičky, 74801, Hlučín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "70071:109"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           18.259728,
           49.9235278
         ],
@@ -184,40 +218,6 @@
         "collection_times": "Mo-Fr 11:00",
         "operator": "Česká pošta, s.p.",
         "ref": "70071:151"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          18.1936537,
-          49.9008008
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> ČD, Dr. E. Beneše 213/ 26, Hlučín <br><b>Adresa:</b> Dr. Ed. Beneše 213/26, 74801, Hlučín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.91 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "70071:607"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          18.2010811,
-          49.9193471
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Partner Darkovičky, Kozmická, na čp.242/2 <br><b>Adresa:</b> Kozmická 242/2, Darkovičky, 74801, Hlučín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.85 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "70071:614"
       },
       "type": "Feature"
     }

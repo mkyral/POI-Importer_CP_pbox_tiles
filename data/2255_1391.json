@@ -20,6 +20,74 @@
     {
       "geometry": {
         "coordinates": [
+          18.1943669,
+          49.8937619
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dukelská, na obchodě Hruška (bez čp.), Hlučín <br><b>Adresa:</b> Opava; Hlučín; Hlučín <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "70071:101"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.2071603,
+          49.891281
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Rovniny 1075/69 (na stojanu), Hlučín <br><b>Adresa:</b> Rovniny 1075/69, 74801, Hlučín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "70071:102"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.2110467,
+          49.878285
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> ČSAD, Malánky 676/6 (na stojanu), Hlučín <br><b>Adresa:</b> Malánky 676/6, 74801, Hlučín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "70071:108"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.207009,
+          49.872677
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Partner Bobrovníky (na budově z boku) <br><b>Adresa:</b> Požárnická 167/30, Bobrovníky, 74801, Hlučín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "70071:110"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           18.2229314,
           49.8837014
         ],
@@ -147,7 +215,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Palackého 776/23 - vedle Armády spásy, Přívoz <br><b>Adresa:</b> Palackého 776/23, Přívoz, 70200, Ostrava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.84 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 14:00",
+        "collection_times": "Mo-Fr 13:00",
         "operator": "Česká pošta, s.p.",
         "ref": "70071:21"
       },
@@ -164,7 +232,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Trocnovská x Newtonova (na stojanu), Přívoz <br><b>Adresa:</b> Ostrava-město; Ostrava; Přívoz <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 14:00",
+        "collection_times": "Mo-Fr 13:00",
         "operator": "Česká pošta, s.p.",
         "ref": "70071:22"
       },
@@ -181,7 +249,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Nádražní x Mánesova (na stojanu), Přívoz <br><b>Adresa:</b> Ostrava-město; Ostrava; Přívoz <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 14:00",
+        "collection_times": "Mo-Fr 13:00",
         "operator": "Česká pošta, s.p.",
         "ref": "70071:23"
       },
@@ -252,74 +320,6 @@
         "collection_times": "Mo-Fr 13:00",
         "operator": "Česká pošta, s.p.",
         "ref": "70071:60"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          18.194367,
-          49.8937621
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Dukelská, na obchodě Hruška (bez čp.), Hlučín <br><b>Adresa:</b> Opava; Hlučín; Hlučín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "70071:605"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          18.2070447,
-          49.8911738
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Rovniny 1075/69 (na stojanu), Hlučín <br><b>Adresa:</b> Rovniny 1075/69, 74801, Hlučín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 14.52 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "70071:606"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          18.2110482,
-          49.8780862
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> ČSAD, Malánky 676/6 (na stojanu), Hlučín <br><b>Adresa:</b> Malánky 676/6, 74801, Hlučín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 22.11 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "70071:612"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          18.2070144,
-          49.8725296
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Partner Bobrovníky (na budově z boku) <br><b>Adresa:</b> Požárnická 167/30, Bobrovníky, 74801, Hlučín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 16.4 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "70071:615"
       },
       "type": "Feature"
     },

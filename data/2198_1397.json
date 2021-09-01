@@ -3,40 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          13.1862066,
-          49.5311819
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Ptenín <br><b>Adresa:</b> č.p. 58, 33452, Ptenín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 15.35 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "30071:484"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.1987812,
-          49.5162756
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Újezdec 1 <br><b>Adresa:</b> Újezdec 1, 33452, Ptenín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 31.99 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "30071:485"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           13.2197716,
           49.5441056
         ],
@@ -116,6 +82,40 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "30072:196"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.1863635,
+          49.531275
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Ptenín <br><b>Adresa:</b> č.p. 58, 33452, Ptenín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30072:473"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.1992211,
+          49.5162416
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Újezdec 1 <br><b>Adresa:</b> Újezdec 1, 33452, Ptenín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30072:474"
       },
       "type": "Feature"
     },

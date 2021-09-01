@@ -20,74 +20,6 @@
     {
       "geometry": {
         "coordinates": [
-          13.3040942,
-          49.8117522
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Příšov u OÚ č.p.36 <br><b>Adresa:</b> č.p. 36, 33011, Příšov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 15.69 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "30071:246"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.2754365,
-          49.8234161
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Nevřeň - proti  prodejně u č.p.103 <br><b>Adresa:</b> č.p. 103, 33011, Nevřeň <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 19.5 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "30071:247"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.3283385,
-          49.8220377
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Ledce u čp. 73 <br><b>Adresa:</b> č.p. 73, 33014, Ledce <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.72 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "30071:252"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.3296839,
-          49.8206006
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Ledce u Plzně - pošta <br><b>Adresa:</b> č.p. 268, 33014, Ledce <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 12.4 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "30071:269"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           13.3221883,
           49.7912868
         ],
@@ -99,6 +31,74 @@
         "collection_times": "Mo-Fr 09:00",
         "operator": "Česká pošta, s.p.",
         "ref": "30072:126"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.3042243,
+          49.8118656
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Příšov u OÚ č.p.36 <br><b>Adresa:</b> č.p. 36, 33011, Příšov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30072:409"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.2756924,
+          49.8233571
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nevřeň - proti  prodejně u č.p.103 <br><b>Adresa:</b> č.p. 103, 33011, Nevřeň ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30072:410"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.3284054,
+          49.8220657
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Ledce u čp. 73 <br><b>Adresa:</b> č.p. 73, 33014, Ledce ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30072:415"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.3298367,
+          49.8206527
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Ledce u Plzně - pošta <br><b>Adresa:</b> č.p. 268, 33014, Ledce ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30072:431"
       },
       "type": "Feature"
     }

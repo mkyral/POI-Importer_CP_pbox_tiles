@@ -26,9 +26,9 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> CITY PARK <br><b>Adresa:</b> Hradební 5440/1, 58601, Jihlava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 110.24 m",
+        "_note": "<br><b>Poznámka:</b> CITY PARK, Jihlava <br><b>Adresa:</b> Hradební 5440/1, 58601, Jihlava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 110.24 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 13:00",
+        "collection_times": "Mo-Fr 11:00",
         "operator": "Česká pošta, s.p.",
         "ref": "58607:10"
       },
@@ -43,11 +43,28 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> VPO <br><b>Adresa:</b> Královský vršek 3545/42, 58601, Jihlava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 23.54 m",
+        "_note": "<br><b>Poznámka:</b> Požární bezpečnost <br><b>Adresa:</b> Královský vršek 3545/42, 58601, Jihlava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 23.54 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 13:00",
+        "collection_times": "Mo-Fr 11:00",
         "operator": "Česká pošta, s.p.",
         "ref": "58607:11"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.5679932,
+          49.4072879
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Na křižovatce ul. Olbrachtova a Kainarova <br><b>Adresa:</b> Olbrachtova 4342/1, 58601, Jihlava ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "58607:12"
       },
       "type": "Feature"
     },
@@ -60,9 +77,9 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Jiráskova - aut. nádraží, Jihlava <br><b>Adresa:</b> Jiráskova 1693/8, 58601, Jihlava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 24.77 m",
+        "_note": "<br><b>Poznámka:</b> Autobusové nádraží, Jiráskova, Jihlava <br><b>Adresa:</b> Jiráskova 1693/8, 58601, Jihlava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 24.77 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 13:00",
+        "collection_times": "Mo-Fr 11:00",
         "operator": "Česká pošta, s.p.",
         "ref": "58607:13"
       },
@@ -79,7 +96,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Kollárova - restaurace, Jihlava <br><b>Adresa:</b> Kollárova 4766/19, 58601, Jihlava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 26.0 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 13:00",
+        "collection_times": "Mo-Fr 11:00",
         "operator": "Česká pošta, s.p.",
         "ref": "58607:14"
       },
@@ -94,9 +111,9 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> 8. března 4812/2a, 58601, Jihlava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 37.32 m",
+        "_note": "<br><b>Poznámka:</b> Fit People <br><b>Adresa:</b> 8. března 4812/2a, 58601, Jihlava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 37.32 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 13:00",
+        "collection_times": "Mo-Fr 11:00",
         "operator": "Česká pošta, s.p.",
         "ref": "58607:15"
       },
@@ -111,7 +128,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Pod Rozhlednou 3448/10, 58601, Jihlava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 51.11 m",
+        "_note": "<br><b>Poznámka:</b> Domov pro seniory, Pod Rozhlednou <br><b>Adresa:</b> Pod Rozhlednou 3448/10, 58601, Jihlava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 51.11 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 13:00",
         "operator": "Česká pošta, s.p.",
@@ -128,9 +145,9 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Pávovská - kemp, Jihlava <br><b>Adresa:</b> Pávovská 3106/19, 58601, Jihlava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 14.62 m",
+        "_note": "<br><b>Poznámka:</b> Pivovar Horác, Pávovská <br><b>Adresa:</b> Pávovská 3106/19, 58601, Jihlava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 14.62 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 13:00",
+        "collection_times": "Mo-Fr 11:00",
         "operator": "Česká pošta, s.p.",
         "ref": "58607:17"
       },
@@ -179,7 +196,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> hasiči <br><b>Adresa:</b> Sokolovská 3064/2, 58601, Jihlava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 30.29 m",
+        "_note": "<br><b>Poznámka:</b> Hasiči, Sokolovská <br><b>Adresa:</b> Sokolovská 3064/2, 58601, Jihlava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 30.29 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 14:40",
         "operator": "Česká pošta, s.p.",
@@ -232,7 +249,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> pošta Jihlava 4 <br><b>Adresa:</b> Erbenova 2598/33, 58601, Jihlava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 2.39 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:00",
+        "collection_times": "Mo-Fr 13:00",
         "operator": "Česká pošta, s.p.",
         "ref": "58607:24"
       },
@@ -249,7 +266,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> pošta Jihlava 2 <br><b>Adresa:</b> Havlíčkova 5100/124, 58601, Jihlava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 3.86 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:00",
+        "collection_times": "Mo-Fr 13:00",
         "operator": "Česká pošta, s.p.",
         "ref": "58607:241"
       },
@@ -283,7 +300,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> pošta Jihlava 6 <br><b>Adresa:</b> Březinova 4690/144, 58601, Jihlava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 41.76 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:00",
+        "collection_times": "Mo-Fr 13:00",
         "operator": "Česká pošta, s.p.",
         "ref": "58607:243"
       },
@@ -298,9 +315,9 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Nová nemocnice, Jihlava <br><b>Adresa:</b> Vrchlického 4630/59, 58601, Jihlava ",
+        "_note": "<br><b>Poznámka:</b> Krajská nemocnice, Jihlava <br><b>Adresa:</b> Vrchlického 4630/59, 58601, Jihlava ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 13:00",
+        "collection_times": "Mo-Fr 11:00",
         "operator": "Česká pošta, s.p.",
         "ref": "58607:25"
       },
@@ -317,7 +334,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> DZ <br><b>Adresa:</b> Vrchlického 2497/57, 58601, Jihlava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 49.92 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 13:00",
+        "collection_times": "Mo-Fr 11:00",
         "operator": "Česká pošta, s.p.",
         "ref": "58607:26"
       },
@@ -332,9 +349,9 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> prodejna <br><b>Adresa:</b> Vrchlického 1969/21, 58601, Jihlava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 17.1 m",
+        "_note": "<br><b>Poznámka:</b> Dětské hřiště, U Pivovaru <br><b>Adresa:</b> U Pivovaru 2859/5, 58601, Jihlava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 167.49 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 13:00",
+        "collection_times": "Mo-Fr 11:00",
         "operator": "Česká pošta, s.p.",
         "ref": "58607:27"
       },
@@ -349,9 +366,9 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Č. pojišťovna <br><b>Adresa:</b> Žižkova 1872/89, 58601, Jihlava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 59.04 m",
+        "_note": "<br><b>Poznámka:</b> Nákupní středisko Krystal, Žižkova <br><b>Adresa:</b> Žižkova 1872/89, 58601, Jihlava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 59.04 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 13:00",
+        "collection_times": "Mo-Fr 11:00",
         "operator": "Česká pošta, s.p.",
         "ref": "58607:28"
       },
@@ -366,9 +383,9 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> U hřbitova - prodejna, Jihlava <br><b>Adresa:</b> U Hřbitova 910/1, 58601, Jihlava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 16.5 m",
+        "_note": "<br><b>Poznámka:</b> Zadní strana bytového domu, ul. Telečská <br><b>Adresa:</b> U Hřbitova 910/1, 58601, Jihlava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 16.5 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 13:00",
+        "collection_times": "Mo-Fr 11:00",
         "operator": "Česká pošta, s.p.",
         "ref": "58607:29"
       },
@@ -383,9 +400,9 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Okružní - otočka DP, Jihlava <br><b>Adresa:</b> Okružní 4184/7, 58601, Jihlava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 83.19 m",
+        "_note": "<br><b>Poznámka:</b> Okružní - otočna MHD, Jihlava <br><b>Adresa:</b> Okružní 4184/7, 58601, Jihlava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 83.19 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 13:00",
+        "collection_times": "Mo-Fr 11:00",
         "operator": "Česká pošta, s.p.",
         "ref": "58607:3"
       },
@@ -400,9 +417,9 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Havlíčkova 2335/109, 58601, Jihlava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 16.16 m",
+        "_note": "<br><b>Poznámka:</b> Ubytovna - bývalá ISŠ Obchodní Jihlava <br><b>Adresa:</b> Havlíčkova 2335/109, 58601, Jihlava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 16.16 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 13:00",
+        "collection_times": "Mo-Fr 11:00",
         "operator": "Česká pošta, s.p.",
         "ref": "58607:30"
       },
@@ -417,9 +434,9 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> novinový stánek <br><b>Adresa:</b> Seifertova 1894/4, 58601, Jihlava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 56.48 m",
+        "_note": "<br><b>Poznámka:</b> Zádní strana bytového domu, ul. Žižkova <br><b>Adresa:</b> Žižkova 1896/27, 58601, Jihlava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.37 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 13:00",
+        "collection_times": "Mo-Fr 11:00",
         "operator": "Česká pošta, s.p.",
         "ref": "58607:31"
       },
@@ -434,9 +451,9 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Domovinka <br><b>Adresa:</b> Za Prachárnou 4501/1a, 58601, Jihlava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.53 m",
+        "_note": "<br><b>Poznámka:</b> Dům s pečovatelskou službou, Za Prachárnou <br><b>Adresa:</b> Za Prachárnou 4501/1a, 58601, Jihlava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.53 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 13:00",
+        "collection_times": "Mo-Fr 11:00",
         "operator": "Česká pošta, s.p.",
         "ref": "58607:32"
       },
@@ -451,9 +468,9 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> prodejna Elmat <br><b>Adresa:</b> Lípová 157/24, Horní Kosov, 58601, Jihlava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 32.24 m",
+        "_note": "<br><b>Poznámka:</b> Zastávka MHD, Lípová <br><b>Adresa:</b> Lípová 157/24, Horní Kosov, 58601, Jihlava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 32.24 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 13:00",
+        "collection_times": "Mo-Fr 11:00",
         "operator": "Česká pošta, s.p.",
         "ref": "58607:33"
       },
@@ -470,7 +487,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> pošta Jihlava 5 <br><b>Adresa:</b> S. K. Neumanna 496/15, Horní Kosov, 58601, Jihlava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 7.62 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:00",
+        "collection_times": "Mo-Fr 13:00",
         "operator": "Česká pošta, s.p.",
         "ref": "58607:34"
       },
@@ -519,7 +536,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> léčebna <br><b>Adresa:</b> Brněnská 455/54, 58601, Jihlava ",
+        "_note": "<br><b>Poznámka:</b> Psychiatrická nemocnice Jihlava <br><b>Adresa:</b> Brněnská 455/54, 58601, Jihlava ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 13:00",
         "operator": "Česká pošta, s.p.",
@@ -536,9 +553,9 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> vedle domu <br><b>Adresa:</b> Úvoz 212/27, 58601, Jihlava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 24.38 m",
+        "_note": "<br><b>Poznámka:</b> Před kruhovým objezdem nad areálem SMJ Jihlava <br><b>Adresa:</b> Úvoz 212/27, 58601, Jihlava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 24.38 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 13:00",
+        "collection_times": "Mo-Fr 11:00",
         "operator": "Česká pošta, s.p.",
         "ref": "58607:60"
       },
@@ -706,9 +723,9 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Brtnická - DP, Jihlava <br><b>Adresa:</b> Brtnická 818/12, 58601, Jihlava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 443.6 m",
+        "_note": "<br><b>Poznámka:</b> Brtnická - točna MHD, Jihlava <br><b>Adresa:</b> Brtnická 4695/62a, 58601, Jihlava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 47.01 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 13:00",
+        "collection_times": "Mo-Fr 11:00",
         "operator": "Česká pošta, s.p.",
         "ref": "58607:8"
       },
@@ -723,9 +740,9 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> lékárna <br><b>Adresa:</b> Brtnická 4267/1, 58601, Jihlava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.0 m",
+        "_note": "<br><b>Poznámka:</b> Brtnická - zastávka MHD <br><b>Adresa:</b> Brtnická 4267/1, 58601, Jihlava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.0 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 13:00",
+        "collection_times": "Mo-Fr 11:00",
         "operator": "Česká pošta, s.p.",
         "ref": "58607:9"
       },

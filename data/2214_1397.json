@@ -62,7 +62,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> pošta Střezimíř <br><b>Adresa:</b> č.p. 47, 25787, Střezimíř <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.1 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "25607:176"
       },
@@ -150,40 +150,6 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "25607:338"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.612473,
-          49.505082
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Budova pošty Borotín u Tábora <br><b>Adresa:</b> č.p. 57, 39135, Borotín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.32 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "39007:175"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.6587685,
-          49.5091992
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Sudoměřice u Tábora - Partner <br><b>Adresa:</b> č.p. 27, 39136, Sudoměřice u Tábora <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 7.83 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "39007:534"
       },
       "type": "Feature"
     }

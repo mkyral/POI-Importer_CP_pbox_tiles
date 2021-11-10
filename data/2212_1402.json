@@ -322,40 +322,6 @@
         "ref": "37271:257"
       },
       "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.4897934,
-          49.2676119
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Hodonice <br><b>Adresa:</b> č.p. 28, 39165, Hodonice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 39.12 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "39007:307"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5006429,
-          49.2335248
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Čenkov <br><b>Adresa:</b> č.p. 3, 39165, Čenkov u Bechyně <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 17.54 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "39007:330"
-      },
-      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

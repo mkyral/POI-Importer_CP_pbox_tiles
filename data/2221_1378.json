@@ -139,6 +139,23 @@
     {
       "geometry": {
         "coordinates": [
+          15.2673542,
+          50.6220942
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> BUS zastávka, poblíž č.p. 32 <br><b>Adresa:</b> Semily; Záhoří; Smrčí <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51107:172"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           15.2692885,
           50.6153934
         ],

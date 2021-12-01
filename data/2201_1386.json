@@ -84,6 +84,40 @@
         "ref": "26907:59"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.4637364,
+          50.1365146
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bílenec, na BUS zastávce <br><b>Adresa:</b> Louny; Petrohrad; Bílenec <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43807:124"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.478968,
+          50.1742577
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> partner Strojetice <br><b>Adresa:</b> Strojetice 10, 43986, Kryry <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 83.69 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43807:288"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

@@ -118,6 +118,40 @@
         "ref": "26907:73"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.7330001,
+          50.2296067
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> dům č.p.203, Domoušice <br><b>Adresa:</b> č.p. 203, 43968, Domoušice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 33.28 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43807:241"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.7225819,
+          50.2331294
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> nádraží ČD č.p.126, Domoušice <br><b>Adresa:</b> č.p. 126, 43968, Domoušice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 12.59 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43807:242"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

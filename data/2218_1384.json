@@ -101,6 +101,74 @@
         "ref": "28800:73"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.9496509,
+          50.2581568
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> prodejna, na objektu <br><b>Adresa:</b> Hlavní 26, Vanovice, 29443, Všejany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.23 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "29407:39"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.9610771,
+          50.2715024
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> naproti BUS Vlkava, náves, stojan <br><b>Adresa:</b> Boleslavská 14, 29443, Vlkava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 42.03 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "29407:40"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.952965,
+          50.2550891
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Obecní úřad, na stojanu <br><b>Adresa:</b> Hlavní 120, 29443, Všejany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 15.77 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "29407:43"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.9487078,
+          50.2702867
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Čachovice <br><b>Adresa:</b> 6. května 74, 29443, Čachovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 2.69 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "29407:62"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

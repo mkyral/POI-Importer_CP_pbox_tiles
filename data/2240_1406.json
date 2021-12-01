@@ -67,6 +67,40 @@
         "ref": "60011:84"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.96029,
+          49.0124997
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Partner Násedlovice <br><b>Adresa:</b> č.p. 129, 69636, Násedlovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 14.37 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69507:104"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.9574187,
+          49.0112852
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 282, 69636, Násedlovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.84 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69507:105"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

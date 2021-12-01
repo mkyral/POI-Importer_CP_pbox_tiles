@@ -118,6 +118,40 @@
         "ref": "30071:448"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.6959339,
+          49.9582904
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Zvíkovec 59 (Kalinova Ves)-aut.zastávka <br><b>Adresa:</b> č.p. 59, 33808, Zvíkovec <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 874.28 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30072:373"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.6890533,
+          49.9532847
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Zvíkovec - partner <br><b>Adresa:</b> č.p. 17, 33808, Zvíkovec <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.96 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30072:402"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

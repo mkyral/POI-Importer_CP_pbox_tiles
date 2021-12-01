@@ -3,6 +3,23 @@
     {
       "geometry": {
         "coordinates": [
+          14.6757082,
+          50.1026103
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Pražská 1200, 25092, Šestajovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "19007:182"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           14.6014076,
           50.0859478
         ],
@@ -162,7 +179,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> K rukavičkárně 373, Klánovice, 19014, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 14.48 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> K rukavičkárně 373/30, Klánovice, 19014, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 14.48 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -371,23 +388,6 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "19007:8"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.6762422,
-          50.1027462
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Pražská 1200, 25092, Šestajovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 40.99 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "25107:182"
       },
       "type": "Feature"
     }

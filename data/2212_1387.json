@@ -1879,7 +1879,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> náměstí Republiky 1037/3, Nové Město, 11000, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 3.4 m",
+        "_note": "<br><b>Poznámka:</b> Metro Náměstí Republiky <br><b>Adresa:</b> náměstí Republiky 1037/3, Nové Město, 11000, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 3.4 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 13:00",
         "operator": "Česká pošta, s.p.",
@@ -3329,6 +3329,23 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "19007:1905"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.4640967,
+          50.1153072
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Bulovka 67/1, Libeň, 18000, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "19007:563"
       },
       "type": "Feature"
     },

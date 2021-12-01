@@ -50,6 +50,57 @@
         "ref": "43407:147"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.7841361,
+          50.4572545
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> na budově OU <br><b>Adresa:</b> č.p. 19, 44001, Kozly <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.7 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43807:167"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.7582939,
+          50.4109546
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hrádek, u zastávky BUS <br><b>Adresa:</b> Louny; Raná; Hrádek <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43807:170"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.7785229,
+          50.4118576
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Raná u Loun <br><b>Adresa:</b> č.p. 21, 43924, Raná <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 14.19 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43807:266"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

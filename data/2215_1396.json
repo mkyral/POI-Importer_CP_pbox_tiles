@@ -118,6 +118,74 @@
         "ref": "25607:330"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.7546146,
+          49.5580227
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Oldřichov 8 <br><b>Adresa:</b> č.p. 8, 39143, Oldřichov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.44 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:544"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.7621853,
+          49.5766413
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u OÚ <br><b>Adresa:</b> č.p. 22, 39143, Slapsko <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 19.4 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:556"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.7618818,
+          49.5852007
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> křižovatka <br><b>Adresa:</b> Vitanovice 8, 39143, Slapsko <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 31.71 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:558"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.7510576,
+          49.5986785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u čekárny <br><b>Adresa:</b> Vrcholtovice 9, 39143, Šebířov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 25.6 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:559"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

@@ -71,23 +71,6 @@
     {
       "geometry": {
         "coordinates": [
-          18.1049742,
-          49.7960729
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> u čp.34 - U Hasičů,Klimk.-Hýlov(stoj.na zast.MHD) <br><b>Adresa:</b> Ostrava-město; Klimkovice; Hýlov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "72572:333"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           18.0481116,
           49.799892
         ],
@@ -116,6 +99,23 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "72572:616"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.1049742,
+          49.7960728
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u čp.34 - U Hasičů,Klimk.-Hýlov(stoj.na zast.MHD) <br><b>Adresa:</b> Ostrava-město; Klimkovice; Hýlov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "72572:619"
       },
       "type": "Feature"
     },

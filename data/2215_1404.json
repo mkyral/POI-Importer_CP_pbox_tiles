@@ -84,6 +84,40 @@
         "ref": "37271:492"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.7254473,
+          49.1512141
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vlkov <br><b>Adresa:</b> č.p. 26, 39181, Vlkov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 31.24 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:816"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.7567708,
+          49.1458206
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Val <br><b>Adresa:</b> č.p. 20, 39181, Val <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 51.17 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:817"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

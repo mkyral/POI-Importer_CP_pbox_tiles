@@ -3,6 +3,23 @@
     {
       "geometry": {
         "coordinates": [
+          13.752268,
+          49.1561926
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dobrš - náves <br><b>Adresa:</b> Dobrš 43, 38473, Drážov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38307:161"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           13.7757437,
           49.1608076
         ],
@@ -65,40 +82,6 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "38607:107"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.7232454,
-          49.1631874
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Zálesí - náves <br><b>Adresa:</b> Prachatice; Stachy; Stachy <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "38607:512"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.7528407,
-          49.1559733
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Dobrš - náves <br><b>Adresa:</b> Dobrš 43, 38473, Drážov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 48.28 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "38607:513"
       },
       "type": "Feature"
     },

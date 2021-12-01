@@ -271,6 +271,23 @@
         "ref": "30071:222"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.1946453,
+          49.6707381
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Týnec <br><b>Adresa:</b> Týnec 22, 33301, Chotěšov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 28.4 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30072:464"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

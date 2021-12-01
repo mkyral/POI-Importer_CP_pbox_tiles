@@ -152,6 +152,40 @@
         "ref": "75707:271"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.9398387,
+          49.1128662
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> vedle informační nástěnky <br><b>Adresa:</b> Vrbětice 71, 76324, Vlachovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 24.02 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "76607:147"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.9391288,
+          49.1245756
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Vlachovice <br><b>Adresa:</b> č.p. 50, 76324, Vlachovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 4.17 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "76607:235"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

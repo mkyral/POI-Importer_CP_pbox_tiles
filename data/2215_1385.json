@@ -118,6 +118,74 @@
         "ref": "19007:2029"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.7643522,
+          50.2224082
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Sojovice <br><b>Adresa:</b> č.p. 33, 29475, Sojovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 16.71 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "29407:102"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.7491891,
+          50.2315322
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> na obecním úřadě <br><b>Adresa:</b> č.p. 32, 29474, Skorkov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 7.78 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "29407:95"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.745761,
+          50.2207854
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> zastávka, na stojanu <br><b>Adresa:</b> Podbrahy 19, 29474, Skorkov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 24.09 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "29407:96"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.744454,
+          50.2106058
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> naproti na stojanu u inf. tabule <br><b>Adresa:</b> Otradovice 34, 29474, Skorkov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 27.12 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "29407:97"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

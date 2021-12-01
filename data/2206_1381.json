@@ -84,6 +84,57 @@
         "ref": "41007:50"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.9421334,
+          50.4222807
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vojnice, poblíž BUS zastávky u plotu <br><b>Adresa:</b> Louny; Koštice; Vojnice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43807:197"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.9307993,
+          50.4283973
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vojničky <br><b>Adresa:</b> Vojničky 15, 44001, Koštice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 23.53 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43807:198"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.9432658,
+          50.4035934
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 26, 43921, Koštice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 125.35 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43807:264"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

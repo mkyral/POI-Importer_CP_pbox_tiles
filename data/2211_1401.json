@@ -135,6 +135,23 @@
         "ref": "37271:259"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3314297,
+          49.3203736
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Písecká Smoleč <br><b>Adresa:</b> Písecká Smoleč 33, 39843, Slabčice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.81 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39007:429"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

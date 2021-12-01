@@ -3,6 +3,108 @@
     {
       "geometry": {
         "coordinates": [
+          14.6757595,
+          49.8766464
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Pyšely <br><b>Adresa:</b> nám. T. G. Masaryka 66, 25167, Pyšely ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "10003:113"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.6082999,
+          49.8725967
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u LDS <br><b>Adresa:</b> Babice 38, 25168, Řehenice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "10003:82"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.6506763,
+          49.8701923
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u LDS <br><b>Adresa:</b> č.p. 9, 25167, Řehenice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "10003:85"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.631352,
+          49.8617187
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Barochov 41, 25167, Řehenice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "10003:86"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.6228829,
+          49.88171
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> BUS Řehenice, Babice <br><b>Adresa:</b> Babice 26, 25167, Řehenice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "10003:87"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.6440226,
+          49.8673024
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> OÚ <br><b>Adresa:</b> Křiváček 6, 25167, Řehenice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "10003:88"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           14.6146357,
           49.8937854
         ],
@@ -37,23 +139,6 @@
     {
       "geometry": {
         "coordinates": [
-          14.6078117,
-          49.872225
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> u LDS <br><b>Adresa:</b> Babice 38, 25168, Řehenice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 54.17 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "25107:135"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           14.6181305,
           49.8927551
         ],
@@ -65,91 +150,6 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "25107:141"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.6502339,
-          49.8700026
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> u LDS <br><b>Adresa:</b> č.p. 9, 25167, Řehenice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 38.09 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "25107:144"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.6315679,
-          49.8617412
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Barochov 41, 25167, Řehenice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 15.68 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "25107:145"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.6231918,
-          49.8817576
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> BUS Řehenice, Babice <br><b>Adresa:</b> Babice 26, 25167, Řehenice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 22.76 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "25107:146"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.6442707,
-          49.867139
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> OÚ <br><b>Adresa:</b> Křiváček 6, 25167, Řehenice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 25.43 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "25107:147"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.675823,
-          49.8767344
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Pyšely <br><b>Adresa:</b> nám. T. G. Masaryka 66, 25167, Pyšely <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.79 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "25107:302"
       },
       "type": "Feature"
     },

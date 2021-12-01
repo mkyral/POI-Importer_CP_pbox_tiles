@@ -11,7 +11,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> pošta Partner Neustupov <br><b>Adresa:</b> č.p. 11, 25786, Neustupov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.28 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "25607:339"
       },
@@ -94,7 +94,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> prodejna <br><b>Adresa:</b> č.p. 69, 25703, Ratměřice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 22.77 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 62, 25703, Ratměřice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 12.05 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -111,7 +111,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Skrýšov 5, 25703, Ratměřice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 266.33 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Skrýšov 17, 25703, Ratměřice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 54.43 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -201,6 +201,23 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "25607:488"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.750624,
+          49.6190059
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Podolí 2 <br><b>Adresa:</b> Podolí 2, 25703, Jankov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "25607:496"
       },
       "type": "Feature"
     },

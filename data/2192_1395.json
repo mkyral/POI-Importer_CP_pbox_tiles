@@ -60,7 +60,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Třískolupy <br><b>Adresa:</b> Tachov; Přimda; Třískolupy <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Třískolupy, náves <br><b>Adresa:</b> Tachov; Přimda; Třískolupy <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -111,11 +111,28 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Třemešné pod Přimdou, obchod <br><b>Adresa:</b> Tachov; Třemešné; Třemešné <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Třemešné pod Přimdou, naproti bytovce 81 <br><b>Adresa:</b> Tachov; Třemešné; Třemešné <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "34707:83"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.6914802,
+          49.62271
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bezděkov, pošta <br><b>Adresa:</b> Bezděkov 16, 34806, Třemešné <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "34707:96"
       },
       "type": "Feature"
     }

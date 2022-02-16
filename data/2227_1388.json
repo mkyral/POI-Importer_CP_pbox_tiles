@@ -3,57 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          15.7992665,
-          50.0101946
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Nemošice - JEDNOTA, Nemošice - držák <br><b>Adresa:</b> 5. května 230, Nemošice, 53003, Pardubice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.55 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "53000:212"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.759044,
-          50.033132
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Pardubice 2 - stojan <br><b>Adresa:</b> Palackého třída 1233, Zelené Předměstí, 53002, Pardubice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 40.81 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 16:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "53000:57"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.8185861,
-          50.0160929
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Drozdice mezi č.p.8 - 9 - stojan <br><b>Adresa:</b> Drozdice 8, 53002, Pardubice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 39.17 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "53000:93"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           15.7664416,
           50.0337223
         ],
@@ -320,6 +269,23 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "53307:2"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7991431,
+          50.0101618
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nemošice - JEDNOTA, Nemošice - držák <br><b>Adresa:</b> 5. května 230, Nemošice, 53003, Pardubice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53307:212"
       },
       "type": "Feature"
     },
@@ -717,6 +683,23 @@
     {
       "geometry": {
         "coordinates": [
+          15.7593008,
+          50.0328043
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Pardubice 2 - stojan <br><b>Adresa:</b> Palackého třída 1233, Zelené Předměstí, 53002, Pardubice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 16:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53307:57"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           15.7707052,
           50.0290467
         ],
@@ -813,6 +796,23 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "53307:9"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8189147,
+          50.0163747
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Drozdice mezi č.p.8 - 9 - stojan <br><b>Adresa:</b> Drozdice 8, 53002, Pardubice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53307:93"
       },
       "type": "Feature"
     }

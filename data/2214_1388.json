@@ -281,11 +281,28 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Starodubečská 99/6, Dubeč, 10700, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.13 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Starodubečská 401/36, Dubeč, 10700, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 680.79 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 14:00",
         "operator": "Česká pošta, s.p.",
         "ref": "10003:42"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5957835,
+          50.0624367
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Netlucká 661, Dubeč, 10700, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.45 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 14:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "10003:44"
       },
       "type": "Feature"
     },

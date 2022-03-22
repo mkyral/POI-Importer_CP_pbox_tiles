@@ -3,23 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          12.8545963,
-          50.2286256
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> K.Vary, Západní 1807/43 <br><b>Adresa:</b> Karlovy Vary; Karlovy Vary; Karlovy Vary <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "36207:1"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           12.8791944,
           50.2267145
         ],
@@ -122,23 +105,6 @@
     {
       "geometry": {
         "coordinates": [
-          12.8822261,
-          50.2306388
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> K.Vary, Polská 12 (hotel Slávie) <br><b>Adresa:</b> Karlovy Vary; Karlovy Vary; Drahovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "36207:21"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           12.8890663,
           50.2232848
         ],
@@ -156,6 +122,23 @@
     {
       "geometry": {
         "coordinates": [
+          12.8893404,
+          50.2212836
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> K. Vary, Na Vyhlídce 614/73, rozcestí <br><b>Adresa:</b> Karlovy Vary; Karlovy Vary; Karlovy Vary <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "36207:24"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           12.8889879,
           50.2186294
         ],
@@ -167,6 +150,23 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "36207:26"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.8900688,
+          50.2195197
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> K. Vary, U Imperiálu 198/11, Švýcarský dvůr <br><b>Adresa:</b> U Imperiálu 198/11, 36001, Karlovy Vary <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 35.21 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "36207:27"
       },
       "type": "Feature"
     },
@@ -201,40 +201,6 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "36207:30"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          12.9064888,
-          50.2201297
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Hůrky, obchod <br><b>Adresa:</b> Karlovy Vary; Karlovy Vary; Hůrky <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "36207:41"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          12.8808004,
-          50.1855764
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Háje, zastávka ČSAD <br><b>Adresa:</b> Karlovy Vary; Kolová; Háje <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "36207:46"
       },
       "type": "Feature"
     },

@@ -105,13 +105,13 @@
     {
       "geometry": {
         "coordinates": [
-          18.1025537,
-          49.9220709
+          18.1023963,
+          49.9221284
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Osada míru 128 - obchod, Dolní Benešov <br><b>Adresa:</b> Osada míru 128, 74722, Dolní Benešov ",
+        "_note": "<br><b>Poznámka:</b> Osada míru 128 - obchod, Dolní Benešov <br><b>Adresa:</b> Osada míru 128, 74722, Dolní Benešov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 12.96 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -122,17 +122,34 @@
     {
       "geometry": {
         "coordinates": [
-          18.0788535,
-          49.9212136
+          18.0790409,
+          49.9212612
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Opavská,na stojanu u kostela před čp. 35,DB-Zábřeh <br><b>Adresa:</b> Opavská 35, Zábřeh, 74722, Dolní Benešov ",
+        "_note": "<br><b>Poznámka:</b> Opavská,na stojanu u kostela před čp. 35,DB-Zábřeh <br><b>Adresa:</b> Opavská 35, Zábřeh, 74722, Dolní Benešov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 14.43 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "70071:97"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.1054674,
+          49.9208027
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Prodejna Hruška, Opavská 519, Dolní Benešov <br><b>Adresa:</b> Opavská 519, 74722, Dolní Benešov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 22.17 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "70071:98"
       },
       "type": "Feature"
     },

@@ -3,17 +3,51 @@
     {
       "geometry": {
         "coordinates": [
-          17.7551946,
-          49.7794612
+          17.7949866,
+          49.734185
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Vítkov, autobusové nádraží, Opavská  27 <br><b>Adresa:</b> Opavská 27, 74901, Vítkov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 14.84 m",
+        "_note": "<br><b>Poznámka:</b> Odry, Kamenka E15 (stojan) <br><b>Adresa:</b> Nový Jičín; Odry; Kamenka <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "74907:149"
+        "ref": "74207:319"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.8342185,
+          49.7467549
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Fulnek, Dolejší Kunčice 56, bus. zastávka <br><b>Adresa:</b> Nový Jičín; Fulnek; Dolejší Kunčice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74207:338"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.812572,
+          49.7634916
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Větřkovice,Nové Vrbno, na zděné zastávce u čp. 186 <br><b>Adresa:</b> Opava; Větřkovice; Nové Vrbno <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:05",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74907:333"
       },
       "type": "Feature"
     },
@@ -31,6 +65,23 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "74907:335"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.7552,
+          49.7793278
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vítkov, autobusové nádraží, Opavská  27 <br><b>Adresa:</b> Opavská 27, 74901, Vítkov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74907:339"
       },
       "type": "Feature"
     }

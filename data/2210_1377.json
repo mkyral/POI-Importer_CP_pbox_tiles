@@ -3,6 +3,23 @@
     {
       "geometry": {
         "coordinates": [
+          14.3018014,
+          50.6610975
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Náměstí <br><b>Adresa:</b> Děčín; Verneřice; Verneřice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "40507:144"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           14.3038359,
           50.66086
         ],
@@ -99,6 +116,23 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "41007:208"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3114671,
+          50.6389456
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> náves- na stojanu u inf.tabule, poblíž E24 <br><b>Adresa:</b> Litoměřice; Úštěk; Třebín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "41007:221"
       },
       "type": "Feature"
     }

@@ -3,17 +3,85 @@
     {
       "geometry": {
         "coordinates": [
+          13.0303005,
+          49.7527868
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Svinná, náves vedle kapličky <br><b>Adresa:</b> Tachov; Vranov; Svinná <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "34707:124"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           13.0413922,
           49.7643603
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Vranov <br><b>Adresa:</b> Tachov; Vranov; Vranov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Vranov, obecní úřad <br><b>Adresa:</b> č.p. 4, 34901, Vranov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "34707:125"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.0419964,
+          49.7400324
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Sytno, obchod <br><b>Adresa:</b> Tachov; Sytno; Sytno <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "34707:126"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.0481698,
+          49.7284486
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lhota u Stříbra <br><b>Adresa:</b> Lhota u Stříbra 23, 34901, Stříbro <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.61 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "34707:127"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.0742686,
+          49.749261
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Sulislav <br><b>Adresa:</b> č.p. 11, 34901, Sulislav <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 14.2 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "34707:156"
       },
       "type": "Feature"
     }

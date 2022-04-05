@@ -3,6 +3,23 @@
     {
       "geometry": {
         "coordinates": [
+          12.8350745,
+          49.6131446
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vidice, prodejna <br><b>Adresa:</b> Domažlice; Vidice; Vidice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "34407:211"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           12.9049486,
           49.6245439
         ],
@@ -20,6 +37,23 @@
     {
       "geometry": {
         "coordinates": [
+          12.897578,
+          49.6540797
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Prostiboř <br><b>Adresa:</b> č.p. 9, 34901, Prostiboř <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 99.49 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "34707:147"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           12.8636504,
           49.6657287
         ],
@@ -31,6 +65,40 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "34707:253"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.8779365,
+          49.6421457
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Darmyšl, autobusová zastávka naproti čp.13 <br><b>Adresa:</b> Tachov; Staré Sedlo; Darmyšl <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "34707:67"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.8434629,
+          49.6400013
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Racov, autobusová zastávka u čp.54 <br><b>Adresa:</b> Tachov; Staré Sedlo; Racov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "34707:68"
       },
       "type": "Feature"
     }

@@ -20,6 +20,23 @@
     {
       "geometry": {
         "coordinates": [
+          17.8793957,
+          49.8569123
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> BUS zast.(na sloupě),Hradec n.M.,Kajlovec u čp.31 <br><b>Adresa:</b> Opava; Hradec nad Moravicí; Kajlovec <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74907:101"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           17.917711,
           49.8459538
         ],
@@ -45,7 +62,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Hradec nad Moravicí, ČD, Opavská 151 <br><b>Adresa:</b> Opavská 151, 74741, Hradec nad Moravicí <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.58 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "74907:136"
       },
@@ -62,9 +79,43 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Branka u Op., Rychnovské nábřeží 113, obchod <br><b>Adresa:</b> Rychnovské nábřeží 113, 74741, Branka u Opavy <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.51 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "74907:137"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.880398,
+          49.8717851
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hradec n.M.,Na Tylovách (stojan mezi č. 505 a 677) <br><b>Adresa:</b> Opava; Hradec nad Moravicí; Hradec nad Moravicí <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74907:138"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.876145,
+          49.8706638
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hradec nad Moravicí, TUTY-Hradečanka, Podolská 341 <br><b>Adresa:</b> Podolská 341, 74741, Hradec nad Moravicí <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74907:140"
       },
       "type": "Feature"
     },
@@ -79,7 +130,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Pošta Hradec nad Moravicí <br><b>Adresa:</b> Opavská 627, 74741, Hradec nad Moravicí <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 15.28 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 15:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "74907:152"
       },

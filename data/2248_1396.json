@@ -16,6 +16,57 @@
         "ref": "75007:238"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.6484538,
+          49.5865808
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hranice, Uhřínov 19, bus. zastávka (stojan) <br><b>Adresa:</b> Přerov; Hranice; Hranice IX-Uhřínov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "75007:239"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.633837,
+          49.6002577
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hranice, Středolesí 55, točna (stojan) <br><b>Adresa:</b> Přerov; Hranice; Hranice VIII-Středolesí <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "75007:240"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.6282375,
+          49.5693066
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lipník, Podhoří 4 (stojan) <br><b>Adresa:</b> Přerov; Lipník nad Bečvou; Lipník nad Bečvou V-Podhoří <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "75007:75"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

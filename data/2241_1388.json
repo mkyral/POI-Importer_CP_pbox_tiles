@@ -71,6 +71,23 @@
     {
       "geometry": {
         "coordinates": [
+          17.0083708,
+          50.0573943
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Velké Losiny, Žárová 29, u aut.zast. (stojan) <br><b>Adresa:</b> Šumperk; Velké Losiny; Žárová <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "78807:46"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           17.0386827,
           50.0295677
         ],
@@ -82,6 +99,23 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "78807:49"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.0338801,
+          50.0147688
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Rapotín, za Jesenická 543, u sídliště (stojan) <br><b>Adresa:</b> Šumperk; Rapotín; Rapotín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "78807:56"
       },
       "type": "Feature"
     }

@@ -3,17 +3,17 @@
     {
       "geometry": {
         "coordinates": [
-          13.4645898,
-          50.2591387
+          13.4579117,
+          50.2536987
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Sýrovice <br><b>Adresa:</b> Sýrovice 67, 44101, Podbořany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 7.34 m",
+        "_note": "<br><b>Poznámka:</b> Pšov, u zastávky BUS <br><b>Adresa:</b> Louny; Podbořany; Pšov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "43807:105"
+        "ref": "43807:106"
       },
       "type": "Feature"
     },
@@ -31,6 +31,57 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "43807:65"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.5054137,
+          50.2336368
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Siřem, u zastávky BUS <br><b>Adresa:</b> Louny; Blšany; Siřem <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43807:75"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.5011471,
+          50.2460466
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Liběšovice, u zastávky BUS <br><b>Adresa:</b> Louny; Blšany; Liběšovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43807:76"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.5084743,
+          50.2727798
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Milčeves, poblíž zastávky BUS u č.p. 37 <br><b>Adresa:</b> Louny; Žatec; Milčeves <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43807:77"
       },
       "type": "Feature"
     }

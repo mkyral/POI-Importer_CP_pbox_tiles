@@ -20,6 +20,23 @@
     {
       "geometry": {
         "coordinates": [
+          17.3628733,
+          50.1276129
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Železná čp.144,Vrbno pod Prad.(stojan za obchodem) <br><b>Adresa:</b> Bruntál; Vrbno pod Pradědem; Železná <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79207:310"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           17.379731,
           50.1378712
         ],
@@ -45,7 +62,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Pošta Vrbno pod Pradědem <br><b>Adresa:</b> Jesenická 256/12, 79326, Vrbno pod Pradědem <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 15.49 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 14:30",
+        "collection_times": "Mo-Fr 12:00",
         "operator": "Česká pošta, s.p.",
         "ref": "79207:509"
       },

@@ -122,6 +122,23 @@
     {
       "geometry": {
         "coordinates": [
+          15.4876716,
+          50.2419733
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Třída Čsl. Armády (U Loudů), Nový  Bydžov <br><b>Adresa:</b> Hradec Králové; Nový Bydžov; Nový Bydžov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "50370:407"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           15.4900504,
           50.2414436
         ],
@@ -167,6 +184,23 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "50370:425"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.5500934,
+          50.257812
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Řehoty, u čp. 26 <br><b>Adresa:</b> Hradec Králové; Králíky; Řehoty <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "50370:426"
       },
       "type": "Feature"
     },
@@ -235,23 +269,6 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "50370:441"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.5021072,
-          50.2679362
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Tovární, Skřivany <br><b>Adresa:</b> Tovární 65, 50352, Skřivany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.58 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "50370:442"
       },
       "type": "Feature"
     }

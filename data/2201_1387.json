@@ -3,6 +3,23 @@
     {
       "geometry": {
         "coordinates": [
+          13.4699106,
+          50.0933816
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u nádraží, Jesenice u Rakovníka <br><b>Adresa:</b> Rakovník; Jesenice; Jesenice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26907:110"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           13.4707063,
           50.0982396
         ],
@@ -48,6 +65,23 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "26907:117"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.4810871,
+          50.1202815
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Chotěšov, mezi čp.38 a 39 <br><b>Adresa:</b> Rakovník; Jesenice; Chotěšov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26907:118"
       },
       "type": "Feature"
     },

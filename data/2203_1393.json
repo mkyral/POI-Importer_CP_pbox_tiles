@@ -54,6 +54,23 @@
     {
       "geometry": {
         "coordinates": [
+          13.6469315,
+          49.7593301
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Svojkovice-prodejna <br><b>Adresa:</b> Rokycany; Svojkovice; Svojkovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30072:56"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           13.6237867,
           49.7477128
         ],
@@ -65,6 +82,23 @@
         "collection_times": "Mo-Fr 08:30",
         "operator": "Česká pošta, s.p.",
         "ref": "30072:57"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.6854353,
+          49.7471383
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hůrky - obecní úřad <br><b>Adresa:</b> Rokycany; Hůrky; Hůrky <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30072:59"
       },
       "type": "Feature"
     }

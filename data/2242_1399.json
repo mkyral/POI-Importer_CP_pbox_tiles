@@ -88,6 +88,40 @@
     {
       "geometry": {
         "coordinates": [
+          17.1145933,
+          49.4368442
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Prostějov, Žešov u č.p. 81 - stojan <br><b>Adresa:</b> Prostějov; Prostějov; Žešov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79907:201"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.0999468,
+          49.4034352
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vranovice-Kelčice, Vranovice 27 (stojan) <br><b>Adresa:</b> Prostějov; Vranovice-Kelčice; Vranovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79907:208"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           17.1094774,
           49.4018014
         ],

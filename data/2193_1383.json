@@ -16,6 +16,57 @@
         "ref": "36207:146"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.8123494,
+          50.2952037
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Děpoltovice, obecní úřad, <br><b>Adresa:</b> Karlovy Vary; Děpoltovice; Děpoltovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "36207:61"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.7895116,
+          50.30092
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Fojtov, autobusová zastávka, <br><b>Adresa:</b> Karlovy Vary; Nejdek; Fojtov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "36207:63"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.7658636,
+          50.2911149
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Smolné Pece, obchod, <br><b>Adresa:</b> Karlovy Vary; Smolné Pece; Smolné Pece <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "36207:64"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

@@ -20,6 +20,23 @@
     {
       "geometry": {
         "coordinates": [
+          17.3775924,
+          50.0551916
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Stará Voda,napr.čp.112,Sv.Hora (stojan u zast.BUS) <br><b>Adresa:</b> Bruntál; Světlá Hora; Stará Voda <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79207:47"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           17.3609677,
           50.0633375
         ],
@@ -62,7 +79,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Pošta Světlá Hora <br><b>Adresa:</b> Světlá 340, 79331, Světlá Hora <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.0 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 14:30",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "79207:510"
       },

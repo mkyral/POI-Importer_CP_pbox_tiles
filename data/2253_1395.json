@@ -43,11 +43,28 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Sedlnice 183, Jednota <br><b>Adresa:</b> č.p. 183, 74256, Sedlnice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.04 m",
+        "_note": "<br><b>Poznámka:</b> Sedlnice 183, stojan <br><b>Adresa:</b> Nový Jičín; Sedlnice; Sedlnice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "74207:238"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.0717784,
+          49.6252068
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Libhošť 148, potraviny Hanzelka (stojan) <br><b>Adresa:</b> Nový Jičín; Libhošť; Libhošť <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74207:49"
       },
       "type": "Feature"
     },

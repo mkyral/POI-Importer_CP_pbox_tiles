@@ -3,6 +3,40 @@
     {
       "geometry": {
         "coordinates": [
+          17.6182268,
+          49.6247421
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Potštát, Boškov 74, aut. zastávka (stojan) <br><b>Adresa:</b> Přerov; Potštát; Boškov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "75007:230"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.6515814,
+          49.6492024
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Potštát, Kovářov 48, bus. zastávka (stojan) <br><b>Adresa:</b> Přerov; Potštát; Kovářov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "75007:231"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           17.652088,
           49.6376819
         ],

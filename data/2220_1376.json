@@ -77,7 +77,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Rychnov u Jablonce n.Nis. <br><b>Adresa:</b> Údolní 66, 46802, Rychnov u Jablonce nad Nisou <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 7.0 m",
+        "_note": "<br><b>Poznámka:</b> pošta Rychnov u Jablonce nad Nisou <br><b>Adresa:</b> Údolní 66, 46802, Rychnov u Jablonce nad Nisou <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 7.0 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -111,7 +111,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> partner Jablonec nad Nisou 7 <br><b>Adresa:</b> Prosečská 45, Proseč nad Nisou, 46804, Jablonec nad Nisou <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 99.96 m",
+        "_note": "<br><b>Poznámka:</b> pošta Partner Jablonec nad Nisou 7 <br><b>Adresa:</b> Prosečská 45, Proseč nad Nisou, 46804, Jablonec nad Nisou <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 99.96 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -133,6 +133,40 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "46307:113"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.1466003,
+          50.7305139
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u zastávky MHD, ul. Široká, Proseč n/N, JBC <br><b>Adresa:</b> Jablonec n. Nis.; Jablonec nad Nisou; Proseč nad Nisou <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "46307:115"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.1576553,
+          50.7293203
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> stojan naproti Hřbitovní 2062/37, Jablonec n.N. 1 <br><b>Adresa:</b> Jablonec n. Nis.; Jablonec nad Nisou; Jablonec nad Nisou <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "46307:119"
       },
       "type": "Feature"
     },
@@ -241,6 +275,23 @@
     {
       "geometry": {
         "coordinates": [
+          15.1860109,
+          50.7258031
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> MHD nám.B.Němcové, naproti Podhorská č.p.960/77 <br><b>Adresa:</b> Jablonec n. Nis.; Jablonec nad Nisou; Jablonec nad Nisou <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "46307:129"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           15.1896617,
           50.7339308
         ],
@@ -337,6 +388,23 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "46307:143"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.1294009,
+          50.7059987
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> zastávka BUS Rádlo, vedle č.p. 256 <br><b>Adresa:</b> Jablonec n. Nis.; Rádlo; Rádlo <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "46307:166"
       },
       "type": "Feature"
     },

@@ -11,7 +11,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Bolatice, Svobody  126/6 (na stojanu) <br><b>Adresa:</b> Svobody 126/6, 74723, Bolatice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 26.92 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 10:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "74907:128"
       },
@@ -28,9 +28,26 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Bolatice, Zahradní 510/1(na stojanu) <br><b>Adresa:</b> Zahradní 510/1, 74723, Bolatice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 16.05 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 10:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "74907:130"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.0550234,
+          49.9904163
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kobeřice,křižov.Dubová 626 a Osmilány 1/34(stojan) <br><b>Adresa:</b> Opava; Kobeřice; Kobeřice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74907:133"
       },
       "type": "Feature"
     },
@@ -62,7 +79,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Pošta Bolatice <br><b>Adresa:</b> Hlučínská 685/4, 74723, Bolatice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 15.26 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 15:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "74907:153"
       },

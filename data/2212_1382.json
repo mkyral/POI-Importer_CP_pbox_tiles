@@ -3,6 +3,23 @@
     {
       "geometry": {
         "coordinates": [
+          14.4837155,
+          50.3470139
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pražská u nemocnice <br><b>Adresa:</b> Mělník; Mělník; Mělník <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "27607:1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           14.4771049,
           50.3599334
         ],
@@ -201,6 +218,23 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "27607:61"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.459253,
+          50.3493946
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> naproti č.p. 38 u č.p.  68 <br><b>Adresa:</b> Mělník; Hořín; Brozánky <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "27607:63"
       },
       "type": "Feature"
     },

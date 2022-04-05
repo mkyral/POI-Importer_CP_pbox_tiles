@@ -118,6 +118,40 @@
         "ref": "74907:76"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.012925,
+          49.985253
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Služovice, Vrbka, vedle čp.34 u kaple (na stojanu) <br><b>Adresa:</b> Opava; Služovice; Vrbka <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74907:77"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.0143278,
+          49.9700805
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Štěpánkovice,Svoboda,Oldřišovská 282/14 (stojan) <br><b>Adresa:</b> Opava; Štěpánkovice; Svoboda <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74907:78"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

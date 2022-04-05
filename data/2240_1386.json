@@ -20,6 +20,40 @@
     {
       "geometry": {
         "coordinates": [
+          16.9464032,
+          50.1639709
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Staré Město, Lipová 46 (stojan) <br><b>Adresa:</b> Šumperk; Staré Město; Staré Město <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "78807:209"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.9031856,
+          50.1575965
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Staré Město, Chrastice E15 (stojan) <br><b>Adresa:</b> Šumperk; Staré Město; Chrastice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "78807:227"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           16.9473369,
           50.1616022
         ],

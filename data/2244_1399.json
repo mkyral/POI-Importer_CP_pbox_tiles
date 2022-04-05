@@ -37,6 +37,23 @@
     {
       "geometry": {
         "coordinates": [
+          17.2881138,
+          49.4313721
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Tovačov, Nádražní 94, DD u parkoviště (stojan) <br><b>Adresa:</b> Přerov; Tovačov; Tovačov I-Město <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "75007:52"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           17.2856757,
           49.4354834
         ],
@@ -48,6 +65,23 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "75007:53"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.2859211,
+          49.4187105
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Tovačov, Annín 53, TOPOS (stojan) <br><b>Adresa:</b> Přerov; Tovačov; Tovačov II-Annín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "75007:54"
       },
       "type": "Feature"
     },

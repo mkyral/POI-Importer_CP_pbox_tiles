@@ -3,6 +3,57 @@
     {
       "geometry": {
         "coordinates": [
+          12.6720548,
+          49.8510062
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Neblažov, náves, zastávka <br><b>Adresa:</b> Tachov; Chodský Újezd; Neblažov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "34707:101"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.6871518,
+          49.8649938
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dolní Jadruž, zastávka ČSAD naproti č.18 <br><b>Adresa:</b> Tachov; Chodský Újezd; Dolní Jadruž <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "34707:102"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.667642,
+          49.8673574
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Horní Jadruž, náves u vývěsní tabule naproti č.34 <br><b>Adresa:</b> Tachov; Chodský Újezd; Horní Jadruž <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "34707:103"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           12.6585897,
           49.8899055
         ],
@@ -45,7 +96,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Planá u M.L. - pošta <br><b>Adresa:</b> náměstí Svobody 58, 34815, Planá <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.33 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:30",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "34707:233"
       },
@@ -62,9 +113,60 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Planá u ML, sídliště Bohušovka, u č.771 <br><b>Adresa:</b> Bohušova 771, 34815, Planá <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 27.3 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:30",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "34707:85"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.7255777,
+          49.8575719
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Karlín, autobusová zastávka u č.596 <br><b>Adresa:</b> Tachov; Planá; Planá <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "34707:87"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.7398406,
+          49.8724027
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Planá u ML., u Revoluční 663 <br><b>Adresa:</b> Tachov; Planá; Planá <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "34707:91"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.6798188,
+          49.8866472
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kyjov, zastávka <br><b>Adresa:</b> Tachov; Zadní Chodov; Kyjov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "34707:97"
       },
       "type": "Feature"
     }

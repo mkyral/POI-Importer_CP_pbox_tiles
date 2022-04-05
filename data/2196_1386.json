@@ -50,6 +50,23 @@
         "ref": "36207:73"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.0859699,
+          50.1616168
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Těšetice, zastávka ČSAD <br><b>Adresa:</b> Karlovy Vary; Bochov; Těšetice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "36207:77"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

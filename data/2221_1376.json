@@ -9,7 +9,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> partner Huť <br><b>Adresa:</b> Huť 169, 46826, Pěnčín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.03 m",
+        "_note": "<br><b>Poznámka:</b> pošta Partner Huť <br><b>Adresa:</b> Huť 169, 46826, Pěnčín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.03 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -37,6 +37,23 @@
     {
       "geometry": {
         "coordinates": [
+          15.2390493,
+          50.6848929
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u zastávky BUS Pěnčín, naproti č.p. 63 <br><b>Adresa:</b> Jablonec n. Nis.; Pěnčín; Pěnčín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "46307:146"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           15.2361757,
           50.6882967
         ],
@@ -54,17 +71,85 @@
     {
       "geometry": {
         "coordinates": [
+          15.2173333,
+          50.7096836
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u infotabule naproti č.p. 59 Horní Černá Studnice <br><b>Adresa:</b> Jablonec n. Nis.; Nová Ves nad Nisou; Horní Černá Studnice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "46307:148"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2082929,
+          50.7061559
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> zastávka BUS Dolní Černá Studnice, naproti č.p.94 <br><b>Adresa:</b> Jablonec n. Nis.; Pěnčín; Dolní Černá Studnice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "46307:149"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2173617,
+          50.693201
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> BUS zastávka Krásná - hostinec naproti č.p.37 <br><b>Adresa:</b> Jablonec n. Nis.; Pěnčín; Krásná <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "46307:151"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           15.2319431,
           50.6870997
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Partner Pěnčín <br><b>Adresa:</b> č.p. 29, 46821, Pěnčín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.31 m",
+        "_note": "<br><b>Poznámka:</b> pošta Partner Bratříkov <br><b>Adresa:</b> č.p. 29, 46821, Pěnčín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.31 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "46307:152"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2132232,
+          50.6890211
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> čekárna BUS Čížkovice vedle č.p. 23 <br><b>Adresa:</b> Jablonec n. Nis.; Maršovice; Čížkovice 1.díl <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "46307:153"
       },
       "type": "Feature"
     },

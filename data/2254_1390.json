@@ -88,6 +88,40 @@
     {
       "geometry": {
         "coordinates": [
+          18.1412414,
+          49.8957908
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Háj-Jilešovice,Slezká,stojan (napr.čp.21-K Trarti) <br><b>Adresa:</b> Opava; Háj ve Slezsku; Jilešovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "70071:114"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.1512232,
+          49.9121311
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Por. Hoši napr.č.70/17,Kozmice (stojan u podjezdu) <br><b>Adresa:</b> Opava; Kozmice; Kozmice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "70071:134"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           18.1525861,
           49.9137151
         ],

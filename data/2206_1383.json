@@ -20,6 +20,23 @@
     {
       "geometry": {
         "coordinates": [
+          13.8941118,
+          50.3174301
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Donín, u BUS zastávka , naproti č.p. 77 <br><b>Adresa:</b> Louny; Toužetín; Donín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43807:205"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           13.9486036,
           50.2977959
         ],
@@ -48,6 +65,23 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "43807:208"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.9172267,
+          50.3330736
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hřivčice - u zás.BUS, naproti č.p. 110 <br><b>Adresa:</b> Louny; Peruc; Hřivčice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "43807:210"
       },
       "type": "Feature"
     },

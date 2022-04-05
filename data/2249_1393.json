@@ -3,68 +3,17 @@
     {
       "geometry": {
         "coordinates": [
-          17.7524284,
-          49.775929
+          17.7246624,
+          49.754589
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Vítkov, nám. J. Zajíce 134 <br><b>Adresa:</b> náměstí Jana Zajíce 134, 74901, Vítkov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.6 m",
+        "_note": "<br><b>Poznámka:</b> Vítkov, Klokočov napr.čp. 52 (stojan u zast.TQM) <br><b>Adresa:</b> Opava; Vítkov; Klokočov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:00",
+        "collection_times": "Mo-Fr 08:30",
         "operator": "Česká pošta, s.p.",
-        "ref": "74907:142"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.7508957,
-          49.7746173
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Vítkov, Švermova 249 <br><b>Adresa:</b> Švermova 249, 74901, Vítkov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 4.28 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "74907:144"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.7495173,
-          49.7770595
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Vítkov, Budišovská 495 (na stojanu) <br><b>Adresa:</b> Budišovská 495, 74901, Vítkov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 12.06 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "74907:148"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.7513143,
-          49.7774834
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Pošta Vítkov 1 (stojan) <br><b>Adresa:</b> Pivovarská 325, 74901, Vítkov ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "74907:151"
+        "ref": "74907:326"
       },
       "type": "Feature"
     },
@@ -82,6 +31,74 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "74907:337"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.7513143,
+          49.7774834
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Vítkov 1 (stojan) <br><b>Adresa:</b> Pivovarská 325, 74901, Vítkov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74907:340"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.7524567,
+          49.7758821
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vítkov, nám. J. Zajíce 134 <br><b>Adresa:</b> náměstí Jana Zajíce 134, 74901, Vítkov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74907:341"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.7508436,
+          49.7745987
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vítkov, Švermova 249 <br><b>Adresa:</b> Švermova 249, 74901, Vítkov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74907:342"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.7496675,
+          49.777011
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vítkov, Budišovská 495 (na stojanu) <br><b>Adresa:</b> Budišovská 495, 74901, Vítkov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74907:343"
       },
       "type": "Feature"
     }

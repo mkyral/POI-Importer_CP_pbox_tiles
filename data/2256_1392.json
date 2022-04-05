@@ -3,6 +3,23 @@
     {
       "geometry": {
         "coordinates": [
+          18.3195632,
+          49.8303329
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Těšínská-Terminál Hranečník-u parkoviště, Sl.Ostr. <br><b>Adresa:</b> Ostrava-město; Ostrava; Slezská Ostrava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "70071:1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           18.3410385,
           49.8184559
         ],
@@ -60,7 +77,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Bartovická 606/10, Dům s peč.službou, Bartovice <br><b>Adresa:</b> Bartovická 606/10, Bartovice, 71700, Ostrava ",
+        "_note": "<br><b>Poznámka:</b> Bartovická 606/10,DPS-na budově u vstupu,Bartovice <br><b>Adresa:</b> Bartovická 606/10, Bartovice, 71700, Ostrava ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -82,6 +99,23 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "70071:2"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.3651119,
+          49.8197431
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Šenovská 872 (stojan u cesty), Petřvald u K. <br><b>Adresa:</b> Karviná; Petřvald; Petřvald <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "70071:206"
       },
       "type": "Feature"
     },
@@ -235,6 +269,40 @@
         "collection_times": "Mo-Fr 13:00",
         "operator": "Česká pošta, s.p.",
         "ref": "70071:53"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.3506307,
+          49.8362889
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Radvanická 398/58 x Holandská (stojan)Michálkovice <br><b>Adresa:</b> Ostrava-město; Ostrava; Michálkovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 13:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "70071:67"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.3511045,
+          49.8008279
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Těšínská 173-zast.MHD U Samoobsluhy(na zdi), Bart. <br><b>Adresa:</b> Ostrava-město; Ostrava; Bartovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 13:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "70071:71"
       },
       "type": "Feature"
     },

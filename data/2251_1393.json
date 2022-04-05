@@ -3,6 +3,40 @@
     {
       "geometry": {
         "coordinates": [
+          17.8715277,
+          49.7503448
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vrchy u čp.76, autobus.zastávka <br><b>Adresa:</b> Nový Jičín; Vrchy; Vrchy <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74207:332"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.9250435,
+          49.7261402
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Fulnek, Děrné 85, obchod (stojan) <br><b>Adresa:</b> Nový Jičín; Fulnek; Děrné <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74207:333"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           17.8735551,
           49.7765621
         ],
@@ -14,6 +48,23 @@
         "collection_times": "Mo-Fr 09:00",
         "operator": "Česká pošta, s.p.",
         "ref": "74907:329"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.8506822,
+          49.7674143
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Březová, Jančí 23,na stojanu vedle obec.skříněk <br><b>Adresa:</b> Opava; Březová; Jančí <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74907:332"
       },
       "type": "Feature"
     }

@@ -3,6 +3,40 @@
     {
       "geometry": {
         "coordinates": [
+          18.1767222,
+          49.6887917
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Trnávka 33, bus. zastávka (stojan) <br><b>Adresa:</b> Nový Jičín; Trnávka; Trnávka <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74207:230"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.1851162,
+          49.6702326
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kateřinice 141, prodejna (stojan) <br><b>Adresa:</b> Nový Jičín; Kateřinice; Kateřinice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74207:232"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           18.1509608,
           49.7038256
         ],
@@ -14,6 +48,23 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "74207:235"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.1353355,
+          49.7215684
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Petřvald 2 - Petřvaldík naproti č.p. 40, AZ <br><b>Adresa:</b> Nový Jičín; Petřvald; Petřvald 2-Petřvaldík <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74207:236"
       },
       "type": "Feature"
     },

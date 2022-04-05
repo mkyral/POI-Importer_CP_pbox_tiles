@@ -54,6 +54,23 @@
     {
       "geometry": {
         "coordinates": [
+          15.6765719,
+          50.194986
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Želí, osvěžovna, č.p. 26 <br><b>Adresa:</b> Hradec Králové; Libčany; Želí <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "50370:118"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           15.6666191,
           50.2089243
         ],
@@ -116,6 +133,23 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "50370:133"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.6682137,
+          50.2257326
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Zámek, zastávka BUS <br><b>Adresa:</b> Hradec Králové; Hrádek; Hrádek <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "50370:162"
       },
       "type": "Feature"
     },

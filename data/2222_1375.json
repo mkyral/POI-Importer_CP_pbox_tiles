@@ -43,7 +43,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Desná v Jizer. horách <br><b>Adresa:</b> Krkonošská 630, Desná II, 46861, Desná <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 15.42 m",
+        "_note": "<br><b>Poznámka:</b> pošta Desná v Jizerských horách <br><b>Adresa:</b> Krkonošská 630, Desná II, 46861, Desná <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 15.42 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -218,6 +218,23 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "46307:242"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.3476056,
+          50.7712315
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> zastávka ČSAD mezi Polubný č.p.71 a č.p. 230 <br><b>Adresa:</b> Jablonec n. Nis.; Kořenov; Polubný <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "46307:244"
       },
       "type": "Feature"
     }

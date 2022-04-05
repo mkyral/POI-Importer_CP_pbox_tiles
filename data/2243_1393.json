@@ -135,6 +135,23 @@
         "ref": "77072:421"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.1575648,
+          49.732661
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pňovice u č.p. 50, budova farmy Papůvka (stojan) <br><b>Adresa:</b> Olomouc; Pňovice; Pňovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "77072:423"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

@@ -139,6 +139,23 @@
     {
       "geometry": {
         "coordinates": [
+          12.3800302,
+          50.074027
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Cheb, ČD železniční stanice <br><b>Adresa:</b> Cheb; Cheb; Cheb <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "35007:2"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           12.3790509,
           50.0878211
         ],
@@ -269,6 +286,40 @@
         "collection_times": "Mo-Fr 11:00",
         "operator": "Česká pošta, s.p.",
         "ref": "35007:64"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.3666677,
+          50.0729932
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Cheb, Pastýřská <br><b>Adresa:</b> Cheb; Cheb; Cheb <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "35007:7"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.3494738,
+          50.1184979
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Františkovy Lázně, Máchova, Lázně I. <br><b>Adresa:</b> Cheb; Františkovy Lázně; Františkovy Lázně <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 11:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "35007:81"
       },
       "type": "Feature"
     },

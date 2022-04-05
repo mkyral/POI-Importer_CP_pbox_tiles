@@ -105,6 +105,23 @@
     {
       "geometry": {
         "coordinates": [
+          15.5077808,
+          50.6211288
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u zastávky BUS, poblíž penzionu Kovárna č.p. 786 <br><b>Adresa:</b> Semily; Jilemnice; Hrabačov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51107:241"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           15.4981749,
           50.6238584
         ],
@@ -128,7 +145,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Martinice v Krkonoších <br><b>Adresa:</b> č.p. 131, 51232, Martinice v Krkonoších <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.41 m",
+        "_note": "<br><b>Poznámka:</b> pošta Partner Martinice v Krkonoších <br><b>Adresa:</b> č.p. 131, 51232, Martinice v Krkonoších <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.41 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",

@@ -11,7 +11,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Bor u Tachova - pošta <br><b>Adresa:</b> náměstí Republiky 110, 34802, Bor <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.42 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 13:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "34707:227"
       },
@@ -45,9 +45,26 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Bor u Tachova, vedle autobusového nádraží 343 <br><b>Adresa:</b> Nádražní 343, 34802, Bor ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 13:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "34707:41"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.8144549,
+          49.7144949
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Skviřín, u hlavní silnice <br><b>Adresa:</b> Tachov; Bor; Skviřín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "34707:43"
       },
       "type": "Feature"
     },
@@ -65,6 +82,23 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "34707:49"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.7560353,
+          49.7017658
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vysočany, autobusová zastávka vedle čp.8 <br><b>Adresa:</b> Tachov; Bor; Vysočany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "34707:52"
       },
       "type": "Feature"
     },
@@ -99,6 +133,23 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "34707:55"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.7563916,
+          49.678478
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Souměř, náves, autobusová zastávka vedle čp.27 <br><b>Adresa:</b> Tachov; Stráž; Souměř <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "34707:56"
       },
       "type": "Feature"
     }

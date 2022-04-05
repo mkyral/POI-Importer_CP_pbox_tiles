@@ -67,6 +67,23 @@
         "ref": "77072:458"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.0381358,
+          49.619089
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Náměšť na Hané, Nové Dvory 414 (aut.zast.-stojan) <br><b>Adresa:</b> Olomouc; Náměšť na Hané; Náměšť na Hané <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79907:172"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

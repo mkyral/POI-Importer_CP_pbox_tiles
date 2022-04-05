@@ -33,6 +33,57 @@
         "ref": "79207:215"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.4338883,
+          50.1609781
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Spálené,napr.243,Holčovice (stoj.zast.BUS Ptáčník) <br><b>Adresa:</b> Bruntál; Holčovice; Spálené <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79207:216"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.4485784,
+          50.157454
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Spálené,u čp.59, Holčovice (na zast.BUS) <br><b>Adresa:</b> Bruntál; Holčovice; Spálené <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79207:217"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.4742395,
+          50.1393551
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jelení, č.p. 20, Holčovice (na stojanu) <br><b>Adresa:</b> Bruntál; Holčovice; Jelení <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79207:232"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

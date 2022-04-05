@@ -3,6 +3,23 @@
     {
       "geometry": {
         "coordinates": [
+          17.3114292,
+          49.8594898
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kněžpole,vedle čp.37,Jiříkov (na zdi zast.BUS) <br><b>Adresa:</b> Bruntál; Jiříkov; Kněžpole <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79207:70"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           17.2766369,
           49.8543147
         ],
@@ -14,6 +31,40 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "79207:71"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.2462151,
+          49.8522721
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Těchanov,vedle čp.44,Jiříkov (na dřevěné zast.BUS) <br><b>Adresa:</b> Bruntál; Jiříkov; Těchanov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79207:72"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.2577618,
+          49.839369
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Křížov, naproti č.p. 41, Jiříkov (na stojanu) <br><b>Adresa:</b> Bruntál; Jiříkov; Křížov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79207:73"
       },
       "type": "Feature"
     }

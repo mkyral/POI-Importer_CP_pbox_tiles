@@ -84,6 +84,23 @@
         "ref": "37271:751"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3118024,
+          48.6146938
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Náměstí 104 - infocentrum <br><b>Adresa:</b> Náměstí 104, 38273, Vyšší Brod ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:858"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

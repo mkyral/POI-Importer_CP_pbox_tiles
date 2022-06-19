@@ -60,7 +60,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Horky - prodejna <br><b>Adresa:</b> K Návsi 254, Horky, 39001, Tábor <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 12.96 m",
+        "_note": "<br><b>Poznámka:</b> Horky - kaplička <br><b>Adresa:</b> K Návsi 254, Horky, 39001, Tábor <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 12.96 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -71,13 +71,13 @@
     {
       "geometry": {
         "coordinates": [
-          14.663404,
-          49.4123734
+          14.6437461,
+          49.4017358
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Horky - kaplička <br><b>Adresa:</b> Čelkovická 445/2, 39001, Tábor <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Horky - prodejna <br><b>Adresa:</b> Týnská 179, Horky, 39001, Tábor <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.82 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -218,23 +218,6 @@
         "collection_times": "Mo-Fr 13:00",
         "operator": "Česká pošta, s.p.",
         "ref": "39007:25"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.6444584,
-          49.4191943
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Klokoty - Velká hospoda <br><b>Adresa:</b> Kpt. Jaroše 24, Klokoty, 39003, Tábor <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.29 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 13:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "39007:27"
       },
       "type": "Feature"
     },

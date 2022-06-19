@@ -326,6 +326,23 @@
     {
       "geometry": {
         "coordinates": [
+          18.4512967,
+          49.7851328
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Fryštácká 958/38-u autob.zast.,Hav.-Prostř. Suchá <br><b>Adresa:</b> Fryštátská 958/38, Prostřední Suchá, 73564, Havířov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.33 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "72572:417"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           18.4550597,
           49.7967051
         ],
@@ -388,6 +405,23 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "72572:425"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.4125254,
+          49.7907783
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Železničářů 1300/2-přednádraží(stojan), Hav.-Město <br><b>Adresa:</b> Železničářů 1300/2, Město, 73601, Havířov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 65.8 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "72572:426"
       },
       "type": "Feature"
     },

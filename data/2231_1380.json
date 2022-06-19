@@ -37,23 +37,6 @@
     {
       "geometry": {
         "coordinates": [
-          16.0907287,
-          50.4757496
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Nádraží ČSAD, Červený Kostelec <br><b>Adresa:</b> Havlíčkova 655, 54941, Červený Kostelec ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "54707:16"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           16.1628491,
           50.4986559
         ],
@@ -82,23 +65,6 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "54707:166"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.0886054,
-          50.4761577
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Konzum, Červený Kostelec <br><b>Adresa:</b> 5. května 2, 54941, Červený Kostelec ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "54707:17"
       },
       "type": "Feature"
     },
@@ -303,6 +269,40 @@
         "collection_times": "Mo-Fr 08:45",
         "operator": "Česká pošta, s.p.",
         "ref": "54707:618"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0886054,
+          50.4761577
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Konzum, Červený Kostelec <br><b>Adresa:</b> 5. května 2, 54941, Červený Kostelec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54707:621"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0907287,
+          50.4757496
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nádraží ČSAD, Červený Kostelec <br><b>Adresa:</b> Havlíčkova 655, 54941, Červený Kostelec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54707:622"
       },
       "type": "Feature"
     }

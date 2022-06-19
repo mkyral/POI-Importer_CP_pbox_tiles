@@ -50,6 +50,23 @@
         "ref": "60011:140"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.5370969,
+          48.8760902
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 45, 69181, Brod nad Dyjí <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.1 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "69007:83"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

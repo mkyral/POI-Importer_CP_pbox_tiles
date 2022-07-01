@@ -118,6 +118,23 @@
         "ref": "37271:484"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.7651925,
+          49.0077392
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> ČSAD <br><b>Adresa:</b> Jateční 365, Třeboň II, 37901, Třeboň <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 33.81 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:500"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

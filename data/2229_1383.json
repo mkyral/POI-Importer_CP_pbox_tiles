@@ -37,40 +37,6 @@
     {
       "geometry": {
         "coordinates": [
-          15.9287721,
-          50.3408305
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> kadeřnictví Josefov,Z.Němečka 178, Jaroměř <br><b>Adresa:</b> Zdeňka Němečka 178, Josefov, 55102, Jaroměř <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.26 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "54707:35"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.9319837,
-          50.3387207
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Jaroměř 3 <br><b>Adresa:</b> Traxlerova 110, Josefov, 55102, Jaroměř ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "54707:36"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           15.9098243,
           50.3419298
         ],
@@ -167,6 +133,23 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "54707:537"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9316571,
+          50.3386842
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Jaroměř 3 <br><b>Adresa:</b> Traxlerova 110, Josefov, 55102, Jaroměř <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 23.54 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54707:544"
       },
       "type": "Feature"
     }

@@ -118,6 +118,23 @@
         "ref": "79907:92"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.8085989,
+          49.4129309
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Rozstání,Baldovec 319(autocmp.stojan) <br><b>Adresa:</b> Prostějov; Rozstání; Baldovec <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "79907:98"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

@@ -3,23 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          17.9800397,
-          49.9155124
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Opava-Komárov, Kravařovská 309/35a (na stojanu) <br><b>Adresa:</b> Kravařovská 309/35a, Komárov, 74770, Opava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 23.8 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "74907:115"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           17.9657927,
           49.9147773
         ],
@@ -241,6 +224,23 @@
     {
       "geometry": {
         "coordinates": [
+          17.9408918,
+          49.9289005
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Předměstí, Těšínská 2830/83, Globus, Opava 1 <br><b>Adresa:</b> Těšínská 2830/83, Předměstí, 74601, Opava ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74907:227"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           18.0021455,
           49.9024341
         ],
@@ -252,23 +252,6 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "74907:40"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.9410621,
-          49.9284792
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Předměstí, Těšínská 2830/83, Globus, Opava 1 <br><b>Adresa:</b> Těšínská 2830/83, Předměstí, 74601, Opava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 48.42 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 12:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "74907:9"
       },
       "type": "Feature"
     }

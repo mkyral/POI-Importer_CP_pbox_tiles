@@ -37,6 +37,23 @@
     {
       "geometry": {
         "coordinates": [
+          17.83609,
+          49.9222086
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Slavkov u Opavy (stojan) <br><b>Adresa:</b> Ludvíka Svobody 25, 74757, Slavkov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74907:187"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           17.8087603,
           49.9381541
         ],
@@ -122,23 +139,6 @@
     {
       "geometry": {
         "coordinates": [
-          17.8363086,
-          49.9221253
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Pošta Slavkov u Opavy (stojan) <br><b>Adresa:</b> Ludvíka Svobody 25, 74757, Slavkov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 18.19 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "74907:221"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           17.799911,
           49.9064633
         ],
@@ -150,23 +150,6 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "74907:65"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.7788433,
-          49.8967944
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Jednota, Hlavní 194, Dolní Životice <br><b>Adresa:</b> Hlavní 194, 74756, Dolní Životice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 17.43 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "74907:68"
       },
       "type": "Feature"
     },

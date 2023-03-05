@@ -37,59 +37,76 @@
     {
       "geometry": {
         "coordinates": [
-          18.3302142,
-          49.6180194
+          18.335145,
+          49.6139
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Prodejna M a J,na čp.201, Metylovice <br><b>Adresa:</b> č.p. 201, 73949, Metylovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.93 m",
+        "_note": "<br><b>Poznámka:</b> Metylovice 495-OÚ (na stojanu) <br><b>Adresa:</b> č.p. 495, 73949, Metylovice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "73807:219"
+        "ref": "73807:124"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          18.3536408,
-          49.6666995
+          18.3302878,
+          49.6180949
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Prodejna M a J,na čp.201, Metylovice <br><b>Adresa:</b> č.p. 201, 73949, Metylovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "73807:125"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.3536404,
+          49.6666985
         ],
         "type": "Point"
       },
       "properties": {
         "_note": "<br><b>Poznámka:</b> 28.října 1875 x V.Talicha,FM-Místek(stoj.na křiž.) <br><b>Adresa:</b> Frýdek-Místek; Frýdek-Místek; Místek <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 16:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "73807:23"
+        "ref": "73807:19"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          18.3355252,
-          49.6648703
+          18.335544,
+          49.6646524
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Pavlíkova 294,FM-Místek(stojan před domem) <br><b>Adresa:</b> Pavlíkova 294, Místek, 73801, Frýdek-Místek <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 24.27 m",
+        "_note": "<br><b>Poznámka:</b> Pavlíkova 294,FM-Místek(stojan před domem) <br><b>Adresa:</b> Pavlíkova 294, Místek, 73801, Frýdek-Místek <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 15:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "73807:33"
+        "ref": "73807:26"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          18.3600801,
-          49.6525478
+          18.3600797,
+          49.6525468
         ],
         "type": "Point"
       },
@@ -98,20 +115,37 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "73807:41"
+        "ref": "73807:33"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          18.3544279,
-          49.6350159
+          18.3544276,
+          49.6350149
         ],
         "type": "Point"
       },
       "properties": {
         "_note": "<br><b>Poznámka:</b> Hodoňovice,u čp.100, Baška (stojan na zast.BUS) <br><b>Adresa:</b> Frýdek-Místek; Baška; Hodoňovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "73807:34"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.2975119,
+          49.6277369
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Horní konec,na čp.597, Palkovice <br><b>Adresa:</b> č.p. 597, 73941, Palkovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -122,85 +156,51 @@
     {
       "geometry": {
         "coordinates": [
-          18.297483,
-          49.6276073
+          18.3161936,
+          49.6362398
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Horní konec,na čp.597, Palkovice <br><b>Adresa:</b> č.p. 597, 73941, Palkovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 14.56 m",
+        "_note": "<br><b>Poznámka:</b> Pošta Palkovice <br><b>Adresa:</b> č.p. 267, 73941, Palkovice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "73807:51"
+        "ref": "73807:44"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          18.3162274,
-          49.6363136
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Pošta Palkovice <br><b>Adresa:</b> č.p. 267, 73941, Palkovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.56 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 14:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "73807:53"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          18.2938559,
-          49.6638568
+          18.2938555,
+          49.6638558
         ],
         "type": "Point"
       },
       "properties": {
         "_note": "<br><b>Poznámka:</b> Příborská,u čp.39,FM-Zelinkovice (v zast.BUS) <br><b>Adresa:</b> Frýdek-Místek; Frýdek-Místek; Zelinkovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:30",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "73807:54"
+        "ref": "73807:45"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          18.2963215,
-          49.6676005
+          18.2963141,
+          49.6675454
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Hraniční 21,FM-Lysůvky (stojan před objektem) <br><b>Adresa:</b> Hraniční 21, Lysůvky, 73942, Frýdek-Místek <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.15 m",
+        "_note": "<br><b>Poznámka:</b> Hraniční 21,FM-Lysůvky (stojan před objektem) <br><b>Adresa:</b> Hraniční 21, Lysůvky, 73942, Frýdek-Místek <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "73807:55"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          18.3352856,
-          49.6139162
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Metylovice 495 (stojan před bývalou poštou) <br><b>Adresa:</b> č.p. 495, 73949, Metylovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.29 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "73807:89"
+        "ref": "73807:46"
       },
       "type": "Feature"
     }

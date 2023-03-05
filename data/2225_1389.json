@@ -173,68 +173,85 @@
     {
       "geometry": {
         "coordinates": [
-          15.6380882,
-          49.9909253
+          15.639069,
+          49.9916268
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Choltice, Cyklos <br><b>Adresa:</b> Cukrovarská 104, 53361, Choltice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 104.92 m",
+        "_note": "<br><b>Poznámka:</b> Choltice, Cyklos <br><b>Adresa:</b> Cukrovarská 104, 53361, Choltice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53800:37"
+        "ref": "53500:83"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          15.6247105,
-          49.9889199
+          15.6250525,
+          49.9887716
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Choltice, Pečovatelský dům 260 <br><b>Adresa:</b> Pardubická 260, 53361, Choltice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 29.5 m",
+        "_note": "<br><b>Poznámka:</b> Choltice, Pečovatelský dům 260 <br><b>Adresa:</b> Pardubická 260, 53361, Choltice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53800:38"
+        "ref": "53500:84"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          15.5690867,
-          49.9875456
+          15.5691586,
+          49.9873293
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Kulturní dům, Lipoltice - stojan <br><b>Adresa:</b> č.p. 2, 53364, Lipoltice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 24.6 m",
+        "_note": "<br><b>Poznámka:</b> Kulturní dům, Lipoltice - stojan <br><b>Adresa:</b> č.p. 2, 53364, Lipoltice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53800:40"
+        "ref": "53500:85"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          15.6185334,
-          49.9874497
+          15.6184132,
+          49.9873779
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Choltice <br><b>Adresa:</b> Pardubická 138, 53361, Choltice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.73 m",
+        "_note": "<br><b>Poznámka:</b> pošta Choltice <br><b>Adresa:</b> Pardubická 138, 53361, Choltice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53800:44"
+        "ref": "53500:86"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.5671105,
+          49.9857174
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Lipoltice - stojan <br><b>Adresa:</b> č.p. 25, 53364, Lipoltice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53500:87"
       },
       "type": "Feature"
     },
@@ -252,23 +269,6 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "53800:45"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.5670702,
-          49.9858103
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Lipoltice - stojan <br><b>Adresa:</b> č.p. 25, 53364, Lipoltice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.73 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "53800:46"
       },
       "type": "Feature"
     }

@@ -37,6 +37,23 @@
     {
       "geometry": {
         "coordinates": [
+          14.7707697,
+          49.0060093
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lázně Berta, Třeboň <br><b>Adresa:</b> Tylova 171, Třeboň I, 37901, Třeboň <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 13.43 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37271:458"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           14.799348,
           49.008318
         ],
@@ -99,23 +116,6 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "37271:467"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.766952,
-          48.99285
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Autocamping Třeboň <br><b>Adresa:</b> Sádecká 290, Třeboň II, 37901, Třeboň <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 688.01 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "37271:471"
       },
       "type": "Feature"
     },

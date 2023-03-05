@@ -3,91 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          16.112631,
-          50.2683879
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Opočno <br><b>Adresa:</b> Nádražní 307, 51773, Opočno <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.43 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "51707:125"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.1148385,
-          50.2673696
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> u Městského úřadu, Opočno <br><b>Adresa:</b> Kupkovo nám. 247, 51773, Opočno <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 13.03 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "51707:29"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.1091897,
-          50.2709762
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> budova Policie, Opočno <br><b>Adresa:</b> Tyršova 600, 51773, Opočno <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 28.39 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "51707:30"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.1135984,
-          50.272569
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Domov důchodců Opočno <br><b>Adresa:</b> Tyršova 683, 51773, Opočno <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 13.04 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "51707:31"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.0936088,
-          50.2754794
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> vrátnice Mlékárna, Opočno <br><b>Adresa:</b> Podzámčí 717, 51773, Opočno <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 67.84 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "51707:32"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           16.1064335,
           50.2377454
         ],
@@ -218,6 +133,91 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "51707:569"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1149867,
+          50.2674385
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u Městského úřadu, Opočno <br><b>Adresa:</b> Kupkovo nám. 247, 51773, Opočno ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51707:581"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1093526,
+          50.2712092
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> budova Policie, Opočno <br><b>Adresa:</b> Tyršova 600, 51773, Opočno ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51707:582"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1134982,
+          50.2726672
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Domov důchodců Opočno <br><b>Adresa:</b> Tyršova 683, 51773, Opočno ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51707:583"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.09449,
+          50.2757136
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> vrátnice Mlékárna, Opočno <br><b>Adresa:</b> Podzámčí 717, 51773, Opočno ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51707:584"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1126639,
+          50.2684607
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Opočno <br><b>Adresa:</b> Nádražní 307, 51773, Opočno ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51707:585"
       },
       "type": "Feature"
     }

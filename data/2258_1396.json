@@ -3,42 +3,8 @@
     {
       "geometry": {
         "coordinates": [
-          18.486113,
-          49.6086246
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Pošta Pražmo <br><b>Adresa:</b> č.p. 81, 73904, Pražmo <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.53 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 14:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "73807:204"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          18.5155298,
-          49.6006501
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Partner Morávka <br><b>Adresa:</b> č.p. 599, 73904, Morávka <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 2.53 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 14:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "73807:205"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          18.5364723,
-          49.5849406
+          18.5364719,
+          49.5849396
         ],
         "type": "Point"
       },
@@ -47,15 +13,15 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "73807:82"
+        "ref": "73807:70"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          18.4790984,
-          49.5819416
+          18.479098,
+          49.5819406
         ],
         "type": "Point"
       },
@@ -64,7 +30,41 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "73807:84"
+        "ref": "73807:71"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.4860477,
+          49.6086991
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Pražmo <br><b>Adresa:</b> č.p. 81, 73904, Pražmo <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "73807:86"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.5155454,
+          49.6006297
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Partner Morávka <br><b>Adresa:</b> č.p. 599, 73904, Morávka <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "73807:87"
       },
       "type": "Feature"
     }

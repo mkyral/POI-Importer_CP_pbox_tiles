@@ -3,6 +3,74 @@
     {
       "geometry": {
         "coordinates": [
+          13.9798039,
+          49.7791968
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> sídliště Zborovská Jince č.p.354 <br><b>Adresa:</b> Zborovská 354, 26223, Jince ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "17704:1323"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.9948413,
+          49.7522238
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dominikální Paseky č.p.71 <br><b>Adresa:</b> Dominikální Paseky 71, 26223, Bratkovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "17704:1328"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.0032129,
+          49.7427307
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bratkovice č.p. 41, U Kafků <br><b>Adresa:</b> č.p. 41, 26223, Bratkovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "17704:1329"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.0009379,
+          49.7776534
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Čenkov - budova závodu č.p.59 <br><b>Adresa:</b> č.p. 59, 26223, Čenkov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "17704:1332"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           14.0183746,
           49.7311495
         ],
@@ -31,74 +99,6 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "26107:158"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.9802572,
-          49.7787941
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> sídliště Zborovská Jince č.p.354 <br><b>Adresa:</b> Zborovská 354, 26223, Jince <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 55.38 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "26107:327"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.994255,
-          49.7520954
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Dominikální Paseky č.p.71 <br><b>Adresa:</b> Dominikální Paseky 71, 26223, Bratkovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 44.49 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "26107:333"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.001079,
-          49.7418574
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Bratkovice č.p. 41, U Kafků <br><b>Adresa:</b> č.p. 41, 26223, Bratkovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 181.56 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "26107:334"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.0054595,
-          49.7765803
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Čenkov - budova závodu č.p.59 <br><b>Adresa:</b> č.p. 59, 26223, Čenkov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 346.02 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "26107:337"
       },
       "type": "Feature"
     },

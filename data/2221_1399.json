@@ -54,6 +54,23 @@
     {
       "geometry": {
         "coordinates": [
+          15.217613,
+          49.4113372
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Myslotínská 2044 <br><b>Adresa:</b> Myslotínská 2044, 39301, Pelhřimov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "39307:122"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           15.2230043,
           49.4248192
         ],
@@ -65,23 +82,6 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "39307:13"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.2230582,
-          49.4195894
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> ČSD <br><b>Adresa:</b> Nádražní 282, 39301, Pelhřimov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 23.11 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "39307:15"
       },
       "type": "Feature"
     },
@@ -122,23 +122,6 @@
     {
       "geometry": {
         "coordinates": [
-          15.214593,
-          49.425854
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Pod Floriánem <br><b>Adresa:</b> Pod Floriánem 1626, 39301, Pelhřimov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 73.84 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "39307:19"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           15.2339628,
           49.4346757
         ],
@@ -162,9 +145,9 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Strachovská 523 <br><b>Adresa:</b> Primase Hrůzy 523, 39301, Pelhřimov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 17.57 m",
+        "_note": "<br><b>Poznámka:</b> Strachovská 520 <br><b>Adresa:</b> Strachovská 520, 39301, Pelhřimov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 16.53 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 14:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "39307:20"
       },
@@ -190,23 +173,6 @@
     {
       "geometry": {
         "coordinates": [
-          15.2178603,
-          49.4354497
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Rubešova <br><b>Adresa:</b> Pražská 415, 39301, Pelhřimov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.15 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "39307:24"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           15.2069443,
           49.4369885
         ],
@@ -215,7 +181,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Táborská 1808 <br><b>Adresa:</b> Táborská 1808, 39301, Pelhřimov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 17.76 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 14:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "39307:25"
       },
@@ -230,7 +196,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Pražská 1189 <br><b>Adresa:</b> Pražská 1183, 39301, Pelhřimov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 35.64 m",
+        "_note": "<br><b>Poznámka:</b> Pražská 1183 <br><b>Adresa:</b> Pražská 1183, 39301, Pelhřimov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 35.64 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -249,7 +215,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Kaufland Pelhřimov <br><b>Adresa:</b> Pražská 2276, 39301, Pelhřimov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 37.27 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 14:00; Sa 11:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "39307:28"
       },
@@ -281,9 +247,9 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> budova pošty <br><b>Adresa:</b> Příkopy 1889, 39301, Pelhřimov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 45.96 m",
+        "_note": "<br><b>Poznámka:</b> budova pošty <br><b>Adresa:</b> Svatovítské náměstí 126, 39301, Pelhřimov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 341.46 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 16:00; Sa 14:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "39307:380"
       },
@@ -436,7 +402,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Masarykovo náměstí <br><b>Adresa:</b> Masarykovo náměstí 3, 39301, Pelhřimov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 29.14 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 16:00; Sa 11:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "39307:7"
       },

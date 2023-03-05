@@ -67,6 +67,23 @@
         "ref": "37702:132"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.1398093,
+          49.0367462
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> po dobu letní sezony, Osika <br><b>Adresa:</b> Albeř 101, 37833, Nová Bystřice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:145"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

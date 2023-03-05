@@ -3,25 +3,8 @@
     {
       "geometry": {
         "coordinates": [
-          18.2569184,
-          49.5934869
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Pošta Kozlovice <br><b>Adresa:</b> č.p. 343, 73947, Kozlovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 22.62 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 14:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "73807:214"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          18.2774027,
-          49.5717599
+          18.2774023,
+          49.5717589
         ],
         "type": "Point"
       },
@@ -30,58 +13,75 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "73807:60"
+        "ref": "73807:51"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          18.2569426,
-          49.6036005
+          18.2570784,
+          49.6036464
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Měrkovice,na čp.700-obchod,Kozlovice <br><b>Adresa:</b> Měrkovice 700, 73947, Kozlovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.04 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 13:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "73807:61"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          18.221297,
-          49.5700187
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Pošta Tichá (budova OÚ) <br><b>Adresa:</b> č.p. 1, 74274, Tichá <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.21 m",
+        "_note": "<br><b>Poznámka:</b> Měrkovice,na čp.700-obchod,Kozlovice <br><b>Adresa:</b> Měrkovice 700, 73947, Kozlovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "74207:137"
+        "ref": "73807:52"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          18.2005599,
-          49.6002839
+          18.2571923,
+          49.5935861
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Kopřivnice, Mniší 132, MŠ (stojan) <br><b>Adresa:</b> Mniší 132, 74221, Kopřivnice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.41 m",
+        "_note": "<br><b>Poznámka:</b> Pošta Kozlovice <br><b>Adresa:</b> č.p. 343, 73947, Kozlovice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "74207:214"
+        "ref": "73807:96"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.2213623,
+          49.5699373
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Tichá (budova OÚ) <br><b>Adresa:</b> č.p. 1, 74274, Tichá ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74200:118"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.2006692,
+          49.6003104
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kopřivnice, Mniší 132, MŠ (stojan) <br><b>Adresa:</b> Mniší 132, 74221, Kopřivnice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74200:203"
       },
       "type": "Feature"
     }

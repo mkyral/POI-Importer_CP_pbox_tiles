@@ -3,40 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          14.454356,
-          50.2417696
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> OÚ <br><b>Adresa:</b> Hlavní 69, 25070, Veliká Ves <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 4.05 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "19007:2111"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.4986822,
-          50.2376344
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Kojetice u Prahy <br><b>Adresa:</b> Lipová 75, 25072, Kojetice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.25 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "19007:2124"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           14.4952226,
           50.2549677
         ],
@@ -82,6 +48,40 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "27607:19"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.454362,
+          50.2417334
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> OÚ <br><b>Adresa:</b> Hlavní 69, 25070, Veliká Ves ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "27607:2111"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.4986432,
+          50.2376847
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Kojetice u Prahy <br><b>Adresa:</b> Lipová 75, 25072, Kojetice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "27607:2124"
       },
       "type": "Feature"
     },

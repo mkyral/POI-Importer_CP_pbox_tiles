@@ -3,57 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          18.5859736,
-          49.797747
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Louky,Na Zátiší na čp.364/1 - MŠ <br><b>Adresa:</b> Na Zátiší 364/1, Louky, 73301, Karviná <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 14.04 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "70071:331"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          18.5812955,
-          49.7930588
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Louky,Velké Kempy 71/18 (stojan u plotu na rozc.) <br><b>Adresa:</b> Karviná; Karviná; Louky <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "70071:333"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          18.5476241,
-          49.8168085
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Stonava, čp.1077 (stojan před vrátnicí Dolu ČSM) <br><b>Adresa:</b> Karviná; Stonava; Stonava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "70071:336"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           18.5903344,
           49.7861154
         ],
@@ -65,6 +14,40 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "73917:62"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.5858871,
+          49.7978602
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Louky,Na Zátiší na čp.364/1 - MŠ <br><b>Adresa:</b> Na Zátiší 364/1, Louky, 73301, Karviná ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74200:331"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.5812951,
+          49.7930578
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Louky,Velké Kempy 71/18 (stojan u plotu na rozc.) <br><b>Adresa:</b> Karviná; Karviná; Louky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74200:333"
       },
       "type": "Feature"
     }

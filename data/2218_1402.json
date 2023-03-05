@@ -3,6 +3,23 @@
     {
       "geometry": {
         "coordinates": [
+          14.9595352,
+          49.2143183
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lodhéřov 1726/13 <br><b>Adresa:</b> č.p. 40, 37826, Lodhéřov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:293"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           14.966122,
           49.2385955
         ],
@@ -26,11 +43,28 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> budova pošty, Lodhéřov <br><b>Adresa:</b> č.p. 175, 37826, Lodhéřov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.39 m",
+        "_note": "<br><b>Poznámka:</b> budova pošty Lodhéřov <br><b>Adresa:</b> č.p. 2, 37826, Lodhéřov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 394.65 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "37702:38"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.9596904,
+          49.2152905
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lodhéřov 175 <br><b>Adresa:</b> č.p. 175, 37826, Lodhéřov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "37702:40"
       },
       "type": "Feature"
     },

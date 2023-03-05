@@ -71,34 +71,51 @@
     {
       "geometry": {
         "coordinates": [
-          18.0838161,
-          49.7571758
+          18.0838897,
+          49.7572172
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Partner Bravantice (stojan) <br><b>Adresa:</b> č.p. 223, 74281, Bravantice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 7.01 m",
+        "_note": "<br><b>Poznámka:</b> Partner Bravantice (stojan) <br><b>Adresa:</b> č.p. 223, 74281, Bravantice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "72572:614"
+        "ref": "72572:372"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          18.0455039,
-          49.7512158
+          18.045465,
+          49.7514151
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Pošta Velké Albrechtice (stojan) <br><b>Adresa:</b> č.p. 248, 74291, Velké Albrechtice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 22.34 m",
+        "_note": "<br><b>Poznámka:</b> Pošta Velké Albrechtice (stojan) <br><b>Adresa:</b> č.p. 248, 74291, Velké Albrechtice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "72572:615"
+        "ref": "72572:373"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.048122,
+          49.7805648
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Partner Bílovec 5 <br><b>Adresa:</b> Lubojaty 35, 74292, Bílovec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "72572:374"
       },
       "type": "Feature"
     }

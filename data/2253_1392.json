@@ -3,13 +3,13 @@
     {
       "geometry": {
         "coordinates": [
-          18.1049753,
-          49.7960744
+          18.1049752,
+          49.7960745
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> u čp.34 - U Hasičů,Klimk.-Hýlov(stoj.na zast.MHD) <br><b>Adresa:</b> Ostrava-město; Klimkovice; Hýlov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "_note": "<br><b>Poznámka:</b> u čp.34 - U Hasičů,Klimk.-Hýlov(stoj.na zast.MHD) <br><b>Adresa:</b> Ostrava-město; Klimkovice; Hýlov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -20,13 +20,13 @@
     {
       "geometry": {
         "coordinates": [
-          18.0983134,
-          49.8066978
+          18.097378,
+          49.8069178
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Pošta Klimkovice-lázně (stojan) <br><b>Adresa:</b> Hýlov 24, 74283, Klimkovice ",
+        "_note": "<br><b>Poznámka:</b> Pošta Klimkovice-lázně (stojan) <br><b>Adresa:</b> Hýlov 24, 74283, Klimkovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 71.47 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 07:00",
         "operator": "Česká pošta, s.p.",
@@ -54,13 +54,13 @@
     {
       "geometry": {
         "coordinates": [
-          18.0754787,
-          49.8051763
+          18.07634,
+          49.8052109
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> U Kaple,vedle čp.38, Zbyslavice (stojan zast.BUS) <br><b>Adresa:</b> Ostrava-město; Zbyslavice; Zbyslavice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> U Kaple,vedle čp.38, Zbyslavice (stojan zast.BUS) <br><b>Adresa:</b> Ostrava-město; Zbyslavice; Zbyslavice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 61.98 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -82,6 +82,23 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "72572:361"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.048779,
+          49.7814681
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Partner Bílovec 5 <br><b>Adresa:</b> Lubojaty 35, 74292, Bílovec <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 111.0 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "72572:374"
       },
       "type": "Feature"
     },

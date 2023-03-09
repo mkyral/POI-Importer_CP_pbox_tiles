@@ -169,6 +169,23 @@
         "ref": "76707:219"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.5828441,
+          49.3313747
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Holešov <br><b>Adresa:</b> Masarykova 655/19, 76901, Holešov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "76707:227"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

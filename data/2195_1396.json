@@ -101,6 +101,23 @@
         "ref": "34407:218"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.9567446,
+          49.5881484
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pocinovice, prodejna <br><b>Adresa:</b> Domažlice; Semněvice; Pocinovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "34407:219"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

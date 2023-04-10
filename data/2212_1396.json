@@ -88,13 +88,30 @@
     {
       "geometry": {
         "coordinates": [
-          14.4456537,
-          49.5605561
+          14.4412001,
+          49.5538922
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Březí č.p.3 <br><b>Adresa:</b> Březí 3, 26401, Nechvalice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 48.82 m",
+        "_note": "<br><b>Poznámka:</b> Chválov č.p.1 <br><b>Adresa:</b> Chválov 1, 26401, Nechvalice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:184"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.4458039,
+          49.5601281
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Březí č.p.3 <br><b>Adresa:</b> Březí 3, 26401, Nechvalice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -179,7 +196,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Jesenice č.p.13 <br><b>Adresa:</b> č.p. 13, 26401, Jesenice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Jesenice č.p.13 <br><b>Adresa:</b> č.p. 13, 26401, Jesenice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",

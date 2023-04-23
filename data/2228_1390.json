@@ -3,40 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          15.8791918,
-          49.9099698
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Zaječice <br><b>Adresa:</b> č.p. 4, 53835, Zaječice ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "53700:110"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.8556908,
-          49.9472703
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Kočí <br><b>Adresa:</b> č.p. 92, 53861, Kočí ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "53700:113"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           15.828478,
           49.9318455
         ],
@@ -47,7 +13,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53700:23"
+        "ref": "53307:318"
       },
       "type": "Feature"
     },
@@ -64,7 +30,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53700:45"
+        "ref": "53307:334"
       },
       "type": "Feature"
     },
@@ -81,7 +47,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53700:46"
+        "ref": "53307:335"
       },
       "type": "Feature"
     },
@@ -98,7 +64,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53700:47"
+        "ref": "53307:336"
       },
       "type": "Feature"
     },
@@ -115,7 +81,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53700:57"
+        "ref": "53307:344"
       },
       "type": "Feature"
     },
@@ -132,7 +98,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53700:58"
+        "ref": "53307:345"
       },
       "type": "Feature"
     },
@@ -149,7 +115,41 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53700:94"
+        "ref": "53307:373"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8791918,
+          49.9099698
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Zaječice <br><b>Adresa:</b> č.p. 4, 53835, Zaječice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53307:386"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8556908,
+          49.9472703
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Kočí <br><b>Adresa:</b> č.p. 92, 53861, Kočí ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53307:389"
       },
       "type": "Feature"
     }

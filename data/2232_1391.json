@@ -3,23 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          16.1731403,
-          49.8775928
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Suchá Lhota OÚ č.12 <br><b>Adresa:</b> č.p. 12, 57001, Suchá Lhota ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "56707:620"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           16.1925062,
           49.855544
         ],
@@ -105,23 +88,6 @@
     {
       "geometry": {
         "coordinates": [
-          16.2080757,
-          49.8793434
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Újezdec č. 56 <br><b>Adresa:</b> č.p. 56, 57001, Újezdec ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "56707:628"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           16.2371648,
           49.8705667
         ],
@@ -201,6 +167,40 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "56707:667"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1731403,
+          49.8775928
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Suchá Lhota OÚ č.12 <br><b>Adresa:</b> č.p. 12, 57001, Suchá Lhota ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:881"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2080757,
+          49.8793434
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Újezdec č. 56 <br><b>Adresa:</b> č.p. 56, 57001, Újezdec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:882"
       },
       "type": "Feature"
     }

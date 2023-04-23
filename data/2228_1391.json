@@ -3,23 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          15.8571446,
-          49.8741006
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Žumberk <br><b>Adresa:</b> č.p. 79, 53836, Žumberk ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "53700:111"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           15.8393673,
           49.8885848
         ],
@@ -30,7 +13,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53700:59"
+        "ref": "53307:346"
       },
       "type": "Feature"
     },
@@ -47,7 +30,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53700:60"
+        "ref": "53307:347"
       },
       "type": "Feature"
     },
@@ -64,7 +47,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53700:61"
+        "ref": "53307:348"
       },
       "type": "Feature"
     },
@@ -81,7 +64,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53700:95"
+        "ref": "53307:374"
       },
       "type": "Feature"
     },
@@ -98,7 +81,24 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53700:96"
+        "ref": "53307:375"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8571446,
+          49.8741006
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Žumberk <br><b>Adresa:</b> č.p. 79, 53836, Žumberk ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53307:387"
       },
       "type": "Feature"
     },
@@ -113,9 +113,9 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Miřetice 39 - prodejna, \"S\" <br><b>Adresa:</b> č.p. 39, 53955, Miřetice ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:15",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53900:44"
+        "ref": "53307:743"
       },
       "type": "Feature"
     },
@@ -130,9 +130,9 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Bratroňov - náves, \"S\" <br><b>Adresa:</b> Bratroňov 54, 53825, Ctětín ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:15",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53900:53"
+        "ref": "53307:751"
       },
       "type": "Feature"
     },
@@ -147,9 +147,9 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Kvítek - BUS, \"S\" <br><b>Adresa:</b> Bratroňov 34, 53825, Ctětín ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:15",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53900:54"
+        "ref": "53307:752"
       },
       "type": "Feature"
     },
@@ -164,9 +164,9 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Krupín - náves, \"S\" <br><b>Adresa:</b> Krupín 4, 53825, Miřetice ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:15",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53900:55"
+        "ref": "53307:753"
       },
       "type": "Feature"
     },
@@ -181,9 +181,9 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Švihov - u prodejny, \"S\" <br><b>Adresa:</b> Švihov 31, 53825, Miřetice ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:15",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53900:56"
+        "ref": "53307:754"
       },
       "type": "Feature"
     },
@@ -198,9 +198,9 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Dubová - BUS <br><b>Adresa:</b> Dubová 31, 53825, Miřetice ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:15",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53900:59"
+        "ref": "53307:757"
       },
       "type": "Feature"
     },
@@ -215,9 +215,9 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Bošov - VTA, \"S\" <br><b>Adresa:</b> Bošov 23, 53825, Miřetice ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:15",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53900:60"
+        "ref": "53307:758"
       },
       "type": "Feature"
     },
@@ -232,9 +232,9 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Podlíšťany - náves, \"S\" <br><b>Adresa:</b> Podlíšťany 29, 53825, Nasavrky ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:15",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53900:61"
+        "ref": "53307:759"
       },
       "type": "Feature"
     },
@@ -251,7 +251,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53900:64"
+        "ref": "53307:762"
       },
       "type": "Feature"
     },
@@ -266,9 +266,9 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> pošta Miřetice u Hlinska <br><b>Adresa:</b> Čekov 45, 53955, Miřetice ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:15",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53900:80"
+        "ref": "53307:777"
       },
       "type": "Feature"
     }

@@ -3,40 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          15.9532198,
-          49.9219056
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Partner <br><b>Adresa:</b> č.p. 38, 53834, Rosice ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "53700:109"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.9346287,
-          49.9000807
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Chrast u Chrudimě <br><b>Adresa:</b> U Pošty 500, 53851, Chrast ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "53700:112"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           15.939205,
           49.9479208
         ],
@@ -47,7 +13,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53700:41"
+        "ref": "53307:330"
       },
       "type": "Feature"
     },
@@ -64,7 +30,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53700:49"
+        "ref": "53307:338"
       },
       "type": "Feature"
     },
@@ -81,7 +47,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53700:50"
+        "ref": "53307:339"
       },
       "type": "Feature"
     },
@@ -98,7 +64,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53700:78"
+        "ref": "53307:362"
       },
       "type": "Feature"
     },
@@ -115,7 +81,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53700:81"
+        "ref": "53307:363"
       },
       "type": "Feature"
     },
@@ -132,7 +98,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53700:83"
+        "ref": "53307:364"
       },
       "type": "Feature"
     },
@@ -149,7 +115,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53700:84"
+        "ref": "53307:365"
       },
       "type": "Feature"
     },
@@ -166,7 +132,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53700:92"
+        "ref": "53307:371"
       },
       "type": "Feature"
     },
@@ -183,7 +149,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53700:93"
+        "ref": "53307:372"
       },
       "type": "Feature"
     },
@@ -200,7 +166,41 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53700:98"
+        "ref": "53307:376"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9532198,
+          49.9219056
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Partner <br><b>Adresa:</b> č.p. 38, 53834, Rosice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53307:385"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9346287,
+          49.9000807
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Chrast u Chrudimě <br><b>Adresa:</b> U Pošty 500, 53851, Chrast ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53307:388"
       },
       "type": "Feature"
     },
@@ -217,7 +217,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53970:57"
+        "ref": "53307:844"
       },
       "type": "Feature"
     },
@@ -232,9 +232,9 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Bor u Chroustovic 3 - náves, \"S\" <br><b>Adresa:</b> Bor u Chroustovic 3, 53863, Rosice ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:30",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53970:61"
+        "ref": "53307:848"
       },
       "type": "Feature"
     }

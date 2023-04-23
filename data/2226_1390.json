@@ -13,7 +13,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53700:29"
+        "ref": "53307:322"
       },
       "type": "Feature"
     },
@@ -30,7 +30,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53700:72"
+        "ref": "53307:357"
       },
       "type": "Feature"
     },
@@ -47,7 +47,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53700:73"
+        "ref": "53307:358"
       },
       "type": "Feature"
     },
@@ -62,179 +62,9 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> pošta Heřmanův Městec <br><b>Adresa:</b> Sokolská 268, 53803, Heřmanův Městec ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 15:30",
-        "operator": "Česká pošta, s.p.",
-        "ref": "53800:1"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.647458,
-          49.9374735
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Konopáč 37 - koupaliště ATC, \"S\" <br><b>Adresa:</b> Konopáč 37, 53803, Heřmanův Městec ",
-        "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53800:14"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.6512944,
-          49.9268883
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Kostelec u H. Městce 64 - škola, \"S\" <br><b>Adresa:</b> č.p. 64, 53803, Kostelec u Heřmanova Městce ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "53800:17"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.6773205,
-          49.918704
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Uherčice 52 - obchod <br><b>Adresa:</b> č.p. 52, 53803, Úherčice ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "53800:18"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.6552277,
-          49.9271518
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Kostelec u H. Městce 93, \"S\" <br><b>Adresa:</b> č.p. 93, 53803, Kostelec u Heřmanova Městce ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "53800:20"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.7218668,
-          49.9245602
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Skupice - BUS, \"S\" <br><b>Adresa:</b> Skupice 8, 53803, Morašice ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "53800:22"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.7121547,
-          49.9178374
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Janovice - BUS <br><b>Adresa:</b> Janovice 16, 53803, Morašice ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "53800:23"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.7016334,
-          49.91494
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Holičky 28 - náves <br><b>Adresa:</b> Holičky 28, 53803, Morašice ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "53800:24"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.6894679,
-          49.9386572
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Chotěnice - prodejna <br><b>Adresa:</b> Chotěnice 38, 53803, Heřmanův Městec ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "53800:25"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.6865049,
-          49.9276074
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Radlín - náves, \"S\" <br><b>Adresa:</b> Radlín 2, 53803, Heřmanův Městec ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "53800:26"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.6675588,
-          49.9016434
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Nerozhovice - náves, \"S\" <br><b>Adresa:</b> Nerozhovice 9, 53803, Vápenný Podol ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "53800:27"
+        "ref": "53307:600"
       },
       "type": "Feature"
     },
@@ -251,24 +81,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53800:4"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.7082673,
-          49.9351052
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Morašice 17 - pošta <br><b>Adresa:</b> č.p. 17, 53802, Morašice ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "53800:43"
+        "ref": "53307:603"
       },
       "type": "Feature"
     },
@@ -285,24 +98,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53800:5"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.6687019,
-          49.9502258
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> H. Městec, V Lukách - sídliště, \"S\" <br><b>Adresa:</b> Chrudim; Heřmanův Městec; Heřmanův Městec ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "53800:6"
+        "ref": "53307:604"
       },
       "type": "Feature"
     },
@@ -319,24 +115,177 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53800:8"
+        "ref": "53307:607"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          15.6730086,
-          49.9464698
+          15.647458,
+          49.9374735
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> H. Městec, U Bažantnice 63 - DD okr. <br><b>Adresa:</b> U Bažantnice 63, 53803, Heřmanův Městec ",
+        "_note": "<br><b>Poznámka:</b> Konopáč 37 - koupaliště ATC, \"S\" <br><b>Adresa:</b> Konopáč 37, 53803, Heřmanův Městec ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53800:9"
+        "ref": "53307:613"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.6512944,
+          49.9268883
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kostelec u H. Městce 64 - škola, \"S\" <br><b>Adresa:</b> č.p. 64, 53803, Kostelec u Heřmanova Městce ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53307:616"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.6773205,
+          49.918704
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Uherčice 52 - obchod <br><b>Adresa:</b> č.p. 52, 53803, Úherčice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53307:617"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7218668,
+          49.9245602
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Skupice - BUS, \"S\" <br><b>Adresa:</b> Skupice 8, 53803, Morašice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53307:621"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7121547,
+          49.9178374
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Janovice - BUS <br><b>Adresa:</b> Janovice 16, 53803, Morašice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53307:622"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7016334,
+          49.91494
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Holičky 28 - náves <br><b>Adresa:</b> Holičky 28, 53803, Morašice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53307:623"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.6894679,
+          49.9386572
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Chotěnice - prodejna <br><b>Adresa:</b> Chotěnice 38, 53803, Heřmanův Městec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53307:624"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.6865049,
+          49.9276074
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Radlín - náves, \"S\" <br><b>Adresa:</b> Radlín 2, 53803, Heřmanův Městec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53307:625"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.6675588,
+          49.9016434
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nerozhovice - náves, \"S\" <br><b>Adresa:</b> Nerozhovice 9, 53803, Vápenný Podol ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53307:626"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7082673,
+          49.9351052
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Morašice 17 - pošta <br><b>Adresa:</b> č.p. 17, 53802, Morašice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53307:636"
       },
       "type": "Feature"
     }

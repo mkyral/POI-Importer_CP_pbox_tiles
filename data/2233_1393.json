@@ -3,23 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          16.2674687,
-          49.7517586
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Lezník č. 68, Polička <br><b>Adresa:</b> Lezník 68, 57201, Polička <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 26.53 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "56707:412"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           16.3361548,
           49.772563
         ],
@@ -30,7 +13,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "56707:658"
+        "ref": "56707:273"
       },
       "type": "Feature"
     },
@@ -47,7 +30,24 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "56707:659"
+        "ref": "56707:274"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2674687,
+          49.7517586
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lezník č. 68, Polička <br><b>Adresa:</b> Lezník 68, 57201, Polička <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 26.53 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "56707:412"
       },
       "type": "Feature"
     }

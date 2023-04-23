@@ -3,40 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          15.8667314,
-          50.0026947
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Hostovice č.p. 8 -  stojan <br><b>Adresa:</b> Hostovice 8, 53002, Pardubice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.79 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "53307:95"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.8681329,
-          49.9786627
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Úhřetice <br><b>Adresa:</b> č.p. 43, 53832, Úhřetice ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "53700:108"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           15.8418621,
           49.9802113
         ],
@@ -47,7 +13,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53700:32"
+        "ref": "53307:325"
       },
       "type": "Feature"
     },
@@ -64,7 +30,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53700:33"
+        "ref": "53307:326"
       },
       "type": "Feature"
     },
@@ -81,7 +47,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53700:42"
+        "ref": "53307:331"
       },
       "type": "Feature"
     },
@@ -98,7 +64,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53700:43"
+        "ref": "53307:332"
       },
       "type": "Feature"
     },
@@ -115,7 +81,41 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53700:44"
+        "ref": "53307:333"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8681329,
+          49.9786627
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Úhřetice <br><b>Adresa:</b> č.p. 43, 53832, Úhřetice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53307:384"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8667314,
+          50.0026947
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hostovice č.p. 8 -  stojan <br><b>Adresa:</b> Hostovice 8, 53002, Pardubice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.79 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53307:95"
       },
       "type": "Feature"
     }

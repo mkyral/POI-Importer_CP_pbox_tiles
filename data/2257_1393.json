@@ -190,23 +190,6 @@
     {
       "geometry": {
         "coordinates": [
-          18.4453124,
-          49.7713155
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Podlesí, U Stadionu 1640/1-Kaufland <br><b>Adresa:</b> U Stadionu 1640/1, Podlesí, 73601, Havířov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 51.94 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "72572:429"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           18.4474839,
           49.7783344
         ],
@@ -269,6 +252,23 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "72572:451"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.3723744,
+          49.7556192
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Partner Václavovice, Obecní, vedle čp.130 (stojan) <br><b>Adresa:</b> Obecní 130, 73934, Václavovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.64 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "72572:97"
       },
       "type": "Feature"
     },

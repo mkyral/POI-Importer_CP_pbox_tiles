@@ -3,40 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          15.7594838,
-          49.8774899
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Licibořice <br><b>Adresa:</b> č.p. 17, 53823, Licibořice ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "53700:105"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.81326,
-          49.8903694
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Svídnice u Chrudimě <br><b>Adresa:</b> č.p. 13, 53824, Svídnice ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "53700:106"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           15.7981597,
           49.8900808
         ],
@@ -47,7 +13,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53700:63"
+        "ref": "53307:349"
       },
       "type": "Feature"
     },
@@ -64,7 +30,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53700:65"
+        "ref": "53307:351"
       },
       "type": "Feature"
     },
@@ -81,7 +47,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53700:66"
+        "ref": "53307:352"
       },
       "type": "Feature"
     },
@@ -98,7 +64,41 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53700:75"
+        "ref": "53307:360"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7594838,
+          49.8774899
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Licibořice <br><b>Adresa:</b> č.p. 17, 53823, Licibořice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53307:381"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.81326,
+          49.8903694
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Svídnice u Chrudimě <br><b>Adresa:</b> č.p. 13, 53824, Svídnice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53307:382"
       },
       "type": "Feature"
     },
@@ -115,7 +115,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53900:3"
+        "ref": "53307:702"
       },
       "type": "Feature"
     },
@@ -132,7 +132,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53900:47"
+        "ref": "53307:745"
       },
       "type": "Feature"
     },
@@ -149,7 +149,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53900:62"
+        "ref": "53307:760"
       },
       "type": "Feature"
     },
@@ -164,9 +164,9 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Chlum u Nasavrk - BUS, \"S\" <br><b>Adresa:</b> Chlum 3, 53825, Krásné ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:30",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53900:73"
+        "ref": "53307:770"
       },
       "type": "Feature"
     },
@@ -181,9 +181,9 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Libkov - zbrojnice <br><b>Adresa:</b> č.p. 35, 53825, Libkov ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:30",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53900:74"
+        "ref": "53307:771"
       },
       "type": "Feature"
     },
@@ -198,9 +198,9 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> České Lhotice - náves, \"S\" <br><b>Adresa:</b> č.p. 32, 53825, České Lhotice ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:30",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53900:75"
+        "ref": "53307:772"
       },
       "type": "Feature"
     },
@@ -215,9 +215,9 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Hradiště - BUS <br><b>Adresa:</b> Hradiště 63, 53825, České Lhotice ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:30",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53900:76"
+        "ref": "53307:773"
       },
       "type": "Feature"
     }

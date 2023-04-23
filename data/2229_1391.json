@@ -13,7 +13,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53700:85"
+        "ref": "53307:366"
       },
       "type": "Feature"
     },
@@ -30,7 +30,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53700:86"
+        "ref": "53307:367"
       },
       "type": "Feature"
     },
@@ -47,7 +47,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53700:87"
+        "ref": "53307:368"
       },
       "type": "Feature"
     },
@@ -64,7 +64,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53700:89"
+        "ref": "53307:369"
       },
       "type": "Feature"
     },
@@ -81,7 +81,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53700:91"
+        "ref": "53307:370"
       },
       "type": "Feature"
     },
@@ -96,43 +96,9 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> pošta Skuteč <br><b>Adresa:</b> Tylova 134, 53973, Skuteč ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 15:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "53970:1"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.9717618,
-          49.8526316
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Skutíčko 13 - kaplička <br><b>Adresa:</b> Skutíčko 13, 53973, Skuteč ",
-        "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53970:11"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.9956738,
-          49.8475573
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Skuteč, Smetanova 914 - penzion <br><b>Adresa:</b> Smetanova 914, 53973, Skuteč ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "53970:14"
+        "ref": "53307:800"
       },
       "type": "Feature"
     },
@@ -147,43 +113,9 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Skuteč, Palackého nám. 139 <br><b>Adresa:</b> Palackého náměstí 139, 53973, Skuteč ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 15:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "53970:2"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.9582583,
-          49.8452488
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Leštinka - zbrojnice <br><b>Adresa:</b> č.p. 26, 53973, Leštinka ",
-        "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53970:24"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.9328531,
-          49.8424832
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Kvasín, autobusová zastávka <br><b>Adresa:</b> Kvasín 1, 53973, Tisovec ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "53970:26"
+        "ref": "53307:801"
       },
       "type": "Feature"
     },
@@ -200,7 +132,75 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53970:5"
+        "ref": "53307:803"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9717618,
+          49.8526316
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Skutíčko 13 - kaplička <br><b>Adresa:</b> Skutíčko 13, 53973, Skuteč ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53307:808"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9956738,
+          49.8475573
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Skuteč, Smetanova 914 - penzion <br><b>Adresa:</b> Smetanova 914, 53973, Skuteč ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53307:810"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9582583,
+          49.8452488
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Leštinka - zbrojnice <br><b>Adresa:</b> č.p. 26, 53973, Leštinka ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53307:817"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9328531,
+          49.8424832
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kvasín, autobusová zastávka <br><b>Adresa:</b> Kvasín 1, 53973, Tisovec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53307:818"
       },
       "type": "Feature"
     },
@@ -217,24 +217,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53970:59"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.9849206,
-          49.8623466
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Přibylov - BUS, \"S\" <br><b>Adresa:</b> Přibylov 551, 53973, Skuteč ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "53970:6"
+        "ref": "53307:846"
       },
       "type": "Feature"
     },
@@ -251,7 +234,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53970:74"
+        "ref": "53307:860"
       },
       "type": "Feature"
     }

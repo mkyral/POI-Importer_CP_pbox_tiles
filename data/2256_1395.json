@@ -3,74 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          18.3614578,
-          49.6134553
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Partner Pržno (stojan před poštou) <br><b>Adresa:</b> č.p. 161, 73911, Pržno ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "73807:115"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          18.3651082,
-          49.6191609
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> U požární zbrojnice,u čp.140,Pržno(stoj.zast.BUS) <br><b>Adresa:</b> Frýdek-Místek; Pržno; Pržno ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "73807:116"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          18.335145,
-          49.6139
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Metylovice 495-OÚ (na stojanu) <br><b>Adresa:</b> č.p. 495, 73949, Metylovice ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "73807:124"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          18.3302878,
-          49.6180949
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Prodejna M a J,na čp.201, Metylovice <br><b>Adresa:</b> č.p. 201, 73949, Metylovice ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "73807:125"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           18.3536404,
           49.6666985
         ],
@@ -81,7 +13,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "73807:19"
+        "ref": "74200:619"
       },
       "type": "Feature"
     },
@@ -98,7 +30,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "73807:26"
+        "ref": "74200:626"
       },
       "type": "Feature"
     },
@@ -115,7 +47,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "73807:33"
+        "ref": "74200:633"
       },
       "type": "Feature"
     },
@@ -132,7 +64,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "73807:34"
+        "ref": "74200:634"
       },
       "type": "Feature"
     },
@@ -149,7 +81,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "73807:42"
+        "ref": "74200:642"
       },
       "type": "Feature"
     },
@@ -166,7 +98,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "73807:44"
+        "ref": "74200:644"
       },
       "type": "Feature"
     },
@@ -183,7 +115,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "73807:45"
+        "ref": "74200:645"
       },
       "type": "Feature"
     },
@@ -200,7 +132,75 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "73807:46"
+        "ref": "74200:646"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.3614578,
+          49.6134553
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Partner Pržno (stojan před poštou) <br><b>Adresa:</b> č.p. 161, 73911, Pržno ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74200:715"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.3651082,
+          49.6191609
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> U požární zbrojnice,u čp.140,Pržno(stoj.zast.BUS) <br><b>Adresa:</b> Frýdek-Místek; Pržno; Pržno ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74200:716"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.335145,
+          49.6139
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Metylovice 495-OÚ (na stojanu) <br><b>Adresa:</b> č.p. 495, 73949, Metylovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74200:724"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.3302878,
+          49.6180949
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Prodejna M a J,na čp.201, Metylovice <br><b>Adresa:</b> č.p. 201, 73949, Metylovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74200:725"
       },
       "type": "Feature"
     }

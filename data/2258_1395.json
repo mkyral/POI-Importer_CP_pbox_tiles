@@ -3,57 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          18.4920233,
-          49.6612289
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> čp.133, Dobratice - školka <br><b>Adresa:</b> č.p. 133, 73951, Dobratice ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "73807:63"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          18.4773505,
-          49.6164297
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> u čp.369, Raškovice (na zděné zast.BUS-U Kaple) <br><b>Adresa:</b> Frýdek-Místek; Raškovice; Raškovice ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "73807:73"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          18.4673222,
-          49.622016
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Pošta Raškovice <br><b>Adresa:</b> č.p. 232, 73904, Raškovice ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "73807:88"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           18.5349903,
           49.6442216
         ],
@@ -82,6 +31,57 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "73917:78"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.4920233,
+          49.6612289
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> čp.133, Dobratice - školka <br><b>Adresa:</b> č.p. 133, 73951, Dobratice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74200:663"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.4773505,
+          49.6164297
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u čp.369, Raškovice (na zděné zast.BUS-U Kaple) <br><b>Adresa:</b> Frýdek-Místek; Raškovice; Raškovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74200:673"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.4673222,
+          49.622016
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Raškovice <br><b>Adresa:</b> č.p. 232, 73904, Raškovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74200:688"
       },
       "type": "Feature"
     }

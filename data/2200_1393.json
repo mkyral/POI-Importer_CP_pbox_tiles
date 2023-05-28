@@ -207,6 +207,23 @@
     {
       "geometry": {
         "coordinates": [
+          13.3655231,
+          49.7809465
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Plzeň, Rabštejnská 15 <br><b>Adresa:</b> Rabštejnská 1568/15, Bolevec, 32300, Plzeň <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.82 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "30071:118"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           13.367615,
           49.7275345
         ],
@@ -1034,23 +1051,6 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "30072:140"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.4201559,
-          49.7314273
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> COOP Božkov <br><b>Adresa:</b> Sušická 114/119, Božkov, 32600, Plzeň <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 20.16 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "30072:8"
       },
       "type": "Feature"
     }

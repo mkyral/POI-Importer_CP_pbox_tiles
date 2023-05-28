@@ -3,40 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          18.2605201,
-          49.5506128
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> U kostela,napr.čp.22,Kunčice p.O.(stojan zast.BUS) <br><b>Adresa:</b> Frýdek-Místek; Kunčice pod Ondřejníkem; Kunčice pod Ondřejníkem ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "73807:143"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          18.2731141,
-          49.5429549
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Pošta Kunčice pod Ondřejníkem (stojan) <br><b>Adresa:</b> č.p. 569, 73913, Kunčice pod Ondřejníkem ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "73807:145"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           18.2100506,
           49.5457814
         ],
@@ -218,6 +184,40 @@
         "collection_times": "Mo-Fr 12:00",
         "operator": "Česká pošta, s.p.",
         "ref": "74200:120"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.2605201,
+          49.5506128
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> U kostela,napr.čp.22,Kunčice p.O.(stojan zast.BUS) <br><b>Adresa:</b> Frýdek-Místek; Kunčice pod Ondřejníkem; Kunčice pod Ondřejníkem ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74200:743"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.2731141,
+          49.5429549
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Kunčice pod Ondřejníkem (stojan) <br><b>Adresa:</b> č.p. 569, 73913, Kunčice pod Ondřejníkem ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74200:745"
       },
       "type": "Feature"
     }

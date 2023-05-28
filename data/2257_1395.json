@@ -3,40 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          18.4077367,
-          49.6221893
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Pošta Janovice u Frýdku-Místku <br><b>Adresa:</b> č.p. 247, 73911, Janovice ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "73807:119"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          18.3931829,
-          49.6243244
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> napr.čp.512, Janovice (uvnitř zast.BUS Chovenec) <br><b>Adresa:</b> Frýdek-Místek; Janovice; Janovice ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "73807:120"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           18.4008911,
           49.6542389
         ],
@@ -47,7 +13,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "73807:38"
+        "ref": "74200:638"
       },
       "type": "Feature"
     },
@@ -64,7 +30,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "73807:59"
+        "ref": "74200:659"
       },
       "type": "Feature"
     },
@@ -81,7 +47,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "73807:61"
+        "ref": "74200:661"
       },
       "type": "Feature"
     },
@@ -98,7 +64,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "73807:66"
+        "ref": "74200:666"
       },
       "type": "Feature"
     },
@@ -115,7 +81,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "73807:69"
+        "ref": "74200:669"
       },
       "type": "Feature"
     },
@@ -132,7 +98,41 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "73807:85"
+        "ref": "74200:685"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.4077367,
+          49.6221893
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Janovice u Frýdku-Místku <br><b>Adresa:</b> č.p. 247, 73911, Janovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74200:719"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.3931829,
+          49.6243244
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> napr.čp.512, Janovice (uvnitř zast.BUS Chovenec) <br><b>Adresa:</b> Frýdek-Místek; Janovice; Janovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74200:720"
       },
       "type": "Feature"
     }

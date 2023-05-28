@@ -3,57 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          18.2774023,
-          49.5717589
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> u čp.632(garáže-h.konec),Kozlovice (stoj.zast.BUS) <br><b>Adresa:</b> Frýdek-Místek; Kozlovice; Kozlovice ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "73807:51"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          18.2570784,
-          49.6036464
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Měrkovice,na čp.700-obchod,Kozlovice <br><b>Adresa:</b> Měrkovice 700, 73947, Kozlovice ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "73807:52"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          18.2571923,
-          49.5935861
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Pošta Kozlovice <br><b>Adresa:</b> č.p. 343, 73947, Kozlovice ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "73807:96"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           18.221297,
           49.5700187
         ],
@@ -82,6 +31,57 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "74200:203"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.2774023,
+          49.5717589
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u čp.632(garáže-h.konec),Kozlovice (stoj.zast.BUS) <br><b>Adresa:</b> Frýdek-Místek; Kozlovice; Kozlovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74200:651"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.2570784,
+          49.6036464
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Měrkovice,na čp.700-obchod,Kozlovice <br><b>Adresa:</b> Měrkovice 700, 73947, Kozlovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74200:652"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.2571923,
+          49.5935861
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Kozlovice <br><b>Adresa:</b> č.p. 343, 73947, Kozlovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74200:696"
       },
       "type": "Feature"
     }

@@ -33,6 +33,74 @@
         "ref": "56707:128"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.8437916,
+          50.0863812
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Malá Morava, Vysoký Potok 5 (stojan) <br><b>Adresa:</b> Vysoký Potok 5, 78833, Malá Morava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 15.67 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "78807:222"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.8268412,
+          50.0954951
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Malá Morava 92 (stojan) <br><b>Adresa:</b> č.p. 92, 78833, Malá Morava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.05 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "78807:223"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.8609381,
+          50.074607
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Malá Morava, Podlesí,náměstí naproti čp.10(stojan) <br><b>Adresa:</b> Šumperk; Malá Morava; Podlesí <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "78807:224"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.8749474,
+          50.1009242
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Malá Morava, Vojtíškov 101 (stojan) <br><b>Adresa:</b> Vojtíškov 101, 78833, Malá Morava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 16.56 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "78807:225"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

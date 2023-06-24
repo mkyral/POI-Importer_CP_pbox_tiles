@@ -13,7 +13,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "59502:35"
+        "ref": "59402:103"
       },
       "type": "Feature"
     },
@@ -30,7 +30,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "59502:37"
+        "ref": "59402:104"
       },
       "type": "Feature"
     },
@@ -47,7 +47,92 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "59502:51"
+        "ref": "59402:117"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.343008,
+          49.366622
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u telefonní budka a informační tabule <br><b>Adresa:</b> č.p. 20, 59455, Horní Loučky <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 24.37 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60012:100"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2791899,
+          49.3325357
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jednota <br><b>Adresa:</b> č.p. 25, 59455, Katov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.28 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60012:106"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3135306,
+          49.345744
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u informační tabule <br><b>Adresa:</b> č.p. 39, 59455, Kuřimské Jestřabí <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 32.9 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60012:96"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2986124,
+          49.3456321
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> přes cestu u kontejnerů <br><b>Adresa:</b> č.p. 50, 59455, Kuřimská Nová Ves <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 16.84 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60012:97"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3220991,
+          49.3658138
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u OÚ přes vedlejší cestu <br><b>Adresa:</b> č.p. 28, 59455, Újezd u Tišnova <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 27.79 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60012:99"
       },
       "type": "Feature"
     }

@@ -3,6 +3,40 @@
     {
       "geometry": {
         "coordinates": [
+          16.1691043,
+          49.3217405
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> samoobsluha, Záblatí <br><b>Adresa:</b> č.p. 11, 59453, Záblatí ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59402:102"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1674056,
+          49.3237792
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Osová Bítýška <br><b>Adresa:</b> č.p. 3, 59453, Osová Bítýška ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59402:115"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           16.1152509,
           49.30541
         ],
@@ -54,40 +88,6 @@
     {
       "geometry": {
         "coordinates": [
-          16.1691043,
-          49.3217405
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> samoobsluha, Záblatí <br><b>Adresa:</b> č.p. 11, 59453, Záblatí ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "59502:26"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.1674056,
-          49.3237792
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Osová Bítýška <br><b>Adresa:</b> č.p. 3, 59453, Osová Bítýška ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "59502:49"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           16.1414967,
           49.2909643
         ],
@@ -98,7 +98,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "59502:8"
+        "ref": "59402:90"
       },
       "type": "Feature"
     },
@@ -115,7 +115,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "59502:9"
+        "ref": "59402:91"
       },
       "type": "Feature"
     },

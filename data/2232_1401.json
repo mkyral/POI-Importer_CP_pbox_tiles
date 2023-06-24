@@ -3,51 +3,34 @@
     {
       "geometry": {
         "coordinates": [
-          16.1761809,
-          49.2995982
+          16.1996882,
+          49.3251205
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Obecní úřad, Bezděkov <br><b>Adresa:</b> Bezděkov 1, 59501, Velká Bíteš ",
+        "_note": "<br><b>Poznámka:</b> koloniál, Vlkov <br><b>Adresa:</b> č.p. 1, 59453, Vlkov ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "59502:10"
+        "ref": "59402:100"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          16.2123365,
-          49.2937123
+          16.225857,
+          49.288974
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Chobůtky - sídliště, Velká Bíteš <br><b>Adresa:</b> Chobůtky 460, 59501, Velká Bíteš ",
+        "_note": "<br><b>Poznámka:</b> pošta Velká Bíteš <br><b>Adresa:</b> Masarykovo náměstí 81, 59501, Velká Bíteš ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "59502:11"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.2204145,
-          49.2945962
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> sídliště, Velká Bíteš <br><b>Adresa:</b> U Stadionu 548, 59501, Velká Bíteš ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "59502:14"
+        "ref": "59402:119"
       },
       "type": "Feature"
     },
@@ -64,24 +47,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "59502:2"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.1996882,
-          49.3251205
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> koloniál, Vlkov <br><b>Adresa:</b> č.p. 1, 59453, Vlkov ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "59502:20"
+        "ref": "59402:84"
       },
       "type": "Feature"
     },
@@ -98,24 +64,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "59502:5"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.225857,
-          49.288974
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Velká Bíteš <br><b>Adresa:</b> Masarykovo náměstí 81, 59501, Velká Bíteš ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 15:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "59502:53"
+        "ref": "59402:87"
       },
       "type": "Feature"
     },
@@ -132,7 +81,58 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "59502:6"
+        "ref": "59402:88"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1761809,
+          49.2995982
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Obecní úřad, Bezděkov <br><b>Adresa:</b> Bezděkov 1, 59501, Velká Bíteš ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59402:92"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2123365,
+          49.2937123
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Chobůtky - sídliště, Velká Bíteš <br><b>Adresa:</b> Chobůtky 460, 59501, Velká Bíteš ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59402:93"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2204145,
+          49.2945962
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> sídliště, Velká Bíteš <br><b>Adresa:</b> U Stadionu 548, 59501, Velká Bíteš ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59402:94"
       },
       "type": "Feature"
     }

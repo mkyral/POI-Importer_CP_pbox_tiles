@@ -3,6 +3,23 @@
     {
       "geometry": {
         "coordinates": [
+          16.1424507,
+          49.3746507
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u Jednoty, Kadolec <br><b>Adresa:</b> č.p. 2, 59451, Kadolec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "59402:114"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           16.092455,
           49.3458797
         ],
@@ -82,23 +99,6 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "59402:75"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.1424507,
-          49.3746507
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> u Jednoty, Kadolec <br><b>Adresa:</b> č.p. 2, 59451, Kadolec ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "59502:47"
       },
       "type": "Feature"
     }

@@ -132,7 +132,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "59502:39"
+        "ref": "59402:106"
       },
       "type": "Feature"
     },
@@ -149,7 +149,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "59502:40"
+        "ref": "59402:107"
       },
       "type": "Feature"
     },
@@ -166,7 +166,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "59502:45"
+        "ref": "59402:112"
       },
       "type": "Feature"
     },
@@ -183,7 +183,24 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "59502:46"
+        "ref": "59402:113"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2554845,
+          49.4253483
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Obecní úřad <br><b>Adresa:</b> č.p. 2, 59262, Moravecké Pavlovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 88.85 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60012:66"
       },
       "type": "Feature"
     }

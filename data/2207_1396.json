@@ -71,23 +71,6 @@
     {
       "geometry": {
         "coordinates": [
-          14.0009643,
-          49.5559391
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Dobrá Voda č.p.10 <br><b>Adresa:</b> Dobrá Voda 10, 26272, Březnice ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "26107:69"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           13.9845706,
           49.5842951
         ],
@@ -122,6 +105,23 @@
     {
       "geometry": {
         "coordinates": [
+          14.0305377,
+          49.575889
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> BUS Zastávka <br><b>Adresa:</b> Příbram; Tušovice; Tušovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "26107:89"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           14.0432362,
           49.5723365
         ],
@@ -133,40 +133,6 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "26107:90"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.0478293,
-          49.5802314
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Kletice č.p.17 <br><b>Adresa:</b> Kletice 17, 26272, Svojšice ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "26107:91"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.0269749,
-          49.5604255
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Nestrašovice č.p.1 <br><b>Adresa:</b> č.p. 1, 26272, Nestrašovice ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "26107:96"
       },
       "type": "Feature"
     },

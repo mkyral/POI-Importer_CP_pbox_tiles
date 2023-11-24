@@ -37,6 +37,23 @@
     {
       "geometry": {
         "coordinates": [
+          18.3469889,
+          49.7900264
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Ostrava 17 (stojan) <br><b>Adresa:</b> U Statku 185/6, Bartovice, 71700, Ostrava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.98 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "70071:141"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           18.3476092,
           49.8001492
         ],
@@ -156,23 +173,6 @@
     {
       "geometry": {
         "coordinates": [
-          18.2940598,
-          49.8367085
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> VZP, Sokolská tř. 267/1, Moravská Ostrava <br><b>Adresa:</b> Sokolská třída 267/1, Moravská Ostrava, 70200, Ostrava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.12 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "70071:32"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           18.2853606,
           49.8310022
         ],
@@ -264,7 +264,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Pošta Ostrava 18 <br><b>Adresa:</b> Škrobálkova 61/15, Kunčičky, 71800, Ostrava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.59 m",
+        "_note": "<br><b>Poznámka:</b> Škrobálkova 61/15 <br><b>Adresa:</b> Škrobálkova 61/15, Kunčičky, 71800, Ostrava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.59 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -281,7 +281,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Pošta Ostrava 19 <br><b>Adresa:</b> Frýdecká 28/426, Kunčice, 71900, Ostrava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 15.39 m",
+        "_note": "<br><b>Poznámka:</b> Frýdecká 25/426 <br><b>Adresa:</b> Frýdecká 28/426, Kunčice, 71900, Ostrava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 15.39 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",

@@ -11,7 +11,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> pošta Havlíčkův Brod 1 <br><b>Adresa:</b> Nádražní 107, 58001, Havlíčkův Brod <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 15.16 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 18:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "58007:1"
       },
@@ -122,23 +122,6 @@
     {
       "geometry": {
         "coordinates": [
-          15.5681176,
-          49.6033621
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> H. Brod, Humpolecká 1089 <br><b>Adresa:</b> Humpolecká 1089, 58001, Havlíčkův Brod <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 18.42 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "58007:128"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           15.5749963,
           49.6025355
         ],
@@ -150,23 +133,6 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "58007:129"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.5829194,
-          49.6007123
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> H. Brod, Havířská 144 - Pleas <br><b>Adresa:</b> Havířská 144, 58001, Havlíčkův Brod <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 27.27 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "58007:130"
       },
       "type": "Feature"
     },

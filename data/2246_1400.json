@@ -3,23 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          17.4470682,
-          49.3820148
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Pošta Říkovice (stojan) <br><b>Adresa:</b> č.p. 7, 75118, Říkovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.91 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "75007:114"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           17.4424669,
           49.3505522
         ],
@@ -31,6 +14,23 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "76707:212"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.4470353,
+          49.3820731
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Říkovice (stojan) <br><b>Adresa:</b> č.p. 7, 75118, Říkovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "76707:328"
       },
       "type": "Feature"
     },

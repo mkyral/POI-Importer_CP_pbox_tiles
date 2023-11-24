@@ -37,6 +37,23 @@
     {
       "geometry": {
         "coordinates": [
+          17.0017185,
+          49.6135266
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Olbramice za č.p. 24, naproti obchodu (stojan) <br><b>Adresa:</b> Olomouc; Olbramice; Olbramice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.53 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "77072:456"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           17.0265736,
           49.6265473
         ],
@@ -71,17 +88,17 @@
     {
       "geometry": {
         "coordinates": [
-          17.0381358,
-          49.619089
+          17.0381354,
+          49.619088
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Náměšť na Hané, Nové Dvory 414 (aut.zast.-stojan) <br><b>Adresa:</b> Olomouc; Náměšť na Hané; Náměšť na Hané <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Náměšť na Hané, Nové Dvory 414 (aut.zast.-stojan) <br><b>Adresa:</b> Olomouc; Náměšť na Hané; Náměšť na Hané ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "79907:172"
+        "ref": "77072:687"
       },
       "type": "Feature"
     }

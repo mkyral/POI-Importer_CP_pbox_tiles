@@ -113,7 +113,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> pošta Svitavy 2 <br><b>Adresa:</b> Větrná 662/2, Lány, 56802, Svitavy <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 18.4 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 12:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "56707:207"
       },
@@ -269,23 +269,6 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "56707:238"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.5232134,
-          49.7726028
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Koclířov 161 <br><b>Adresa:</b> č.p. 161, 56911, Koclířov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 12.24 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "56707:240"
       },
       "type": "Feature"
     }

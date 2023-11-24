@@ -3,6 +3,91 @@
     {
       "geometry": {
         "coordinates": [
+          14.6011054,
+          50.0861048
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> BUS Bezděkovská <br><b>Adresa:</b> Nad rybníkem 589, Dolní Počernice, 19012, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "10003:1923"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.6287603,
+          50.1181278
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Náchodská 126/215, Horní Počernice, 19300, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "10003:1931"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5949275,
+          50.1126774
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Náchodská 789/27, Horní Počernice, 19300, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "10003:1935"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.61024,
+          50.1032433
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Božanovská 1543/93, Horní Počernice, 19300, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "10003:1936"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.6183371,
+          50.1116875
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Ratibořická 2325/36, Horní Počernice, 19300, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "10003:1947"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           14.6762422,
           50.1027462
         ],
@@ -20,23 +105,6 @@
     {
       "geometry": {
         "coordinates": [
-          14.6014076,
-          50.0859478
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> BUS Bezděkovská <br><b>Adresa:</b> Nad rybníkem 589, Dolní Počernice, 19012, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 27.75 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "19007:1923"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           14.6104237,
           50.1150754
         ],
@@ -48,57 +116,6 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "19007:1930"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.6291838,
-          50.1180659
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Náchodská 126/215, Horní Počernice, 19300, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 30.98 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "19007:1931"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5948609,
-          50.1126377
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Náchodská 789/27, Horní Počernice, 19300, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.49 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "19007:1935"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.6103955,
-          50.1030494
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Božanovská 1543/93, Horní Počernice, 19300, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 24.25 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "19007:1936"
       },
       "type": "Feature"
     },
@@ -150,40 +167,6 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "19007:1942"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.6182651,
-          50.1119162
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Ratibořická 2325/36, Horní Počernice, 19300, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 25.95 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "19007:1947"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.6040728,
-          50.1138459
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Náchodská 1905/72, Horní Počernice, 19300, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 16.72 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "19007:1948"
       },
       "type": "Feature"
     },
@@ -252,57 +235,6 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "19007:65"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.6223967,
-          50.080752
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Výjezdová 56, Běchovice, 19011, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 24.56 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "19007:66"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5979884,
-          50.0817461
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> ČD Praha-Běchovice <br><b>Adresa:</b> Českobrodská 52, Běchovice, 19011, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 31.77 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "19007:67"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.6035073,
-          50.078133
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Do Říčan 440, Běchovice, 19011, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 13.61 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "19007:8"
       },
       "type": "Feature"
     }

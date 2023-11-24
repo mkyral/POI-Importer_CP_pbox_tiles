@@ -3,6 +3,40 @@
     {
       "geometry": {
         "coordinates": [
+          14.4099265,
+          50.1313869
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Zhořelecká 514/2, Bohnice, 18100, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "10003:924"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.4128745,
+          50.126704
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> BUS Poliklinika Mazurská <br><b>Adresa:</b> Krynická 488/31, Troja, 18100, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "10003:927"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           14.3555168,
           50.1716851
         ],
@@ -14,40 +48,6 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "19007:2122"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.4098236,
-          50.1315038
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Zhořelecká 514/2, Bohnice, 18100, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 14.93 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "19007:924"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.412944,
-          50.1272017
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> BUS Poliklinika Mazurská <br><b>Adresa:</b> Krynická 488/31, Troja, 18100, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 55.58 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "19007:927"
       },
       "type": "Feature"
     },
@@ -343,13 +343,13 @@
     {
       "geometry": {
         "coordinates": [
-          14.3977514,
-          50.1593656
+          14.3977484,
+          50.1593537
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Nádražní 56, 25263, Roztoky <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 28.27 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Nádražní 56, 25263, Roztoky <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 27.05 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",

@@ -3,6 +3,57 @@
     {
       "geometry": {
         "coordinates": [
+          14.5853334,
+          50.2258081
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> T. G. Masaryka 176, 27713, Kostelec nad Labem ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "10003:2146"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5894166,
+          50.231325
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> nám. Komenského 1, 27713, Kostelec nad Labem ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "10003:2147"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5866727,
+          50.2236834
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Kostelec nad Labem <br><b>Adresa:</b> U Pošty 845, 27713, Kostelec nad Labem ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "10003:2183"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           14.5572253,
           50.1930233
         ],
@@ -133,108 +184,6 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "19007:2118"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5873352,
-          50.2280541
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> T. G. Masaryka 273, 27713, Kostelec nad Labem <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 51.5 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "27607:204"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5852073,
-          50.2257995
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> T. G. Masaryka 176, 27713, Kostelec nad Labem <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.02 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "27607:205"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5894187,
-          50.2312457
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> nám. Komenského 1, 27713, Kostelec nad Labem <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.82 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "27607:206"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5747122,
-          50.2288716
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> cukrovar <br><b>Adresa:</b> Neratovická 459, 27713, Kostelec nad Labem <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 181.02 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "27607:207"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5884136,
-          50.2263391
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> nám. Pod Martinem 431, 27713, Kostelec nad Labem <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 16.15 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "27607:209"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5866181,
-          50.2236528
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Kostelec nad Labem <br><b>Adresa:</b> U Pošty 845, 27713, Kostelec nad Labem <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.17 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "27607:253"
       },
       "type": "Feature"
     }

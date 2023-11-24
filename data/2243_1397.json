@@ -20,6 +20,91 @@
     {
       "geometry": {
         "coordinates": [
+          17.1640074,
+          49.536751
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Olšany u Prostějova 44 (budova Jednoty) <br><b>Adresa:</b> č.p. 44, 79814, Olšany u Prostějova ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "77072:697"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.1797709,
+          49.5307123
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Olšany u Prostějova,Hablov 9(stojan) <br><b>Adresa:</b> Prostějov; Olšany u Prostějova; Hablov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "77072:698"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.1617587,
+          49.5365096
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Olšany u Prostějova (budova OÚ) <br><b>Adresa:</b> č.p. 50, 79814, Olšany u Prostějova ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "77072:734"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.2029399,
+          49.509065
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Vrbátky <br><b>Adresa:</b> č.p. 28, 79813, Vrbátky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "77072:754"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.1939127,
+          49.515537
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vrbátky, část Dubany 168 (obchod) <br><b>Adresa:</b> Dubany 168, 79812, Vrbátky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "77072:818"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           17.1919792,
           49.5360163
         ],
@@ -31,91 +116,6 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "77072:94"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.2028848,
-          49.5090309
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Pošta Vrbátky <br><b>Adresa:</b> č.p. 28, 79813, Vrbátky <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.5 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "79907:426"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.1619754,
-          49.5364369
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Pošta Olšany u Prostějova (budova OÚ) <br><b>Adresa:</b> č.p. 50, 79814, Olšany u Prostějova <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 17.61 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "79907:427"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.1938953,
-          49.515463
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Vrbátky, část Dubany 168 (obchod) <br><b>Adresa:</b> Dubany 168, 79812, Vrbátky <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.33 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "79907:64"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.1797712,
-          49.5307133
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Olšany u Prostějova,Hablov 9(stojan) <br><b>Adresa:</b> Prostějov; Olšany u Prostějova; Hablov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "79907:65"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.1638049,
-          49.5366779
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Olšany u Prostějova 44 (budova Jednoty) <br><b>Adresa:</b> č.p. 44, 79814, Olšany u Prostějova <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 16.73 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "79907:66"
       },
       "type": "Feature"
     }

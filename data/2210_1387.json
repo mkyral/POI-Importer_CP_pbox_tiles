@@ -3,57 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          14.3183343,
-          50.0763501
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> K mohyle 476/3, Ruzyně, 16100, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 16.7 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "17704:111"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.3102191,
-          50.0840126
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> ČD nádraží Praha-Ruzyň <br><b>Adresa:</b> Drnovská 41/40, Ruzyně, 16100, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 16.98 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "17704:112"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.3174912,
-          50.081975
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Jinočanská 249/20, Ruzyně, 16100, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.2 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "17704:113"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           14.2956533,
           50.0690602
         ],
@@ -660,6 +609,57 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "22200:222"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3182116,
+          50.0764779
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> K mohyle 476/3, Ruzyně, 16100, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "22200:237"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3104534,
+          50.0840391
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> ČD nádraží Praha-Ruzyň <br><b>Adresa:</b> Drnovská 41/40, Ruzyně, 16100, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "22200:238"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3175227,
+          50.0820172
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Jinočanská 249/20, Ruzyně, 16100, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "22200:239"
       },
       "type": "Feature"
     },

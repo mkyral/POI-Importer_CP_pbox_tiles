@@ -71,6 +71,91 @@
     {
       "geometry": {
         "coordinates": [
+          17.1817397,
+          49.5737415
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hněvotín 1 (stojan) <br><b>Adresa:</b> č.p. 1, 78347, Hněvotín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "77072:636"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.1447681,
+          49.5581451
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lutín, Růžová 183 <br><b>Adresa:</b> Růžová 183, 78349, Lutín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "77072:680"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.1774167,
+          49.5713914
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Hněvotín (stojan) <br><b>Adresa:</b> č.p. 253, 78347, Hněvotín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "77072:720"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.1416641,
+          49.5583139
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Lutín <br><b>Adresa:</b> Olomoucká 124, 78349, Lutín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "77072:727"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.1413896,
+          49.5969849
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Těšetice, Vojnice 39 (stojan) <br><b>Adresa:</b> Vojnice 39, 78346, Těšetice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "77072:808"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           17.2231885,
           49.6008297
         ],
@@ -88,102 +173,17 @@
     {
       "geometry": {
         "coordinates": [
-          17.1446109,
-          49.5581579
+          17.1576388,
+          49.5869572
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Lutín, Růžová 183 <br><b>Adresa:</b> Růžová 183, 78349, Lutín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.43 m",
+        "_note": "<br><b>Poznámka:</b> Ústín 41 (stojan) <br><b>Adresa:</b> č.p. 41, 78346, Ústín ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "79907:154"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.1817759,
-          49.5736571
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Hněvotín 1 (stojan) <br><b>Adresa:</b> č.p. 1, 78347, Hněvotín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.74 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "79907:157"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.1415975,
-          49.5970742
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Těšetice, Vojnice 39 (stojan) <br><b>Adresa:</b> Vojnice 39, 78346, Těšetice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 17.98 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "79907:167"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.1576113,
-          49.5870381
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Ústín 41 (stojan) <br><b>Adresa:</b> č.p. 41, 78346, Ústín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.21 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "79907:168"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.1774739,
-          49.571441
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Pošta Hněvotín (stojan) <br><b>Adresa:</b> č.p. 253, 78347, Hněvotín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.89 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "79907:406"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.1417455,
-          49.5583002
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Pošta Lutín <br><b>Adresa:</b> Olomoucká 124, 78349, Lutín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.07 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "79907:407"
+        "ref": "77072:812"
       },
       "type": "Feature"
     }

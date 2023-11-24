@@ -37,23 +37,6 @@
     {
       "geometry": {
         "coordinates": [
-          13.5360231,
-          50.5839418
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> stojan u samoobsluhy <br><b>Adresa:</b> Gen. Svobody 563/30, 43543, Horní Jiřetín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 17.05 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 07:30",
-        "operator": "Česká pošta, s.p.",
-        "ref": "43407:125"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           13.6065683,
           50.6200291
         ],
@@ -62,7 +45,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> pošta Meziboří <br><b>Adresa:</b> nám. 8. května 341, 43513, Meziboří <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 14.84 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 10:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "43407:142"
       },
@@ -247,7 +230,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> stojan  -  zastávka MHD <br><b>Adresa:</b> Okružní 249, 43513, Meziboří <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 39.0 m",
+        "_note": "<br><b>Poznámka:</b> stojan, zastávka MHD <br><b>Adresa:</b> Okružní 249, 43513, Meziboří <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 39.0 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -269,23 +252,6 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "43407:88"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.601691,
-          50.6231031
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> potraviny <br><b>Adresa:</b> Májová 197, 43513, Meziboří <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 13.31 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "43407:89"
       },
       "type": "Feature"
     }

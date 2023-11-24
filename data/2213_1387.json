@@ -20,6 +20,108 @@
     {
       "geometry": {
         "coordinates": [
+          14.5701633,
+          50.0833098
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Úpická 467, Dolní Počernice, 19012, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "10003:1924"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5445389,
+          50.093934
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Rožmberská 875, Kyje, 19800, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "10003:1981"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5466677,
+          50.0981733
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Šimanovská 1233, Kyje, 19800, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "10003:1985"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5631785,
+          50.0906214
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Pilská 20, Hostavice, 19800, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "10003:1986"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5544724,
+          50.0875187
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Travná 1217, Kyje, 19800, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "10003:1987"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5636022,
+          50.086539
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> U Hostavického potoka 722/1, Hostavice, 19800, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "10003:1989"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           14.5168595,
           50.080712
         ],
@@ -31,40 +133,6 @@
         "collection_times": "Mo-Fr 16:00",
         "operator": "Česká pošta, s.p.",
         "ref": "10003:2"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5559024,
-          50.0718082
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Měcholupská 177/9, Štěrboholy, 10200, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 23.04 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 10:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "10003:36"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5524323,
-          50.0720695
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Ústřední 36/26, Štěrboholy, 10200, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 42.27 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 10:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "10003:37"
       },
       "type": "Feature"
     },
@@ -173,23 +241,6 @@
     {
       "geometry": {
         "coordinates": [
-          14.5037639,
-          50.0694169
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Pod strání 2160/19, Strašnice, 10000, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 21.72 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 10:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "10003:509"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           14.5080982,
           50.0675634
         ],
@@ -218,23 +269,6 @@
         "collection_times": "Mo-Fr 10:00",
         "operator": "Česká pošta, s.p.",
         "ref": "10003:512"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5025113,
-          50.0772744
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Černokostelecká 2793/44, Strašnice, 10000, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 29.23 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 10:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "10003:529"
       },
       "type": "Feature"
     },
@@ -275,6 +309,278 @@
     {
       "geometry": {
         "coordinates": [
+          14.5077994,
+          50.1177713
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> BUS Klíčovská <br><b>Adresa:</b> Letňanská 68/11, Prosek, 19000, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "10003:885"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5356298,
+          50.1030284
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Šestajovická 87/25, Hloubětín, 19800, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "10003:944"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5431945,
+          50.1056174
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Klánovická 485/43, Hloubětín, 19800, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "10003:946"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5480338,
+          50.1063595
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Kardašovská 490/11, Hloubětín, 19800, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "10003:947"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5500278,
+          50.1032738
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Zdobnická 77/10, Kyje, 19800, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "10003:948"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.552471,
+          50.1057665
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> BUS Žárská v ul. Slévačská <br><b>Adresa:</b> Kukelská 925/14, Hloubětín, 19800, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "10003:949"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5674122,
+          50.1072419
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Cíglerova 1087/26, Černý Most, 19800, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "10003:950"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5847598,
+          50.1078275
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Praha 900 <br><b>Adresa:</b> Chlumecká 765/6, Černý Most, 19800, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "10003:951"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5745066,
+          50.1055536
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> roh Ocelkova <br><b>Adresa:</b> Breitcetlova 771/6, Černý Most, 19800, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "10003:952"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5696892,
+          50.1021928
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Vašátkova 1013/14, Černý Most, 19800, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "10003:954"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5607776,
+          50.1098927
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Světská 978, Kyje, 19800, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "10003:955"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5380697,
+          50.1070125
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Mochovská 478/40, Hloubětín, 19800, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "10003:956"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5188417,
+          50.1112338
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Kolbenova 886/9a, Vysočany, 19000, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "10003:959"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5785041,
+          50.1073551
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> roh Mansfeldova <br><b>Adresa:</b> Kučerova 785/19, Černý Most, 19800, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "10003:967"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5125743,
+          50.1033887
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Podkovářská 933/1, Vysočany, 19000, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "10003:972"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.502014,
+          50.1024782
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Na Harfě 694/4, Vysočany, 19000, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "10003:975"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           14.5062478,
           50.1147282
         ],
@@ -309,34 +615,17 @@
     {
       "geometry": {
         "coordinates": [
-          14.5383198,
-          50.1054507
+          14.5372665,
+          50.1053793
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Praha 94 <br><b>Adresa:</b> Poděbradská 489/116, Hloubětín, 19800, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 75.56 m",
+        "_note": "<br><b>Poznámka:</b> pošta Praha 94 <br><b>Adresa:</b> Poděbradská 489/116, Hloubětín, 19800, Praha ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "19007:1906"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.573735,
-          50.0864924
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Českobrodská 46, Dolní Počernice, 19012, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.14 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "19007:1920"
       },
       "type": "Feature"
     },
@@ -377,23 +666,6 @@
     {
       "geometry": {
         "coordinates": [
-          14.570371,
-          50.0832015
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Úpická 467, Dolní Počernice, 19012, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 19.1 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "19007:1924"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           14.5835609,
           50.088206
         ],
@@ -411,23 +683,6 @@
     {
       "geometry": {
         "coordinates": [
-          14.5705673,
-          50.0810707
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> BUS Rtyňská <br><b>Adresa:</b> Rtyňská 333, Dolní Počernice, 19012, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 24.63 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "19007:1926"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           14.5589356,
           50.1058043
         ],
@@ -439,465 +694,6 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "19007:1980"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5444813,
-          50.0938383
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Rožmberská 875, Kyje, 19800, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.41 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "19007:1981"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5646769,
-          50.109283
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Vodňanská 723, Kyje, 19800, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 14.23 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "19007:1982"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5477466,
-          50.1013735
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Tálínská 1025, Kyje, 19800, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.87 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "19007:1984"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5467987,
-          50.0981426
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Šimanovská 1233, Kyje, 19800, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.95 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "19007:1985"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5631324,
-          50.0905235
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Pilská 20, Hostavice, 19800, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.38 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "19007:1986"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5547095,
-          50.0874291
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Travná 1217, Kyje, 19800, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 19.64 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "19007:1987"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5632252,
-          50.0865427
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> U Hostavického potoka 722/1, Hostavice, 19800, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 26.91 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "19007:1989"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5079031,
-          50.1173164
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> BUS Klíčovská <br><b>Adresa:</b> Letňanská 68/11, Prosek, 19000, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 51.14 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "19007:885"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5052106,
-          50.1019541
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Poděbradská 242/10, Vysočany, 19000, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.77 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "19007:943"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5356743,
-          50.1030874
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Šestajovická 87/25, Hloubětín, 19800, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 7.29 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "19007:944"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5432973,
-          50.1055172
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Klánovická 485/43, Hloubětín, 19800, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 13.34 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "19007:946"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5478409,
-          50.1062237
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Kardašovská 490/11, Hloubětín, 19800, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 20.43 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "19007:947"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5496187,
-          50.1032957
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Zdobnická 77/10, Kyje, 19800, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 29.29 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "19007:948"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5527676,
-          50.1056491
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> BUS Žárská v ul. Slévačská <br><b>Adresa:</b> Kukelská 925/14, Hloubětín, 19800, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 24.86 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "19007:949"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5669815,
-          50.1072747
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Cíglerova 1087/26, Černý Most, 19800, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 30.94 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "19007:950"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5870912,
-          50.1082878
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Praha 900 <br><b>Adresa:</b> Chlumecká 765/6, Černý Most, 19800, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 174.02 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "19007:951"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5743368,
-          50.1059705
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> roh Ocelkova <br><b>Adresa:</b> Breitcetlova 771/6, Černý Most, 19800, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 47.93 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "19007:952"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5791019,
-          50.1028816
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Kpt. Stránského 996/2, Černý Most, 19800, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 15.66 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "19007:953"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5695652,
-          50.1018794
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Vašátkova 1013/14, Černý Most, 19800, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 35.96 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "19007:954"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5608611,
-          50.10996
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Světská 978, Kyje, 19800, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.57 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "19007:955"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5377669,
-          50.10713
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Mochovská 478/40, Hloubětín, 19800, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 25.25 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "19007:956"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5329482,
-          50.1054755
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> BUS Kbelská <br><b>Adresa:</b> Konzumní 173/24, Hloubětín, 19800, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 23.68 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "19007:958"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5188417,
-          50.1112338
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Kolbenova 886/9a, Vysočany, 19000, Praha ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "19007:959"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5030894,
-          50.1114106
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Kolbenova 277/1, Vysočany, 19000, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 65.09 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "19007:961"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5786294,
-          50.1074667
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> roh Mansfeldova <br><b>Adresa:</b> Kučerova 785/19, Černý Most, 19800, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 15.3 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "19007:967"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.567462,
-          50.1050036
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> ul. Generála Janouška <br><b>Adresa:</b> Šromova 861/1, Černý Most, 19800, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 36.99 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "19007:969"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5127939,
-          50.1030651
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Podkovářská 933/1, Vysočany, 19000, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 39.26 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "19007:972"
       },
       "type": "Feature"
     }

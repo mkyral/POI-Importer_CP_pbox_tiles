@@ -3,23 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          17.291922,
-          49.3138701
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Kojetín, Kovalovice 16 (stojan) <br><b>Adresa:</b> Kojetín III-Kovalovice 16, 75201, Kojetín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 22.2 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "75007:97"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           17.2272862,
           49.269734
         ],
@@ -122,6 +105,23 @@
     {
       "geometry": {
         "coordinates": [
+          17.2919542,
+          49.3136716
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kojetín, Kovalovice 16 (stojan) <br><b>Adresa:</b> Kojetín III-Kovalovice 16, 75201, Kojetín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "76707:314"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           17.3126931,
           49.3109778
         ],
@@ -139,34 +139,34 @@
     {
       "geometry": {
         "coordinates": [
-          17.241492,
-          49.3118102
+          17.2290879,
+          49.3020009
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Vitčice 3 (stojan) <br><b>Adresa:</b> č.p. 3, 79827, Vitčice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 4.95 m",
+        "_note": "<br><b>Poznámka:</b> Srbce 2 (obchod-stojan) <br><b>Adresa:</b> č.p. 2, 79827, Srbce ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "79907:222"
+        "ref": "77072:798"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          17.2290144,
-          49.3020868
+          17.2415035,
+          49.3118541
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Srbce 2 (obchod-stojan) <br><b>Adresa:</b> č.p. 2, 79827, Srbce <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.94 m",
+        "_note": "<br><b>Poznámka:</b> Vitčice 3 (stojan) <br><b>Adresa:</b> č.p. 3, 79827, Vitčice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "79907:223"
+        "ref": "77072:816"
       },
       "type": "Feature"
     }

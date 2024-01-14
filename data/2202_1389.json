@@ -3,6 +3,40 @@
     {
       "geometry": {
         "coordinates": [
+          13.6161973,
+          50.0013246
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> aut.zastávka, Milíčov <br><b>Adresa:</b> Rakovník; Šípy; Milíčov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "27207:409"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.582919,
+          50.0060002
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Váha ZD, Břežany <br><b>Adresa:</b> Rakovník; Břežany; Břežany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "27207:412"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           13.5725087,
           49.9870508
         ],

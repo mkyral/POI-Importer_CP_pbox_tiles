@@ -135,6 +135,40 @@
         "ref": "22200:50"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2702354,
+          50.2128625
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Otvovice <br><b>Adresa:</b> č.p. 34, 27327, Otvovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.18 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "27207:64"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2485249,
+          50.196524
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Partner Zákolany <br><b>Adresa:</b> č.p. 55, 27328, Zákolany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 14.2 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "27207:65"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

@@ -3,40 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          16.8184801,
-          48.9046902
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Velké Pavlovice <br><b>Adresa:</b> Hlavní 49/89, 69106, Velké Pavlovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.33 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "60011:133"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.8550366,
-          48.9136062
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Bořetice u Hustopečí <br><b>Adresa:</b> č.p. 503, 69108, Bořetice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.26 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "60011:135"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           16.8174672,
           48.9021616
         ],
@@ -47,58 +13,92 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "60011:66"
+        "ref": "60010:848"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          16.818827,
-          48.8979386
+          16.8188995,
+          48.898048
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> AGRICO <br><b>Adresa:</b> Hlavní 187/10, 69106, Velké Pavlovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 13.27 m",
+        "_note": "<br><b>Poznámka:</b> AGRICO <br><b>Adresa:</b> Hlavní 187/10, 69106, Velké Pavlovice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "60011:67"
+        "ref": "60010:849"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          16.8140877,
-          48.9011967
+          16.8142339,
+          48.9010921
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> u mateřské školy <br><b>Adresa:</b> Bří Mrštíků 805/11, 69106, Velké Pavlovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 15.8 m",
+        "_note": "<br><b>Poznámka:</b> u mateřské školy <br><b>Adresa:</b> Bří Mrštíků 805/11, 69106, Velké Pavlovice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "60011:68"
+        "ref": "60010:850"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          16.8164578,
-          48.8959016
+          16.816368,
+          48.8958293
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Zahradní 726/1, 69106, Velké Pavlovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.38 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Zahradní 726/1, 69106, Velké Pavlovice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "60011:69"
+        "ref": "60010:851"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.8183944,
+          48.9047396
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Velké Pavlovice <br><b>Adresa:</b> Hlavní 49/89, 69106, Velké Pavlovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60010:891"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.8549811,
+          48.9136709
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Bořetice u Hustopečí <br><b>Adresa:</b> č.p. 503, 69108, Bořetice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "60010:893"
       },
       "type": "Feature"
     }

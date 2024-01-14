@@ -16,6 +16,40 @@
         "ref": "17704:961"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.884963,
+          49.9787719
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Karlov č.p.61 <br><b>Adresa:</b> Rakovník; Roztoky; Roztoky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "27207:375"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.8624558,
+          49.9882224
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Karlova Ves č.p.20 <br><b>Adresa:</b> č.p. 20, 27023, Karlova Ves ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "27207:376"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

@@ -1,0 +1,56 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.8711001,
+          50.1392659
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Ruda, Rakovnická 205 (stojan u prodejny) <br><b>Adresa:</b> Rakovnická 205, 27101, Ruda ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "27207:465"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.8490041,
+          50.1764477
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bucek ( u DS, autokemp) <br><b>Adresa:</b> Rakovník; Třtice; Třtice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "27207:469"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.8309541,
+          50.1502106
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Řevničov osada - potraviny <br><b>Adresa:</b> Rakovník; Řevničov; Řevničov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "27207:474"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

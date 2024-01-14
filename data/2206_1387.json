@@ -1,0 +1,39 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          13.8952903,
+          50.0708383
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Požáry č.p.171 <br><b>Adresa:</b> č.p. 171, 27023, Městečko ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "27207:373"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.9448693,
+          50.1200578
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lány, Lesní ul., u čp. 125 (u brány) <br><b>Adresa:</b> Lesní 125, 27061, Lány ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "27207:487"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

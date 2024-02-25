@@ -3,23 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          15.7664416,
-          50.0337223
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Havlíčkova, Pardubice - držák <br><b>Adresa:</b> Havlíčkova 841, Zelené Předměstí, 53002, Pardubice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 13.93 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "53307:1"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           15.7527199,
           50.0617749
         ],
@@ -31,23 +14,6 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "53307:109"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.7640994,
-          50.0249713
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Gorkého - internát, Pardubice - stojan <br><b>Adresa:</b> Gorkého 2573, Zelené Předměstí, 53002, Pardubice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 35.48 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "53307:11"
       },
       "type": "Feature"
     },
@@ -82,23 +48,6 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "53307:13"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.7733667,
-          50.0254211
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Devotyho, Pardubice - stojan <br><b>Adresa:</b> Devotyho 2451, Zelené Předměstí, 53002, Pardubice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 50.83 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "53307:14"
       },
       "type": "Feature"
     },
@@ -258,23 +207,6 @@
     {
       "geometry": {
         "coordinates": [
-          15.7866183,
-          50.0377125
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> U kostelíčka, Pardubice - držák <br><b>Adresa:</b> U Kostelíčka 437, Bílé Předměstí, 53003, Pardubice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 15.73 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "53307:22"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           15.8080575,
           50.0439123
         ],
@@ -337,23 +269,6 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "53307:3"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.807947,
-          50.0347429
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Pod Lipami - stojan <br><b>Adresa:</b> Pod Lipami 34, Studánka, 53003, Pardubice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 16.54 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "53307:31"
       },
       "type": "Feature"
     },
@@ -439,23 +354,6 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "53307:36"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.7650566,
-          50.035315
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Palackého, Pardubice - držák <br><b>Adresa:</b> Palackého třída 227, Zelené Předměstí, 53002, Pardubice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.8 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "53307:4"
       },
       "type": "Feature"
     },
@@ -677,6 +575,23 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "53307:60"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7461752,
+          50.0470255
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Rosice nad Labem - držák <br><b>Adresa:</b> Tolarova 326, Rosice, 53351, Pardubice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "53307:62"
       },
       "type": "Feature"
     },

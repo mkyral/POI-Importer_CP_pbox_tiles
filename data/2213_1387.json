@@ -604,45 +604,11 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Praha 91 <br><b>Adresa:</b> Horní Hrdlořezská 69/2, Hrdlořezy, 19000, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.04 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Horní Hrdlořezská 69/2, Hrdlořezy, 19000, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.04 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "19007:1903"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5372665,
-          50.1053793
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Praha 94 <br><b>Adresa:</b> Poděbradská 489/116, Hloubětín, 19800, Praha ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "19007:1906"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5712399,
-          50.0887403
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Novozámecká 284, Dolní Počernice, 19012, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 30.67 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "19007:1921"
       },
       "type": "Feature"
     },
@@ -666,23 +632,6 @@
     {
       "geometry": {
         "coordinates": [
-          14.5835609,
-          50.088206
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Autocamp, v ul. Nad Rybníkem <br><b>Adresa:</b> Národních hrdinů 290, Dolní Počernice, 19012, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 48.03 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "19007:1925"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           14.5589356,
           50.1058043
         ],
@@ -694,6 +643,57 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "19007:1980"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5372665,
+          50.1053793
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Poděbradská 489/116, Hloubětín, 19800, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "22200:240"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5716645,
+          50.0887828
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Novozámecká 284, Dolní Počernice, 19012, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "22200:241"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5831608,
+          50.0885532
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Autocamp, v ul. Nad Rybníkem <br><b>Adresa:</b> Národních hrdinů 290, Dolní Počernice, 19012, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "22200:242"
       },
       "type": "Feature"
     }

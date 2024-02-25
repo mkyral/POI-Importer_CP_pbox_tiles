@@ -105,6 +105,23 @@
     {
       "geometry": {
         "coordinates": [
+          18.6228877,
+          49.7429783
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Český Těšín 1 <br><b>Adresa:</b> Nádražní 1166/2a, 73701, Český Těšín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "73917:209"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           18.608943,
           49.7476293
         ],
@@ -184,23 +201,6 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "73917:72"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          18.6230397,
-          49.7430792
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Pošta Český Těšín 1 <br><b>Adresa:</b> Nádražní 1166/2a, 73701, Český Těšín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 15.66 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 12:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "73917:74"
       },
       "type": "Feature"
     }

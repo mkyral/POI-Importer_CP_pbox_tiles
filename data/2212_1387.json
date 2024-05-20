@@ -615,23 +615,6 @@
     {
       "geometry": {
         "coordinates": [
-          14.4652589,
-          50.0681233
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Vršovická 1429/68, Vršovice, 10100, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 85.52 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 10:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "10003:492"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           14.4821775,
           50.0709272
         ],
@@ -1420,7 +1403,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Praha 24 <br><b>Adresa:</b> Italská 384/3, Vinohrady, 12000, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.27 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Italská 384/3, Vinohrady, 12000, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.27 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -1437,7 +1420,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Praha 23 <br><b>Adresa:</b> Bruselská 519/18, Vinohrady, 12000, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.17 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Bruselská 519/18, Vinohrady, 12000, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.17 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -1493,6 +1476,23 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "10003:594"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.4338815,
+          50.0755166
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Jugoslávská 661/23, Vinohrady, 12000, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.94 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "10003:597"
       },
       "type": "Feature"
     },
@@ -1578,23 +1578,6 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "10003:610"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.4282414,
-          50.0648767
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Jaromírova 22/26, Nusle, 12800, Praha ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "10003:612"
       },
       "type": "Feature"
     },
@@ -1935,6 +1918,23 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "10003:639"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.4168629,
+          50.1172833
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Pod Havránkou 765/10c, Troja, 17100, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "10003:643"
       },
       "type": "Feature"
     },

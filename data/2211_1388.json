@@ -190,23 +190,6 @@
     {
       "geometry": {
         "coordinates": [
-          14.3839997,
-          50.0090214
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Na hvězdárně 393/8, Velká Chuchle, 15900, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 25.27 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "17704:117"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           14.3940351,
           50.0236823
         ],
@@ -632,23 +615,6 @@
     {
       "geometry": {
         "coordinates": [
-          14.3410785,
-          50.0502283
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Praha 58 <br><b>Adresa:</b> Sluneční náměstí 2567/8, Stodůlky, 15800, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 16.2 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "22200:218"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           14.328018,
           50.0392013
         ],
@@ -745,6 +711,23 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "22200:229"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3378342,
+          50.0511849
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Kodymova 2525/2, Stodůlky, 15800, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "22200:244"
       },
       "type": "Feature"
     },

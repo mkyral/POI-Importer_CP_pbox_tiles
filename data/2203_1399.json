@@ -60,7 +60,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Holkovice - prodejna <br><b>Adresa:</b> Klatovy; Chanovice; Holkovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Holkovice, čp.13 <br><b>Adresa:</b> Holkovice 13, 34101, Chanovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 4.37 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -77,7 +77,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Újezd u Chanovic - prodejna <br><b>Adresa:</b> Klatovy; Chanovice; Újezd u Chanovic <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Újezd u Chanovic - prodejna <br><b>Adresa:</b> Újezd u Chanovic 12, 34101, Chanovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 19.97 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -94,11 +94,28 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Maňovice - OÚ <br><b>Adresa:</b> Klatovy; Maňovice; Maňovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Maňovice - OÚ <br><b>Adresa:</b> č.p. 22, 34101, Maňovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 1.47 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "33907:262"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.6274492,
+          49.3865449
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pačejov - prodejna <br><b>Adresa:</b> Pačejov-nádraží 163, 34101, Pačejov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "33907:265"
       },
       "type": "Feature"
     },
@@ -128,7 +145,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Kvášňovice - prodejna <br><b>Adresa:</b> Klatovy; Kvášňovice; Kvášňovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Kvášňovice, č.84, prodejna <br><b>Adresa:</b> č.p. 84, 34101, Kvášňovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 4.83 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",

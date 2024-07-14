@@ -9,7 +9,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Budova pošty, Volyně <br><b>Adresa:</b> náměstí Hrdinů 98, 38701, Volyně <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.23 m",
+        "_note": "<br><b>Poznámka:</b> Budova pošty Volyně <br><b>Adresa:</b> náměstí Hrdinů 98, 38701, Volyně <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.23 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -48,6 +48,23 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "38607:403"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.887258,
+          49.1660952
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> náměstí Svobody 43, 38701, Volyně ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38607:404"
       },
       "type": "Feature"
     },
@@ -99,23 +116,6 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "38607:412"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.9420589,
-          49.1658273
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Neuslužice 4, 38701, Litochovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 31.65 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "38607:413"
       },
       "type": "Feature"
     },

@@ -3,74 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          16.3599347,
-          49.2538378
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Javůrek 62, obchod <br><b>Adresa:</b> č.p. 62, 66483, Javůrek <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.8 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "60010:179"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.355842,
-          49.2327929
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Říčky, 48, OÚ <br><b>Adresa:</b> č.p. 48, 66483, Říčky <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.23 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "60010:180"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.4051171,
-          49.2366147
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Veverské Knínice 260, OÚ <br><b>Adresa:</b> č.p. 260, 66481, Veverské Knínice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.76 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "60010:185"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.3938467,
-          49.2155689
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Říčany u Brna <br><b>Adresa:</b> nám. Osvobození 286, 66482, Říčany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.94 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "60010:190"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           16.4252975,
           49.2472731
         ],
@@ -82,6 +14,74 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "60012:57"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3939697,
+          49.2155683
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Říčany u Brna <br><b>Adresa:</b> nám. Osvobození 286, 66482, Říčany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66500:18"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3557819,
+          49.2327198
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Říčky, 48, OÚ <br><b>Adresa:</b> č.p. 48, 66483, Říčky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66500:19"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.4052221,
+          49.2366535
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Veverské Knínice 260, OÚ <br><b>Adresa:</b> č.p. 260, 66481, Veverské Knínice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66500:24"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.359896,
+          49.2537821
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Javůrek 62, obchod <br><b>Adresa:</b> č.p. 62, 66483, Javůrek ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66500:3"
       },
       "type": "Feature"
     }

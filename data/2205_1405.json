@@ -3,74 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          13.8059284,
-          49.0414212
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Pravětín 23, 38501, Vimperk <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 16.04 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "38307:131"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.8304314,
-          49.064101
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 13, 38501, Svatá Maří <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 3.74 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "38307:132"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.8304124,
-          49.0725677
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Štítkov 11, 38501, Svatá Maří <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 37.28 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "38307:133"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.8043907,
-          49.0777572
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Bořanovice 12, 38501, Vimperk <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 54.87 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "38307:134"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           13.8836291,
           49.0491017
         ],
@@ -122,17 +54,68 @@
     {
       "geometry": {
         "coordinates": [
-          13.8786165,
-          49.0682286
+          13.8059291,
+          49.041277
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Lštění 3, 38481, Radhostice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 25.18 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Pravětín 23, 38501, Vimperk ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "38607:435"
+        "ref": "38500:10"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.8304663,
+          49.0641256
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 13, 38501, Svatá Maří ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38500:11"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.8309213,
+          49.0725334
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Štítkov 11, 38501, Svatá Maří ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38500:12"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.8048772,
+          49.0773807
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Bořanovice 12, 38501, Vimperk ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "38500:13"
       },
       "type": "Feature"
     },

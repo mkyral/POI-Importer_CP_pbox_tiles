@@ -9,113 +9,11 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Chlum,náves <br><b>Adresa:</b> č.p. 78, 33204, Chlum <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Chlum,náves <br><b>Adresa:</b> č.p. 78, 33204, Chlum <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 15.76 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "30072:14"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.505013,
-          49.5677904
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Chocenická Lhota, náves <br><b>Adresa:</b> Plzeň-jih; Chocenice; Chocenická Lhota <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "30072:290"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.5206828,
-          49.5712363
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Komorno, autobus. zastávka <br><b>Adresa:</b> Plzeň-jih; Blovice; Komorno <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "30072:291"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.5042846,
-          49.5878126
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Seč, náves <br><b>Adresa:</b> Plzeň-jih; Seč; Seč <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "30072:292"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.4704964,
-          49.5843757
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Únětice, prodejna <br><b>Adresa:</b> Plzeň-jih; Únětice; Únětice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "30072:293"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.4821129,
-          49.5689596
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Chocenický Újezd prodejna <br><b>Adresa:</b> Chocenický Újezd 14, 33601, Letiny <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "30072:294"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.5194151,
-          49.6070965
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Zdemyslice - OÚ <br><b>Adresa:</b> č.p. 159, 33601, Zdemyslice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 4.27 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "30072:295"
       },
       "type": "Feature"
     },
@@ -139,17 +37,136 @@
     {
       "geometry": {
         "coordinates": [
-          13.5105911,
-          49.5555997
+          13.4821128,
+          49.5689594
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Kotousov čp.2 <br><b>Adresa:</b> Kotousov 2, 33601, Chocenice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 19.06 m",
+        "_note": "<br><b>Poznámka:</b> Chocenický Újezd prodejna <br><b>Adresa:</b> Chocenický Újezd 14, 33601, Letiny <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "30072:314"
+        "ref": "33600:10"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.5194736,
+          49.6070906
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Zdemyslice - OÚ <br><b>Adresa:</b> č.p. 159, 33601, Zdemyslice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "33600:11"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.4717355,
+          49.5567495
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Drahkov - prodejna <br><b>Adresa:</b> č.p. 57, 33601, Drahkov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "33600:27"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.5108526,
+          49.5555757
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kotousov čp.2 <br><b>Adresa:</b> Kotousov 2, 33601, Chocenice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "33600:28"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.5050128,
+          49.5677894
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Chocenická Lhota, náves <br><b>Adresa:</b> Plzeň-jih; Chocenice; Chocenická Lhota ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "33600:6"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.5206825,
+          49.5712353
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Komorno, autobus. zastávka <br><b>Adresa:</b> Plzeň-jih; Blovice; Komorno ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "33600:7"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.5042844,
+          49.5878116
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Seč, náves <br><b>Adresa:</b> Plzeň-jih; Seč; Seč ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "33600:8"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.4704961,
+          49.5843747
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Únětice, prodejna <br><b>Adresa:</b> Plzeň-jih; Únětice; Únětice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "33600:9"
       },
       "type": "Feature"
     }

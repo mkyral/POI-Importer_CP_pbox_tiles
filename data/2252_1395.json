@@ -20,23 +20,6 @@
     {
       "geometry": {
         "coordinates": [
-          17.9318336,
-          49.6502332
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Pošta Suchdol nad Odrou <br><b>Adresa:</b> Malá strana 238, 74201, Suchdol nad Odrou <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 13.09 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "74200:294"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           17.9929954,
           49.6159971
         ],
@@ -82,6 +65,23 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "74200:45"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.9317624,
+          49.6503415
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Suchdol nad Odrou <br><b>Adresa:</b> Malá strana 238, 74201, Suchdol nad Odrou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74232:45"
       },
       "type": "Feature"
     }

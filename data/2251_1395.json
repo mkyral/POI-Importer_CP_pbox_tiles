@@ -3,74 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          17.8712665,
-          49.6615415
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Odry, Pohoř 90 (hasičská zbrojnice) <br><b>Adresa:</b> Pohoř 90, 74235, Odry <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.57 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "74200:261"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.8829613,
-          49.6371731
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Mankovice 73, OÚ <br><b>Adresa:</b> č.p. 73, 74235, Mankovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 14.22 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "74200:263"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.9286027,
-          49.6556281
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Suchdol n Odrou,na aut.zast naproti Sokolovská 62 <br><b>Adresa:</b> Nový Jičín; Suchdol nad Odrou; Suchdol nad Odrou <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "74200:275"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.8613294,
-          49.6259071
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Vražné 37, Partner I (stojan) <br><b>Adresa:</b> Nový Jičín; Vražné; Vražné <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "74200:289"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           17.9045594,
           49.6123737
         ],
@@ -82,6 +14,74 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "74200:43"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.871349,
+          49.6615668
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Odry, Pohoř 90 (hasičská zbrojnice) <br><b>Adresa:</b> Pohoř 90, 74235, Odry ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74232:12"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.8830985,
+          49.637265
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Mankovice 73, OÚ <br><b>Adresa:</b> č.p. 73, 74235, Mankovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74232:14"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.9286024,
+          49.6556271
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Suchdol n Odrou,na aut.zast naproti Sokolovská 62 <br><b>Adresa:</b> Nový Jičín; Suchdol nad Odrou; Suchdol nad Odrou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74232:26"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.8613291,
+          49.6259061
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vražné 37, Partner I (stojan) <br><b>Adresa:</b> Nový Jičín; Vražné; Vražné ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "74232:40"
       },
       "type": "Feature"
     }

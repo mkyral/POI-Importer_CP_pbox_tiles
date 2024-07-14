@@ -3,40 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          16.5482667,
-          49.078229
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Partner Syrovice <br><b>Adresa:</b> č.p. 60, 66467, Syrovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.13 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "60010:15"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.5580658,
-          49.0591624
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Sobotovice 61, stojan u MŠ <br><b>Adresa:</b> č.p. 61, 66467, Sobotovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 15.84 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "60010:41"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           16.5981859,
           49.0855794
         ],
@@ -133,6 +99,40 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "60010:887"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.5580746,
+          49.0593047
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Sobotovice 61, stojan u MŠ <br><b>Adresa:</b> č.p. 61, 66467, Sobotovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66490:36"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.5482152,
+          49.0782726
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Partner Syrovice <br><b>Adresa:</b> č.p. 60, 66467, Syrovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66490:37"
       },
       "type": "Feature"
     }

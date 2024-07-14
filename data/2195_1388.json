@@ -3,17 +3,34 @@
     {
       "geometry": {
         "coordinates": [
-          12.9868215,
-          50.0604338
+          12.9871951,
+          50.0607785
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Toužim, obchodní dům Střela, <br><b>Adresa:</b> Malé náměstí 469, 36401, Toužim <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 46.71 m",
+        "_note": "<br><b>Poznámka:</b> Toužim, obchodní dům Střela, <br><b>Adresa:</b> Malé náměstí 469, 36401, Toužim ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "30071:491"
+        "ref": "36400:1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.9843401,
+          50.05997
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Toužim, na budově pošty, <br><b>Adresa:</b> náměstí Jiřího z Poděbrad 36, 36401, Toužim ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "36400:18"
       },
       "type": "Feature"
     },
@@ -30,49 +47,49 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "30071:492"
+        "ref": "36400:2"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          12.9936337,
-          50.0439421
+          12.99374,
+          50.0438818
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Toužim, Plzeňská 470, polesí <br><b>Adresa:</b> Plzeňská 470, 36401, Toužim <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.13 m",
+        "_note": "<br><b>Poznámka:</b> Toužim, Plzeňská 470, polesí <br><b>Adresa:</b> Plzeňská 470, 36401, Toužim ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "30071:493"
+        "ref": "36400:3"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          12.9486991,
-          50.010081
+          12.9486988,
+          50.01008
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Prachomety, zastávka ČSAD <br><b>Adresa:</b> Karlovy Vary; Toužim; Prachomety <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Prachomety, zastávka ČSAD <br><b>Adresa:</b> Karlovy Vary; Toužim; Prachomety ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "30071:496"
+        "ref": "36400:5"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          12.9212591,
-          50.030986
+          12.9215347,
+          50.0310836
         ],
         "type": "Point"
       },
@@ -81,41 +98,24 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "30071:499"
+        "ref": "36400:7"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          12.9407734,
-          50.0557353
+          12.9407731,
+          50.0557343
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Sedlo, autobusová zastávka <br><b>Adresa:</b> Karlovy Vary; Útvina; Sedlo <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Sedlo, autobusová zastávka <br><b>Adresa:</b> Karlovy Vary; Útvina; Sedlo ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "30071:502"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          12.9844045,
-          50.059871
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Toužim, na budově pošty, <br><b>Adresa:</b> náměstí Jiřího z Poděbrad 36, 36401, Toužim <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.93 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "30071:512"
+        "ref": "36400:9"
       },
       "type": "Feature"
     }

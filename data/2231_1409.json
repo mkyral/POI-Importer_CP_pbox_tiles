@@ -28,7 +28,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> Penzion <br><b>Adresa:</b> Obecní 404, 67125, Hodonice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 19.24 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "66907:118"
       },
@@ -45,7 +45,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 141, 67125, Tasovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 14.18 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "66907:120"
       },
@@ -96,9 +96,26 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> pošta Dobšice <br><b>Adresa:</b> Leska 347, 67182, Dobšice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 13.7 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "66907:291"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0875035,
+          48.8387912
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u aut. zast. na točně <br><b>Adresa:</b> Oblekovická 206/156, Oblekovice, 67181, Znojmo ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66907:3"
       },
       "type": "Feature"
     },

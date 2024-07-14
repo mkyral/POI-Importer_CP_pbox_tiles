@@ -3,74 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          16.4961373,
-          49.0231992
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Partner Malešovice <br><b>Adresa:</b> č.p. 106, 66465, Malešovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 21.44 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "60010:13"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.5100291,
-          49.0101073
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Odrovice 42, stojan u chodníku k OÚ <br><b>Adresa:</b> č.p. 42, 66464, Odrovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 18.57 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "60010:768"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.5221598,
-          49.0347767
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Medlov 231, stojan u zastávky autobusu <br><b>Adresa:</b> Brno-venkov; Medlov; Medlov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "60010:769"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.5221632,
-          48.9806116
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Pohořelice, Lidická 467, stojan u chodníku <br><b>Adresa:</b> Lidická 467, 69123, Pohořelice ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "60010:871"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           16.5181859,
           48.9856105
         ],
@@ -105,6 +37,57 @@
     {
       "geometry": {
         "coordinates": [
+          16.4961407,
+          49.0233919
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Partner Malešovice <br><b>Adresa:</b> č.p. 106, 66465, Malešovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66490:21"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.5230408,
+          49.0347289
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Medlov 231, stojan u zastávky autobusu <br><b>Adresa:</b> Brno-venkov; Medlov; Medlov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66490:22"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.5099339,
+          49.0102621
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Odrovice 42, stojan u chodníku k OÚ <br><b>Adresa:</b> č.p. 42, 66464, Odrovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "66490:29"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           16.4378329,
           49.0287629
         ],
@@ -113,7 +96,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 1, 67175, Jezeřany-Maršovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.72 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:30",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "66907:207"
       },
@@ -147,7 +130,7 @@
       "properties": {
         "_note": "<br><b>Poznámka:</b> pošta Loděnice u Moravského Krumlova <br><b>Adresa:</b> č.p. 114, 67175, Loděnice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.37 m",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:45",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "66907:287"
       },

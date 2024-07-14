@@ -3,57 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          15.6569632,
-          50.6199263
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Lánov <br><b>Adresa:</b> Prostřední Lánov 200, 54341, Lánov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.42 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "54107:321"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.6614808,
-          50.5935857
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> družstvo <br><b>Adresa:</b> č.p. 241, 54341, Dolní Lánov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.08 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "54107:322"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.7071446,
-          50.6152619
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> u školy stojan <br><b>Adresa:</b> Čistá v Krkonoších 61, 54344, Černý Důl <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 37.54 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "54107:332"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           15.7289222,
           50.5696982
         ],
@@ -116,6 +65,57 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "54107:718"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.6569971,
+          50.6199989
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Lánov <br><b>Adresa:</b> Prostřední Lánov 200, 54341, Lánov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54300:10"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.6615411,
+          50.5935467
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> družstvo <br><b>Adresa:</b> č.p. 241, 54341, Dolní Lánov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54300:11"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7069582,
+          50.6149458
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u školy stojan <br><b>Adresa:</b> Čistá v Krkonoších 61, 54344, Černý Důl ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "54300:15"
       },
       "type": "Feature"
     }

@@ -54,40 +54,6 @@
     {
       "geometry": {
         "coordinates": [
-          15.4152166,
-          50.5604662
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Libštát <br><b>Adresa:</b> č.p. 198, 51203, Libštát <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.2 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "51107:221"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.4114819,
-          50.5205979
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Partner Nová Ves nad Popelkou <br><b>Adresa:</b> č.p. 64, 51271, Nová Ves nad Popelkou <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 28.02 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "51107:223"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           15.4456581,
           50.5341058
         ],
@@ -99,6 +65,40 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "51107:248"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4152456,
+          50.5605092
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Libštát <br><b>Adresa:</b> č.p. 198, 51203, Libštát ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51300:22"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4117008,
+          50.5203879
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Partner Nová Ves nad Popelkou <br><b>Adresa:</b> č.p. 64, 51271, Nová Ves nad Popelkou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51300:23"
       },
       "type": "Feature"
     }

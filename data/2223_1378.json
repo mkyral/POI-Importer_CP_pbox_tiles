@@ -3,40 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          15.4184983,
-          50.6161752
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Partner Háje nad Jizerou <br><b>Adresa:</b> Dolní Sytová 15, 51301, Háje nad Jizerou ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "51107:215"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.4033606,
-          50.5721165
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Košťálov <br><b>Adresa:</b> č.p. 200, 51202, Košťálov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.11 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "51107:220"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           15.4374412,
           50.5844243
         ],
@@ -82,6 +48,40 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "51107:282"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4184983,
+          50.6161752
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Partner Háje nad Jizerou <br><b>Adresa:</b> Dolní Sytová 15, 51301, Háje nad Jizerou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51300:17"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4032075,
+          50.5721394
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Košťálov <br><b>Adresa:</b> č.p. 200, 51202, Košťálov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "51300:21"
       },
       "type": "Feature"
     }

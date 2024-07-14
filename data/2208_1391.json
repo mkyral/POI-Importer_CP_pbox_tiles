@@ -20,23 +20,6 @@
     {
       "geometry": {
         "coordinates": [
-          14.1059809,
-          49.8729726
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Všeradice <br><b>Adresa:</b> č.p. 122, 26726, Všeradice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 18.88 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "17704:33"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           14.0713109,
           49.8581152
         ],
@@ -156,68 +139,85 @@
     {
       "geometry": {
         "coordinates": [
-          14.1248213,
-          49.8808193
+          14.1250249,
+          49.8807159
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> u LDS <br><b>Adresa:</b> č.p. 54, 26727, Nesvačily <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 18.58 m",
+        "_note": "<br><b>Poznámka:</b> u LDS <br><b>Adresa:</b> č.p. 54, 26727, Nesvačily ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "17704:507"
+        "ref": "25239:18"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          14.1266422,
-          49.8627846
+          14.1265141,
+          49.8628155
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> OÚ, u LDS <br><b>Adresa:</b> č.p. 8, 26727, Podbrdy <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.81 m",
+        "_note": "<br><b>Poznámka:</b> OÚ, u LDS <br><b>Adresa:</b> č.p. 8, 26727, Podbrdy ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "17704:509"
+        "ref": "25239:19"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          14.1405247,
-          49.8701485
+          14.1406388,
+          49.8700231
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Požární zbrojnice <br><b>Adresa:</b> Drahlovice 27, 26727, Skuhrov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 16.17 m",
+        "_note": "<br><b>Poznámka:</b> Požární zbrojnice <br><b>Adresa:</b> Drahlovice 27, 26727, Skuhrov ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "17704:510"
+        "ref": "25239:20"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          14.1465325,
-          49.8741284
+          14.1462479,
+          49.8740523
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> u LDS, u transformátoru <br><b>Adresa:</b> č.p. 4, 26727, Skuhrov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 22.09 m",
+        "_note": "<br><b>Poznámka:</b> u LDS, u transformátoru <br><b>Adresa:</b> č.p. 4, 26727, Skuhrov ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "17704:512"
+        "ref": "25239:21"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.1057429,
+          49.8730452
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Všeradice <br><b>Adresa:</b> č.p. 122, 26726, Všeradice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "25239:5"
       },
       "type": "Feature"
     }

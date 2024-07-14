@@ -3,23 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          13.8171622,
-          50.4781397
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 67, 41804, Měrunice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 7.22 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "40371:481"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           13.8861121,
           50.4962622
         ],
@@ -65,6 +48,23 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "ref": "41007:54"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.8171448,
+          50.4782037
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 67, 41804, Měrunice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "ref": "41500:42"
       },
       "type": "Feature"
     },

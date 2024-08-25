@@ -3,159 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          17.2963597,
-          49.3501168
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Kojetín, nám. Svobody 819, u křižovatky (stojan) <br><b>Adresa:</b> náměstí Svobody 819, Kojetín I-Město, 75201, Kojetín ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "76707:305"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.3010332,
-          49.3506537
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Kojetín, nám. Míru 83 (stojan) <br><b>Adresa:</b> náměstí Míru 83, Kojetín I-Město, 75201, Kojetín ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "76707:306"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.2998794,
-          49.357663
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> u křižovatky (stojan) <br><b>Adresa:</b> Olomoucká 386, Kojetín I-Město, 75201, Kojetín ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "76707:307"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.2967367,
-          49.3537974
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Kojetín, Sladovní 1291 (stojan) <br><b>Adresa:</b> Sladovní 1291, Kojetín I-Město, 75201, Kojetín ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "76707:308"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.3026267,
-          49.3477621
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Kojetín, 6.května 1160, u polikliniky (stojan) <br><b>Adresa:</b> 6. května 1160, Kojetín I-Město, 75201, Kojetín ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "76707:309"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.3045142,
-          49.3455856
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Kojetín, Nádražní 458, před nádražím (stojan) <br><b>Adresa:</b> Nádražní 458, Kojetín I-Město, 75201, Kojetín ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "76707:310"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.2906374,
-          49.3719068
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Uhřičice 26, u obchodu (stojan) <br><b>Adresa:</b> č.p. 26, 75201, Uhřičice ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "76707:311"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.2451084,
-          49.3278058
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Stříbrnice 91, aut.zastávka (stojan) <br><b>Adresa:</b> č.p. 91, 75201, Stříbrnice ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "76707:312"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.2989913,
-          49.33103
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> u křižovatky (stojan) <br><b>Adresa:</b> Kojetín II-Popůvky 41, 75201, Kojetín ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "76707:313"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           17.2744143,
           49.3303139
         ],
@@ -166,7 +13,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76707:338"
+        "operator:wikidata": "Q341090",
+        "ref": "75000:111"
       },
       "type": "Feature"
     },
@@ -183,7 +31,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76707:339"
+        "operator:wikidata": "Q341090",
+        "ref": "75000:112"
       },
       "type": "Feature"
     },
@@ -200,7 +49,170 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76707:342"
+        "operator:wikidata": "Q341090",
+        "ref": "75000:115"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.2963597,
+          49.3501168
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kojetín, nám. Svobody 819, u křižovatky (stojan) <br><b>Adresa:</b> náměstí Svobody 819, Kojetín I-Město, 75201, Kojetín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "75000:78"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.3010332,
+          49.3506537
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kojetín, nám. Míru 83 (stojan) <br><b>Adresa:</b> náměstí Míru 83, Kojetín I-Město, 75201, Kojetín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "75000:79"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.2998794,
+          49.357663
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u křižovatky (stojan) <br><b>Adresa:</b> Olomoucká 386, Kojetín I-Město, 75201, Kojetín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "75000:80"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.2967367,
+          49.3537974
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kojetín, Sladovní 1291 (stojan) <br><b>Adresa:</b> Sladovní 1291, Kojetín I-Město, 75201, Kojetín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "75000:81"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.3026267,
+          49.3477621
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kojetín, 6.května 1160, u polikliniky (stojan) <br><b>Adresa:</b> 6. května 1160, Kojetín I-Město, 75201, Kojetín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "75000:82"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.3045142,
+          49.3455856
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kojetín, Nádražní 458, před nádražím (stojan) <br><b>Adresa:</b> Nádražní 458, Kojetín I-Město, 75201, Kojetín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "75000:83"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.2906374,
+          49.3719068
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Uhřičice 26, u obchodu (stojan) <br><b>Adresa:</b> č.p. 26, 75201, Uhřičice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "75000:84"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.2451084,
+          49.3278058
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Stříbrnice 91, aut.zastávka (stojan) <br><b>Adresa:</b> č.p. 91, 75201, Stříbrnice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "75000:85"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.2989913,
+          49.33103
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u křižovatky (stojan) <br><b>Adresa:</b> Kojetín II-Popůvky 41, 75201, Kojetín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "75000:86"
       },
       "type": "Feature"
     },
@@ -217,6 +229,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "77072:821"
       },
       "type": "Feature"

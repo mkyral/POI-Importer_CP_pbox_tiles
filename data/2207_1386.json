@@ -3,34 +3,90 @@
     {
       "geometry": {
         "coordinates": [
-          14.0193707,
-          50.1438812
+          14.0199914,
+          50.1287746
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> BUS zastávka Tuchlovice, Srby <br><b>Adresa:</b> Kladno; Tuchlovice; Srby <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> pošta Partner Kamenné Žehrovice <br><b>Adresa:</b> Karlovarská třída 6, 27301, Kamenné Žehrovice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "27207:103"
+        "operator:wikidata": "Q341090",
+        "ref": "27200:15"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          14.0288182,
-          50.1281466
+          13.9921994,
+          50.1390575
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> BUS zastávka Kamenné Žehrovice, Háje <br><b>Adresa:</b> Kladno; Kamenné Žehrovice; Kamenné Žehrovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> pošta Partner Tuchlovice <br><b>Adresa:</b> U Staré školy 83, 27302, Tuchlovice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "27207:120"
+        "operator:wikidata": "Q341090",
+        "ref": "27200:16"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.9881771,
+          50.1626833
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Kačice <br><b>Adresa:</b> Masarykova 20, 27304, Kačice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "27200:17"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.0193706,
+          50.1438811
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> BUS zastávka Tuchlovice, Srby <br><b>Adresa:</b> Kladno; Tuchlovice; Srby <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "27200:35"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.0288181,
+          50.1281467
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> BUS zastávka Kamenné Žehrovice, Háje <br><b>Adresa:</b> Kladno; Kamenné Žehrovice; Kamenné Žehrovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "27200:44"
       },
       "type": "Feature"
     },
@@ -47,6 +103,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "27207:135"
       },
       "type": "Feature"
@@ -64,58 +121,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "27207:136"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.0200158,
-          50.1288211
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Partner Kamenné Žehrovice <br><b>Adresa:</b> Karlovarská třída 6, 27301, Kamenné Žehrovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.46 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "27207:50"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.9889055,
-          50.1373291
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Partner Tuchlovice <br><b>Adresa:</b> U Staré školy 83, 27302, Tuchlovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 303.49 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "27207:51"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.9880192,
-          50.1628485
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Kačice <br><b>Adresa:</b> Masarykova 20, 27304, Kačice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 21.55 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "27207:53"
       },
       "type": "Feature"
     },
@@ -132,6 +139,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "27207:55"
       },
       "type": "Feature"

@@ -3,6 +3,60 @@
     {
       "geometry": {
         "coordinates": [
+          17.7489348,
+          49.1307215
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> obchod náves Řetechov <br><b>Adresa:</b> Řetechov 25, 76326, Luhačovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "76320:27"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.7271254,
+          49.1134236
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> obchod <br><b>Adresa:</b> č.p. 84, 76341, Ludkovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "76320:32"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.6980638,
+          49.1078654
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Obecní úřad <br><b>Adresa:</b> č.p. 49, 76341, Kaňovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "76320:33"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           17.7445418,
           49.0960113
         ],
@@ -13,6 +67,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "76607:156"
       },
       "type": "Feature"
@@ -30,6 +85,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "76607:157"
       },
       "type": "Feature"
@@ -47,58 +103,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "76607:158"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.748963,
-          49.130786
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> obchod náves Řetechov <br><b>Adresa:</b> Řetechov 25, 76326, Luhačovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 7.46 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "76607:166"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.7265605,
-          49.1139586
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> obchod <br><b>Adresa:</b> č.p. 84, 76341, Ludkovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 72.34 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "76607:173"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.697355,
-          49.1088618
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Obecní úřad <br><b>Adresa:</b> č.p. 49, 76341, Kaňovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 122.26 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "76607:174"
       },
       "type": "Feature"
     },
@@ -115,6 +121,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 07:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "76607:217"
       },
       "type": "Feature"
@@ -132,6 +139,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 07:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "76607:62"
       },
       "type": "Feature"
@@ -149,6 +157,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 07:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "76607:65"
       },
       "type": "Feature"

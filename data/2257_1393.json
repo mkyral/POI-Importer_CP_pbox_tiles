@@ -13,6 +13,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "72572:18"
       },
       "type": "Feature"
@@ -30,6 +31,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "72572:19"
       },
       "type": "Feature"
@@ -47,228 +49,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "72572:23"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          18.4369469,
-          49.7728808
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Klidná 787/10a-potraviny(na stojanu),Havířov-Město <br><b>Adresa:</b> Klidná 787/10a, Město, 73601, Havířov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 18.0 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "72572:407"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          18.4079366,
-          49.7640652
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> J.Kotase, na čp.51/26, Dolní Datyně <br><b>Adresa:</b> Josefa Kotase 51/26, Dolní Datyně, 73601, Havířov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.9 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "72572:408"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          18.4227915,
-          49.7669939
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Havířov-Bludovice, Mezidolí 711/25, U Sosáka <br><b>Adresa:</b> Karviná; Havířov; Bludovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "72572:409"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          18.4425943,
-          49.765689
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Bludovic, Selská 427/10-evang.kostel Havířov <br><b>Adresa:</b> Selská 427/10, Bludovice, 73601, Havířov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.62 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "72572:410"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          18.455729,
-          49.779694
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Podlesí, Mládežnická 1575/8 (na stojanu), Havířov <br><b>Adresa:</b> Mládežnická 1575/8, Podlesí, 73601, Havířov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 26.28 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "72572:413"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          18.4408274,
-          49.7811385
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Astronautů 1094/9 (na stojanu), Havířov-Město <br><b>Adresa:</b> Astronautů 1094/9, Město, 73601, Havířov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 46.3 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "72572:414"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          18.4461683,
-          49.7742008
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Podlesí, ISŠ Junácká 1241/1 (na stojanu), Havířo <br><b>Adresa:</b> Junácká 1241/1, Podlesí, 73601, Havířov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 65.62 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "72572:416"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          18.4338033,
-          49.777801
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Národní třída 581/12 (na stojanu), Havířov.Město <br><b>Adresa:</b> Národní třída 581/12, Město, 73601, Havířov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 35.63 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "72572:428"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          18.4453124,
-          49.7713155
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Podlesí, U Stadionu 1640/1-Kaufland <br><b>Adresa:</b> U Stadionu 1640/1, Podlesí, 73601, Havířov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 51.94 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "72572:429"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          18.4474839,
-          49.7783344
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Podlesí, 17.listopadu 1110/34 (na stojanu), Havířo <br><b>Adresa:</b> 17. listopadu 1110/34, Podlesí, 73601, Havířov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 37.69 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "72572:430"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          18.4327793,
-          49.7799617
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Pošta Havířov 1 (stojan) <br><b>Adresa:</b> Dlouhá třída 464/7a, Město, 73601, Havířov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 32.77 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "72572:446"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          18.4563299,
-          49.7670697
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> J.Gagarina 1589/2a(stojan) <br><b>Adresa:</b> Jurije Gagarina 1589/2a, Bludovice, 73601, Havířov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 15.6 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "72572:447"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          18.4508407,
-          49.7752355
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> stojan před poštou Havířov 21 <br><b>Adresa:</b> Dlouhá třída 1161/97, Podlesí, 73601, Havířov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 241.37 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "72572:451"
       },
       "type": "Feature"
     },
@@ -285,7 +67,242 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "72572:97"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.4227912,
+          49.7669929
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Havířov-Bludovice, Mezidolí 711/25, U Sosáka <br><b>Adresa:</b> Karviná; Havířov; Bludovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "73600:10"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.4425274,
+          49.7656481
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bludovic, Selská 427/10-evang.kostel Havířov <br><b>Adresa:</b> Selská 427/10, Bludovice, 73601, Havířov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "73600:11"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.4558562,
+          49.7794725
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Podlesí, Mládežnická 1575/8 (na stojanu), Havířov <br><b>Adresa:</b> Mládežnická 1575/8, Podlesí, 73601, Havířov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "73600:14"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.4412537,
+          49.7808262
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Astronautů 1094/9 (na stojanu), Havířov-Město <br><b>Adresa:</b> Astronautů 1094/9, Město, 73601, Havířov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "73600:15"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.4469134,
+          49.7745422
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Podlesí, ISŠ Junácká 1241/1 (na stojanu), Havířo <br><b>Adresa:</b> Junácká 1241/1, Podlesí, 73601, Havířov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "73600:17"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.4333856,
+          49.7779738
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Národní třída 581/12 (na stojanu), Havířov.Město <br><b>Adresa:</b> Národní třída 581/12, Město, 73601, Havířov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "73600:27"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.4448591,
+          49.7716793
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Podlesí, U Stadionu 1640/1-Kaufland <br><b>Adresa:</b> U Stadionu 1640/1, Podlesí, 73601, Havířov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "73600:28"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.4478473,
+          49.7780899
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Podlesí, 17.listopadu 1110/34 (na stojanu), Havířo <br><b>Adresa:</b> 17. listopadu 1110/34, Podlesí, 73601, Havířov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "73600:29"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.433017,
+          49.7802132
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Havířov 1 (stojan) <br><b>Adresa:</b> Dlouhá třída 464/7a, Město, 73601, Havířov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "73600:44"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.4564411,
+          49.7671902
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> J.Gagarina 1589/2a(stojan) <br><b>Adresa:</b> Jurije Gagarina 1589/2a, Bludovice, 73601, Havířov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "73600:45"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.4541381,
+          49.7756534
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> stojan před poštou Havířov 21 <br><b>Adresa:</b> Dlouhá třída 1161/97, Podlesí, 73601, Havířov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "73600:49"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.4367,
+          49.7728532
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Klidná 787/10a-potraviny(na stojanu),Havířov-Město <br><b>Adresa:</b> Klidná 787/10a, Město, 73601, Havířov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "73600:8"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.40786,
+          49.7639703
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> J.Kotase, na čp.51/26, Dolní Datyně <br><b>Adresa:</b> Josefa Kotase 51/26, Dolní Datyně, 73601, Havířov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "73600:9"
       },
       "type": "Feature"
     },
@@ -302,6 +319,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "74200:637"
       },
       "type": "Feature"
@@ -319,6 +337,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "74200:639"
       },
       "type": "Feature"
@@ -336,6 +355,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "74200:641"
       },
       "type": "Feature"
@@ -353,6 +373,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "74200:691"
       },
       "type": "Feature"

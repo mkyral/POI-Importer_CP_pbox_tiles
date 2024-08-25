@@ -3,34 +3,36 @@
     {
       "geometry": {
         "coordinates": [
-          12.6360507,
-          50.243338
+          12.6362728,
+          50.2433053
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> OÚ <br><b>Adresa:</b> č.p. 75, 35601, Dolní Nivy <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 16.21 m",
+        "_note": "<br><b>Poznámka:</b> OÚ <br><b>Adresa:</b> č.p. 75, 35601, Dolní Nivy ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "35007:170"
+        "operator:wikidata": "Q341090",
+        "ref": "35600:11"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          12.6048531,
-          50.2814858
+          12.6047901,
+          50.2814768
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Jindřichovice -pošta <br><b>Adresa:</b> č.p. 170, 35801, Jindřichovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 4.59 m",
+        "_note": "<br><b>Poznámka:</b> Jindřichovice -pošta <br><b>Adresa:</b> č.p. 170, 35801, Jindřichovice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "35007:218"
+        "operator:wikidata": "Q341090",
+        "ref": "35600:33"
       },
       "type": "Feature"
     }

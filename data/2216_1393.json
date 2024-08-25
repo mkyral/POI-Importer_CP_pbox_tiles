@@ -13,6 +13,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "25607:100"
       },
       "type": "Feature"
@@ -30,6 +31,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "25607:101"
       },
       "type": "Feature"
@@ -47,24 +49,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "25607:102"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.8317379,
-          49.7754686
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 24, 25726, Třebešice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 34.73 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "25607:205"
       },
       "type": "Feature"
     },
@@ -81,6 +67,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "25607:3"
       },
       "type": "Feature"
@@ -98,6 +85,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "25607:35"
       },
       "type": "Feature"
@@ -115,6 +103,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "25607:36"
       },
       "type": "Feature"
@@ -132,6 +121,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "25607:495"
       },
       "type": "Feature"
@@ -149,6 +139,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "25607:60"
       },
       "type": "Feature"
@@ -166,6 +157,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "25607:68"
       },
       "type": "Feature"
@@ -183,6 +175,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "25607:90"
       },
       "type": "Feature"
@@ -200,6 +193,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "25607:91"
       },
       "type": "Feature"
@@ -217,7 +211,26 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "25607:99"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.831581,
+          49.7757639
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 24, 25726, Třebešice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "25800:91"
       },
       "type": "Feature"
     }

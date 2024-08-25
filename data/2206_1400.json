@@ -13,6 +13,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "38607:26"
       },
       "type": "Feature"
@@ -30,6 +31,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "38607:27"
       },
       "type": "Feature"
@@ -37,102 +39,108 @@
     {
       "geometry": {
         "coordinates": [
-          13.9645607,
-          49.3294021
+          13.9643279,
+          49.3292683
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Malá Turná 2, 38601, Osek <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 22.5 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Malá Turná 2, 38601, Osek ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "38607:272"
+        "operator:wikidata": "Q341090",
+        "ref": "38800:57"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          13.9577733,
-          49.3396302
+          13.957841,
+          49.3394768
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 30, 38601, Velká Turná <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 17.75 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 30, 38601, Velká Turná ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "38607:273"
+        "operator:wikidata": "Q341090",
+        "ref": "38800:58"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          13.9449624,
-          49.3483576
+          13.9452903,
+          49.3482584
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Rojice 8, 38601, Radomyšl <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 26.2 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Rojice 8, 38601, Radomyšl ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "38607:274"
+        "operator:wikidata": "Q341090",
+        "ref": "38800:59"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          13.9264014,
-          49.3447456
+          13.9264262,
+          49.3445189
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Láz 4, 38601, Radomyšl <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 25.28 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Láz 4, 38601, Radomyšl ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "38607:275"
+        "operator:wikidata": "Q341090",
+        "ref": "38800:60"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          13.9378513,
-          49.377821
+          13.9378728,
+          49.3777555
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Budova pošty Sedlice u Blatné <br><b>Adresa:</b> Palackého 46, 38732, Sedlice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 7.45 m",
+        "_note": "<br><b>Poznámka:</b> Budova pošty Sedlice u Blatné <br><b>Adresa:</b> Palackého 46, 38732, Sedlice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "38607:279"
+        "operator:wikidata": "Q341090",
+        "ref": "38800:64"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          13.9394209,
-          49.3765002
+          13.9398417,
+          49.3765383
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> náměstí T. G. Masaryka 136, 38732, Sedlice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 30.77 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> náměstí T. G. Masaryka 136, 38732, Sedlice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "38607:281"
+        "operator:wikidata": "Q341090",
+        "ref": "38800:66"
       },
       "type": "Feature"
     }

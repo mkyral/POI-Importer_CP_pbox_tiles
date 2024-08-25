@@ -13,6 +13,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "54107:255"
       },
       "type": "Feature"
@@ -30,24 +31,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:30",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "54707:342"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.1702637,
-          50.5947044
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Kino <br><b>Adresa:</b> Horní 14, 54957, Teplice nad Metují <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.39 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:30",
-        "operator": "Česká pošta, s.p.",
-        "ref": "54707:345"
       },
       "type": "Feature"
     },
@@ -64,6 +49,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:30",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "54707:346"
       },
       "type": "Feature"
@@ -81,6 +67,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:30",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "54707:352"
       },
       "type": "Feature"
@@ -98,6 +85,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:30",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "54707:355"
       },
       "type": "Feature"

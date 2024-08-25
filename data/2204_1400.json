@@ -13,6 +13,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "33907:245"
       },
       "type": "Feature"
@@ -30,6 +31,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "33907:246"
       },
       "type": "Feature"
@@ -47,6 +49,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "33907:247"
       },
       "type": "Feature"
@@ -64,6 +67,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "33907:252"
       },
       "type": "Feature"
@@ -81,6 +85,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "33907:255"
       },
       "type": "Feature"
@@ -88,17 +93,18 @@
     {
       "geometry": {
         "coordinates": [
-          13.7935924,
-          49.3738589
+          13.7936152,
+          49.3738161
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 32, 38801, Čečelovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.04 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 32, 38801, Čečelovice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "38607:255"
+        "operator:wikidata": "Q341090",
+        "ref": "38800:44"
       },
       "type": "Feature"
     }

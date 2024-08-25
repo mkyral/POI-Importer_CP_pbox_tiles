@@ -3,74 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          17.6650803,
-          49.3999848
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> TON horní brána na parkovišti <br><b>Adresa:</b> Přerovská 198, 76861, Bystřice pod Hostýnem <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 25.83 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "76707:136"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.6489517,
-          49.4039548
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Přerovská 9, Rychlov, 76861, Bystřice pod Hostýnem <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 43.15 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "76707:138"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.6450832,
-          49.384558
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Bílavsko 17, 76861, Bystřice pod Hostýnem <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 21.37 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "76707:143"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.6527888,
-          49.4316076
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Sovadina 13, 76861, Bystřice pod Hostýnem <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 42.12 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "76707:148"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           17.6287782,
           49.4091555
         ],
@@ -81,7 +13,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76707:252"
+        "operator:wikidata": "Q341090",
+        "ref": "75000:25"
       },
       "type": "Feature"
     },
@@ -98,7 +31,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76707:253"
+        "operator:wikidata": "Q341090",
+        "ref": "75000:26"
       },
       "type": "Feature"
     },
@@ -115,7 +49,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76707:255"
+        "operator:wikidata": "Q341090",
+        "ref": "75000:28"
       },
       "type": "Feature"
     },
@@ -132,7 +67,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76707:258"
+        "operator:wikidata": "Q341090",
+        "ref": "75000:31"
       },
       "type": "Feature"
     },
@@ -149,7 +85,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76707:261"
+        "operator:wikidata": "Q341090",
+        "ref": "75000:34"
       },
       "type": "Feature"
     },
@@ -166,7 +103,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76707:272"
+        "operator:wikidata": "Q341090",
+        "ref": "75000:45"
       },
       "type": "Feature"
     },
@@ -183,7 +121,80 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76707:324"
+        "operator:wikidata": "Q341090",
+        "ref": "75000:97"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.6647638,
+          49.3998775
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> TON horní brána na parkovišti <br><b>Adresa:</b> Přerovská 198, 76861, Bystřice pod Hostýnem ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "76900:34"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.6495418,
+          49.4038998
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Přerovská 9, Rychlov, 76861, Bystřice pod Hostýnem ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "76900:35"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.6450993,
+          49.3847498
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Bílavsko 17, 76861, Bystřice pod Hostýnem ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "76900:39"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.6524765,
+          49.4319272
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Sovadina 13, 76861, Bystřice pod Hostýnem ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "76900:44"
       },
       "type": "Feature"
     }

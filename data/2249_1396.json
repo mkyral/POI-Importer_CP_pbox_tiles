@@ -13,92 +13,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "77072:902"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.7173882,
-          49.5906706
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Olšovec 80, OÚ <br><b>Adresa:</b> č.p. 80, 75301, Olšovec ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "77072:903"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.6858716,
-          49.6047712
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Olšovec, Boňkov 133 (stojan) <br><b>Adresa:</b> Přerov; Olšovec; Boňkov ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "77072:904"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.7189048,
-          49.570098
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Hranice III - Velká 43, obchod (stojan) <br><b>Adresa:</b> Hranice III-Velká 43, 75301, Hranice ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "77072:906"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.7064341,
-          49.5878742
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Hranice, Lhotka 29, aut.zastávka (stojan) <br><b>Adresa:</b> Přerov; Hranice; Hranice II-Lhotka ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "77072:907"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.7370963,
-          49.5971585
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Střítež nad Ludinou 102 (stojan) <br><b>Adresa:</b> Přerov; Střítež nad Ludinou; Střítež nad Ludinou ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "77072:908"
+        "operator:wikidata": "Q341090",
+        "ref": "75300:3"
       },
       "type": "Feature"
     },
@@ -115,7 +31,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "77072:933"
+        "operator:wikidata": "Q341090",
+        "ref": "75300:34"
       },
       "type": "Feature"
     },
@@ -132,7 +49,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "77072:937"
+        "operator:wikidata": "Q341090",
+        "ref": "75300:38"
       },
       "type": "Feature"
     },
@@ -149,7 +67,26 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "77072:938"
+        "operator:wikidata": "Q341090",
+        "ref": "75300:39"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.7173882,
+          49.5906706
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Olšovec 80, OÚ <br><b>Adresa:</b> č.p. 80, 75301, Olšovec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "75300:4"
       },
       "type": "Feature"
     },
@@ -166,7 +103,26 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "77072:945"
+        "operator:wikidata": "Q341090",
+        "ref": "75300:46"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.6858716,
+          49.6047712
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Olšovec, Boňkov 133 (stojan) <br><b>Adresa:</b> Přerov; Olšovec; Boňkov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "75300:5"
       },
       "type": "Feature"
     },
@@ -183,7 +139,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "77072:949"
+        "operator:wikidata": "Q341090",
+        "ref": "75300:50"
       },
       "type": "Feature"
     },
@@ -200,7 +157,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "77072:950"
+        "operator:wikidata": "Q341090",
+        "ref": "75300:51"
       },
       "type": "Feature"
     },
@@ -217,7 +175,26 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "77072:951"
+        "operator:wikidata": "Q341090",
+        "ref": "75300:52"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.7189048,
+          49.570098
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hranice III - Velká 43, obchod (stojan) <br><b>Adresa:</b> Hranice III-Velká 43, 75301, Hranice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "75300:7"
       },
       "type": "Feature"
     },
@@ -234,7 +211,44 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "77072:973"
+        "operator:wikidata": "Q341090",
+        "ref": "75300:74"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.7064341,
+          49.5878742
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hranice, Lhotka 29, aut.zastávka (stojan) <br><b>Adresa:</b> Přerov; Hranice; Hranice II-Lhotka ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "75300:8"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.7370963,
+          49.5971585
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Střítež nad Ludinou 102 (stojan) <br><b>Adresa:</b> Přerov; Střítež nad Ludinou; Střítež nad Ludinou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "75300:9"
       },
       "type": "Feature"
     }

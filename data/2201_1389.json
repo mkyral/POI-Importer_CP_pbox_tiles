@@ -3,51 +3,54 @@
     {
       "geometry": {
         "coordinates": [
-          13.4560481,
-          49.96418
+          13.4560479,
+          49.9641789
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Hadačka,prodejna <br><b>Adresa:</b> Plzeň-sever; Výrov; Hadačka <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Hadačka,prodejna <br><b>Adresa:</b> Plzeň-sever; Výrov; Hadačka ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "30071:390"
+        "operator:wikidata": "Q341090",
+        "ref": "33145:1"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          13.4655202,
-          49.9858083
+          13.4655864,
+          49.9857096
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Mariánský Týnec,č.p.9 <br><b>Adresa:</b> Mariánský Týnec 9, 33141, Kralovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.96 m",
+        "_note": "<br><b>Poznámka:</b> Mariánský Týnec,č.p.9 <br><b>Adresa:</b> Mariánský Týnec 9, 33141, Kralovice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "30071:391"
+        "operator:wikidata": "Q341090",
+        "ref": "33145:2"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          13.4866779,
-          49.9795581
+          13.4867523,
+          49.9795788
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Kralovice - pošta <br><b>Adresa:</b> Masarykovo nám. 93, 33141, Kralovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.8 m",
+        "_note": "<br><b>Poznámka:</b> Kralovice - pošta <br><b>Adresa:</b> Masarykovo nám. 93, 33141, Kralovice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "30071:447"
+        "operator:wikidata": "Q341090",
+        "ref": "33145:24"
       },
       "type": "Feature"
     }

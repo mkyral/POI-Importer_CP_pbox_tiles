@@ -9,11 +9,12 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Pohořelice, Znojemská 700, stojan u prodejny <br><b>Adresa:</b> Znojemská 700, 69123, Pohořelice ",
+        "_note": "<br><b>Poznámka:</b> Znojemská 700, stojan u prodejny <br><b>Adresa:</b> Znojemská 700, 69123, Pohořelice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "60010:870"
+        "operator:wikidata": "Q341090",
+        "ref": "69120:10"
       },
       "type": "Feature"
     },
@@ -30,7 +31,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "60010:904"
+        "operator:wikidata": "Q341090",
+        "ref": "69120:15"
       },
       "type": "Feature"
     }

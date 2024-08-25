@@ -3,51 +3,54 @@
     {
       "geometry": {
         "coordinates": [
-          18.6917446,
-          49.5459863
+          18.636275,
+          49.5258874
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Za stánkem Šotkovski, čp.105, Dolní Lomná (stojan) <br><b>Adresa:</b> Frýdek-Místek; Dolní Lomná; Dolní Lomná <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Obchod Turoňová,na čp.123, Horní Lomná <br><b>Adresa:</b> č.p. 123, 73991, Horní Lomná ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:30",
         "operator": "Česká pošta, s.p.",
-        "ref": "73917:108"
+        "operator:wikidata": "Q341090",
+        "ref": "73990:10"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          18.6364495,
-          49.5259232
+          18.7054434,
+          49.5478292
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Obchod Turoňová,na čp.123, Horní Lomná <br><b>Adresa:</b> č.p. 123, 73991, Horní Lomná <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 13.21 m",
+        "_note": "<br><b>Poznámka:</b> Partner Dolní Lomná <br><b>Adresa:</b> č.p. 164, 73991, Dolní Lomná ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:30",
         "operator": "Česká pošta, s.p.",
-        "ref": "73917:110"
+        "operator:wikidata": "Q341090",
+        "ref": "73990:20"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          18.7054574,
-          49.5477613
+          18.6917442,
+          49.5459853
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Partner Dolní Lomná <br><b>Adresa:</b> č.p. 164, 73991, Dolní Lomná <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 7.62 m",
+        "_note": "<br><b>Poznámka:</b> Za stánkem Šotkovski, čp.105, Dolní Lomná (stojan) <br><b>Adresa:</b> Frýdek-Místek; Dolní Lomná; Dolní Lomná ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:30",
         "operator": "Česká pošta, s.p.",
-        "ref": "73917:128"
+        "operator:wikidata": "Q341090",
+        "ref": "73990:8"
       },
       "type": "Feature"
     }

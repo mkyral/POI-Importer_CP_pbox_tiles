@@ -3,17 +3,36 @@
     {
       "geometry": {
         "coordinates": [
-          16.8583668,
-          48.9962779
+          16.8711818,
+          49.0317462
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> nám. Míru 169/1, 69172, Klobouky u Brna ",
+        "_note": "<br><b>Poznámka:</b> Partner Velké Hostěrádky <br><b>Adresa:</b> č.p. 65, 69174, Velké Hostěrádky ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "60010:852"
+        "operator:wikidata": "Q341090",
+        "ref": "69177:15"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.8109491,
+          49.0284108
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Partner Borkovany <br><b>Adresa:</b> č.p. 276, 69175, Borkovany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "69177:2"
       },
       "type": "Feature"
     },
@@ -30,41 +49,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "60010:853"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.8675792,
-          48.9952436
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Klobouky u Brna, Nádražní 3 <br><b>Adresa:</b> Nádražní 675/3, 69172, Klobouky u Brna ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "60010:854"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.7918292,
-          48.9885308
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Partner Diváky <br><b>Adresa:</b> č.p. 32, 69171, Diváky ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "60010:910"
+        "operator:wikidata": "Q341090",
+        "ref": "69177:6"
       },
       "type": "Feature"
     },
@@ -81,41 +67,62 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "60010:911"
+        "operator:wikidata": "Q341090",
+        "ref": "69177:7"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          16.8711818,
-          49.0317462
+          16.8675792,
+          48.9952436
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Partner Velké Hostěrádky <br><b>Adresa:</b> č.p. 65, 69174, Velké Hostěrádky ",
+        "_note": "<br><b>Poznámka:</b> Klobouky u Brna, Nádražní 3 <br><b>Adresa:</b> Nádražní 675/3, 69172, Klobouky u Brna ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "60010:913"
+        "operator:wikidata": "Q341090",
+        "ref": "69177:8"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          16.8089596,
-          49.0286501
+          16.8583668,
+          48.9962779
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Partner Borkovany <br><b>Adresa:</b> č.p. 86, 69175, Borkovany ",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> nám. Míru 169/1, 69172, Klobouky u Brna ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "60010:914"
+        "operator:wikidata": "Q341090",
+        "ref": "69177:9"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.7918292,
+          48.9885308
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Partner Diváky <br><b>Adresa:</b> č.p. 32, 69171, Diváky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "69300:3"
       },
       "type": "Feature"
     }

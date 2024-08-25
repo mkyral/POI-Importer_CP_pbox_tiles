@@ -13,6 +13,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "37271:647"
       },
       "type": "Feature"
@@ -30,6 +31,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "37271:651"
       },
       "type": "Feature"
@@ -37,34 +39,36 @@
     {
       "geometry": {
         "coordinates": [
-          14.2253812,
-          48.6400571
+          14.2254999,
+          48.6402019
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 83, 38278, Lipno nad Vltavou <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 18.32 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 83, 38278, Lipno nad Vltavou ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "37271:748"
+        "operator:wikidata": "Q341090",
+        "ref": "38240:53"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          14.230072,
-          48.6398601
+          14.2302176,
+          48.6398382
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Budova pošty Lipno nad Vltavou <br><b>Adresa:</b> č.p. 37, 38278, Lipno nad Vltavou <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.98 m",
+        "_note": "<br><b>Poznámka:</b> Budova pošty Lipno nad Vltavou <br><b>Adresa:</b> č.p. 37, 38278, Lipno nad Vltavou ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "37271:752"
+        "operator:wikidata": "Q341090",
+        "ref": "38240:56"
       },
       "type": "Feature"
     }

@@ -3,91 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          17.0194851,
-          49.6445229
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Bílsko před č.p.11, naproti obchodu (stojan) <br><b>Adresa:</b> č.p. 11, 78322, Bílsko <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 34.26 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "77072:454"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.0112205,
-          49.6570652
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Loučka za č.p. 5, naproti obchodu (stojan) <br><b>Adresa:</b> č.p. 5, 78322, Loučka <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 33.16 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "77072:455"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.0017185,
-          49.6135266
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Olbramice za č.p. 24, naproti obchodu (stojan) <br><b>Adresa:</b> Olomouc; Olbramice; Olbramice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.53 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "77072:456"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.0265736,
-          49.6265473
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Senice na Hané, Cakov za č.p.8, u obchodu (stojan) <br><b>Adresa:</b> Cakov 8, 78322, Senice na Hané <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.62 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "77072:457"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.9956542,
-          49.6358711
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Vilémov 146, pošta (stojan) <br><b>Adresa:</b> č.p. 146, 78322, Vilémov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 18.29 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "77072:458"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           17.0381354,
           49.619088
         ],
@@ -98,7 +13,98 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "77072:687"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.0199608,
+          49.644524
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bílsko před č.p.11, naproti obchodu (stojan) <br><b>Adresa:</b> č.p. 11, 78322, Bílsko ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "78400:46"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.0115641,
+          49.6572637
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Loučka za č.p. 5, naproti obchodu (stojan) <br><b>Adresa:</b> č.p. 5, 78322, Loučka ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "78400:47"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.001629,
+          49.6135173
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Olbramice za č.p. 24, naproti obchodu (stojan) <br><b>Adresa:</b> Olomouc; Olbramice; Olbramice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "78400:48"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.0267345,
+          49.6265404
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Senice na Hané, Cakov za č.p.8, u obchodu (stojan) <br><b>Adresa:</b> Cakov 8, 78322, Senice na Hané ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "78400:49"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.9958473,
+          49.6359778
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vilémov 146, pošta (stojan) <br><b>Adresa:</b> č.p. 146, 78322, Vilémov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "78400:50"
       },
       "type": "Feature"
     }

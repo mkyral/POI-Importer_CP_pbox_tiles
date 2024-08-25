@@ -3,17 +3,18 @@
     {
       "geometry": {
         "coordinates": [
-          16.8928477,
-          48.9125063
+          16.8971766,
+          48.9150248
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Vrbice <br><b>Adresa:</b> č.p. 8, 69109, Vrbice ",
+        "_note": "<br><b>Poznámka:</b> prodejna COOP, stojan u chodníku <br><b>Adresa:</b> č.p. 344, 69109, Vrbice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "60010:843"
+        "operator:wikidata": "Q341090",
+        "ref": "69300:35"
       },
       "type": "Feature"
     },
@@ -26,11 +27,12 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Vrbice u Břeclavě <br><b>Adresa:</b> č.p. 8, 69109, Vrbice ",
+        "_note": "<br><b>Poznámka:</b> pošta Vrbice <br><b>Adresa:</b> č.p. 8, 69109, Vrbice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "60010:894"
+        "operator:wikidata": "Q341090",
+        "ref": "69300:36"
       },
       "type": "Feature"
     },
@@ -47,6 +49,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "69507:29"
       },
       "type": "Feature"
@@ -64,6 +67,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "69507:30"
       },
       "type": "Feature"
@@ -81,6 +85,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "69507:31"
       },
       "type": "Feature"
@@ -98,6 +103,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "69507:32"
       },
       "type": "Feature"

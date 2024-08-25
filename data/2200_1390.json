@@ -3,85 +3,90 @@
     {
       "geometry": {
         "coordinates": [
-          13.3738511,
-          49.9095879
+          13.3755135,
+          49.9110004
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Rybnice -prodejna COOP <br><b>Adresa:</b> č.p. 150, 33151, Rybnice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 197.14 m",
+        "_note": "<br><b>Poznámka:</b> Rybnice -prodejna COOP <br><b>Adresa:</b> č.p. 150, 33151, Rybnice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "30071:287"
+        "operator:wikidata": "Q341090",
+        "ref": "33100:1"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          13.3815545,
-          49.8961359
+          13.3855711,
+          49.9326262
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Kaznějov - pošta <br><b>Adresa:</b> Poštovní 424, 33151, Kaznějov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 13.98 m",
+        "_note": "<br><b>Poznámka:</b> Plasy - pošta <br><b>Adresa:</b> Plzeňská 516, 33101, Plasy ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "30071:305"
+        "operator:wikidata": "Q341090",
+        "ref": "33100:14"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          13.4287093,
-          49.9376012
+          13.3815706,
+          49.8962612
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Babiná,stojan u zastávky <br><b>Adresa:</b> Plzeň-sever; Plasy; Babina <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Kaznějov - pošta <br><b>Adresa:</b> Poštovní 424, 33151, Kaznějov ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "30071:361"
+        "operator:wikidata": "Q341090",
+        "ref": "33100:5"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          13.4136146,
-          49.9221329
+          13.428709,
+          49.9376002
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Nebřeziny, u zastávky <br><b>Adresa:</b> Plzeň-sever; Plasy; Nebřeziny <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Babiná,stojan u zastávky <br><b>Adresa:</b> Plzeň-sever; Plasy; Babina ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "30071:362"
+        "operator:wikidata": "Q341090",
+        "ref": "33100:8"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          13.3856382,
-          49.9325666
+          13.4136143,
+          49.9221319
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Plasy - pošta <br><b>Adresa:</b> Plzeňská 516, 33101, Plasy <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.19 m",
+        "_note": "<br><b>Poznámka:</b> Nebřeziny, u zastávky <br><b>Adresa:</b> Plzeň-sever; Plasy; Nebřeziny ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "30071:383"
+        "operator:wikidata": "Q341090",
+        "ref": "33100:9"
       },
       "type": "Feature"
     }

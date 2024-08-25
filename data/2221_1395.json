@@ -3,68 +3,72 @@
     {
       "geometry": {
         "coordinates": [
-          15.226831,
-          49.6264565
+          15.2267371,
+          49.6265225
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Na Kampeličce <br><b>Adresa:</b> č.p. 72, 25768, Snět <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.98 m",
+        "_note": "<br><b>Poznámka:</b> Na Kampeličce <br><b>Adresa:</b> č.p. 72, 25768, Snět ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "25607:305"
+        "operator:wikidata": "Q341090",
+        "ref": "25800:33"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          15.2335447,
-          49.6382506
+          15.2336346,
+          49.6383696
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> BUS zastávka <br><b>Adresa:</b> Dolní Rápotice 11, 25768, Šetějovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 14.74 m",
+        "_note": "<br><b>Poznámka:</b> BUS zastávka <br><b>Adresa:</b> Dolní Rápotice 11, 25768, Šetějovice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "25607:306"
+        "operator:wikidata": "Q341090",
+        "ref": "25800:34"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          15.222169,
-          49.6449869
+          15.2219169,
+          49.6446204
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> BUS zastávka <br><b>Adresa:</b> č.p. 13, 25768, Šetějovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 44.63 m",
+        "_note": "<br><b>Poznámka:</b> BUS zastávka <br><b>Adresa:</b> č.p. 13, 25768, Šetějovice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "25607:307"
+        "operator:wikidata": "Q341090",
+        "ref": "25800:35"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          15.2345312,
-          49.6129343
+          15.2345486,
+          49.6128031
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 13, 39601, Ježov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 14.65 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 13, 39601, Ježov ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "39307:305"
+        "operator:wikidata": "Q341090",
+        "ref": "39600:30"
       },
       "type": "Feature"
     },
@@ -81,6 +85,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "58007:38"
       },
       "type": "Feature"

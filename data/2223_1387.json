@@ -13,6 +13,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "28007:113"
       },
       "type": "Feature"
@@ -30,6 +31,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "28007:114"
       },
       "type": "Feature"
@@ -47,6 +49,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "28007:115"
       },
       "type": "Feature"
@@ -64,6 +67,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "28007:116"
       },
       "type": "Feature"
@@ -81,6 +85,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "28007:119"
       },
       "type": "Feature"
@@ -88,51 +93,54 @@
     {
       "geometry": {
         "coordinates": [
-          15.4445362,
-          50.079711
+          15.4445359,
+          50.07971
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Hostinec <br><b>Adresa:</b> Pardubice; Tetov; Tetov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Hostinec <br><b>Adresa:</b> Pardubice; Tetov; Tetov ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53307:546"
+        "operator:wikidata": "Q341090",
+        "ref": "53500:45"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          15.4392649,
-          50.0942111
+          15.4392646,
+          50.0942101
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Požární zbrojnice, Bílé  Vchýnice - držák <br><b>Adresa:</b> Pardubice; Kladruby nad Labem; Bílé Vchynice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Požární zbrojnice, Bílé  Vchýnice - držák <br><b>Adresa:</b> Pardubice; Kladruby nad Labem; Bílé Vchynice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53307:547"
+        "operator:wikidata": "Q341090",
+        "ref": "53500:46"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          15.4268185,
-          50.076817
+          15.4277233,
+          50.074799
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 28, 53315, Hlavečník <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 233.57 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 28, 53315, Hlavečník ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53307:561"
+        "operator:wikidata": "Q341090",
+        "ref": "53500:60"
       },
       "type": "Feature"
     }

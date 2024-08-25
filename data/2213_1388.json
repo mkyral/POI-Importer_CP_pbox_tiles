@@ -3,74 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          14.5109096,
-          50.0174857
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> K Hrnčířům 21, Šeberov, 14900, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 21.72 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "10003:11"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5135067,
-          50.0132717
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> K Hrnčířům 34, Šeberov, 14900, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.23 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "10003:12"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5464447,
-          50.0125452
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> BUS K Sukovu <br><b>Adresa:</b> Formanská 30, Újezd u Průhonic, 14900, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 24.99 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "10003:15"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5203295,
-          50.0205831
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Formanská 208, Újezd u Průhonic, 14900, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 36.92 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "10003:16"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           14.584496,
           50.0349112
         ],
@@ -81,6 +13,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "10003:162"
       },
       "type": "Feature"
@@ -98,6 +31,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "10003:175"
       },
       "type": "Feature"
@@ -115,24 +49,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "10003:177"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5034954,
-          50.0299312
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Starochodovská 2401/55, Chodov, 14900, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 33.61 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "10003:18"
       },
       "type": "Feature"
     },
@@ -149,126 +67,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "10003:182"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5245139,
-          50.0223923
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> U pramene 429/1, Újezd u Průhonic, 14900, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 28.11 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "10003:20"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5175662,
-          50.0319622
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Praha 415 <br><b>Adresa:</b> Podjavorinské 1595/1, Chodov, 14900, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 21.45 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "10003:28"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5076784,
-          50.0273607
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Chilská ul - Metro Opatov BUS směr jih <br><b>Adresa:</b> Hl. město Praha; Praha; Chodov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "10003:382"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.509863,
-          50.0255802
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Šalounova 2025/7, Chodov, 14900, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 13.14 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "10003:383"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5150686,
-          50.0251068
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> BUS Ke Kateřinkám <br><b>Adresa:</b> Opatovská 1753/12, Chodov, 14900, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 143.62 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "10003:384"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5210422,
-          50.0258959
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Bohúňova 1550/19, Chodov, 14900, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 23.37 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "10003:385"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.523156,
-          50.0288822
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Konstantinova 1483/24, Chodov, 14900, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 31.67 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "10003:387"
       },
       "type": "Feature"
     },
@@ -285,126 +85,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 10:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "10003:39"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5389787,
-          50.0309185
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Štichova 640/24, Háje, 14900, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 18.02 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "10003:390"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5357648,
-          50.0332644
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> roh Opatovská <br><b>Adresa:</b> Nešporova 573/2, Háje, 14900, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 55.68 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "10003:391"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5273512,
-          50.0361543
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> BUS Wagnerova <br><b>Adresa:</b> Výstavní 178/8, Háje, 14900, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 29.56 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "10003:394"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5254387,
-          50.0333708
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Hviezdoslavova 504/15, Háje, 14900, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 19.93 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "10003:395"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5242391,
-          50.0305671
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> BUS Modrá škola <br><b>Adresa:</b> U modré školy 2337/1, Chodov, 14900, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 84.25 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "10003:396"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5133233,
-          50.0319352
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> roh Hviezdoslavova-Machkova <br><b>Adresa:</b> Brandlova 1640/2, Chodov, 14900, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 91.74 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "10003:398"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5124977,
-          50.0343318
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> roh Květnového vítězství <br><b>Adresa:</b> Machkova 1645/8, Chodov, 14900, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 51.08 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "10003:399"
       },
       "type": "Feature"
     },
@@ -421,41 +103,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 10:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "10003:40"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5159868,
-          50.0370969
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Matúškova 787/12, Háje, 14900, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 31.62 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "10003:400"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5088149,
-          50.0373702
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> BUS Donovalská <br><b>Adresa:</b> Pištěkova 183/2, Chodov, 14900, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 28.09 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "10003:401"
       },
       "type": "Feature"
     },
@@ -472,24 +121,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 10:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "10003:41"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5359636,
-          50.0289125
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> K Milíčovu 734/1, Háje, 14900, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 61.86 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "10003:418"
       },
       "type": "Feature"
     },
@@ -506,6 +139,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 10:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "10003:448"
       },
       "type": "Feature"
@@ -523,6 +157,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 10:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "10003:449"
       },
       "type": "Feature"
@@ -540,6 +175,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 10:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "10003:45"
       },
       "type": "Feature"
@@ -557,6 +193,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 10:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "10003:450"
       },
       "type": "Feature"
@@ -574,6 +211,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 10:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "10003:451"
       },
       "type": "Feature"
@@ -591,6 +229,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 10:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "10003:452"
       },
       "type": "Feature"
@@ -608,6 +247,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 10:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "10003:453"
       },
       "type": "Feature"
@@ -625,6 +265,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 10:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "10003:455"
       },
       "type": "Feature"
@@ -642,6 +283,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 10:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "10003:456"
       },
       "type": "Feature"
@@ -659,6 +301,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 10:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "10003:458"
       },
       "type": "Feature"
@@ -676,6 +319,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 10:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "10003:461"
       },
       "type": "Feature"
@@ -693,6 +337,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 10:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "10003:521"
       },
       "type": "Feature"
@@ -710,6 +355,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 10:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "10003:523"
       },
       "type": "Feature"
@@ -727,6 +373,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 10:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "10003:532"
       },
       "type": "Feature"
@@ -744,6 +391,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 10:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "10003:533"
       },
       "type": "Feature"
@@ -761,7 +409,386 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 10:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "10003:534"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5031517,
+          50.0297249
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Starochodovská 2401/55, Chodov, 14900, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "14999:10"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5172733,
+          50.03192
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Praha 415 <br><b>Adresa:</b> Podjavorinské 1595/1, Chodov, 14900, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "14999:13"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5076783,
+          50.0273606
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Chilská ul - Metro Opatov BUS směr jih <br><b>Adresa:</b> Hl. město Praha; Praha; Chodov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "14999:29"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5098402,
+          50.0256974
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Šalounova 2025/7, Chodov, 14900, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "14999:30"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5170749,
+          50.0251829
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> BUS Ke Kateřinkám <br><b>Adresa:</b> Opatovská 1753/12, Chodov, 14900, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "14999:31"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5213649,
+          50.0259302
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Bohúňova 1550/19, Chodov, 14900, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "14999:32"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5235992,
+          50.0288826
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Konstantinova 1483/24, Chodov, 14900, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "14999:33"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5389525,
+          50.0307574
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Štichova 640/24, Háje, 14900, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "14999:34"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.53575,
+          50.0337649
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> roh Opatovská <br><b>Adresa:</b> Nešporova 573/2, Háje, 14900, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "14999:35"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.52723,
+          50.0359002
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> BUS Wagnerova <br><b>Adresa:</b> Výstavní 178/8, Háje, 14900, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "14999:37"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5252791,
+          50.0335177
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Hviezdoslavova 504/15, Háje, 14900, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "14999:38"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5236042,
+          50.0299288
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> BUS Modrá škola <br><b>Adresa:</b> U modré školy 2337/1, Chodov, 14900, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "14999:39"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5109806,
+          50.0172958
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> K Hrnčířům 21, Šeberov, 14900, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "14999:4"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5144747,
+          50.0323003
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> roh Hviezdoslavova-Machkova <br><b>Adresa:</b> Brandlova 1640/2, Chodov, 14900, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "14999:40"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5128658,
+          50.0339381
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> roh Květnového vítězství <br><b>Adresa:</b> Machkova 1645/8, Chodov, 14900, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "14999:41"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5159347,
+          50.0368146
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Matúškova 787/12, Háje, 14900, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "14999:42"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.509208,
+          50.0373762
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> BUS Donovalská <br><b>Adresa:</b> Pištěkova 183/2, Chodov, 14900, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "14999:43"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5368031,
+          50.0290482
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> K Milíčovu 734/1, Háje, 14900, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "14999:47"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.513526,
+          50.0131988
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> K Hrnčířům 34, Šeberov, 14900, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "14999:5"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5461,
+          50.0125077
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> BUS K Sukovu <br><b>Adresa:</b> Formanská 30, Újezd u Průhonic, 14900, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "14999:8"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5207962,
+          50.0207255
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Formanská 208, Újezd u Průhonic, 14900, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "14999:9"
       },
       "type": "Feature"
     }

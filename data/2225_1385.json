@@ -13,6 +13,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "50370:164"
       },
       "type": "Feature"
@@ -30,6 +31,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "50370:181"
       },
       "type": "Feature"
@@ -47,6 +49,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "50370:182"
       },
       "type": "Feature"
@@ -64,6 +67,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "50370:183"
       },
       "type": "Feature"
@@ -81,6 +85,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "50370:184"
       },
       "type": "Feature"
@@ -98,6 +103,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "50370:185"
       },
       "type": "Feature"
@@ -115,6 +121,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "50370:195"
       },
       "type": "Feature"
@@ -122,51 +129,54 @@
     {
       "geometry": {
         "coordinates": [
-          15.5865395,
-          50.1922478
+          15.586404,
+          50.1920374
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> zastávka ČSAD <br><b>Adresa:</b> č.p. 71, 50351, Babice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 25.31 m",
+        "_note": "<br><b>Poznámka:</b> zastávka ČSAD <br><b>Adresa:</b> č.p. 71, 50351, Babice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "50370:336"
+        "operator:wikidata": "Q341090",
+        "ref": "50400:24"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          15.5675354,
-          50.1983162
+          15.5674729,
+          50.1982713
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> OÚ <br><b>Adresa:</b> č.p. 62, 50401, Barchov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.69 m",
+        "_note": "<br><b>Poznámka:</b> OÚ <br><b>Adresa:</b> č.p. 62, 50401, Barchov ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "50370:420"
+        "operator:wikidata": "Q341090",
+        "ref": "50400:46"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          15.5624923,
-          50.2254212
+          15.5624921,
+          50.2254202
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Zdechovice prodejna <br><b>Adresa:</b> Hradec Králové; Zdechovice; Zdechovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Zdechovice prodejna <br><b>Adresa:</b> Hradec Králové; Zdechovice; Zdechovice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "50370:430"
+        "operator:wikidata": "Q341090",
+        "ref": "50400:56"
       },
       "type": "Feature"
     }

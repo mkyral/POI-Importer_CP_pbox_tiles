@@ -3,34 +3,36 @@
     {
       "geometry": {
         "coordinates": [
-          12.5027574,
-          50.3737463
+          12.5028305,
+          50.3737993
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Bublava - pošta <br><b>Adresa:</b> č.p. 686, 35801, Bublava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 7.85 m",
+        "_note": "<br><b>Poznámka:</b> Bublava - pošta <br><b>Adresa:</b> č.p. 686, 35801, Bublava ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "35007:228"
+        "operator:wikidata": "Q341090",
+        "ref": "35600:38"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          12.5251171,
-          50.3586698
+          12.5251756,
+          50.3586223
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Stříbrná - pošta <br><b>Adresa:</b> č.p. 7, 35801, Stříbrná <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.72 m",
+        "_note": "<br><b>Poznámka:</b> Stříbrná - pošta <br><b>Adresa:</b> č.p. 7, 35801, Stříbrná ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "35007:229"
+        "operator:wikidata": "Q341090",
+        "ref": "35600:39"
       },
       "type": "Feature"
     }

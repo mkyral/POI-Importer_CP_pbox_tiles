@@ -3,34 +3,36 @@
     {
       "geometry": {
         "coordinates": [
-          15.5591518,
-          50.6213528
+          15.5591515,
+          50.6213518
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> zastávka BUS Valteřice, poblíž č.p. 152 <br><b>Adresa:</b> Semily; Horní Branná; Valteřice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> zastávka BUS Valteřice, poblíž č.p. 152 <br><b>Adresa:</b> Semily; Horní Branná; Valteřice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "51107:261"
+        "operator:wikidata": "Q341090",
+        "ref": "51400:16"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          15.5687291,
-          50.6110609
+          15.5686679,
+          50.6110384
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Horní Branná <br><b>Adresa:</b> č.p. 326, 51236, Horní Branná <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 4.99 m",
+        "_note": "<br><b>Poznámka:</b> pošta Horní Branná <br><b>Adresa:</b> č.p. 326, 51236, Horní Branná ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "51107:288"
+        "operator:wikidata": "Q341090",
+        "ref": "51400:27"
       },
       "type": "Feature"
     },
@@ -47,6 +49,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "54107:733"
       },
       "type": "Feature"
@@ -64,6 +67,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "54300:17"
       },
       "type": "Feature"
@@ -81,6 +85,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "54300:18"
       },
       "type": "Feature"
@@ -98,6 +103,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "54300:2"
       },
       "type": "Feature"
@@ -115,6 +121,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "54300:3"
       },
       "type": "Feature"
@@ -132,6 +139,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "54300:5"
       },
       "type": "Feature"
@@ -149,6 +157,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "54300:6"
       },
       "type": "Feature"
@@ -166,6 +175,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "54300:7"
       },
       "type": "Feature"

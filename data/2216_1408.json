@@ -3,17 +3,18 @@
     {
       "geometry": {
         "coordinates": [
-          14.773873,
-          48.8844834
+          14.7735465,
+          48.8843943
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Šalmanovice 37, 37312, Jílovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 25.86 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Šalmanovice 37, 37312, Jílovice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "37271:295"
+        "operator:wikidata": "Q341090",
+        "ref": "37400:16"
       },
       "type": "Feature"
     },
@@ -30,6 +31,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "37900:29"
       },
       "type": "Feature"
@@ -47,6 +49,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "37900:53"
       },
       "type": "Feature"

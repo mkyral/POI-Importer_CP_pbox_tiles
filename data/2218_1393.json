@@ -3,85 +3,90 @@
     {
       "geometry": {
         "coordinates": [
-          14.9575729,
-          49.7773511
+          14.9570686,
+          49.777287
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Zdebuzeves 34, 25726, Divišov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 36.92 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Zdebuzeves 34, 25726, Divišov ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "25607:216"
+        "operator:wikidata": "Q341090",
+        "ref": "25800:27"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          14.9668577,
-          49.7344565
+          14.9666431,
+          49.7339876
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 11, 25801, Tehov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 54.39 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 11, 25801, Tehov ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "25607:341"
+        "operator:wikidata": "Q341090",
+        "ref": "25800:45"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          14.9616188,
-          49.7559324
+          14.9614807,
+          49.7559558
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 59, 25801, Psáře <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.26 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 59, 25801, Psáře ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "25607:362"
+        "operator:wikidata": "Q341090",
+        "ref": "25800:54"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          15.0073332,
-          49.7645224
+          15.0076913,
+          49.7648594
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Soušice 13, 25763, Tichonice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 45.46 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Soušice 13, 25763, Tichonice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "25607:391"
+        "operator:wikidata": "Q341090",
+        "ref": "25800:64"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          14.9921822,
-          49.7768596
+          14.9919649,
+          49.7768709
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 4, 25763, Tichonice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 15.66 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 4, 25763, Tichonice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "25607:393"
+        "operator:wikidata": "Q341090",
+        "ref": "25800:65"
       },
       "type": "Feature"
     },
@@ -98,6 +103,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "28007:442"
       },
       "type": "Feature"

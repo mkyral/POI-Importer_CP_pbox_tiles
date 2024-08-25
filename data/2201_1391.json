@@ -3,68 +3,72 @@
     {
       "geometry": {
         "coordinates": [
-          13.4680042,
-          49.8837512
+          13.4847484,
+          49.8547915
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Dobříč - prodejna COOP, čp.100 <br><b>Adresa:</b> č.p. 100, 33005, Dobříč <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.78 m",
+        "_note": "<br><b>Poznámka:</b> Chotiná - kulturní dům  čp.60 <br><b>Adresa:</b> Chotiná 60, 33011, Hromnice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "30071:298"
+        "operator:wikidata": "Q341090",
+        "ref": "32301:11"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          13.4848637,
-          49.8548313
+          13.5173363,
+          49.8561091
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Chotiná - kulturní dům  čp.60 <br><b>Adresa:</b> Chotiná 60, 33011, Hromnice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.38 m",
+        "_note": "<br><b>Poznámka:</b> Planá - autob. zast. u čp.19 <br><b>Adresa:</b> Planá 19, 33011, Hromnice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "30072:418"
+        "operator:wikidata": "Q341090",
+        "ref": "32301:12"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          13.5166889,
-          49.8558872
+          13.5121272,
+          49.8466672
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Planá - autob. zast. u čp.19 <br><b>Adresa:</b> Planá 19, 33011, Hromnice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 52.58 m",
+        "_note": "<br><b>Poznámka:</b> Nynice - budova prodejny <br><b>Adresa:</b> Nynice 10, 33011, Hromnice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "30072:419"
+        "operator:wikidata": "Q341090",
+        "ref": "32301:13"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          13.5121273,
-          49.8466674
+          13.4681578,
+          49.8837136
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Nynice - budova prodejny <br><b>Adresa:</b> Nynice 10, 33011, Hromnice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Dobříč - prodejna COOP, čp.100 <br><b>Adresa:</b> č.p. 100, 33005, Dobříč ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "30072:420"
+        "operator:wikidata": "Q341090",
+        "ref": "33100:3"
       },
       "type": "Feature"
     }

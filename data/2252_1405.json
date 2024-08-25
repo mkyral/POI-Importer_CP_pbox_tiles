@@ -13,6 +13,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "75707:172"
       },
       "type": "Feature"
@@ -30,6 +31,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "75707:173"
       },
       "type": "Feature"
@@ -47,6 +49,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "75707:182"
       },
       "type": "Feature"
@@ -64,6 +67,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "75707:184"
       },
       "type": "Feature"
@@ -81,6 +85,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "75707:270"
       },
       "type": "Feature"
@@ -88,17 +93,18 @@
     {
       "geometry": {
         "coordinates": [
-          17.9378638,
-          49.0383243
+          17.9374983,
+          49.0384245
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> u telefonní budky <br><b>Adresa:</b> Kochavec 71, 76321, Rokytnice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 28.89 m",
+        "_note": "<br><b>Poznámka:</b> u telefonní budky <br><b>Adresa:</b> Kochavec 71, 76321, Rokytnice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76607:145"
+        "operator:wikidata": "Q341090",
+        "ref": "76320:16"
       },
       "type": "Feature"
     }

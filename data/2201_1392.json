@@ -13,75 +13,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "30072:145"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.5095298,
-          49.8334385
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Kostelec - autobus. zast. u E9 <br><b>Adresa:</b> Kostelec E9, 33011, Hromnice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "30072:421"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.5240159,
-          49.8213338
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Nadryby - kulturní dům,  u čp.55 <br><b>Adresa:</b> č.p. 55, 33011, Nadryby <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 15.6 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "30072:422"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.4710636,
-          49.8053311
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Dolany - prodejna u čp.107 <br><b>Adresa:</b> č.p. 107, 33011, Dolany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 12.85 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "30072:423"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.4489102,
-          49.7975023
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Druztová - pošta <br><b>Adresa:</b> č.p. 1, 33007, Druztová <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 12.27 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "30072:430"
       },
       "type": "Feature"
     },
@@ -98,6 +31,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:30",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "30072:81"
       },
       "type": "Feature"
@@ -115,7 +49,80 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:30",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "30072:82"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.5095297,
+          49.8334383
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kostelec - autobus. zast. u E9 <br><b>Adresa:</b> Kostelec E9, 33011, Hromnice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "32301:14"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.5238563,
+          49.821429
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nadryby - kulturní dům,  u čp.55 <br><b>Adresa:</b> č.p. 55, 33011, Nadryby ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "32301:15"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.4709214,
+          49.8054012
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dolany - prodejna u čp.107 <br><b>Adresa:</b> č.p. 107, 33011, Dolany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "32301:16"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.4488767,
+          49.7976105
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Druztová - pošta <br><b>Adresa:</b> č.p. 1, 33007, Druztová ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "32301:20"
       },
       "type": "Feature"
     }

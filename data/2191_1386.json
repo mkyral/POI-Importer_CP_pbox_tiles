@@ -3,6 +3,132 @@
     {
       "geometry": {
         "coordinates": [
+          12.6130154,
+          50.162435
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Citice - pošta <br><b>Adresa:</b> č.p. 166, 35601, Citice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "35600:10"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.651904,
+          50.1740749
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Sokolov, prodejna PENNY <br><b>Adresa:</b> Sokolov; Sokolov; Sokolov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "35600:12"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.647427,
+          50.1479793
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Březová u Sokolova, Hlavní 101 <br><b>Adresa:</b> Hlavní 101, 35601, Březová ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "35600:15"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.5813231,
+          50.1350681
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Šabina, obchod <br><b>Adresa:</b> Sokolov; Šabina; Šabina ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "35600:16"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.6487425,
+          50.1627293
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dolní Rychnov - pošta <br><b>Adresa:</b> Dobrovského 173, 35604, Dolní Rychnov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "35600:17"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.5750142,
+          50.16293
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bukovany u Sokolova - pošta <br><b>Adresa:</b> č.p. 156, 35755, Bukovany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "35600:25"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.5684168,
+          50.1467976
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dasnice č.17, obchod <br><b>Adresa:</b> č.p. 17, 35709, Dasnice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "35600:26"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           12.6497101,
           50.1745115
         ],
@@ -13,160 +139,26 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "35007:157"
+        "operator:wikidata": "Q341090",
+        "ref": "35600:3"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          12.6451613,
-          50.1736367
+          12.6456146,
+          50.173665
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Sokolov, Spartakiádní 1957 <br><b>Adresa:</b> Spartakiádní 1957, 35601, Sokolov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 32.45 m",
+        "_note": "<br><b>Poznámka:</b> Sokolov, Spartakiádní 1957 <br><b>Adresa:</b> Spartakiádní 1957, 35601, Sokolov ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "35007:160"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          12.6551989,
-          50.173576
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Sokolov, Slovenská <br><b>Adresa:</b> Sokolov; Sokolov; Sokolov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "35007:167"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          12.6130181,
-          50.1624625
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Citice - pošta <br><b>Adresa:</b> č.p. 166, 35601, Citice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 3.06 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "35007:169"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          12.6519042,
-          50.174076
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Sokolov, prodejna PENNY <br><b>Adresa:</b> Sokolov; Sokolov; Sokolov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "35007:174"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          12.6470662,
-          50.147966
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Březová u Sokolova, Hlavní 101 <br><b>Adresa:</b> Hlavní 101, 35601, Březová <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 25.76 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "35007:178"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          12.5813233,
-          50.1350691
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Šabina, obchod <br><b>Adresa:</b> Sokolov; Šabina; Šabina <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "35007:182"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          12.6486272,
-          50.1627461
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Dolní Rychnov - pošta <br><b>Adresa:</b> Dobrovského 173, 35604, Dolní Rychnov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.43 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "35007:184"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          12.5751483,
-          50.1629558
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Bukovany u Sokolova - pošta <br><b>Adresa:</b> č.p. 156, 35755, Bukovany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.98 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "35007:202"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          12.5684389,
-          50.146884
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Dasnice č.17, obchod <br><b>Adresa:</b> č.p. 17, 35709, Dasnice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.74 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "35007:203"
+        "operator:wikidata": "Q341090",
+        "ref": "35600:5"
       },
       "type": "Feature"
     }

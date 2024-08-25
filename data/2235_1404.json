@@ -3,40 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          16.4929983,
-          49.1527099
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Střelice 630/75, obchodní středisko <br><b>Adresa:</b> Ant. Smutného 630/75, 66447, Střelice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 26.63 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:30",
-        "operator": "Česká pošta, s.p.",
-        "ref": "60010:18"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.4811773,
-          49.1521583
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Střelice, Bratří Kotrbů 415/22 <br><b>Adresa:</b> Bratří Kotrbů 415/22, 66447, Střelice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.45 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:30",
-        "operator": "Česká pošta, s.p.",
-        "ref": "60010:20"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           16.4796699,
           49.1325217
         ],
@@ -47,6 +13,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "60010:39"
       },
       "type": "Feature"
@@ -60,10 +27,11 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Silůvky, Prachatičky 39, stojan u OÚ <br><b>Adresa:</b> Prachatičky 39, 66499, Silůvky <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 12.35 m",
+        "_note": "<br><b>Poznámka:</b> Silůvky, Anenská 44, stojan u OÚ <br><b>Adresa:</b> Anenská 44, 66499, Silůvky <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 20.48 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "60010:40"
       },
       "type": "Feature"
@@ -81,6 +49,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "60010:50"
       },
       "type": "Feature"
@@ -98,6 +67,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "60010:8"
       },
       "type": "Feature"
@@ -105,17 +75,54 @@
     {
       "geometry": {
         "coordinates": [
-          16.5043207,
-          49.1523377
+          16.4927705,
+          49.1525225
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Střelice u Brna <br><b>Adresa:</b> nám. Svobody 241/3, 66447, Střelice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.07 m",
+        "_note": "<br><b>Poznámka:</b> Ant. Smutného 630/75, obchodní středisko <br><b>Adresa:</b> Ant. Smutného 630/75, 66447, Střelice ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:30",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "60010:9"
+        "operator:wikidata": "Q341090",
+        "ref": "62501:19"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.4810753,
+          49.1521219
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bratří Kotrbů 415/22 <br><b>Adresa:</b> Bratří Kotrbů 415/22, 66447, Střelice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "62501:20"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.5042185,
+          49.1522766
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Střelice u Brna <br><b>Adresa:</b> nám. Svobody 241/3, 66447, Střelice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "62501:21"
       },
       "type": "Feature"
     }

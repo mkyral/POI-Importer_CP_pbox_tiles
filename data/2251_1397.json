@@ -13,24 +13,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "74200:21"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.9287073,
-          49.5051635
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> obchod, Lhotka nad Bečvou <br><b>Adresa:</b> Lhotka nad Bečvou 19, 75641, Lešná <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.62 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "75707:72"
       },
       "type": "Feature"
     },
@@ -47,7 +31,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "77072:925"
+        "operator:wikidata": "Q341090",
+        "ref": "75300:26"
       },
       "type": "Feature"
     },
@@ -64,7 +49,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "77072:939"
+        "operator:wikidata": "Q341090",
+        "ref": "75300:40"
       },
       "type": "Feature"
     },
@@ -81,7 +67,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "77072:940"
+        "operator:wikidata": "Q341090",
+        "ref": "75300:41"
       },
       "type": "Feature"
     },
@@ -98,7 +85,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "77072:941"
+        "operator:wikidata": "Q341090",
+        "ref": "75300:42"
       },
       "type": "Feature"
     },
@@ -115,7 +103,26 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "77072:976"
+        "operator:wikidata": "Q341090",
+        "ref": "75300:77"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.9287073,
+          49.5051635
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> obchod, Lhotka nad Bečvou <br><b>Adresa:</b> Lhotka nad Bečvou 19, 75641, Lešná <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.62 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "75707:72"
       },
       "type": "Feature"
     }

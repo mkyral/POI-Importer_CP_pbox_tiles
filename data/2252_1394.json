@@ -3,17 +3,18 @@
     {
       "geometry": {
         "coordinates": [
-          18.0040485,
-          49.7003716
+          18.0040919,
+          49.7003708
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Pošta Pustějov (stojan) <br><b>Adresa:</b> č.p. 54, 74243, Pustějov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 3.12 m",
+        "_note": "<br><b>Poznámka:</b> Pošta Pustějov (stojan) <br><b>Adresa:</b> č.p. 54, 74243, Pustějov ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "72572:369"
+        "operator:wikidata": "Q341090",
+        "ref": "70700:63"
       },
       "type": "Feature"
     },
@@ -30,6 +31,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "74232:30"
       },
       "type": "Feature"
@@ -47,6 +49,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "74232:34"
       },
       "type": "Feature"
@@ -64,6 +67,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "74232:39"
       },
       "type": "Feature"
@@ -81,6 +85,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "74232:41"
       },
       "type": "Feature"
@@ -98,6 +103,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "74232:43"
       },
       "type": "Feature"

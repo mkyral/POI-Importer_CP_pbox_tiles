@@ -3,51 +3,54 @@
     {
       "geometry": {
         "coordinates": [
-          14.3015125,
-          50.9952819
+          14.3015123,
+          50.9952809
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Rozcestí <br><b>Adresa:</b> Děčín; Dolní Poustevna; Karlín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Rozcestí <br><b>Adresa:</b> Děčín; Dolní Poustevna; Karlín ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "40371:313"
+        "operator:wikidata": "Q341090",
+        "ref": "40750:21"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          14.288752,
-          50.9792336
+          14.2888952,
+          50.9792632
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Vilémovská 382, 40782, Dolní Poustevna <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.56 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Vilémovská 382, 40782, Dolní Poustevna ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "40371:332"
+        "operator:wikidata": "Q341090",
+        "ref": "40750:33"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          14.2888429,
-          50.9813044
+          14.2889204,
+          50.9812984
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Dolní Poustevna <br><b>Adresa:</b> Sadová 220, 40782, Dolní Poustevna <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.47 m",
+        "_note": "<br><b>Poznámka:</b> pošta Dolní Poustevna <br><b>Adresa:</b> Sadová 220, 40782, Dolní Poustevna ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "40371:361"
+        "operator:wikidata": "Q341090",
+        "ref": "40750:54"
       },
       "type": "Feature"
     }

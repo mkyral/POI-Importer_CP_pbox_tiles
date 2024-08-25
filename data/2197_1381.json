@@ -3,34 +3,36 @@
     {
       "geometry": {
         "coordinates": [
-          13.1137596,
-          50.4214934
+          13.1135759,
+          50.4215481
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> VM <br><b>Adresa:</b> Náměstí 215, 43184, Měděnec <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 14.37 m",
+        "_note": "<br><b>Poznámka:</b> VM <br><b>Adresa:</b> Náměstí 215, 43184, Měděnec ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "43007:197"
+        "operator:wikidata": "Q341090",
+        "ref": "43150:16"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          13.1605636,
-          50.4132855
+          13.160927,
+          50.4127958
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> zastávka ČSAD <br><b>Adresa:</b> Petlery 6, 43151, Domašín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 60.25 m",
+        "_note": "<br><b>Poznámka:</b> zastávka ČSAD <br><b>Adresa:</b> Petlery 6, 43151, Domašín ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "43007:209"
+        "operator:wikidata": "Q341090",
+        "ref": "43150:25"
       },
       "type": "Feature"
     }

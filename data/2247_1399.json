@@ -3,17 +3,18 @@
     {
       "geometry": {
         "coordinates": [
-          17.5173456,
-          49.3847895
+          17.5006666,
+          49.4162158
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Karlovice 303, 76843, Kostelec u Holešova <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 19.71 m",
+        "_note": "<br><b>Poznámka:</b> Beňov 3, OÚ (stojan) <br><b>Adresa:</b> č.p. 3, 75002, Beňov ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76707:118"
+        "operator:wikidata": "Q341090",
+        "ref": "75000:121"
       },
       "type": "Feature"
     },
@@ -30,7 +31,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76707:251"
+        "operator:wikidata": "Q341090",
+        "ref": "75000:24"
       },
       "type": "Feature"
     },
@@ -47,7 +49,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76707:254"
+        "operator:wikidata": "Q341090",
+        "ref": "75000:27"
       },
       "type": "Feature"
     },
@@ -64,7 +67,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76707:256"
+        "operator:wikidata": "Q341090",
+        "ref": "75000:29"
       },
       "type": "Feature"
     },
@@ -81,24 +85,26 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76707:325"
+        "operator:wikidata": "Q341090",
+        "ref": "75000:98"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          17.5006666,
-          49.4162158
+          17.5176117,
+          49.3847522
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Beňov 3, OÚ (stojan) <br><b>Adresa:</b> č.p. 3, 75002, Beňov ",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Karlovice 303, 76843, Kostelec u Holešova ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76707:348"
+        "operator:wikidata": "Q341090",
+        "ref": "76900:20"
       },
       "type": "Feature"
     }

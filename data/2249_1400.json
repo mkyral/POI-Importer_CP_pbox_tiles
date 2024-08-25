@@ -3,34 +3,36 @@
     {
       "geometry": {
         "coordinates": [
-          17.6708384,
-          49.3769886
+          17.6709618,
+          49.3767415
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> u zast.ČSAD <br><b>Adresa:</b> č.p. 59, 76861, Slavkov pod Hostýnem <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 28.9 m",
+        "_note": "<br><b>Poznámka:</b> u zast.ČSAD <br><b>Adresa:</b> č.p. 59, 76861, Slavkov pod Hostýnem ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76707:144"
+        "operator:wikidata": "Q341090",
+        "ref": "76900:40"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          17.6893356,
-          49.3477552
+          17.689451,
+          49.3476826
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Partner Rusava <br><b>Adresa:</b> č.p. 248, 76841, Rusava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.62 m",
+        "_note": "<br><b>Poznámka:</b> Partner Rusava <br><b>Adresa:</b> č.p. 248, 76841, Rusava ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76707:221"
+        "operator:wikidata": "Q341090",
+        "ref": "76900:56"
       },
       "type": "Feature"
     }

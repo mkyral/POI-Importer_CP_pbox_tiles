@@ -13,6 +13,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "53307:134"
       },
       "type": "Feature"
@@ -30,6 +31,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "53307:191"
       },
       "type": "Feature"
@@ -47,58 +49,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "53307:240"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.9233711,
-          49.9775959
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> zbrojnice, \"S\" <br><b>Adresa:</b> č.p. 59, 53862, Bořice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 27.98 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "53307:327"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.937146,
-          49.9636682
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> hostinec, \"S\" <br><b>Adresa:</b> č.p. 1, 53862, Čankovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 13.51 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "53307:328"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.9509282,
-          49.954002
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> BUS, \"S\" <br><b>Adresa:</b> Blížňovice 25, 53862, Hrochův Týnec <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 37.0 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "53307:329"
       },
       "type": "Feature"
     },
@@ -115,6 +67,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "53307:81"
       },
       "type": "Feature"
@@ -132,6 +85,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "53307:82"
       },
       "type": "Feature"
@@ -149,6 +103,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "53307:83"
       },
       "type": "Feature"
@@ -166,6 +121,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "53307:84"
       },
       "type": "Feature"
@@ -173,17 +129,72 @@
     {
       "geometry": {
         "coordinates": [
-          15.990644,
-          49.9556769
+          15.9235977,
+          49.9773909
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Chroustovice <br><b>Adresa:</b> náměstí Josefa Haška 96, 53863, Chroustovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 7.97 m",
+        "_note": "<br><b>Poznámka:</b> zbrojnice, \"S\" <br><b>Adresa:</b> č.p. 59, 53862, Bořice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53307:866"
+        "operator:wikidata": "Q341090",
+        "ref": "53700:26"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.937262,
+          49.963764
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> hostinec, \"S\" <br><b>Adresa:</b> č.p. 1, 53862, Čankovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "53700:27"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9509187,
+          49.9543346
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> BUS, \"S\" <br><b>Adresa:</b> Blížňovice 25, 53862, Hrochův Týnec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "53700:28"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9905465,
+          49.9557115
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Chroustovice <br><b>Adresa:</b> náměstí Josefa Haška 96, 53863, Chroustovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "53970:52"
       },
       "type": "Feature"
     }

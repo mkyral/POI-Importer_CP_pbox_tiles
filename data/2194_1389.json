@@ -3,17 +3,18 @@
     {
       "geometry": {
         "coordinates": [
-          12.8765535,
-          49.966456
+          12.8765532,
+          49.966455
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Klášter, u hlavní brány, <br><b>Adresa:</b> Cheb; Teplá; Klášter <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Klášter, u hlavní brány, <br><b>Adresa:</b> Cheb; Teplá; Klášter ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "34707:215"
+        "operator:wikidata": "Q341090",
+        "ref": "35300:22"
       },
       "type": "Feature"
     },
@@ -30,24 +31,26 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "34707:222"
+        "operator:wikidata": "Q341090",
+        "ref": "35300:23"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          12.8640838,
-          49.9810405
+          12.8640865,
+          49.9811216
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Teplá - pošta <br><b>Adresa:</b> Klášterní 156, 36461, Teplá <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.02 m",
+        "_note": "<br><b>Poznámka:</b> Teplá - pošta <br><b>Adresa:</b> Klášterní 156, 36461, Teplá ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "34707:252"
+        "operator:wikidata": "Q341090",
+        "ref": "35300:30"
       },
       "type": "Feature"
     }

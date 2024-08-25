@@ -3,6 +3,24 @@
     {
       "geometry": {
         "coordinates": [
+          17.3922345,
+          49.4362009
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Přerov, Henčlov, Zakladatelů 159/3, obchod <br><b>Adresa:</b> Zakladatelů 159/3, Přerov VIII-Henčlov, 75002, Přerov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "75000:127"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           17.3501182,
           49.4326648
         ],
@@ -13,7 +31,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76707:279"
+        "operator:wikidata": "Q341090",
+        "ref": "75000:52"
       },
       "type": "Feature"
     },
@@ -30,7 +49,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76707:280"
+        "operator:wikidata": "Q341090",
+        "ref": "75000:53"
       },
       "type": "Feature"
     },
@@ -47,24 +67,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76707:317"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.3922345,
-          49.4362009
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Přerov, Henčlov, Zakladatelů 159/3, obchod <br><b>Adresa:</b> Zakladatelů 159/3, Přerov VIII-Henčlov, 75002, Přerov ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "76707:354"
+        "operator:wikidata": "Q341090",
+        "ref": "75000:90"
       },
       "type": "Feature"
     }

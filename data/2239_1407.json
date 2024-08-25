@@ -3,17 +3,18 @@
     {
       "geometry": {
         "coordinates": [
-          16.7990181,
-          48.9471483
+          16.81293,
+          48.9676278
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Horní Bojanovice 96, budova OÚ <br><b>Adresa:</b> č.p. 96, 69301, Horní Bojanovice ",
+        "_note": "<br><b>Poznámka:</b> pošta Boleradice <br><b>Adresa:</b> č.p. 376, 69112, Boleradice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "60010:835"
+        "operator:wikidata": "Q341090",
+        "ref": "69177:1"
       },
       "type": "Feature"
     },
@@ -30,7 +31,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "60010:856"
+        "operator:wikidata": "Q341090",
+        "ref": "69177:14"
       },
       "type": "Feature"
     },
@@ -47,24 +49,26 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "60010:892"
+        "operator:wikidata": "Q341090",
+        "ref": "69300:14"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          16.81293,
-          48.9676278
+          16.7990181,
+          48.9471483
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Boleradice <br><b>Adresa:</b> č.p. 376, 69112, Boleradice ",
+        "_note": "<br><b>Poznámka:</b> Horní Bojanovice 96, budova OÚ <br><b>Adresa:</b> č.p. 96, 69301, Horní Bojanovice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "60010:897"
+        "operator:wikidata": "Q341090",
+        "ref": "69300:4"
       },
       "type": "Feature"
     }

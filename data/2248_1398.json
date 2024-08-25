@@ -3,23 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          17.6462192,
-          49.4414046
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 18, 76861, Blazice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.62 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "76707:147"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           17.5884172,
           49.4638393
         ],
@@ -30,7 +13,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76707:249"
+        "operator:wikidata": "Q341090",
+        "ref": "75000:22"
       },
       "type": "Feature"
     },
@@ -47,7 +31,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76707:259"
+        "operator:wikidata": "Q341090",
+        "ref": "75000:32"
       },
       "type": "Feature"
     },
@@ -64,7 +49,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76707:260"
+        "operator:wikidata": "Q341090",
+        "ref": "75000:33"
       },
       "type": "Feature"
     },
@@ -81,7 +67,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76707:288"
+        "operator:wikidata": "Q341090",
+        "ref": "75000:61"
       },
       "type": "Feature"
     },
@@ -98,7 +85,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76707:289"
+        "operator:wikidata": "Q341090",
+        "ref": "75000:62"
       },
       "type": "Feature"
     },
@@ -115,7 +103,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "77072:952"
+        "operator:wikidata": "Q341090",
+        "ref": "75300:53"
       },
       "type": "Feature"
     },
@@ -132,7 +121,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "77072:956"
+        "operator:wikidata": "Q341090",
+        "ref": "75300:57"
       },
       "type": "Feature"
     },
@@ -149,7 +139,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "77072:957"
+        "operator:wikidata": "Q341090",
+        "ref": "75300:58"
       },
       "type": "Feature"
     },
@@ -166,7 +157,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "77072:958"
+        "operator:wikidata": "Q341090",
+        "ref": "75300:59"
       },
       "type": "Feature"
     },
@@ -183,7 +175,26 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "77072:970"
+        "operator:wikidata": "Q341090",
+        "ref": "75300:71"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.6463748,
+          49.4413784
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 18, 76861, Blazice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "76900:43"
       },
       "type": "Feature"
     }

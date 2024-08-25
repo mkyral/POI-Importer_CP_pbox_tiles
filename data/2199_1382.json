@@ -13,6 +13,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "43007:140"
       },
       "type": "Feature"
@@ -20,51 +21,54 @@
     {
       "geometry": {
         "coordinates": [
-          13.2771042,
-          50.3744973
+          13.2767448,
+          50.3744682
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> stojan <br><b>Adresa:</b> Sukova 1612, 43201, Kadaň <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 25.7 m",
+        "_note": "<br><b>Poznámka:</b> stojan <br><b>Adresa:</b> Sukova 1612, 43201, Kadaň ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "43007:154"
+        "operator:wikidata": "Q341090",
+        "ref": "43150:4"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          13.2758376,
-          50.3775634
+          13.2757477,
+          50.3775283
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pečovatelský dům <br><b>Adresa:</b> Věžní 1392, 43201, Kadaň <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 7.48 m",
+        "_note": "<br><b>Poznámka:</b> pečovatelský dům <br><b>Adresa:</b> Věžní 1392, 43201, Kadaň ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "43007:155"
+        "operator:wikidata": "Q341090",
+        "ref": "43150:5"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          13.2751782,
-          50.3837962
+          13.2754411,
+          50.3834832
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Na Průtahu 1960, 43201, Kadaň <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 39.49 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Na Průtahu 1960, 43201, Kadaň ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "43007:156"
+        "operator:wikidata": "Q341090",
+        "ref": "43150:6"
       },
       "type": "Feature"
     }

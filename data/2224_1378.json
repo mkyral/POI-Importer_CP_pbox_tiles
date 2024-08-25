@@ -3,17 +3,18 @@
     {
       "geometry": {
         "coordinates": [
-          15.5088002,
-          50.6067813
+          15.5084088,
+          50.6066647
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Jilemnice <br><b>Adresa:</b> Geologa Pošepného 380, 51401, Jilemnice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 30.52 m",
+        "_note": "<br><b>Poznámka:</b> pošta Jilemnice <br><b>Adresa:</b> Geologa Pošepného 380, 51401, Jilemnice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "51107:229"
+        "operator:wikidata": "Q341090",
+        "ref": "51400:1"
       },
       "type": "Feature"
     },
@@ -21,33 +22,53 @@
       "geometry": {
         "coordinates": [
           15.4993492,
-          50.6110498
+          50.6110497
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Ulice Metyšova, BUS zastávka Jilemnice, nemocnice <br><b>Adresa:</b> Semily; Jilemnice; Jilemnice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Ulice Metyšova, BUS zastávka Jilemnice, nemocnice <br><b>Adresa:</b> Semily; Jilemnice; Jilemnice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "51107:233"
+        "operator:wikidata": "Q341090",
+        "ref": "51400:2"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          15.5068188,
-          50.6086431
+          15.5323502,
+          50.582291
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Masarykovo náměstí 139, 51401, Jilemnice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 7.45 m",
+        "_note": "<br><b>Poznámka:</b> pošta Partner Martinice v Krkonoších <br><b>Adresa:</b> č.p. 131, 51232, Martinice v Krkonoších ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "51107:234"
+        "operator:wikidata": "Q341090",
+        "ref": "51400:23"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.5068511,
+          50.6085793
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Masarykovo náměstí 139, 51401, Jilemnice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "51400:3"
       },
       "type": "Feature"
     },
@@ -55,33 +76,17 @@
       "geometry": {
         "coordinates": [
           15.5077808,
-          50.6211288
+          50.6211289
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> u zastávky BUS, ulice Krkonošská <br><b>Adresa:</b> Semily; Jilemnice; Hrabačov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> u zastávky BUS, ulice Krkonošská <br><b>Adresa:</b> Semily; Jilemnice; Hrabačov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "51107:241"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.5323968,
-          50.5823296
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Partner Martinice v Krkonoších <br><b>Adresa:</b> č.p. 131, 51232, Martinice v Krkonoších <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.41 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "51107:284"
+        "operator:wikidata": "Q341090",
+        "ref": "51400:5"
       },
       "type": "Feature"
     }

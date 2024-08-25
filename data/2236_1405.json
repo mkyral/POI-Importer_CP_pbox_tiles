@@ -3,23 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          16.5981859,
-          49.0855794
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Rajhrad, Odbojářů 324, zeď u kláštera <br><b>Adresa:</b> Odbojářů 324, 66461, Rajhrad ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "60010:814"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           16.6068236,
           49.0776678
         ],
@@ -30,7 +13,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "60010:815"
+        "operator:wikidata": "Q341090",
+        "ref": "62801:13"
       },
       "type": "Feature"
     },
@@ -43,11 +27,12 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Hrušovany u Brna, Masarykova 17, Obecní úřad <br><b>Adresa:</b> Masarykova 17, 66462, Hrušovany u Brna ",
+        "_note": "<br><b>Poznámka:</b> Masarykova 17, Obecní úřad <br><b>Adresa:</b> Masarykova 17, 66462, Hrušovany u Brna ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "60010:821"
+        "operator:wikidata": "Q341090",
+        "ref": "62801:15"
       },
       "type": "Feature"
     },
@@ -60,11 +45,12 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Hrušovany u Brna, Sídliště 526, roh obchodu <br><b>Adresa:</b> Sídliště 526, 66462, Hrušovany u Brna ",
+        "_note": "<br><b>Poznámka:</b> Sídliště 526, roh obchodu <br><b>Adresa:</b> Sídliště 526, 66462, Hrušovany u Brna ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "60010:822"
+        "operator:wikidata": "Q341090",
+        "ref": "62801:16"
       },
       "type": "Feature"
     },
@@ -81,7 +67,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "60010:823"
+        "operator:wikidata": "Q341090",
+        "ref": "62801:19"
       },
       "type": "Feature"
     },
@@ -98,7 +85,26 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "60010:887"
+        "operator:wikidata": "Q341090",
+        "ref": "62801:30"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.5981859,
+          49.0855794
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Odbojářů 324, zeď u kláštera <br><b>Adresa:</b> Odbojářů 324, 66461, Rajhrad ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "62801:31"
       },
       "type": "Feature"
     },
@@ -115,6 +121,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "66490:36"
       },
       "type": "Feature"
@@ -132,7 +139,26 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "66490:37"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.6070041,
+          49.0512224
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hrušovanská 214, stojan před OÚ <br><b>Adresa:</b> Hrušovanská 214, 66701, Vojkovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "69300:34"
       },
       "type": "Feature"
     }

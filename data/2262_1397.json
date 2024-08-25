@@ -3,51 +3,54 @@
     {
       "geometry": {
         "coordinates": [
-          18.8242501,
-          49.5533677
+          18.8241673,
+          49.553365
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Partner Bukovec, čp.107 <br><b>Adresa:</b> č.p. 107, 73985, Bukovec <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.98 m",
+        "_note": "<br><b>Poznámka:</b> Partner Bukovec, čp.107 <br><b>Adresa:</b> č.p. 107, 73985, Bukovec ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:30",
         "operator": "Česká pošta, s.p.",
-        "ref": "73917:113"
+        "operator:wikidata": "Q341090",
+        "ref": "73990:11"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          18.8333,
-          49.5212181
+          18.8331932,
+          49.5212642
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Hrčava,na čp.53 - Obecní úřad, Výdejní místo <br><b>Adresa:</b> č.p. 53, 73998, Hrčava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.26 m",
+        "_note": "<br><b>Poznámka:</b> Hrčava,na čp.53 - Obecní úřad, Výdejní místo <br><b>Adresa:</b> č.p. 53, 73998, Hrčava ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:30",
         "operator": "Česká pošta, s.p.",
-        "ref": "73917:121"
+        "operator:wikidata": "Q341090",
+        "ref": "73990:15"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          18.8272733,
-          49.5509507
+          18.827411,
+          49.5508323
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> OÚ, čp.270, Bukovec (stojan) <br><b>Adresa:</b> č.p. 270, 73985, Bukovec <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 16.5 m",
+        "_note": "<br><b>Poznámka:</b> OÚ, čp.270, Bukovec (stojan) <br><b>Adresa:</b> č.p. 270, 73985, Bukovec ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:30",
         "operator": "Česká pošta, s.p.",
-        "ref": "73917:130"
+        "operator:wikidata": "Q341090",
+        "ref": "73990:22"
       },
       "type": "Feature"
     }

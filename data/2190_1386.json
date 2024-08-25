@@ -13,6 +13,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "35007:114"
       },
       "type": "Feature"
@@ -30,6 +31,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "35007:115"
       },
       "type": "Feature"
@@ -47,6 +49,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "35007:119"
       },
       "type": "Feature"
@@ -54,17 +57,18 @@
     {
       "geometry": {
         "coordinates": [
-          12.5350894,
-          50.1501991
+          12.5351826,
+          50.1502683
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Chum Svaté Maří - pošta <br><b>Adresa:</b> náměstí J. W. Goetheho 26, 35709, Chlum Svaté Maří <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.17 m",
+        "_note": "<br><b>Poznámka:</b> Chum Svaté Maří - pošta <br><b>Adresa:</b> náměstí J. W. Goetheho 26, 35709, Chlum Svaté Maří ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "35007:205"
+        "operator:wikidata": "Q341090",
+        "ref": "35600:27"
       },
       "type": "Feature"
     }

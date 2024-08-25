@@ -3,34 +3,36 @@
     {
       "geometry": {
         "coordinates": [
-          17.4873191,
-          49.7372935
+          17.4871179,
+          49.7373252
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Libavá, Heroltovice 1522 <br><b>Adresa:</b> Heroltovice 1522, 78307, Město Libavá <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 14.89 m",
+        "_note": "<br><b>Poznámka:</b> Libavá, Heroltovice 1522 <br><b>Adresa:</b> Heroltovice 1522, 78307, Město Libavá ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "77072:524"
+        "operator:wikidata": "Q341090",
+        "ref": "78500:18"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          17.4450916,
-          49.7424503
+          17.4452608,
+          49.7424657
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Domašov nad Bystřicí, Náměstí 76, budova pošty <br><b>Adresa:</b> Náměstí 76, 78306, Domašov nad Bystřicí <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 12.28 m",
+        "_note": "<br><b>Poznámka:</b> Domašov nad Bystřicí, Náměstí 76, budova pošty <br><b>Adresa:</b> Náměstí 76, 78306, Domašov nad Bystřicí ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "77072:533"
+        "operator:wikidata": "Q341090",
+        "ref": "78500:26"
       },
       "type": "Feature"
     },
@@ -47,6 +49,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "79207:107"
       },
       "type": "Feature"

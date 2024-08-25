@@ -3,57 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          14.4797452,
-          50.0075403
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Vídeňská 405, Kunratice, 14800, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 28.71 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "10003:10"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5007014,
-          49.98
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> OÚ <br><b>Adresa:</b> Vestecká 3, 25250, Vestec <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 22.45 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "10003:1112"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.4991724,
-          49.978438
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> BUS Vestec, Šátalka <br><b>Adresa:</b> Vídeňská 169, 25250, Vestec <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 44.55 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "10003:1113"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           14.4624695,
           49.9694785
         ],
@@ -64,6 +13,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "10003:1155"
       },
       "type": "Feature"
@@ -81,6 +31,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "10003:1157"
       },
       "type": "Feature"
@@ -98,6 +49,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "10003:1158"
       },
       "type": "Feature"
@@ -115,6 +67,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "10003:1159"
       },
       "type": "Feature"
@@ -132,6 +85,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "10003:1161"
       },
       "type": "Feature"
@@ -149,6 +103,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "10003:1307"
       },
       "type": "Feature"
@@ -156,170 +111,234 @@
     {
       "geometry": {
         "coordinates": [
-          14.4342323,
-          49.9944455
+          14.434072,
+          49.994419
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Hornocholupická 1200/42, Modřany, 14300, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.84 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Hornocholupická 1200/42, Modřany, 14300, Praha ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 09:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "10003:3"
+        "operator:wikidata": "Q341090",
+        "ref": "14399:1"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          14.4664595,
-          50.0015583
+          14.4482929,
+          49.9876392
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Libušská 319/126, Písnice, 14200, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 58.69 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Ražická 1, Cholupice, 14300, Praha ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 09:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "10003:300"
+        "operator:wikidata": "Q341090",
+        "ref": "14399:2"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          14.436562,
-          50.0060386
+          14.4672617,
+          50.0016703
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> roh Vazovova <br><b>Adresa:</b> Levského 3221/1, Modřany, 14300, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 44.01 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Libušská 319/126, Písnice, 14200, Praha ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 09:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "10003:303"
+        "operator:wikidata": "Q341090",
+        "ref": "14399:25"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          14.4327648,
-          50.0055036
+          14.4359655,
+          50.0061364
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> BUS Sídliště Modřany <br><b>Adresa:</b> Vazovova 3229/1, Modřany, 14300, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 94.55 m",
+        "_note": "<br><b>Poznámka:</b> roh Vazovova <br><b>Adresa:</b> Levského 3221/1, Modřany, 14300, Praha ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 09:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "10003:304"
+        "operator:wikidata": "Q341090",
+        "ref": "14399:27"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          14.4239956,
-          50.0061545
+          14.4339877,
+          50.0058273
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> BUS U Libušského potoka <br><b>Adresa:</b> Nikoly Vapcarova 3273/6, Modřany, 14300, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 61.03 m",
+        "_note": "<br><b>Poznámka:</b> BUS Sídliště Modřany <br><b>Adresa:</b> Vazovova 3229/1, Modřany, 14300, Praha ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 09:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "10003:306"
+        "operator:wikidata": "Q341090",
+        "ref": "14399:28"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          14.4270164,
-          50.0005905
+          14.4319652,
+          49.9730435
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Pertoldova 3344/6, Modřany, 14300, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 23.24 m",
+        "_note": "<br><b>Poznámka:</b> BUS Točná <br><b>Adresa:</b> náměstí Antonína Pecáka 7, Točná, 14300, Praha ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 09:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "10003:317"
+        "operator:wikidata": "Q341090",
+        "ref": "14399:3"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          14.4169669,
-          49.9987165
+          14.4231457,
+          50.0061029
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> BUS Platónova <br><b>Adresa:</b> Platónova 2158/1a, Modřany, 14300, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 79.83 m",
+        "_note": "<br><b>Poznámka:</b> BUS U Libušského potoka <br><b>Adresa:</b> Nikoly Vapcarova 3273/6, Modřany, 14300, Praha ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 09:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "10003:319"
+        "operator:wikidata": "Q341090",
+        "ref": "14399:30"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          14.4168639,
-          50.0051717
+          14.4268206,
+          50.0004237
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Praha 412 <br><b>Adresa:</b> Sofijské náměstí 3406/1, Modřany, 14300, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 30.55 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Pertoldova 3344/6, Modřany, 14300, Praha ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 09:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "10003:321"
+        "operator:wikidata": "Q341090",
+        "ref": "14399:36"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          14.447924,
-          49.9873056
+          14.4180302,
+          49.9989354
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Ražická 1, Cholupice, 14300, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 45.53 m",
+        "_note": "<br><b>Poznámka:</b> BUS Platónova <br><b>Adresa:</b> Platónova 2158/1a, Modřany, 14300, Praha ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 09:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "10003:4"
+        "operator:wikidata": "Q341090",
+        "ref": "14399:37"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          14.4317256,
-          49.9728033
+          14.4172287,
+          50.0053148
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> BUS Točná <br><b>Adresa:</b> náměstí Antonína Pecáka 7, Točná, 14300, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 31.74 m",
+        "_note": "<br><b>Poznámka:</b> pošta Praha 412 <br><b>Adresa:</b> Sofijské náměstí 3406/1, Modřany, 14300, Praha ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 09:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "10003:5"
+        "operator:wikidata": "Q341090",
+        "ref": "14399:38"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.4801177,
+          50.0076368
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Vídeňská 405, Kunratice, 14800, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "14999:3"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5003876,
+          49.980003
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> OÚ <br><b>Adresa:</b> Vestecká 3, 25250, Vestec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "14999:48"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.4985676,
+          49.9785337
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> BUS Vestec, Šátalka <br><b>Adresa:</b> Vídeňská 169, 25250, Vestec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "14999:49"
       },
       "type": "Feature"
     }

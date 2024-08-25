@@ -3,125 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          17.5730464,
-          49.5290717
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Lipník, Nádražní 400/28 (stojan) <br><b>Adresa:</b> Nádražní 400/28, Lipník nad Bečvou I-Město, 75131, Lipník nad Bečvou ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "76707:283"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.5733929,
-          49.5239288
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> stojan u aut.zastávky, naproti domu 818/10 <br><b>Adresa:</b> B. Němcové 818/10, Lipník nad Bečvou I-Město, 75131, Lipník nad Bečvou ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "76707:284"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.5722874,
-          49.5033531
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Lipník, Nové Dvory 2, u obchodu (stojan) <br><b>Adresa:</b> Lipník nad Bečvou III-Nové Dvory 2, 75131, Lipník nad Bečvou ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "76707:287"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.5575348,
-          49.5357342
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Lipník, Trnávka 4 (stojan) <br><b>Adresa:</b> Lipník nad Bečvou VII-Trnávka 4, 75131, Lipník nad Bečvou ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "76707:296"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.5262563,
-          49.5520285
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Dolní Újezd, Skoky 42 (stojan) <br><b>Adresa:</b> Skoky 42, 75125, Dolní Újezd ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "76707:302"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.5178397,
-          49.5356588
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Veslíčko 235 (stojan) <br><b>Adresa:</b> č.p. 235, 75125, Veselíčko ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "76707:303"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.5132594,
-          49.5082639
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Osek nad Bečvou 356, u aut.zastávky (stojan) <br><b>Adresa:</b> č.p. 356, 75122, Osek nad Bečvou ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "76707:304"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           17.5238649,
           49.5108418
         ],
@@ -132,7 +13,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76707:331"
+        "operator:wikidata": "Q341090",
+        "ref": "75000:104"
       },
       "type": "Feature"
     },
@@ -149,7 +31,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76707:332"
+        "operator:wikidata": "Q341090",
+        "ref": "75000:105"
       },
       "type": "Feature"
     },
@@ -166,7 +49,134 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76707:334"
+        "operator:wikidata": "Q341090",
+        "ref": "75000:107"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.5730464,
+          49.5290717
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lipník, Nádražní 400/28 (stojan) <br><b>Adresa:</b> Nádražní 400/28, Lipník nad Bečvou I-Město, 75131, Lipník nad Bečvou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "75000:56"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.5733929,
+          49.5239288
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> stojan u aut.zastávky, naproti domu 818/10 <br><b>Adresa:</b> B. Němcové 818/10, Lipník nad Bečvou I-Město, 75131, Lipník nad Bečvou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "75000:57"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.5722874,
+          49.5033531
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lipník, Nové Dvory 2, u obchodu (stojan) <br><b>Adresa:</b> Lipník nad Bečvou III-Nové Dvory 2, 75131, Lipník nad Bečvou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "75000:60"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.5575348,
+          49.5357342
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lipník, Trnávka 4 (stojan) <br><b>Adresa:</b> Lipník nad Bečvou VII-Trnávka 4, 75131, Lipník nad Bečvou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "75000:69"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.5262563,
+          49.5520285
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dolní Újezd, Skoky 42 (stojan) <br><b>Adresa:</b> Skoky 42, 75125, Dolní Újezd ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "75000:75"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.5178397,
+          49.5356588
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Veslíčko 235 (stojan) <br><b>Adresa:</b> č.p. 235, 75125, Veselíčko ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "75000:76"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.5132594,
+          49.5082639
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Osek nad Bečvou 356, u aut.zastávky (stojan) <br><b>Adresa:</b> č.p. 356, 75122, Osek nad Bečvou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "75000:77"
       },
       "type": "Feature"
     }

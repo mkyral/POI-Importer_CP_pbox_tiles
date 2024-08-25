@@ -3,68 +3,18 @@
     {
       "geometry": {
         "coordinates": [
-          16.7349277,
-          48.9398522
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Hustopeče, Bratislavská 18, Městská tržnice <br><b>Adresa:</b> Bratislavská 465/18, 69301, Hustopeče ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "60010:831"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.733773,
-          48.9427269
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Hustopeče, Brněnská 7, obchod <br><b>Adresa:</b> Brněnská 391/7, 69301, Hustopeče ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "60010:832"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           16.7253619,
           48.9436231
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Hustopeče,U Větrolamu 15, obchod <br><b>Adresa:</b> U Větrolamu 1161/15, 69301, Hustopeče ",
+        "_note": "<br><b>Poznámka:</b> U Větrolamu 15, prodejna <br><b>Adresa:</b> U Větrolamu 1161/15, 69301, Hustopeče ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "60010:833"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.7085014,
-          48.9533227
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Starovice 180 <br><b>Adresa:</b> č.p. 180, 69301, Starovice ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "60010:837"
+        "operator:wikidata": "Q341090",
+        "ref": "69300:10"
       },
       "type": "Feature"
     },
@@ -81,7 +31,62 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "60010:839"
+        "operator:wikidata": "Q341090",
+        "ref": "69300:13"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.7085014,
+          48.9533227
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Starovice 180 <br><b>Adresa:</b> č.p. 180, 69301, Starovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "69300:18"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.7349277,
+          48.9398522
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bratislavská 18, Městská tržnice <br><b>Adresa:</b> Bratislavská 465/18, 69301, Hustopeče ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "69300:5"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.733773,
+          48.9427269
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Brněnská 7, prodejna <br><b>Adresa:</b> Brněnská 391/7, 69301, Hustopeče ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "69300:6"
       },
       "type": "Feature"
     },
@@ -98,7 +103,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "60010:916"
+        "operator:wikidata": "Q341090",
+        "ref": "69300:7"
       },
       "type": "Feature"
     }

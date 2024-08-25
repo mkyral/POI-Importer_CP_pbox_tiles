@@ -13,6 +13,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "30072:262"
       },
       "type": "Feature"
@@ -30,6 +31,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "30072:264"
       },
       "type": "Feature"
@@ -47,6 +49,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "30072:265"
       },
       "type": "Feature"
@@ -64,6 +67,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "33907:227"
       },
       "type": "Feature"
@@ -81,6 +85,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "33907:256"
       },
       "type": "Feature"
@@ -98,6 +103,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "33907:258"
       },
       "type": "Feature"
@@ -105,51 +111,54 @@
     {
       "geometry": {
         "coordinates": [
-          13.7746873,
-          49.3924331
+          13.7750361,
+          49.3924363
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Lnářský Málkov 23, 38801, Kadov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 25.25 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Lnářský Málkov 23, 38801, Kadov ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "38607:256"
+        "operator:wikidata": "Q341090",
+        "ref": "38800:45"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          13.7794096,
-          49.4160099
+          13.7793841,
+          49.4161621
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Pole 6, 38801, Kadov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 17.03 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Pole 6, 38801, Kadov ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "38607:257"
+        "operator:wikidata": "Q341090",
+        "ref": "38800:46"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          13.7774059,
-          49.4030327
+          13.7773147,
+          49.4029262
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Budova pošty Kadov u Blatné <br><b>Adresa:</b> č.p. 65, 38733, Kadov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 13.56 m",
+        "_note": "<br><b>Poznámka:</b> Budova pošty Kadov u Blatné <br><b>Adresa:</b> č.p. 65, 38733, Kadov ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "38607:277"
+        "operator:wikidata": "Q341090",
+        "ref": "38800:62"
       },
       "type": "Feature"
     }

@@ -13,6 +13,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "39007:504"
       },
       "type": "Feature"
@@ -30,6 +31,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "39007:505"
       },
       "type": "Feature"
@@ -47,6 +49,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "39007:506"
       },
       "type": "Feature"
@@ -64,6 +67,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "39007:507"
       },
       "type": "Feature"
@@ -81,6 +85,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "39007:508"
       },
       "type": "Feature"
@@ -88,34 +93,36 @@
     {
       "geometry": {
         "coordinates": [
-          14.9353044,
-          49.5494024
+          14.9355015,
+          49.5494842
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Holýšov 1, 39501, Mezilesí <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 16.88 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Holýšov 1, 39501, Mezilesí ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "39307:225"
+        "operator:wikidata": "Q341090",
+        "ref": "39500:31"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          14.9297733,
-          49.5099667
+          14.9303285,
+          49.5104308
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 12, 39501, Těchobuz <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 65.37 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 12, 39501, Těchobuz ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "39307:227"
+        "operator:wikidata": "Q341090",
+        "ref": "39500:33"
       },
       "type": "Feature"
     }

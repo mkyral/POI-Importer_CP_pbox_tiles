@@ -3,17 +3,18 @@
     {
       "geometry": {
         "coordinates": [
-          16.0356937,
-          49.7214858
+          16.0356228,
+          49.721509
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Jednota COOP <br><b>Adresa:</b> č.p. 50, 53942, Svratouch <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.71 m",
+        "_note": "<br><b>Poznámka:</b> Jednota COOP <br><b>Adresa:</b> č.p. 50, 53942, Svratouch ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53307:739"
+        "operator:wikidata": "Q341090",
+        "ref": "53900:39"
       },
       "type": "Feature"
     },
@@ -30,6 +31,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "59100:100"
       },
       "type": "Feature"
@@ -47,6 +49,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "59100:102"
       },
       "type": "Feature"
@@ -64,6 +67,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "59100:106"
       },
       "type": "Feature"
@@ -81,6 +85,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "59100:107"
       },
       "type": "Feature"

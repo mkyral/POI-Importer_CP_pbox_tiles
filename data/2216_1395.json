@@ -3,85 +3,72 @@
     {
       "geometry": {
         "coordinates": [
-          14.8473398,
-          49.6379628
+          14.8483086,
+          49.6369573
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> náměstí J. Žižky 7, 25706, Louňovice pod Blaníkem <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.42 m",
+        "_note": "<br><b>Poznámka:</b> pošta Louňovice pod Blaníkem <br><b>Adresa:</b> J. Žižky 45, 25706, Louňovice pod Blaníkem ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "25607:364"
+        "operator:wikidata": "Q341090",
+        "ref": "25800:14"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          14.820632,
-          49.633897
+          14.8472231,
+          49.6379585
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Libouň 6, 25706, Zvěstov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 69.28 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> náměstí J. Žižky 7, 25706, Louňovice pod Blaníkem ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "25607:371"
+        "operator:wikidata": "Q341090",
+        "ref": "25800:56"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          14.7991299,
-          49.6133975
+          14.8212154,
+          49.6343921
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Bořkovice 5, 25706, Zvěstov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 43.91 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Libouň 6, 25706, Zvěstov ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "25607:375"
+        "operator:wikidata": "Q341090",
+        "ref": "25800:58"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          14.7913375,
-          49.6344651
+          14.7912316,
+          49.6345737
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Zvěstov <br><b>Adresa:</b> č.p. 13, 25706, Zvěstov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 14.29 m",
+        "_note": "<br><b>Poznámka:</b> pošta Zvěstov <br><b>Adresa:</b> č.p. 13, 25706, Zvěstov ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "25607:381"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.8481919,
-          49.6370068
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Louňovice pod Blaníkem <br><b>Adresa:</b> J. Žižky 45, 25706, Louňovice pod Blaníkem <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.05 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "25607:87"
+        "operator:wikidata": "Q341090",
+        "ref": "25800:62"
       },
       "type": "Feature"
     }

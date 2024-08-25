@@ -3,23 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          17.4424669,
-          49.3505522
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Břest <br><b>Adresa:</b> č.p. 87, 76823, Břest <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 16.98 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "76707:212"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           17.4470353,
           49.3820731
         ],
@@ -30,7 +13,26 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76707:328"
+        "operator:wikidata": "Q341090",
+        "ref": "75000:101"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.4424669,
+          49.3505522
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Břest <br><b>Adresa:</b> č.p. 87, 76823, Břest <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 16.98 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "76707:212"
       },
       "type": "Feature"
     },
@@ -47,6 +49,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "76707:64"
       },
       "type": "Feature"
@@ -64,6 +67,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "76707:85"
       },
       "type": "Feature"

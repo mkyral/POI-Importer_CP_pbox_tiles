@@ -13,6 +13,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "28007:112"
       },
       "type": "Feature"
@@ -30,6 +31,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "28007:341"
       },
       "type": "Feature"
@@ -37,102 +39,108 @@
     {
       "geometry": {
         "coordinates": [
-          15.4594933,
-          50.0320854
+          15.4594477,
+          50.0324102
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Obránců míru 12, 53501, Trnávka <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 36.27 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Obránců míru 12, 53501, Trnávka ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53307:541"
+        "operator:wikidata": "Q341090",
+        "ref": "53500:41"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          15.440516,
-          50.0492394
+          15.4404033,
+          50.0493746
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 28, 53501, Selmice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 17.06 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 28, 53501, Selmice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53307:542"
+        "operator:wikidata": "Q341090",
+        "ref": "53500:42"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          15.4188679,
-          50.0338995
+          15.4190449,
+          50.0338116
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Chvaletice - držák <br><b>Adresa:</b> U Stadionu 238, 53312, Chvaletice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 15.98 m",
+        "_note": "<br><b>Poznámka:</b> pošta Chvaletice - držák <br><b>Adresa:</b> U Stadionu 238, 53312, Chvaletice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53307:553"
+        "operator:wikidata": "Q341090",
+        "ref": "53500:52"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          15.3892444,
-          50.0424013
+          15.3892441,
+          50.0424003
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> na stojanu u čekárny <br><b>Adresa:</b> Pardubice; Kojice; Kojice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> na stojanu u čekárny <br><b>Adresa:</b> Pardubice; Kojice; Kojice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53307:557"
+        "operator:wikidata": "Q341090",
+        "ref": "53500:56"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          15.4678734,
-          50.0137284
+          15.467514,
+          50.0136414
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Zdechovice - stojan u pošty <br><b>Adresa:</b> č.p. 5, 53311, Zdechovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 27.45 m",
+        "_note": "<br><b>Poznámka:</b> pošta Zdechovice - stojan u pošty <br><b>Adresa:</b> č.p. 5, 53311, Zdechovice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53307:558"
+        "operator:wikidata": "Q341090",
+        "ref": "53500:57"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          15.4139513,
-          50.0358514
+          15.413951,
+          50.0358504
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Chvaletice, V Telčicích <br><b>Adresa:</b> Pardubice; Chvaletice; Chvaletice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Chvaletice, V Telčicích <br><b>Adresa:</b> Pardubice; Chvaletice; Chvaletice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53307:559"
+        "operator:wikidata": "Q341090",
+        "ref": "53500:58"
       },
       "type": "Feature"
     }

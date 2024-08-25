@@ -3,51 +3,54 @@
     {
       "geometry": {
         "coordinates": [
-          13.0419964,
-          49.7400324
+          13.0722863,
+          49.7488585
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Sytno, obchod <br><b>Adresa:</b> Tachov; Sytno; Sytno <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Sulislav obecní úřad <br><b>Adresa:</b> č.p. 42, 34901, Sulislav ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "34707:264"
+        "operator:wikidata": "Q341090",
+        "ref": "34900:24"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          13.0481698,
-          49.7284486
+          13.0419962,
+          49.7400314
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Lhota u Stříbra <br><b>Adresa:</b> Lhota u Stříbra 23, 34901, Stříbro <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.61 m",
+        "_note": "<br><b>Poznámka:</b> Sytno, obchod <br><b>Adresa:</b> Tachov; Sytno; Sytno ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "34707:265"
+        "operator:wikidata": "Q341090",
+        "ref": "34900:6"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          13.0742686,
-          49.749261
+          13.0482869,
+          49.7283905
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Sulislav obecní úřad <br><b>Adresa:</b> č.p. 42, 34901, Sulislav <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 149.34 m",
+        "_note": "<br><b>Poznámka:</b> Lhota u Stříbra <br><b>Adresa:</b> Lhota u Stříbra 23, 34901, Stříbro ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "34707:289"
+        "operator:wikidata": "Q341090",
+        "ref": "34900:7"
       },
       "type": "Feature"
     }

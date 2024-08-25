@@ -3,125 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          17.5966523,
-          49.5282495
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> stojan vedle domu Hranická 991/16 <br><b>Adresa:</b> Hranická 991/16, Lipník nad Bečvou I-Město, 75131, Lipník nad Bečvou ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "76707:281"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.5800199,
-          49.5281115
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Lipník, Svat. Čecha 788/16 (stojan) <br><b>Adresa:</b> Svat. Čecha 788/16, Lipník nad Bečvou I-Město, 75131, Lipník nad Bečvou ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "76707:282"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.5806495,
-          49.5259283
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Lipník, Osecká 1030/19, Medcentrum (stojan) <br><b>Adresa:</b> Osecká 1030/19, Lipník nad Bečvou I-Město, 75131, Lipník nad Bečvou ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "76707:285"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.5853665,
-          49.5268646
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Lipník, náměstí T. G. Masaryka 92  (stojan) <br><b>Adresa:</b> náměstí T. G. Masaryka 92, Lipník nad Bečvou I-Město, 75131, Lipník nad Bečvou ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "76707:286"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.6159532,
-          49.4974797
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Lhota 15 (stojan) <br><b>Adresa:</b> č.p. 15, 75131, Lhota ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "76707:290"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.5927256,
-          49.5530172
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> u aut.zastávky (stojan) <br><b>Adresa:</b> Lipník nad Bečvou VI-Loučka 59, 75131, Lipník nad Bečvou ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "76707:291"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.6361962,
-          49.5358783
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Jezernice 101 stojan <br><b>Adresa:</b> č.p. 101, 75131, Jezernice ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "76707:295"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           17.589168,
           49.5272946
         ],
@@ -132,7 +13,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76707:335"
+        "operator:wikidata": "Q341090",
+        "ref": "75000:108"
       },
       "type": "Feature"
     },
@@ -149,7 +31,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76707:336"
+        "operator:wikidata": "Q341090",
+        "ref": "75000:109"
       },
       "type": "Feature"
     },
@@ -166,7 +49,134 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76707:337"
+        "operator:wikidata": "Q341090",
+        "ref": "75000:110"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.5966523,
+          49.5282495
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> stojan vedle domu Hranická 991/16 <br><b>Adresa:</b> Hranická 991/16, Lipník nad Bečvou I-Město, 75131, Lipník nad Bečvou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "75000:54"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.5800199,
+          49.5281115
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lipník, Svat. Čecha 788/16 (stojan) <br><b>Adresa:</b> Svat. Čecha 788/16, Lipník nad Bečvou I-Město, 75131, Lipník nad Bečvou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "75000:55"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.5806495,
+          49.5259283
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lipník, Osecká 1030/19, Medcentrum (stojan) <br><b>Adresa:</b> Osecká 1030/19, Lipník nad Bečvou I-Město, 75131, Lipník nad Bečvou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "75000:58"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.5853665,
+          49.5268646
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lipník, náměstí T. G. Masaryka 92  (stojan) <br><b>Adresa:</b> náměstí T. G. Masaryka 92, Lipník nad Bečvou I-Město, 75131, Lipník nad Bečvou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "75000:59"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.6159532,
+          49.4974797
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lhota 15 (stojan) <br><b>Adresa:</b> č.p. 15, 75131, Lhota ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "75000:63"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.5927256,
+          49.5530172
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u aut.zastávky (stojan) <br><b>Adresa:</b> Lipník nad Bečvou VI-Loučka 59, 75131, Lipník nad Bečvou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "75000:64"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.6361962,
+          49.5358783
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jezernice 101 stojan <br><b>Adresa:</b> č.p. 101, 75131, Jezernice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "75000:68"
       },
       "type": "Feature"
     },
@@ -183,7 +193,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "77072:932"
+        "operator:wikidata": "Q341090",
+        "ref": "75300:33"
       },
       "type": "Feature"
     }

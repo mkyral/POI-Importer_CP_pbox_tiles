@@ -3,85 +3,90 @@
     {
       "geometry": {
         "coordinates": [
-          17.8835361,
-          49.1695752
+          17.8830459,
+          49.1700377
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Domov důchodců, vedle vjezdu <br><b>Adresa:</b> č.p. 128, 76325, Loučka <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 62.59 m",
+        "_note": "<br><b>Poznámka:</b> Domov důchodců, vedle vjezdu <br><b>Adresa:</b> č.p. 128, 76325, Loučka ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76607:149"
+        "operator:wikidata": "Q341090",
+        "ref": "76320:19"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          17.8773083,
-          49.1691435
+          17.8768349,
+          49.168898
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> autobusová zastávka <br><b>Adresa:</b> č.p. 72, 76325, Loučka <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 43.94 m",
+        "_note": "<br><b>Poznámka:</b> autobusová zastávka <br><b>Adresa:</b> č.p. 72, 76325, Loučka ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76607:150"
+        "operator:wikidata": "Q341090",
+        "ref": "76320:20"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          17.9075636,
-          49.1710335
+          17.9071298,
+          49.1710738
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> travnatá plocha před domem na křižovatce <br><b>Adresa:</b> č.p. 113, 76325, Újezd <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 31.86 m",
+        "_note": "<br><b>Poznámka:</b> travnatá plocha před domem na křižovatce <br><b>Adresa:</b> č.p. 113, 76325, Újezd ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76607:154"
+        "operator:wikidata": "Q341090",
+        "ref": "76320:24"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          17.8472834,
-          49.1554891
+          17.8471654,
+          49.1553567
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> obchod <br><b>Adresa:</b> č.p. 74, 76323, Slopné <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 17.05 m",
+        "_note": "<br><b>Poznámka:</b> obchod <br><b>Adresa:</b> č.p. 74, 76323, Slopné ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76607:177"
+        "operator:wikidata": "Q341090",
+        "ref": "76320:36"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          17.9047013,
-          49.1684792
+          17.9047415,
+          49.1684489
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Újezd u Valašských Klobouk <br><b>Adresa:</b> č.p. 372, 76325, Újezd <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 4.46 m",
+        "_note": "<br><b>Poznámka:</b> pošta Újezd u Valašských Klobouk <br><b>Adresa:</b> č.p. 372, 76325, Újezd ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76607:236"
+        "operator:wikidata": "Q341090",
+        "ref": "76320:39"
       },
       "type": "Feature"
     },
@@ -98,6 +103,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 07:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "76607:99"
       },
       "type": "Feature"

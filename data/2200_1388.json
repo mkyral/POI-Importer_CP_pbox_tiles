@@ -3,51 +3,54 @@
     {
       "geometry": {
         "coordinates": [
-          13.400005,
-          50.0162495
+          13.3699179,
+          50.0204526
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Potvorov, obecní úřad <br><b>Adresa:</b> č.p. 10, 33141, Potvorov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.07 m",
+        "_note": "<br><b>Poznámka:</b> Odlezly,aut. zastávka <br><b>Adresa:</b> Plzeň-sever; Žihle; Odlezly ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "30071:393"
+        "operator:wikidata": "Q341090",
+        "ref": "33145:22"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          13.3699181,
-          50.0204536
+          13.3666117,
+          50.0453186
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Odlezly,aut. zastávka <br><b>Adresa:</b> Plzeň-sever; Žihle; Odlezly <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Žihle - pošta <br><b>Adresa:</b> č.p. 226, 33165, Žihle ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "30071:445"
+        "operator:wikidata": "Q341090",
+        "ref": "33145:28"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          13.3666191,
-          50.045394
+          13.4001439,
+          50.0162936
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Žihle - pošta <br><b>Adresa:</b> č.p. 226, 33165, Žihle <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.4 m",
+        "_note": "<br><b>Poznámka:</b> Potvorov, obecní úřad <br><b>Adresa:</b> č.p. 10, 33141, Potvorov ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "30071:451"
+        "operator:wikidata": "Q341090",
+        "ref": "33145:4"
       },
       "type": "Feature"
     }

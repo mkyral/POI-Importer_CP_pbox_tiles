@@ -13,6 +13,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "30071:321"
       },
       "type": "Feature"
@@ -20,51 +21,54 @@
     {
       "geometry": {
         "coordinates": [
-          13.1563057,
-          49.9571027
+          13.1563055,
+          49.9571017
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Hrad Nečtiny,zastávka ČSAD <br><b>Adresa:</b> Plzeň-sever; Nečtiny; Hrad Nečtiny <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Hrad Nečtiny,zastávka ČSAD <br><b>Adresa:</b> Plzeň-sever; Nečtiny; Hrad Nečtiny ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "30071:377"
+        "operator:wikidata": "Q341090",
+        "ref": "33100:11"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          13.1341551,
-          49.9620167
+          13.1341549,
+          49.9620157
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Březín,kulturní dům <br><b>Adresa:</b> Plzeň-sever; Nečtiny; Březín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Březín,kulturní dům <br><b>Adresa:</b> Plzeň-sever; Nečtiny; Březín ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "30071:378"
+        "operator:wikidata": "Q341090",
+        "ref": "33100:12"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          13.1650832,
-          49.9744623
+          13.1652736,
+          49.9745158
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Nečtiny - pošta <br><b>Adresa:</b> č.p. 188, 33162, Nečtiny <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 14.86 m",
+        "_note": "<br><b>Poznámka:</b> Nečtiny - pošta <br><b>Adresa:</b> č.p. 188, 33162, Nečtiny ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "30071:385"
+        "operator:wikidata": "Q341090",
+        "ref": "33100:16"
       },
       "type": "Feature"
     }

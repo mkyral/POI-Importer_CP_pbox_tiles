@@ -13,6 +13,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "68607:241"
       },
       "type": "Feature"
@@ -30,6 +31,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "68607:242"
       },
       "type": "Feature"
@@ -47,6 +49,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "68607:71"
       },
       "type": "Feature"
@@ -64,6 +67,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "68607:72"
       },
       "type": "Feature"
@@ -81,6 +85,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "68607:73"
       },
       "type": "Feature"
@@ -98,6 +103,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "68607:80"
       },
       "type": "Feature"
@@ -115,6 +121,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "68607:81"
       },
       "type": "Feature"
@@ -122,51 +129,54 @@
     {
       "geometry": {
         "coordinates": [
-          17.5670669,
-          49.1502934
+          17.4979713,
+          49.1413718
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> OÚ <br><b>Adresa:</b> č.p. 124, 76361, Komárov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.82 m",
+        "_note": "<br><b>Poznámka:</b> pošta Spytihněv <br><b>Adresa:</b> č.p. 359, 76364, Spytihněv ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76607:189"
+        "operator:wikidata": "Q341090",
+        "ref": "76500:29"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          17.4949872,
-          49.1366206
+          17.5670871,
+          49.1502061
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> před domem na křižovatce ulic <br><b>Adresa:</b> č.p. 618, 76364, Spytihněv <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 15.06 m",
+        "_note": "<br><b>Poznámka:</b> OÚ <br><b>Adresa:</b> č.p. 124, 76361, Komárov ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76607:191"
+        "operator:wikidata": "Q341090",
+        "ref": "76500:6"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          17.4981415,
-          49.1413787
+          17.4948558,
+          49.1367252
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Spytihněv <br><b>Adresa:</b> č.p. 359, 76364, Spytihněv <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 12.41 m",
+        "_note": "<br><b>Poznámka:</b> před domem na křižovatce ulic <br><b>Adresa:</b> č.p. 618, 76364, Spytihněv ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76607:225"
+        "operator:wikidata": "Q341090",
+        "ref": "76500:7"
       },
       "type": "Feature"
     }

@@ -3,85 +3,108 @@
     {
       "geometry": {
         "coordinates": [
-          12.6476388,
-          50.1798457
+          12.6478719,
+          50.179904
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Sokolov 1 - pošta <br><b>Adresa:</b> Karla Havlíčka Borovského 1420, 35601, Sokolov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 17.82 m",
+        "_note": "<br><b>Poznámka:</b> Sokolov 1 - pošta <br><b>Adresa:</b> Karla Havlíčka Borovského 1420, 35601, Sokolov ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 13:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "35007:154"
+        "operator:wikidata": "Q341090",
+        "ref": "35600:1"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          12.6456895,
-          50.1807103
+          12.6403531,
+          50.1818505
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Sokolov, náměstí Budovatelů <br><b>Adresa:</b> Sokolov; Sokolov; Sokolov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Sokolov, Růžové náměstí, OD Výběr <br><b>Adresa:</b> Sokolov; Sokolov; Sokolov ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "35007:158"
+        "operator:wikidata": "Q341090",
+        "ref": "35600:13"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          12.6403533,
-          50.1818516
+          12.613472,
+          50.2003945
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Sokolov, Růžové náměstí, OD Výběr <br><b>Adresa:</b> Sokolov; Sokolov; Sokolov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Svatava, ul.Podlesí <br><b>Adresa:</b> Sokolov; Svatava; Svatava ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "35007:175"
+        "operator:wikidata": "Q341090",
+        "ref": "35600:14"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          12.6134722,
-          50.2003955
+          12.6268247,
+          50.1926281
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Svatava, ul.Podlesí <br><b>Adresa:</b> Sokolov; Svatava; Svatava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Svatava - pošta <br><b>Adresa:</b> ČSA 228, 35703, Svatava ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "35007:177"
+        "operator:wikidata": "Q341090",
+        "ref": "35600:18"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          12.6267609,
-          50.1926014
+          12.6456893,
+          50.1807093
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Svatava - pošta <br><b>Adresa:</b> ČSA 228, 35703, Svatava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.43 m",
+        "_note": "<br><b>Poznámka:</b> Sokolov, náměstí Budovatelů <br><b>Adresa:</b> Sokolov; Sokolov; Sokolov ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "35007:185"
+        "operator:wikidata": "Q341090",
+        "ref": "35600:4"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.6495686,
+          50.1773714
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Sokolov, Slovenská <br><b>Adresa:</b> Sokolov; Sokolov; Sokolov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "35600:9"
       },
       "type": "Feature"
     }

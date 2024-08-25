@@ -13,6 +13,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "56707:528"
       },
       "type": "Feature"
@@ -30,6 +31,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "56707:532"
       },
       "type": "Feature"
@@ -47,6 +49,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "56707:548"
       },
       "type": "Feature"
@@ -64,6 +67,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "56707:577"
       },
       "type": "Feature"
@@ -71,51 +75,54 @@
     {
       "geometry": {
         "coordinates": [
-          16.8696484,
-          49.7122591
+          16.869648,
+          49.7122581
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Bouzov, naproti Bezděkov 46, na Hasičské zbrojnici <br><b>Adresa:</b> Olomouc; Bouzov; Bezděkov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Bouzov, naproti Bezděkov 46, na Hasičské zbrojnici <br><b>Adresa:</b> Olomouc; Bouzov; Bezděkov ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "77072:478"
+        "operator:wikidata": "Q341090",
+        "ref": "78400:70"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          16.8626168,
-          49.7044086
+          16.863011,
+          49.704196
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Bouzov, Kozov 34, náves (stojan) <br><b>Adresa:</b> Kozov 34, 78325, Bouzov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 36.92 m",
+        "_note": "<br><b>Poznámka:</b> Bouzov, Kozov 34, náves (stojan) <br><b>Adresa:</b> Kozov 34, 78325, Bouzov ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "77072:480"
+        "operator:wikidata": "Q341090",
+        "ref": "78400:72"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          16.8610641,
-          49.6921073
+          16.8610642,
+          49.6921072
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Bouzov, Svojanov 9, náves (stojan) <br><b>Adresa:</b> Svojanov 9, 78325, Bouzov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Bouzov, Svojanov 9, náves (stojan) <br><b>Adresa:</b> Svojanov 9, 78325, Bouzov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "77072:481"
+        "operator:wikidata": "Q341090",
+        "ref": "78400:73"
       },
       "type": "Feature"
     }

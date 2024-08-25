@@ -3,6 +3,60 @@
     {
       "geometry": {
         "coordinates": [
+          14.8579148,
+          50.7416527
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> na obchodě Žibřidice E31 <br><b>Adresa:</b> Žibřidice E31, 46353, Křižany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "46016:22"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.8768317,
+          50.7649175
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Zdislava - hasičská zbrojnice čp. 128 <br><b>Adresa:</b> č.p. 128, 46353, Zdislava ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "46016:23"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.9049698,
+          50.7385196
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Křižany - Obecní úřad čp. 340 <br><b>Adresa:</b> č.p. 340, 46353, Křižany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "46016:24"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           14.9322036,
           50.7734596
         ],
@@ -13,58 +67,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "46307:74"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.8580809,
-          50.7416474
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> na obchodě Žibřidice E31 <br><b>Adresa:</b> Žibřidice E31, 46353, Křižany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.71 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "46307:89"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.8765326,
-          50.7648208
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Zdislava - hasičská zbrojnice čp. 128 <br><b>Adresa:</b> č.p. 128, 46353, Zdislava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 23.63 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "46307:90"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.9060103,
-          50.7385866
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Křižany - Obecní úřad čp. 340 <br><b>Adresa:</b> č.p. 340, 46353, Křižany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 73.62 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "46307:92"
       },
       "type": "Feature"
     }

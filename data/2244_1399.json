@@ -3,6 +3,24 @@
     {
       "geometry": {
         "coordinates": [
+          17.2595672,
+          49.3896781
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Polkovice, Partner I (stojan) <br><b>Adresa:</b> č.p. 15, 75144, Polkovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "75000:113"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           17.2847099,
           49.4179985
         ],
@@ -13,7 +31,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76707:273"
+        "operator:wikidata": "Q341090",
+        "ref": "75000:46"
       },
       "type": "Feature"
     },
@@ -30,7 +49,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76707:274"
+        "operator:wikidata": "Q341090",
+        "ref": "75000:47"
       },
       "type": "Feature"
     },
@@ -47,7 +67,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76707:275"
+        "operator:wikidata": "Q341090",
+        "ref": "75000:48"
       },
       "type": "Feature"
     },
@@ -64,7 +85,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76707:276"
+        "operator:wikidata": "Q341090",
+        "ref": "75000:49"
       },
       "type": "Feature"
     },
@@ -81,7 +103,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76707:277"
+        "operator:wikidata": "Q341090",
+        "ref": "75000:50"
       },
       "type": "Feature"
     },
@@ -98,7 +121,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76707:278"
+        "operator:wikidata": "Q341090",
+        "ref": "75000:51"
       },
       "type": "Feature"
     },
@@ -115,24 +139,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76707:316"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.2595672,
-          49.3896781
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Polkovice, Partner I (stojan) <br><b>Adresa:</b> č.p. 15, 75144, Polkovice ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "76707:340"
+        "operator:wikidata": "Q341090",
+        "ref": "75000:89"
       },
       "type": "Feature"
     },
@@ -149,6 +157,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "77072:648"
       },
       "type": "Feature"

@@ -3,23 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          16.6600828,
-          48.96518
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Uherčice 316, na zdi <br><b>Adresa:</b> č.p. 316, 69162, Uherčice ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "60010:841"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           16.6250372,
           48.9352148
         ],
@@ -30,7 +13,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "60010:902"
+        "operator:wikidata": "Q341090",
+        "ref": "69120:12"
       },
       "type": "Feature"
     },
@@ -47,7 +31,26 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "60010:903"
+        "operator:wikidata": "Q341090",
+        "ref": "69300:17"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.6600828,
+          48.96518
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Uherčice 316, na zdi <br><b>Adresa:</b> č.p. 316, 69162, Uherčice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "69300:25"
       },
       "type": "Feature"
     },
@@ -64,7 +67,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "60010:905"
+        "operator:wikidata": "Q341090",
+        "ref": "69300:26"
       },
       "type": "Feature"
     }

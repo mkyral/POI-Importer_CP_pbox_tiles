@@ -13,6 +13,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "30071:295"
       },
       "type": "Feature"
@@ -30,6 +31,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "30071:306"
       },
       "type": "Feature"
@@ -37,34 +39,36 @@
     {
       "geometry": {
         "coordinates": [
-          13.3112412,
-          49.9503911
+          13.2877364,
+          49.9268036
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Pláně, u obecního úřadu <br><b>Adresa:</b> č.p. 45, 33101, Pláně <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 19.6 m",
+        "_note": "<br><b>Poznámka:</b> Dražeň,OÚ <br><b>Adresa:</b> č.p. 26, 33101, Dražeň ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "30071:358"
+        "operator:wikidata": "Q341090",
+        "ref": "33100:10"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          13.2878209,
-          49.9268122
+          13.311515,
+          49.9503864
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Dražeň,OÚ <br><b>Adresa:</b> č.p. 26, 33101, Dražeň <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.13 m",
+        "_note": "<br><b>Poznámka:</b> Pláně, u obecního úřadu <br><b>Adresa:</b> č.p. 45, 33101, Pláně ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "30071:363"
+        "operator:wikidata": "Q341090",
+        "ref": "33100:7"
       },
       "type": "Feature"
     }

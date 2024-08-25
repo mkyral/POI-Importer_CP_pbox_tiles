@@ -13,6 +13,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "30071:167"
       },
       "type": "Feature"
@@ -30,6 +31,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "30071:169"
       },
       "type": "Feature"
@@ -47,6 +49,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "30071:172"
       },
       "type": "Feature"
@@ -64,6 +67,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "30071:218"
       },
       "type": "Feature"
@@ -71,34 +75,36 @@
     {
       "geometry": {
         "coordinates": [
-          13.0439426,
-          49.6995078
+          13.0250474,
+          49.6745306
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Ostrov, na návsi u informační tabule <br><b>Adresa:</b> Tachov; Kostelec; Ostrov u Stříbra <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Kostelec u Stříbra - pošta <br><b>Adresa:</b> č.p. 91, 34901, Kostelec ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "34707:266"
+        "operator:wikidata": "Q341090",
+        "ref": "34900:42"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          13.0247074,
-          49.6745992
+          13.0439423,
+          49.6995068
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Kostelec u Stříbra - pošta <br><b>Adresa:</b> č.p. 91, 34901, Kostelec <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 25.64 m",
+        "_note": "<br><b>Poznámka:</b> Ostrov, na návsi u informační tabule <br><b>Adresa:</b> Tachov; Kostelec; Ostrov u Stříbra ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "34707:312"
+        "operator:wikidata": "Q341090",
+        "ref": "34900:8"
       },
       "type": "Feature"
     }

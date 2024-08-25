@@ -3,68 +3,54 @@
     {
       "geometry": {
         "coordinates": [
-          15.4601204,
-          50.515904
+          15.460419,
+          50.5158125
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> č.p. 25, Ústí u Staré Paky <br><b>Adresa:</b> Ústí 25, 50791, Stará Paka <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 23.44 m",
+        "_note": "<br><b>Poznámka:</b> č.p. 25, Ústí u Staré Paky <br><b>Adresa:</b> Ústí 25, 50791, Stará Paka ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "50770:384"
+        "operator:wikidata": "Q341090",
+        "ref": "50900:38"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          15.4644065,
-          50.5451913
+          15.4647089,
+          50.5445223
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Nádraží ČD, Tample <br><b>Adresa:</b> Tample 50, 50791, Svojek <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 77.42 m",
+        "_note": "<br><b>Poznámka:</b> Nádraží ČD, Tample <br><b>Adresa:</b> Tample 50, 50791, Svojek ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "50770:388"
+        "operator:wikidata": "Q341090",
+        "ref": "50900:41"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          15.4562975,
-          50.5531328
+          15.4562231,
+          50.5529803
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Prodejna, Svojek <br><b>Adresa:</b> č.p. 13, 50791, Svojek <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 17.76 m",
+        "_note": "<br><b>Poznámka:</b> Prodejna, Svojek <br><b>Adresa:</b> č.p. 13, 50791, Svojek ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "50770:390"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.4456581,
-          50.5341058
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 142, 51401, Bělá <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 13.11 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "51107:248"
+        "operator:wikidata": "Q341090",
+        "ref": "50900:43"
       },
       "type": "Feature"
     },
@@ -81,6 +67,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "51300:22"
       },
       "type": "Feature"
@@ -98,7 +85,26 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "51300:23"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4454896,
+          50.534155
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 142, 51401, Bělá ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "51400:9"
       },
       "type": "Feature"
     }

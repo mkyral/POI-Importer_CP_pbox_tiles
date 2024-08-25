@@ -3,51 +3,54 @@
     {
       "geometry": {
         "coordinates": [
-          16.127849,
-          49.8222868
+          16.128085,
+          49.8223257
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> náves, \"S\" <br><b>Adresa:</b> č.p. 27, 53944, Bor u Skutče <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 17.48 m",
+        "_note": "<br><b>Poznámka:</b> náves, \"S\" <br><b>Adresa:</b> č.p. 27, 53944, Bor u Skutče ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53307:822"
+        "operator:wikidata": "Q341090",
+        "ref": "53970:16"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          16.0993232,
-          49.827008
+          16.099323,
+          49.827007
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> náves, \"S\" <br><b>Adresa:</b> Chrudim; Zderaz; Zderaz <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> náves, \"S\" <br><b>Adresa:</b> Chrudim; Zderaz; Zderaz ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53307:823"
+        "operator:wikidata": "Q341090",
+        "ref": "53970:17"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          16.1167616,
-          49.8060767
+          16.1168561,
+          49.8061922
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Proseč u Skutče <br><b>Adresa:</b> náměstí Dr. Tošovského 18, 53944, Proseč <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 14.53 m",
+        "_note": "<br><b>Poznámka:</b> pošta Proseč u Skutče <br><b>Adresa:</b> náměstí Dr. Tošovského 18, 53944, Proseč ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53307:862"
+        "operator:wikidata": "Q341090",
+        "ref": "53970:48"
       },
       "type": "Feature"
     },
@@ -64,6 +67,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "56707:618"
       },
       "type": "Feature"
@@ -81,6 +85,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "56707:660"
       },
       "type": "Feature"
@@ -98,6 +103,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "56707:673"
       },
       "type": "Feature"

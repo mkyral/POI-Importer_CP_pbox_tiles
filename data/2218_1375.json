@@ -3,6 +3,42 @@
     {
       "geometry": {
         "coordinates": [
+          15.0241386,
+          50.790443
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Stráž nad Nisou <br><b>Adresa:</b> Studánecká 259, 46303, Stráž nad Nisou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "46016:14"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.0112907,
+          50.7377716
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Ještědská 479 (Infocentrum) <br><b>Adresa:</b> Ještědská 479, Liberec XIX-Horní Hanychov, 46008, Liberec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "46016:18"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           14.9917961,
           50.7895939
         ],
@@ -13,41 +49,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "46307:73"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.024266,
-          50.7904371
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Stráž nad Nisou <br><b>Adresa:</b> Studánecká 259, 46303, Stráž nad Nisou <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.98 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "46307:78"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.011154,
-          50.7377666
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Ještědská 479 (Infocentrum) <br><b>Adresa:</b> Ještědská 479, Liberec XIX-Horní Hanychov, 46008, Liberec <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.64 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "46307:83"
       },
       "type": "Feature"
     }

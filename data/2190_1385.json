@@ -3,34 +3,36 @@
     {
       "geometry": {
         "coordinates": [
-          12.5502775,
-          50.182511
+          12.5499302,
+          50.1823779
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Habartov - pošta <br><b>Adresa:</b> náměstí Přátelství 112, 35709, Habartov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 28.83 m",
+        "_note": "<br><b>Poznámka:</b> Habartov - pošta <br><b>Adresa:</b> náměstí Přátelství 112, 35709, Habartov ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "35007:190"
+        "operator:wikidata": "Q341090",
+        "ref": "35600:23"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          12.5362532,
-          50.2160506
+          12.5364624,
+          50.2160798
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Krajková č.295, vedle budovy OÚ <br><b>Adresa:</b> č.p. 295, 35708, Krajková <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 15.24 m",
+        "_note": "<br><b>Poznámka:</b> Krajková č.295, vedle budovy OÚ <br><b>Adresa:</b> č.p. 295, 35708, Krajková ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "35007:198"
+        "operator:wikidata": "Q341090",
+        "ref": "35600:24"
       },
       "type": "Feature"
     }

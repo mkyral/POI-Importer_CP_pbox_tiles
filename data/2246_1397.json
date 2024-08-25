@@ -3,57 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          17.4625853,
-          49.524533
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Lazníky 50, potraviny (stojan) <br><b>Adresa:</b> č.p. 50, 75125, Lazníky ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "76707:297"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.4604592,
-          49.5445979
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Lazníčky 35, OÚ (stojan) <br><b>Adresa:</b> č.p. 35, 75125, Lazníčky ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "76707:298"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.4770859,
-          49.5451121
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> stojan u zvoničky <br><b>Adresa:</b> Svrčov 5, 75125, Lazníky ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "76707:299"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           17.4100086,
           49.499463
         ],
@@ -64,7 +13,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76707:356"
+        "operator:wikidata": "Q341090",
+        "ref": "75000:129"
       },
       "type": "Feature"
     },
@@ -81,7 +31,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76707:360"
+        "operator:wikidata": "Q341090",
+        "ref": "75000:133"
       },
       "type": "Feature"
     },
@@ -98,7 +49,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76707:362"
+        "operator:wikidata": "Q341090",
+        "ref": "75000:135"
       },
       "type": "Feature"
     },
@@ -115,7 +67,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76707:363"
+        "operator:wikidata": "Q341090",
+        "ref": "75000:136"
       },
       "type": "Feature"
     },
@@ -132,7 +85,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76707:364"
+        "operator:wikidata": "Q341090",
+        "ref": "75000:137"
       },
       "type": "Feature"
     },
@@ -149,7 +103,62 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76707:367"
+        "operator:wikidata": "Q341090",
+        "ref": "75000:140"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.4625853,
+          49.524533
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lazníky 50, potraviny (stojan) <br><b>Adresa:</b> č.p. 50, 75125, Lazníky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "75000:70"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.4604592,
+          49.5445979
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lazníčky 35, OÚ (stojan) <br><b>Adresa:</b> č.p. 35, 75125, Lazníčky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "75000:71"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.4770859,
+          49.5451121
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> stojan u zvoničky <br><b>Adresa:</b> Svrčov 5, 75125, Lazníky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "75000:72"
       },
       "type": "Feature"
     },
@@ -166,6 +175,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "77072:161"
       },
       "type": "Feature"
@@ -183,6 +193,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "77072:168"
       },
       "type": "Feature"
@@ -200,6 +211,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "77072:3"
       },
       "type": "Feature"

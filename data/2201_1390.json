@@ -3,17 +3,18 @@
     {
       "geometry": {
         "coordinates": [
-          13.4637503,
-          49.9426446
+          13.46375,
+          49.9426436
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Kopidlo,zastávka <br><b>Adresa:</b> Plzeň-sever; Kopidlo; Kopidlo <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Kopidlo,zastávka <br><b>Adresa:</b> Plzeň-sever; Kopidlo; Kopidlo ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "30071:402"
+        "operator:wikidata": "Q341090",
+        "ref": "33145:6"
       },
       "type": "Feature"
     }

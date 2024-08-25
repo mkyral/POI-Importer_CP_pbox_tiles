@@ -3,51 +3,54 @@
     {
       "geometry": {
         "coordinates": [
-          14.9205623,
-          50.6951669
+          14.9206113,
+          50.695231
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Osečná <br><b>Adresa:</b> Svatovítské náměstí 100, 46352, Osečná <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 7.92 m",
+        "_note": "<br><b>Poznámka:</b> pošta Osečná <br><b>Adresa:</b> Svatovítské náměstí 100, 46352, Osečná ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "46307:399"
+        "operator:wikidata": "Q341090",
+        "ref": "46016:44"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          14.9054102,
-          50.6932042
+          14.9051047,
+          50.6930167
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Lázně Kundratice 136 <br><b>Adresa:</b> Lázeňská 136, Lázně Kundratice, 46352, Osečná <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 29.97 m",
+        "_note": "<br><b>Poznámka:</b> Lázně Kundratice 136 <br><b>Adresa:</b> Lázeňská 136, Lázně Kundratice, 46352, Osečná ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "46307:429"
+        "operator:wikidata": "Q341090",
+        "ref": "46016:56"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          14.9108522,
-          50.6974658
+          14.9103867,
+          50.6973543
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> stojan křižovatka Osečná Láz.Kundratice(naproti53) <br><b>Adresa:</b> Lázeňská 53, Lázně Kundratice, 46352, Osečná <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 35.06 m",
+        "_note": "<br><b>Poznámka:</b> stojan křižovatka Osečná Láz.Kundratice(naproti53) <br><b>Adresa:</b> Lázeňská 53, Lázně Kundratice, 46352, Osečná ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "46307:430"
+        "operator:wikidata": "Q341090",
+        "ref": "46016:57"
       },
       "type": "Feature"
     },
@@ -64,6 +67,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "47007:88"
       },
       "type": "Feature"

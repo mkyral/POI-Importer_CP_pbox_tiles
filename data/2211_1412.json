@@ -3,34 +3,36 @@
     {
       "geometry": {
         "coordinates": [
-          14.3434239,
-          48.6604038
+          14.3434095,
+          48.6604532
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Přízeř 51, 38218, Rožmberk nad Vltavou <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.6 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Přízeř 51, 38218, Rožmberk nad Vltavou ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "37271:743"
+        "operator:wikidata": "Q341090",
+        "ref": "38240:49"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          14.3669663,
-          48.6548155
+          14.3669989,
+          48.6548658
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Pošta partner Rožmberk nad Vltavou <br><b>Adresa:</b> č.p. 2, 38218, Rožmberk nad Vltavou <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.09 m",
+        "_note": "<br><b>Poznámka:</b> Pošta partner Rožmberk nad Vltavou <br><b>Adresa:</b> č.p. 2, 38218, Rožmberk nad Vltavou ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "37271:744"
+        "operator:wikidata": "Q341090",
+        "ref": "38240:50"
       },
       "type": "Feature"
     }

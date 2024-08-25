@@ -3,34 +3,36 @@
     {
       "geometry": {
         "coordinates": [
-          17.956386,
-          49.7858435
+          17.9563858,
+          49.7858433
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Bílovec, Ohrada 25 - na aut.zastávce <br><b>Adresa:</b> Nový Jičín; Bílovec; Ohrada <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Bílovec, Ohrada 25 - na aut.zastávce <br><b>Adresa:</b> Nový Jičín; Bílovec; Ohrada <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "72572:358"
+        "operator:wikidata": "Q341090",
+        "ref": "70700:53"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          17.9956505,
-          49.7911776
+          17.9956506,
+          49.7911775
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Slatina, Nový Svět 6 - na aut.zastávce <br><b>Adresa:</b> Nový Jičín; Slatina; Nový Svět <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Slatina, Nový Svět 6 - na aut.zastávce <br><b>Adresa:</b> Nový Jičín; Slatina; Nový Svět <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "72572:359"
+        "operator:wikidata": "Q341090",
+        "ref": "70700:54"
       },
       "type": "Feature"
     },
@@ -38,50 +40,53 @@
       "geometry": {
         "coordinates": [
           17.9888903,
-          49.8078082
+          49.8078081
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Bílovec, Výškovice, poblíž čp.15 <br><b>Adresa:</b> Nový Jičín; Bílovec; Výškovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Bílovec, Výškovice, poblíž čp.15 <br><b>Adresa:</b> Nový Jičín; Bílovec; Výškovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "72572:360"
+        "operator:wikidata": "Q341090",
+        "ref": "70700:55"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          17.9795987,
-          49.7912503
+          17.9795266,
+          49.7913039
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Pošta Slatina u Bílovce <br><b>Adresa:</b> č.p. 170, 74293, Slatina <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 7.9 m",
+        "_note": "<br><b>Poznámka:</b> Pošta Slatina u Bílovce <br><b>Adresa:</b> č.p. 170, 74293, Slatina ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "72572:375"
+        "operator:wikidata": "Q341090",
+        "ref": "70700:69"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          18.0149568,
-          49.7928015
+          18.013313,
+          49.7924527
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Partner Tísek, čp.62 <br><b>Adresa:</b> č.p. 62, 74301, Tísek <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 124.25 m",
+        "_note": "<br><b>Poznámka:</b> Partner Tísek, čp.62 <br><b>Adresa:</b> č.p. 62, 74301, Tísek ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "72572:376"
+        "operator:wikidata": "Q341090",
+        "ref": "70700:70"
       },
       "type": "Feature"
     },
@@ -98,6 +103,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "74907:102"
       },
       "type": "Feature"

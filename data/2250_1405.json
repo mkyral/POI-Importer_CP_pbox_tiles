@@ -13,6 +13,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "68607:131"
       },
       "type": "Feature"
@@ -30,6 +31,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "68607:136"
       },
       "type": "Feature"
@@ -47,6 +49,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "68607:271"
       },
       "type": "Feature"
@@ -54,34 +57,36 @@
     {
       "geometry": {
         "coordinates": [
-          17.8280091,
-          49.0790838
+          17.8283062,
+          49.0791449
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> potraviny <br><b>Adresa:</b> č.p. 10, 76321, Rudimov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 22.69 m",
+        "_note": "<br><b>Poznámka:</b> potraviny <br><b>Adresa:</b> č.p. 10, 76321, Rudimov ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76607:140"
+        "operator:wikidata": "Q341090",
+        "ref": "76320:11"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          17.7899806,
-          49.0866385
+          17.7900306,
+          49.086684
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> požární zbrojnice, Kladná Žilín <br><b>Adresa:</b> Kladná Žilín 1, 76326, Luhačovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.24 m",
+        "_note": "<br><b>Poznámka:</b> požární zbrojnice, Kladná Žilín <br><b>Adresa:</b> Kladná Žilín 1, 76326, Luhačovice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76607:163"
+        "operator:wikidata": "Q341090",
+        "ref": "76320:25"
       },
       "type": "Feature"
     }

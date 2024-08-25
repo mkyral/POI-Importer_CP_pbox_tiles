@@ -13,6 +13,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "30071:280"
       },
       "type": "Feature"
@@ -30,6 +31,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "30071:296"
       },
       "type": "Feature"
@@ -47,58 +49,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "30071:297"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.297052,
-          49.8391252
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Stýskaly - u kontejnerů <br><b>Adresa:</b> Stýskaly 43, 33011, Žilov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 17.23 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "30072:412"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.3000648,
-          49.8487003
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Tatiná - vedle OÚ <br><b>Adresa:</b> č.p. 24, 33011, Tatiná <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 24.74 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "30072:413"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.3133909,
-          49.8401507
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Žilov - na prodejně, u čp.66 <br><b>Adresa:</b> č.p. 66, 33011, Žilov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 4.14 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "30072:414"
       },
       "type": "Feature"
     },
@@ -115,58 +67,116 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "30072:438"
+        "operator:wikidata": "Q341090",
+        "ref": "32301:24"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          13.3038419,
-          49.8732432
+          13.3037225,
+          49.8732389
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Krašovice - čekárna ČSAD, u čp.70 <br><b>Adresa:</b> č.p. 70, 33013, Krašovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.57 m",
+        "_note": "<br><b>Poznámka:</b> Krašovice - čekárna ČSAD, u čp.70 <br><b>Adresa:</b> č.p. 70, 33013, Krašovice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "30072:440"
+        "operator:wikidata": "Q341090",
+        "ref": "32301:26"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          13.3577643,
-          49.8414921
+          13.3576047,
+          49.8414938
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Horní Bříza - pošta <br><b>Adresa:</b> Třída 1. máje 708, 33012, Horní Bříza <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.45 m",
+        "_note": "<br><b>Poznámka:</b> Horní Bříza - pošta <br><b>Adresa:</b> Třída 1. máje 708, 33012, Horní Bříza ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "30072:441"
+        "operator:wikidata": "Q341090",
+        "ref": "32301:27"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          13.3200234,
-          49.8612498
+          13.3193855,
+          49.8614536
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Trnová u Plzně - prodejna COOP <br><b>Adresa:</b> č.p. 9, 33013, Trnová <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 51.05 m",
+        "_note": "<br><b>Poznámka:</b> Trnová u Plzně - prodejna COOP <br><b>Adresa:</b> č.p. 9, 33013, Trnová ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "30072:442"
+        "operator:wikidata": "Q341090",
+        "ref": "32301:28"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.2972731,
+          49.8390648
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Stýskaly - u kontejnerů <br><b>Adresa:</b> Stýskaly 43, 33011, Žilov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "32301:7"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.2997597,
+          49.8485965
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Tatiná - vedle OÚ <br><b>Adresa:</b> č.p. 24, 33011, Tatiná ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "32301:8"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.3134459,
+          49.8401395
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Žilov - na prodejně, u čp.66 <br><b>Adresa:</b> č.p. 66, 33011, Žilov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "32301:9"
       },
       "type": "Feature"
     }

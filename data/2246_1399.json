@@ -3,23 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          17.4231766,
-          49.4050821
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Věžky 17, OÚ (stojan) <br><b>Adresa:</b> č.p. 17, 75119, Věžky ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "76707:244"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           17.4625238,
           49.4121407
         ],
@@ -30,7 +13,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76707:327"
+        "operator:wikidata": "Q341090",
+        "ref": "75000:100"
       },
       "type": "Feature"
     },
@@ -47,7 +31,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76707:329"
+        "operator:wikidata": "Q341090",
+        "ref": "75000:102"
       },
       "type": "Feature"
     },
@@ -64,7 +49,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76707:344"
+        "operator:wikidata": "Q341090",
+        "ref": "75000:117"
       },
       "type": "Feature"
     },
@@ -81,7 +67,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76707:349"
+        "operator:wikidata": "Q341090",
+        "ref": "75000:122"
       },
       "type": "Feature"
     },
@@ -98,7 +85,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76707:350"
+        "operator:wikidata": "Q341090",
+        "ref": "75000:123"
       },
       "type": "Feature"
     },
@@ -115,7 +103,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76707:351"
+        "operator:wikidata": "Q341090",
+        "ref": "75000:124"
       },
       "type": "Feature"
     },
@@ -132,7 +121,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76707:352"
+        "operator:wikidata": "Q341090",
+        "ref": "75000:125"
       },
       "type": "Feature"
     },
@@ -149,7 +139,26 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76707:369"
+        "operator:wikidata": "Q341090",
+        "ref": "75000:142"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.4231766,
+          49.4050821
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Věžky 17, OÚ (stojan) <br><b>Adresa:</b> č.p. 17, 75119, Věžky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "75000:17"
       },
       "type": "Feature"
     }

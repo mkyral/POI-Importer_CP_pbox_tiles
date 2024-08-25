@@ -3,51 +3,54 @@
     {
       "geometry": {
         "coordinates": [
-          12.6661061,
-          50.1771844
+          12.6660799,
+          50.1771234
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Sokolov zdravotní středisko <br><b>Adresa:</b> Sokolovská 1623, 35601, Sokolov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 7.04 m",
+        "_note": "<br><b>Poznámka:</b> Sokolov zdravotní středisko <br><b>Adresa:</b> Sokolovská 1623, 35601, Sokolov ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "35007:155"
+        "operator:wikidata": "Q341090",
+        "ref": "35600:2"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          12.6797515,
-          50.1937118
+          12.6798191,
+          50.1938156
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Královské Poříčí - pošta <br><b>Adresa:</b> Lázeňská 159, 35601, Královské Poříčí <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 12.51 m",
+        "_note": "<br><b>Poznámka:</b> Královské Poříčí - pošta <br><b>Adresa:</b> Lázeňská 159, 35601, Královské Poříčí ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "35007:187"
+        "operator:wikidata": "Q341090",
+        "ref": "35600:20"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          12.7195294,
-          50.181641
+          12.7192927,
+          50.1816861
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Staré Sedlo u Sokolova - pošta <br><b>Adresa:</b> Sokolovská 195, 35601, Staré Sedlo <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 17.59 m",
+        "_note": "<br><b>Poznámka:</b> Staré Sedlo u Sokolova - pošta <br><b>Adresa:</b> Sokolovská 195, 35601, Staré Sedlo ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "35007:188"
+        "operator:wikidata": "Q341090",
+        "ref": "35600:21"
       },
       "type": "Feature"
     },
@@ -64,6 +67,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "36207:120"
       },
       "type": "Feature"
@@ -81,6 +85,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "36207:53"
       },
       "type": "Feature"

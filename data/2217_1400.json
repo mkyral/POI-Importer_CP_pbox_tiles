@@ -13,6 +13,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "39007:136"
       },
       "type": "Feature"
@@ -30,6 +31,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "39007:752"
       },
       "type": "Feature"
@@ -47,6 +49,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "39007:753"
       },
       "type": "Feature"
@@ -64,6 +67,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "39007:755"
       },
       "type": "Feature"
@@ -71,34 +75,36 @@
     {
       "geometry": {
         "coordinates": [
-          14.9200335,
-          49.329622
+          14.920177,
+          49.3295792
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 80, 39501, Hojovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.44 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 80, 39501, Hojovice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "39307:272"
+        "operator:wikidata": "Q341090",
+        "ref": "39500:77"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          14.9399362,
-          49.3536254
+          14.9394494,
+          49.3536455
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Panské Mlýny 61, 39494, Černovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 35.34 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Panské Mlýny 61, 39494, Černovice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "39307:273"
+        "operator:wikidata": "Q341090",
+        "ref": "39500:78"
       },
       "type": "Feature"
     }

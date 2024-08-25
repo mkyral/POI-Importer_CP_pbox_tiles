@@ -13,6 +13,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "50370:165"
       },
       "type": "Feature"
@@ -30,6 +31,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "50370:166"
       },
       "type": "Feature"
@@ -47,6 +49,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "50370:168"
       },
       "type": "Feature"
@@ -64,6 +67,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "50370:174"
       },
       "type": "Feature"
@@ -81,6 +85,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "50370:266"
       },
       "type": "Feature"
@@ -88,34 +93,36 @@
     {
       "geometry": {
         "coordinates": [
-          15.5895145,
-          50.2449346
+          15.589261,
+          50.2448051
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> prodejna <br><b>Adresa:</b> č.p. 42, 50401, Kobylice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 23.08 m",
+        "_note": "<br><b>Poznámka:</b> prodejna <br><b>Adresa:</b> č.p. 42, 50401, Kobylice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "50370:427"
+        "operator:wikidata": "Q341090",
+        "ref": "50400:53"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          15.5574192,
-          50.2351426
+          15.5589505,
+          50.2347763
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 39, 50401, Prasek <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 116.32 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 39, 50401, Prasek ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "50370:429"
+        "operator:wikidata": "Q341090",
+        "ref": "50400:55"
       },
       "type": "Feature"
     }

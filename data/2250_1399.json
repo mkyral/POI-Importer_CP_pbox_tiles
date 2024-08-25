@@ -13,6 +13,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "75707:254"
       },
       "type": "Feature"
@@ -20,51 +21,54 @@
     {
       "geometry": {
         "coordinates": [
-          17.7787645,
-          49.4339715
+          17.7786686,
+          49.4339763
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> OÚ <br><b>Adresa:</b> č.p. 49, 76871, Komárno <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.96 m",
+        "_note": "<br><b>Poznámka:</b> OÚ <br><b>Adresa:</b> č.p. 49, 76871, Komárno ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76707:156"
+        "operator:wikidata": "Q341090",
+        "ref": "76900:51"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          17.7956099,
-          49.420318
+          17.7955806,
+          49.420269
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 150, 76871, Podhradní Lhota <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.85 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 150, 76871, Podhradní Lhota ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76707:157"
+        "operator:wikidata": "Q341090",
+        "ref": "76900:52"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          17.8107183,
-          49.4138794
+          17.8105936,
+          49.4140548
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Partner Rajnochovice <br><b>Adresa:</b> č.p. 181, 76871, Rajnochovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 21.5 m",
+        "_note": "<br><b>Poznámka:</b> Partner Rajnochovice <br><b>Adresa:</b> č.p. 181, 76871, Rajnochovice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "76707:224"
+        "operator:wikidata": "Q341090",
+        "ref": "76900:59"
       },
       "type": "Feature"
     }

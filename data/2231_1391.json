@@ -3,51 +3,54 @@
     {
       "geometry": {
         "coordinates": [
-          16.1572182,
-          49.8648723
+          16.1568507,
+          49.8649207
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> náves, \"S\" <br><b>Adresa:</b> č.p. 10, 53944, Příluka <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 26.89 m",
+        "_note": "<br><b>Poznámka:</b> náves, \"S\" <br><b>Adresa:</b> č.p. 10, 53944, Příluka ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53307:828"
+        "operator:wikidata": "Q341090",
+        "ref": "53970:21"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          16.1178503,
-          49.8689056
+          16.1180403,
+          49.8687238
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> BUS \"S\" <br><b>Adresa:</b> č.p. 47, 53944, Leština <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 24.38 m",
+        "_note": "<br><b>Poznámka:</b> BUS \"S\" <br><b>Adresa:</b> č.p. 47, 53944, Leština ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53307:829"
+        "operator:wikidata": "Q341090",
+        "ref": "53970:22"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          16.1436702,
-          49.8522451
+          16.1437234,
+          49.8522578
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Nové Hrady u Skutče <br><b>Adresa:</b> č.p. 121, 53945, Nové Hrady <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 4.07 m",
+        "_note": "<br><b>Poznámka:</b> pošta Nové Hrady u Skutče <br><b>Adresa:</b> č.p. 121, 53945, Nové Hrady ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "53307:861"
+        "operator:wikidata": "Q341090",
+        "ref": "53970:47"
       },
       "type": "Feature"
     },
@@ -64,6 +67,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "56707:619"
       },
       "type": "Feature"
@@ -81,6 +85,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "56707:831"
       },
       "type": "Feature"
@@ -98,6 +103,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "56707:834"
       },
       "type": "Feature"
@@ -115,6 +121,7 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
         "ref": "56707:838"
       },
       "type": "Feature"

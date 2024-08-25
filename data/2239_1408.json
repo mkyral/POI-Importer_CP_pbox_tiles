@@ -3,34 +3,18 @@
     {
       "geometry": {
         "coordinates": [
-          16.8183944,
-          48.9047396
+          16.8549811,
+          48.9136709
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Velké Pavlovice,Hlavní 89, prodejna <br><b>Adresa:</b> Hlavní 49/89, 69106, Velké Pavlovice ",
+        "_note": "<br><b>Poznámka:</b> pošta Bořetice u Hustopečí <br><b>Adresa:</b> č.p. 503, 69108, Bořetice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "60010:848"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.8188754,
-          48.8979072
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Velké Pavlovice, Hlavní 8, zeď budovy <br><b>Adresa:</b> Hlavní 198/8, 69106, Velké Pavlovice ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "ref": "60010:849"
+        "operator:wikidata": "Q341090",
+        "ref": "69300:2"
       },
       "type": "Feature"
     },
@@ -43,28 +27,48 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Velké Pavlovice, Bří Mrštíků 11, stojan u chodníku <br><b>Adresa:</b> Bří Mrštíků 805/11, 69106, Velké Pavlovice ",
+        "_note": "<br><b>Poznámka:</b> Bří Mrštíků 11, stojan u chodníku <br><b>Adresa:</b> Bří Mrštíků 805/11, 69106, Velké Pavlovice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "60010:850"
+        "operator:wikidata": "Q341090",
+        "ref": "69300:29"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          16.816368,
-          48.8958293
+          16.8174672,
+          48.9021616
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Velké Pavlovice, Zahradní 1, zeď budovy <br><b>Adresa:</b> Zahradní 726/1, 69106, Velké Pavlovice ",
+        "_note": "<br><b>Poznámka:</b> Hlavní 30,  prodejna COOP <br><b>Adresa:</b> Hlavní 30/55, 69106, Velké Pavlovice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "60010:851"
+        "operator:wikidata": "Q341090",
+        "ref": "69300:30"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.8188754,
+          48.8979072
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hlavní 8, zeď budovy <br><b>Adresa:</b> Hlavní 198/8, 69106, Velké Pavlovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "69300:31"
       },
       "type": "Feature"
     },
@@ -81,24 +85,26 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "60010:891"
+        "operator:wikidata": "Q341090",
+        "ref": "69300:32"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          16.8549811,
-          48.9136709
+          16.816368,
+          48.8958293
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Bořetice u Hustopečí <br><b>Adresa:</b> č.p. 503, 69108, Bořetice ",
+        "_note": "<br><b>Poznámka:</b> Velké Pavlovice, Zahradní 1, zeď budovy <br><b>Adresa:</b> Zahradní 726/1, 69106, Velké Pavlovice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
-        "ref": "60010:893"
+        "operator:wikidata": "Q341090",
+        "ref": "69300:33"
       },
       "type": "Feature"
     }

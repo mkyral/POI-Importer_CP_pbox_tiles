@@ -9,7 +9,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Na Kampeličce <br><b>Adresa:</b> č.p. 72, 25768, Snět ",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 72, 25768, Snět ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -27,7 +27,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> BUS zastávka <br><b>Adresa:</b> Dolní Rápotice 11, 25768, Šetějovice ",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Dolní Rápotice 11, 25768, Šetějovice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -45,7 +45,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> BUS zastávka <br><b>Adresa:</b> č.p. 13, 25768, Šetějovice ",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 13, 25768, Šetějovice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -75,18 +75,54 @@
     {
       "geometry": {
         "coordinates": [
-          15.2735545,
-          49.6454094
+          15.2927288,
+          49.6289048
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Kamenná Lhota <br><b>Adresa:</b> č.p. 52, 58292, Kamenná Lhota <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 14.68 m",
+        "_note": "<br><b>Poznámka:</b> Horní Paseka - BUS, \"S\" <br><b>Adresa:</b> č.p. 19, 58401, Horní Paseka ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "58007:38"
+        "ref": "58290:35"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2864624,
+          49.6676095
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bojiště - BUS, \"S\" <br><b>Adresa:</b> č.p. 33, 58401, Bojiště ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "58290:4"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2734405,
+          49.6455188
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Kamenná Lhota <br><b>Adresa:</b> č.p. 52, 58292, Kamenná Lhota ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "58290:44"
       },
       "type": "Feature"
     }

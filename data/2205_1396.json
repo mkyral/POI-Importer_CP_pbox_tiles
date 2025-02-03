@@ -3,31 +3,13 @@
     {
       "geometry": {
         "coordinates": [
-          13.8826776,
-          49.5653604
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Vševily č.p.60 <br><b>Adresa:</b> č.p. 60, 26272, Vševily <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 19.08 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "26107:75"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           13.8675469,
           49.5983292
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> obchod za sokolovnou č.p.555Rožmitál pod Třemšínem <br><b>Adresa:</b> Nádražní 555, 26242, Rožmitál pod Třemšínem ",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Nádražní 555, 26242, Rožmitál pod Třemšínem ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -45,7 +27,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Hutě čp.23 <br><b>Adresa:</b> Hutě pod Třemšínem 23, 26242, Rožmitál pod Třemšínem ",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Hutě pod Třemšínem 23, 26242, Rožmitál pod Třemšínem ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -63,7 +45,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Bezděkov - pož.zbrojnice,č.p.54 <br><b>Adresa:</b> č.p. 54, 26242, Bezděkov pod Třemšínem ",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 54, 26242, Bezděkov pod Třemšínem ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -99,7 +81,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Rožmitál pod Třemšínem <br><b>Adresa:</b> Náměstí 24, 26242, Rožmitál pod Třemšínem ",
+        "_note": "<br><b>Poznámka:</b> Budova pošty Rožmitál pod Třemšínem <br><b>Adresa:</b> Náměstí 24, 26242, Rožmitál pod Třemšínem ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -117,7 +99,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> META Palackého 230 Rožmitál pod Třemšínem <br><b>Adresa:</b> Palackého 230, 26242, Rožmitál pod Třemšínem ",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Palackého 230, 26242, Rožmitál pod Třemšínem ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -135,12 +117,30 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Voltuš - obchod č.p.34 <br><b>Adresa:</b> Voltuš 34, 26242, Rožmitál pod Třemšínem ",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Voltuš 34, 26242, Rožmitál pod Třemšínem ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "26245:9"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.8825287,
+          49.5655022
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 60, 26272, Vševily ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "26273:12"
       },
       "type": "Feature"
     }

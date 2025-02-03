@@ -3,6 +3,24 @@
     {
       "geometry": {
         "coordinates": [
+          14.633556,
+          50.4378125
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Mšeno u Mělníka - stojan <br><b>Adresa:</b> náměstí Míru 15, 27735, Mšeno ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "27600:102"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           14.6585843,
           50.4236236
         ],
@@ -14,7 +32,7 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "10003:2112"
+        "ref": "27600:65"
       },
       "type": "Feature"
     },
@@ -32,7 +50,7 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "10003:2116"
+        "ref": "27600:69"
       },
       "type": "Feature"
     },
@@ -50,7 +68,7 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "10003:2117"
+        "ref": "27600:70"
       },
       "type": "Feature"
     },
@@ -68,7 +86,7 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "10003:2119"
+        "ref": "27600:71"
       },
       "type": "Feature"
     },
@@ -86,25 +104,7 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "10003:2127"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.633556,
-          50.4378125
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Mšeno u Mělníka - stojan <br><b>Adresa:</b> náměstí Míru 15, 27735, Mšeno ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "10003:2194"
+        "ref": "27600:78"
       },
       "type": "Feature"
     }

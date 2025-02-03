@@ -75,24 +75,6 @@
     {
       "geometry": {
         "coordinates": [
-          14.1185638,
-          50.4611721
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> obchod <br><b>Adresa:</b> č.p. 3, 41301, Rochov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 3.2 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "41007:367"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           14.0841008,
           50.4631062
         ],
@@ -213,6 +195,24 @@
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "41007:82"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.1185551,
+          50.4612003
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> obchod <br><b>Adresa:</b> č.p. 3, 41301, Rochov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "41300:53"
       },
       "type": "Feature"
     }

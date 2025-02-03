@@ -183,6 +183,24 @@
     {
       "geometry": {
         "coordinates": [
+          17.5143634,
+          49.2142466
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Otrokovice 1 <br><b>Adresa:</b> Tylova 950, 76502, Otrokovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "76500:38"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           17.5029923,
           49.2564385
         ],
@@ -213,24 +231,6 @@
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "76500:9"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.513892,
-          49.2140804
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Otrokovice 1 <br><b>Adresa:</b> Tylova 950, 76502, Otrokovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 38.92 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "76607:226"
       },
       "type": "Feature"
     }

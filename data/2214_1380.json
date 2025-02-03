@@ -3,6 +3,24 @@
     {
       "geometry": {
         "coordinates": [
+          14.6658372,
+          50.4612008
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Lobeč <br><b>Adresa:</b> č.p. 22, 27736, Lobeč ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "27600:103"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           14.6153925,
           50.4637352
         ],
@@ -14,7 +32,7 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "10003:2121"
+        "ref": "27600:73"
       },
       "type": "Feature"
     },
@@ -32,7 +50,7 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "10003:2124"
+        "ref": "27600:75"
       },
       "type": "Feature"
     },
@@ -50,25 +68,7 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "10003:2125"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.6658372,
-          50.4612008
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Lobeč <br><b>Adresa:</b> č.p. 22, 27736, Lobeč ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "10003:2195"
+        "ref": "27600:76"
       },
       "type": "Feature"
     },

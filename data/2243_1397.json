@@ -21,54 +21,18 @@
     {
       "geometry": {
         "coordinates": [
-          17.1640074,
-          49.536751
+          17.1919792,
+          49.5360163
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Olšany u Prostějova 44 (budova Jednoty) <br><b>Adresa:</b> č.p. 44, 79814, Olšany u Prostějova ",
+        "_note": "<br><b>Poznámka:</b> Bystročice 6, pošta (stojan) <br><b>Adresa:</b> č.p. 6, 77900, Bystročice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 12.07 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "77072:697"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.1797709,
-          49.5307123
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Olšany u Prostějova,Hablov 9(stojan) <br><b>Adresa:</b> Prostějov; Olšany u Prostějova; Hablov ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "77072:698"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.1617587,
-          49.5365096
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Pošta Olšany u Prostějova (budova OÚ) <br><b>Adresa:</b> č.p. 50, 79814, Olšany u Prostějova ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "77072:734"
+        "ref": "77072:94"
       },
       "type": "Feature"
     },
@@ -86,7 +50,7 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "77072:754"
+        "ref": "79600:112"
       },
       "type": "Feature"
     },
@@ -104,25 +68,61 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "77072:818"
+        "ref": "79600:166"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          17.1919792,
-          49.5360163
+          17.1640074,
+          49.536751
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Bystročice 6, pošta (stojan) <br><b>Adresa:</b> č.p. 6, 77900, Bystročice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 12.07 m",
+        "_note": "<br><b>Poznámka:</b> Olšany u Prostějova 44 (budova Jednoty) <br><b>Adresa:</b> č.p. 44, 79814, Olšany u Prostějova ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "77072:94"
+        "ref": "79600:63"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.1797709,
+          49.5307123
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Olšany u Prostějova,Hablov 9(stojan) <br><b>Adresa:</b> Prostějov; Olšany u Prostějova; Hablov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "79600:64"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.1617587,
+          49.5365096
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Olšany u Prostějova (budova OÚ) <br><b>Adresa:</b> č.p. 50, 79814, Olšany u Prostějova ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "79600:93"
       },
       "type": "Feature"
     }

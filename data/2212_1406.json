@@ -3,6 +3,42 @@
     {
       "geometry": {
         "coordinates": [
+          14.4382001,
+          48.9838683
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Budova pošty České Budějovice 5 <br><b>Adresa:</b> Ant. Barcala 404/38, České Budějovice 2, 37005, České Budějovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "37015:1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.4702346,
+          48.9843686
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Budova pošty České Budějovice 4 <br><b>Adresa:</b> Pražská tř. 2304/69, České Budějovice 3, 37004, České Budějovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "37023:1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           14.4683803,
           48.9889729
         ],
@@ -87,24 +123,6 @@
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "37271:20"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.4383769,
-          48.9838881
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Budova pošty České Budějovice 5 <br><b>Adresa:</b> Ant. Barcala 404/38, České Budějovice 2, 37005, České Budějovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 13.09 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "37271:200"
       },
       "type": "Feature"
     },
@@ -555,24 +573,6 @@
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "37271:73"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.4703088,
-          48.9842215
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Budova pošty České Budějovice 4 <br><b>Adresa:</b> Pražská tř. 2304/69, České Budějovice 3, 37004, České Budějovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 17.24 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "37271:74"
       },
       "type": "Feature"
     },

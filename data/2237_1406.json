@@ -3,24 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          16.613123,
-          49.0025235
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Přísnotice, Vranovická 75, OÚ <br><b>Adresa:</b> Vranovická 75, 66463, Přísnotice ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "62801:29"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           16.6595284,
           49.010739
         ],
@@ -123,6 +105,24 @@
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "69300:40"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.613123,
+          49.0025235
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Přísnotice, Vranovická 75, OÚ <br><b>Adresa:</b> Vranovická 75, 66463, Přísnotice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "69300:45"
       },
       "type": "Feature"
     }

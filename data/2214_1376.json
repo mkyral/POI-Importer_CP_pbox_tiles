@@ -3,60 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          14.6354864,
-          50.7318146
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> poblíž zastavky, Svitava č.p.9 <br><b>Adresa:</b> Svitava 9, 47301, Cvikov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 28.91 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "47007:184"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.6186778,
-          50.7114331
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Zastávka ČSAD, Šidlov <br><b>Adresa:</b> Šidlov 60, 47301, Zákupy <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 17.55 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "47007:185"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5964174,
-          50.7263854
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> na stojanu u zastávky před č.p.77, Svojkov <br><b>Adresa:</b> č.p. 77, 47153, Svojkov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 31.26 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "47007:211"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           14.5989375,
           50.6846814
         ],
@@ -87,24 +33,6 @@
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "47007:265"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5992758,
-          50.7193758
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Svojkov <br><b>Adresa:</b> č.p. 12, 47153, Svojkov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.22 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "47007:275"
       },
       "type": "Feature"
     },
@@ -195,6 +123,60 @@
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "47007:94"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.6356701,
+          50.7315821
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> poblíž zastavky, Svitava č.p.9 <br><b>Adresa:</b> Svitava 9, 47301, Cvikov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "47300:18"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.6188083,
+          50.7112987
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Zastávka ČSAD, Šidlov <br><b>Adresa:</b> Šidlov 60, 47301, Zákupy ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "47300:19"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.59918,
+          50.7194564
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Svojkov <br><b>Adresa:</b> č.p. 12, 47153, Svojkov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "47300:57"
       },
       "type": "Feature"
     }

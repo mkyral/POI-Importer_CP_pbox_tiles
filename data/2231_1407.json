@@ -21,24 +21,6 @@
     {
       "geometry": {
         "coordinates": [
-          16.0931532,
-          48.9552708
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Mikulovice u Znojma <br><b>Adresa:</b> č.p. 144, 67133, Mikulovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 7.82 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "66907:263"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           16.1597531,
           48.9495177
         ],
@@ -123,6 +105,24 @@
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "66907:80"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0930592,
+          48.9553045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Mikulovice u Znojma <br><b>Adresa:</b> č.p. 144, 67133, Mikulovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "67200:22"
       },
       "type": "Feature"
     }

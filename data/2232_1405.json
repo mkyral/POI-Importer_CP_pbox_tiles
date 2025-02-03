@@ -3,24 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          16.2014075,
-          49.0636318
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> obchod <br><b>Adresa:</b> č.p. 13, 67173, Horní Dubňany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.05 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "66907:143"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           16.2253595,
           49.0585922
         ],
@@ -32,61 +14,79 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "66907:144"
+        "ref": "67200:10"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          16.2538647,
-          49.0724142
+          16.201343,
+          49.0636483
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 8, 67201, Jamolice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 55.71 m",
+        "_note": "<br><b>Poznámka:</b> obchod <br><b>Adresa:</b> č.p. 13, 67173, Horní Dubňany ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "66907:241"
+        "ref": "67200:11"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          16.2037593,
-          49.039085
+          16.2544827,
+          49.0727091
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Partner Tulešice <br><b>Adresa:</b> č.p. 18, 67173, Tulešice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 7.61 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 8, 67201, Jamolice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "66907:285"
+        "ref": "67200:13"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          16.1930667,
-          49.0827638
+          16.2036557,
+          49.0390764
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Partner Dukovany <br><b>Adresa:</b> č.p. 2, 67556, Dukovany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 26.11 m",
+        "_note": "<br><b>Poznámka:</b> Partner Tulešice <br><b>Adresa:</b> č.p. 18, 67173, Tulešice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "67407:324"
+        "ref": "67200:46"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1931736,
+          49.0825397
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Partner Dukovany <br><b>Adresa:</b> č.p. 2, 67556, Dukovany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "67549:10"
       },
       "type": "Feature"
     }

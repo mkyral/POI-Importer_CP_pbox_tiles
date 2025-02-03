@@ -3,36 +3,54 @@
     {
       "geometry": {
         "coordinates": [
-          16.1718121,
-          49.0529727
+          16.1714674,
+          49.0528831
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> KD,zast.ČSAD <br><b>Adresa:</b> č.p. 97, 67173, Rešice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 27.03 m",
+        "_note": "<br><b>Poznámka:</b> KD,zast.ČSAD <br><b>Adresa:</b> č.p. 97, 67173, Rešice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "66907:142"
+        "ref": "67200:41"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          16.1095544,
-          49.0693601
+          16.1095229,
+          49.0694212
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 38, 67557, Rouchovany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 7.17 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 38, 67557, Rouchovany ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "67407:271"
+        "ref": "67549:33"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1076212,
+          49.070235
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Rouchovany <br><b>Adresa:</b> č.p. 329, 67557, Rouchovany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "67549:34"
       },
       "type": "Feature"
     },
@@ -45,48 +63,30 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> u domu č. 59 <br><b>Adresa:</b> Třebíč; Rouchovany; Šemíkovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> u domu č. 59 <br><b>Adresa:</b> Třebíč; Rouchovany; Šemíkovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "67407:272"
+        "ref": "67549:35"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          16.1434844,
-          49.0899033
+          16.1447308,
+          49.0886434
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Dukovany-elektrárna,plocha mezi Kordy I.aII. <br><b>Adresa:</b> č.p. 269, 67550, Dukovany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 166.98 m",
+        "_note": "<br><b>Poznámka:</b> pošta Dukovany-elektrárna,plocha mezi Kordy I.aII. <br><b>Adresa:</b> č.p. 269, 67550, Dukovany ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "67407:318"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.1075568,
-          49.0703382
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Rouchovany <br><b>Adresa:</b> č.p. 329, 67557, Rouchovany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 12.4 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "67407:325"
+        "ref": "67549:9"
       },
       "type": "Feature"
     }

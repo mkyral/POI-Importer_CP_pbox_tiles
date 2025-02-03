@@ -9,12 +9,12 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 64, 27731, Malý Újezd ",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 64, 27711, Malý Újezd ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "10003:2043"
+        "ref": "27600:20"
       },
       "type": "Feature"
     },
@@ -27,12 +27,12 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Jelenice 22, 27731, Malý Újezd ",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Jelenice 22, 27711, Malý Újezd ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "10003:2044"
+        "ref": "27600:21"
       },
       "type": "Feature"
     },
@@ -45,12 +45,12 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> u tlf.automatu, <br><b>Adresa:</b> Skuhrov 8, 27731, Velký Borek ",
+        "_note": "<br><b>Poznámka:</b> u tlf.automatu, <br><b>Adresa:</b> Skuhrov 8, 27711, Velký Borek ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "10003:2046"
+        "ref": "27600:23"
       },
       "type": "Feature"
     },
@@ -68,7 +68,7 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "10003:2058"
+        "ref": "27600:33"
       },
       "type": "Feature"
     },
@@ -86,7 +86,7 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "10003:2059"
+        "ref": "27600:34"
       },
       "type": "Feature"
     },
@@ -104,7 +104,7 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "10003:2060"
+        "ref": "27600:35"
       },
       "type": "Feature"
     },
@@ -122,25 +122,7 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "10003:2062"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5883327,
-          50.3392429
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 15, 27732, Hostín ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "10003:2139"
+        "ref": "27600:36"
       },
       "type": "Feature"
     },
@@ -153,12 +135,12 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Velký Borek <br><b>Adresa:</b> Skuhrovská 101, 27731, Velký Borek ",
+        "_note": "<br><b>Poznámka:</b> pošta Velký Borek <br><b>Adresa:</b> Skuhrovská 101, 27711, Velký Borek ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "10003:2171"
+        "ref": "27600:94"
       },
       "type": "Feature"
     },
@@ -176,7 +158,25 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "10003:2172"
+        "ref": "27600:95"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5883327,
+          50.3392429
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 15, 27732, Hostín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "27718:27"
       },
       "type": "Feature"
     }

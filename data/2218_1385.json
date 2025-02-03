@@ -111,24 +111,6 @@
     {
       "geometry": {
         "coordinates": [
-          14.9823122,
-          50.2191754
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> autobusová zastávka <br><b>Adresa:</b> č.p. 13, 28925, Čilec <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 42.09 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "28800:71"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           14.9499207,
           50.185612
         ],
@@ -177,6 +159,24 @@
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "28800:9"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.9817619,
+          50.219314
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> autobusová zastávka <br><b>Adresa:</b> č.p. 13, 28925, Čilec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "28927:25"
       },
       "type": "Feature"
     }

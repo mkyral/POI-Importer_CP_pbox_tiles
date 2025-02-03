@@ -111,24 +111,6 @@
     {
       "geometry": {
         "coordinates": [
-          15.3502265,
-          50.0253511
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Záboří <br><b>Adresa:</b> Školní 164, 28574, Záboří nad Labem <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.34 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "28007:346"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           15.3048962,
           50.0283802
         ],
@@ -141,6 +123,24 @@
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "28007:81"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.350315,
+          50.0253545
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Budova pošty Záboří nad Labem <br><b>Adresa:</b> Školní 164, 28574, Záboří nad Labem ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "28400:41"
       },
       "type": "Feature"
     }

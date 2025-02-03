@@ -3,42 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          16.8055661,
-          49.2942193
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Bukovinka Jednota <br><b>Adresa:</b> č.p. 2, 67905, Bukovinka <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.21 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "60012:310"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.806539,
-          49.2936231
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Bukovina OÚ <br><b>Adresa:</b> č.p. 31, 67905, Bukovinka <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 189.86 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "60012:311"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           16.8722622,
           49.2761435
         ],
@@ -51,6 +15,42 @@
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "60012:810"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.8056329,
+          49.2941284
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bukovinka Jednota <br><b>Adresa:</b> č.p. 2, 67905, Bukovinka ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "62801:54"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.806993,
+          49.2953041
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bukovina OÚ <br><b>Adresa:</b> č.p. 31, 67905, Bukovinka ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "62801:55"
       },
       "type": "Feature"
     }

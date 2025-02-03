@@ -3,60 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          15.4002702,
-          50.7240209
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Paseky nad Jizerou <br><b>Adresa:</b> č.p. 242, 51247, Paseky nad Jizerou <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 7.9 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "46307:191"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.4226475,
-          50.7186727
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> čp. 314, Rokytnice nad Jizerou 1 <br><b>Adresa:</b> Dolní Rokytnice 314, 51244, Rokytnice nad Jizerou <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 4.62 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "46307:440"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.448898,
-          50.7291289
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Rokytnice nad Jizerou 1 <br><b>Adresa:</b> Dolní Rokytnice 360, 51244, Rokytnice nad Jizerou <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 7.65 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "46307:452"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           15.4026161,
           50.6854748
         ],
@@ -105,6 +51,42 @@
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "51400:31"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4227036,
+          50.7186512
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> čp. 314, Rokytnice nad Jizerou 1 <br><b>Adresa:</b> Dolní Rokytnice 314, 51244, Rokytnice nad Jizerou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "51400:33"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4487894,
+          50.7291307
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Rokytnice nad Jizerou 1 <br><b>Adresa:</b> Dolní Rokytnice 360, 51244, Rokytnice nad Jizerou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "51400:34"
       },
       "type": "Feature"
     }

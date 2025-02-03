@@ -21,42 +21,6 @@
     {
       "geometry": {
         "coordinates": [
-          13.5915717,
-          49.6591725
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Kornatice č.26 <br><b>Adresa:</b> č.p. 26, 33843, Kornatice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.71 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "30072:389"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.6215534,
-          49.6556121
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Mešno,č.p. 27 <br><b>Adresa:</b> č.p. 27, 33843, Mešno <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.1 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "30072:390"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           13.5758547,
           49.6208456
         ],
@@ -123,6 +87,42 @@
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "33600:50"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.5914229,
+          49.6591719
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kornatice č.26 <br><b>Adresa:</b> č.p. 26, 33843, Kornatice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "33700:61"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.621529,
+          49.6557106
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Mešno,č.p. 27 <br><b>Adresa:</b> č.p. 27, 33843, Mešno ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "33700:62"
       },
       "type": "Feature"
     }

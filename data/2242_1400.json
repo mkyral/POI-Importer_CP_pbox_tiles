@@ -21,36 +21,18 @@
     {
       "geometry": {
         "coordinates": [
-          17.0894578,
-          49.3695891
+          17.0976227,
+          49.3459603
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Brodek u Prostějova, Císařská 72 (pohostinství) <br><b>Adresa:</b> Císařská 72, 79807, Brodek u Prostějova ",
+        "_note": "<br><b>Poznámka:</b> Želeč 67 (pohostinsví) <br><b>Adresa:</b> č.p. 67, 79807, Želeč ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "77072:609"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.0633958,
-          49.370234
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Brodek u Prostějova, Sněhotice 12 <br><b>Adresa:</b> Sněhotice 12, 79807, Brodek u Prostějova ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "77072:610"
+        "ref": "79600:172"
       },
       "type": "Feature"
     },
@@ -68,7 +50,7 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "77072:639"
+        "ref": "79600:29"
       },
       "type": "Feature"
     },
@@ -86,7 +68,7 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "77072:640"
+        "ref": "79600:30"
       },
       "type": "Feature"
     },
@@ -104,7 +86,25 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "77072:699"
+        "ref": "79600:65"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.0894578,
+          49.3695891
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Brodek u Prostějova, Císařská 72 (pohostinství) <br><b>Adresa:</b> Císařská 72, 79807, Brodek u Prostějova ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "79600:7"
       },
       "type": "Feature"
     },
@@ -122,25 +122,25 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "77072:714"
+        "ref": "79600:76"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          17.0976227,
-          49.3459603
+          17.0633958,
+          49.370234
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Želeč 67 (pohostinsví) <br><b>Adresa:</b> č.p. 67, 79807, Želeč ",
+        "_note": "<br><b>Poznámka:</b> Brodek u Prostějova, Sněhotice 12 <br><b>Adresa:</b> Sněhotice 12, 79807, Brodek u Prostějova ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "77072:824"
+        "ref": "79600:8"
       },
       "type": "Feature"
     }

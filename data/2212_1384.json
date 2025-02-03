@@ -3,6 +3,24 @@
     {
       "geometry": {
         "coordinates": [
+          14.5006698,
+          50.2771133
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u obchodu, <br><b>Adresa:</b> Štechova 28/1, 27711, Libiš ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "27718:11"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           14.4760981,
           50.2476304
         ],
@@ -14,79 +32,7 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "10003:2000"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.4200519,
-          50.2813451
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> autobusová zastávka, u č.p. 42 <br><b>Adresa:</b> č.p. 42, 27745, Újezdec ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "10003:2016"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.4225456,
-          50.2622625
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> naproti č.p. 28 <br><b>Adresa:</b> Netřeba 28, 27745, Úžice ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "10003:2018"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.4230346,
-          50.2495245
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> autobus. zastávka, u č.p. 4 <br><b>Adresa:</b> Kopeč 4, 27745, Úžice ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "10003:2019"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.4485439,
-          50.2547626
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> u obchodu, u č.p. 22 <br><b>Adresa:</b> Korycany 22, 27745, Neratovice ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "10003:2020"
+        "ref": "27718:6"
       },
       "type": "Feature"
     },
@@ -104,25 +50,79 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "10003:2070"
+        "ref": "27718:8"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          14.5006698,
-          50.2771133
+          14.4200519,
+          50.2813451
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> u obchodu, <br><b>Adresa:</b> Štechova 28/1, 27711, Libiš ",
+        "_note": "<br><b>Poznámka:</b> autobusová zastávka, u č.p. 42 <br><b>Adresa:</b> č.p. 42, 27745, Újezdec ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "10003:2073"
+        "ref": "27800:16"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.4225456,
+          50.2622625
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> naproti č.p. 28 <br><b>Adresa:</b> Netřeba 28, 27745, Úžice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "27800:18"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.4230346,
+          50.2495245
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> autobus. zastávka, u č.p. 4 <br><b>Adresa:</b> Kopeč 4, 27745, Úžice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "27800:19"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.4485439,
+          50.2547626
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u obchodu, u č.p. 22 <br><b>Adresa:</b> Korycany 22, 27745, Neratovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "27800:20"
       },
       "type": "Feature"
     },
@@ -140,7 +140,7 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "10003:2174"
+        "ref": "27800:39"
       },
       "type": "Feature"
     },
@@ -158,7 +158,7 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "10003:2203"
+        "ref": "27800:53"
       },
       "type": "Feature"
     },
@@ -176,7 +176,7 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "10003:2208"
+        "ref": "27800:58"
       },
       "type": "Feature"
     }

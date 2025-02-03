@@ -3,42 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          15.9299371,
-          49.1032901
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> stojan <br><b>Adresa:</b> Příložany 95, 67551, Jaroměřice nad Rokytnou <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 13.06 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "67407:201"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.9183788,
-          49.1181119
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> stojan u autobus. zastávky <br><b>Adresa:</b> Třebíč; Jaroměřice nad Rokytnou; Jaroměřice nad Rokytnou <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "67407:202"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           15.952521,
           49.1450151
         ],
@@ -57,24 +21,6 @@
     {
       "geometry": {
         "coordinates": [
-          15.9866658,
-          49.1011831
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Partner Myslibořice <br><b>Adresa:</b> č.p. 14, 67560, Myslibořice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 13.78 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "67407:327"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           15.9816641,
           49.1251884
         ],
@@ -87,6 +33,42 @@
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "67407:67"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9297949,
+          49.1033617
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> stojan <br><b>Adresa:</b> Příložany 95, 67551, Jaroměřice nad Rokytnou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "67549:21"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9866088,
+          49.101065
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Partner Myslibořice <br><b>Adresa:</b> č.p. 14, 67560, Myslibořice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "67549:27"
       },
       "type": "Feature"
     }

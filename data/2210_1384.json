@@ -3,6 +3,96 @@
     {
       "geometry": {
         "coordinates": [
+          14.2404278,
+          50.2353742
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Olovnice <br><b>Adresa:</b> U Rybníka 45, 27326, Olovnice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "27400:17"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2390945,
+          50.2779938
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Domov pro seniory <br><b>Adresa:</b> Petra Bezruče 484, 27324, Velvary ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "27400:39"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2564682,
+          50.2843681
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> BUS Nové Uhy - ul. Chržínská <br><b>Adresa:</b> č.p. 652, 27324, Velvary ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "27400:41"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2747412,
+          50.2848579
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 24, 27324, Uhy ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "27400:49"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2469484,
+          50.2688365
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Velká Bučina 17, 27324, Velvary ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "27400:52"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           14.2913565,
           50.2373001
         ],
@@ -14,7 +104,7 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "10003:2001"
+        "ref": "27800:1"
       },
       "type": "Feature"
     },
@@ -32,133 +122,7 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "10003:2002"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.3009354,
-          50.2455133
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Purkyňovo nám. u domu 1174 <br><b>Adresa:</b> Lobeč 1174, 27801, Kralupy nad Vltavou ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "10003:2003"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.3120354,
-          50.2429004
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> nemocnice <br><b>Adresa:</b> Mostní 934, 27801, Kralupy nad Vltavou ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "10003:2004"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.3192833,
-          50.2447596
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Máchova 493/13, Lobeček, 27801, Kralupy nad Vltavou ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "10003:2005"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.3218513,
-          50.2557945
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Kaučuk-vrátnice <br><b>Adresa:</b> O. Wichterleho 810, Lobeček, 27801, Kralupy nad Vltavou ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "10003:2006"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.3115405,
-          50.2513227
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> restaurace <br><b>Adresa:</b> Štefánikova 638, Lobeček, 27801, Kralupy nad Vltavou ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "10003:2007"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.3157089,
-          50.2492532
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Masarykova 633, Lobeček, 27801, Kralupy nad Vltavou ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "10003:2008"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.3133039,
-          50.2391845
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> ČD <br><b>Adresa:</b> Nádražní 55, 27801, Kralupy nad Vltavou ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "10003:2009"
+        "ref": "27800:2"
       },
       "type": "Feature"
     },
@@ -176,7 +140,7 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "10003:2149"
+        "ref": "27800:27"
       },
       "type": "Feature"
     },
@@ -194,7 +158,43 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "10003:2150"
+        "ref": "27800:28"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3009354,
+          50.2455133
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Purkyňovo nám. u domu 1174 <br><b>Adresa:</b> Lobeč 1174, 27801, Kralupy nad Vltavou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "27800:3"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3120354,
+          50.2429004
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> nemocnice <br><b>Adresa:</b> Mostní 934, 27801, Kralupy nad Vltavou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "27800:4"
       },
       "type": "Feature"
     },
@@ -212,7 +212,7 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "10003:2178"
+        "ref": "27800:43"
       },
       "type": "Feature"
     },
@@ -230,7 +230,7 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "10003:2180"
+        "ref": "27800:45"
       },
       "type": "Feature"
     },
@@ -248,97 +248,97 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "10003:2181"
+        "ref": "27800:46"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          14.238719,
-          50.2782355
+          14.3192833,
+          50.2447596
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Domov pro seniory <br><b>Adresa:</b> Petra Bezruče 484, 27324, Velvary <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 37.88 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Máchova 493/13, Lobeček, 27801, Kralupy nad Vltavou ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "27207:142"
+        "ref": "27800:5"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          14.2566705,
-          50.2842612
+          14.3218513,
+          50.2557945
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> BUS Nové Uhy - ul. Chržínská <br><b>Adresa:</b> č.p. 652, 27324, Velvary <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 18.66 m",
+        "_note": "<br><b>Poznámka:</b> Kaučuk-vrátnice <br><b>Adresa:</b> O. Wichterleho 810, Lobeček, 27801, Kralupy nad Vltavou ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "27207:146"
+        "ref": "27800:6"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          14.2744781,
-          50.2848835
+          14.3115405,
+          50.2513227
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 24, 27324, Uhy <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 18.91 m",
+        "_note": "<br><b>Poznámka:</b> restaurace <br><b>Adresa:</b> Štefánikova 638, Lobeček, 27801, Kralupy nad Vltavou ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "27207:154"
+        "ref": "27800:7"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          14.2472515,
-          50.2690671
+          14.3157089,
+          50.2492532
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Velká Bučina 17, 27324, Velvary <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 33.5 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Masarykova 633, Lobeček, 27801, Kralupy nad Vltavou ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "27207:157"
+        "ref": "27800:8"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          14.2404654,
-          50.2352901
+          14.3133039,
+          50.2391845
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Olovnice <br><b>Adresa:</b> U Rybníka 45, 27326, Olovnice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.73 m",
+        "_note": "<br><b>Poznámka:</b> ČD <br><b>Adresa:</b> Nádražní 55, 27801, Kralupy nad Vltavou ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "27207:63"
+        "ref": "27800:9"
       },
       "type": "Feature"
     }

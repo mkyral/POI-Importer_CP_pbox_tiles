@@ -75,24 +75,6 @@
     {
       "geometry": {
         "coordinates": [
-          16.9899768,
-          49.9087147
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Pošta Dlouhomilov (stojan) <br><b>Adresa:</b> č.p. 138, 78901, Dlouhomilov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 26.7 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "78807:362"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           17.0134566,
           49.9465398
         ],
@@ -123,6 +105,24 @@
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "78807:52"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.9896415,
+          49.9088196
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Dlouhomilov (stojan) <br><b>Adresa:</b> č.p. 138, 78901, Dlouhomilov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "78900:59"
       },
       "type": "Feature"
     }

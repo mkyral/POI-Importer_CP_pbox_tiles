@@ -75,78 +75,6 @@
     {
       "geometry": {
         "coordinates": [
-          14.5653248,
-          50.7249092
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> u obchodu, Dolní Pihel 212 <br><b>Adresa:</b> Pihel 212, 47118, Nový Bor <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 16.03 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "47007:180"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5754435,
-          50.7165113
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Bukovany 23, u telef. budky <br><b>Adresa:</b> Bukovany 23, 47301, Nový Bor <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 16.83 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "47007:181"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5816705,
-          50.7358635
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Pod skalním hradem, Sloup v Čechách <br><b>Adresa:</b> Pod Hradem 279, 47152, Sloup v Čechách <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 139.94 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "47007:186"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5174401,
-          50.7312446
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Zastávka ČSAD, Skalice č.p.15 <br><b>Adresa:</b> č.p. 15, 47117, Skalice u České Lípy <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 18.35 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "47007:221"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           14.5263921,
           50.6903448
         ],
@@ -231,24 +159,6 @@
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "47007:26"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.5467788,
-          50.7312077
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Pihel <br><b>Adresa:</b> Pihel 50, 47118, Nový Bor <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 4.6 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "47007:263"
       },
       "type": "Feature"
     },
@@ -375,6 +285,78 @@
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "47007:77"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5651775,
+          50.7250191
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u obchodu, Dolní Pihel 212 <br><b>Adresa:</b> Pihel 212, 47118, Nový Bor ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "47300:14"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.575435,
+          50.7163601
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bukovany 23, u telef. budky <br><b>Adresa:</b> Bukovany 23, 47301, Nový Bor ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "47300:15"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5796992,
+          50.7360253
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pod skalním hradem, Sloup v Čechách <br><b>Adresa:</b> Pod Hradem 279, 47152, Sloup v Čechách ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "47300:20"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.5173583,
+          50.731088
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Zastávka ČSAD, Skalice č.p.15 <br><b>Adresa:</b> č.p. 15, 47117, Skalice u České Lípy ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "47300:40"
       },
       "type": "Feature"
     }

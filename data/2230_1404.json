@@ -3,78 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          16.0570482,
-          49.1084722
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> stojan před muzeem <br><b>Adresa:</b> Třebíč; Hrotovice; Hrotovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "67407:217"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.0192253,
-          49.0995693
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> stojan vedle autobusové zastávky <br><b>Adresa:</b> Třebíč; Krhov; Krhov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "67407:221"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.0247211,
-          49.1078951
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> stojan u kostela <br><b>Adresa:</b> Třebíč; Račice; Račice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "67407:222"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.0153129,
-          49.1214657
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> stojan u OÚ <br><b>Adresa:</b> Třebíč; Odunec; Odunec <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "67407:223"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           16.0345102,
           49.1447816
         ],
@@ -93,36 +21,90 @@
     {
       "geometry": {
         "coordinates": [
-          16.0815657,
-          49.1288004
+          16.0643803,
+          49.107068
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Dalešice <br><b>Adresa:</b> č.p. 87, 67554, Dalešice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.94 m",
+        "_note": "<br><b>Poznámka:</b> pošta Hrotovice <br><b>Adresa:</b> Brněnská 188, 67555, Hrotovice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "67407:322"
+        "ref": "67549:11"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          16.0644101,
-          49.1070925
+          16.0570481,
+          49.1084722
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Hrotovice <br><b>Adresa:</b> Brněnská 188, 67555, Hrotovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 3.48 m",
+        "_note": "<br><b>Poznámka:</b> stojan před muzeem <br><b>Adresa:</b> Třebíč; Hrotovice; Hrotovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "67407:323"
+        "ref": "67549:12"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0153128,
+          49.1214656
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> stojan u OÚ <br><b>Adresa:</b> Třebíč; Odunec; Odunec <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "67549:28"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0247211,
+          49.107895
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> stojan u kostela <br><b>Adresa:</b> Třebíč; Račice; Račice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "67549:31"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0814287,
+          49.1287413
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Dalešice <br><b>Adresa:</b> č.p. 87, 67554, Dalešice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "67549:7"
       },
       "type": "Feature"
     }

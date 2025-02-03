@@ -3,72 +3,36 @@
     {
       "geometry": {
         "coordinates": [
-          14.207288,
-          48.9524253
+          14.2075821,
+          48.9525105
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Jaronín 6, 38203, Brloh <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 23.48 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Jaronín 6, 38203, Brloh <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "37271:627"
+        "ref": "37271:385"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          14.2192123,
-          48.9293083
+          14.2190755,
+          48.9293259
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Pošta partner Brloh <br><b>Adresa:</b> č.p. 148, 38206, Brloh <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.19 m",
+        "_note": "<br><b>Poznámka:</b> Pošta partner Brloh <br><b>Adresa:</b> č.p. 148, 38206, Brloh <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "37271:629"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.170302,
-          48.969531
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Třešňový Újezdec 2, 38411, Lhenice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 35.77 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "37271:851"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.1816474,
-          48.9798631
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Vodice 19, 38411, Lhenice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 4.24 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "37271:852"
+        "ref": "37271:387"
       },
       "type": "Feature"
     },
@@ -87,6 +51,42 @@
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "38307:42"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.170525,
+          48.9692447
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Třešňový Újezdec 2, 38411, Lhenice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "38900:90"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.1816988,
+          48.9798453
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Vodice 19, 38411, Lhenice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "38900:91"
       },
       "type": "Feature"
     }

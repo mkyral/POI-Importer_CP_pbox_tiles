@@ -3,6 +3,24 @@
     {
       "geometry": {
         "coordinates": [
+          18.443903,
+          49.6067296
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Obchod U Nováka, u čp.338, Krásná (stojan u plotu) <br><b>Adresa:</b> Frýdek-Místek; Krásná; Krásná ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "73807:72"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           18.4041823,
           49.5745999
         ],
@@ -87,24 +105,6 @@
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "73900:9"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          18.4439033,
-          49.6067306
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Obchod U Nováka, u čp.338, Krásná (stojan u plotu) <br><b>Adresa:</b> Frýdek-Místek; Krásná; Krásná <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "74200:672"
       },
       "type": "Feature"
     }

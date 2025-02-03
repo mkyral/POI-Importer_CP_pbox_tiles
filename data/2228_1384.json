@@ -3,6 +3,24 @@
     {
       "geometry": {
         "coordinates": [
+          15.8510046,
+          50.2348271
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Velká 17/22, Pouchov, 50341, Hradec Králové ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "50000:39"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           15.8731172,
           50.2766857
         ],
@@ -141,24 +159,6 @@
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "50370:245"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.851128,
-          50.2346195
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Velká 17/22, Pouchov, 50341, Hradec Králové <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 24.7 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "50370:70"
       },
       "type": "Feature"
     }

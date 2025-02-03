@@ -14,7 +14,7 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "27207:477"
+        "ref": "27100:24"
       },
       "type": "Feature"
     },
@@ -32,7 +32,7 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "27207:478"
+        "ref": "27100:25"
       },
       "type": "Feature"
     },
@@ -50,61 +50,61 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "27207:482"
+        "ref": "27100:29"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          13.8432726,
-          50.2861112
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> poblíž zastávky BUS, poblíž č.p. 50 <br><b>Adresa:</b> Louny; Nová Ves; Nová Ves <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "43807:181"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.815372,
-          50.2771351
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Na zámku <br><b>Adresa:</b> Divice 73, 43915, Vinařice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 16.14 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "43807:250"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.8226355,
+          13.8226356,
           50.2654594
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> u BUS zastávky <br><b>Adresa:</b> Louny; Vinařice; Vinařice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> u BUS zastávky <br><b>Adresa:</b> Louny; Vinařice; Vinařice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "43807:263"
+        "ref": "44000:101"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.8432723,
+          50.2861101
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> poblíž zastávky BUS, poblíž č.p. 50 <br><b>Adresa:</b> Louny; Nová Ves; Nová Ves ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "44000:32"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.8155651,
+          50.2772114
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Na zámku <br><b>Adresa:</b> Divice 73, 43915, Vinařice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "44000:90"
       },
       "type": "Feature"
     }

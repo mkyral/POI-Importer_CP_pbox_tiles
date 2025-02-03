@@ -3,13 +3,103 @@
     {
       "geometry": {
         "coordinates": [
+          17.80876,
+          49.9381531
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Stěbořice, Jednota (na stojanu) naproti čp. 17 <br><b>Adresa:</b> Opava; Stěbořice; Stěbořice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "74600:1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.815846,
+          49.9415105
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Stěbořice č.p. 171 (na stojanu) <br><b>Adresa:</b> č.p. 171, 74751, Stěbořice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "74600:2"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.7730481,
+          49.9332068
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Stěbořice, Arboretum,Nový Dvůr čp. 29-na vst.bráně <br><b>Adresa:</b> Opava; Stěbořice; Nový Dvůr ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "74600:3"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.8328915,
+          49.950803
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Milostovice, Odbojářů 62/20 <br><b>Adresa:</b> Odbojářů 62/20, Milostovice, 74601, Opava ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "74600:8"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.8297721,
+          49.9421288
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Zlatníky, 6.května 52/22 <br><b>Adresa:</b> 6. května 52/22, Zlatníky, 74601, Opava ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "74600:9"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           17.8393005,
           49.8965101
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Jednota, Uhlířov čp. 1 <br><b>Adresa:</b> č.p. 1, 74784, Uhlířov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 17.81 m",
+        "_note": "<br><b>Poznámka:</b> OÚ, Uhlířov 55 <br><b>Adresa:</b> č.p. 55, 74784, Uhlířov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 145.77 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -51,96 +141,6 @@
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "74907:187"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.8087603,
-          49.9381541
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Stěbořice, Jednota (na stojanu) naproti čp. 17 <br><b>Adresa:</b> Opava; Stěbořice; Stěbořice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "74907:203"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.816017,
-          49.9414242
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Stěbořice č.p. 171 (na stojanu) <br><b>Adresa:</b> č.p. 171, 74751, Stěbořice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 15.56 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "74907:204"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.7730485,
-          49.9332079
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Stěbořice, Arboretum,Nový Dvůr čp. 29-na vst.bráně <br><b>Adresa:</b> Opava; Stěbořice; Nový Dvůr <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "74907:206"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.8330793,
-          49.9507944
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Milostovice, Odbojářů 62/20 <br><b>Adresa:</b> Odbojářů 62/20, Milostovice, 74601, Opava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 13.47 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "74907:213"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.829878,
-          49.9421405
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Zlatníky, 6.května 52/22 <br><b>Adresa:</b> 6. května 52/22, Zlatníky, 74601, Opava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 7.69 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "74907:214"
       },
       "type": "Feature"
     },

@@ -39,96 +39,6 @@
     {
       "geometry": {
         "coordinates": [
-          13.326946,
-          49.6114537
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Horní Lukavice, ZKD <br><b>Adresa:</b> č.p. 157, 33401, Horní Lukavice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.35 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "30072:153"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.3082586,
-          49.6301433
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Chlumčany - u školy <br><b>Adresa:</b> Komenského 154, 33442, Chlumčany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 119.43 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "30072:193"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.3134177,
-          49.6322117
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Chlumčany - náměstí <br><b>Adresa:</b> Plzeň-jih; Chlumčany; Chlumčany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "30072:194"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.2856063,
-          49.6225989
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Chlumčany, CHKZ - prodejna <br><b>Adresa:</b> U Keramičky 291, 33442, Chlumčany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 16.88 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "30072:195"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.3105099,
-          49.6279049
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Chlumčany u Přeštic - pošta <br><b>Adresa:</b> Nové Sídliště 363, 33442, Chlumčany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.54 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "30072:202"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           13.2921291,
           49.6525449
         ],
@@ -159,6 +69,96 @@
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "30072:36"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.308622,
+          49.6311909
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Chlumčany - u školy <br><b>Adresa:</b> Komenského 154, 33442, Chlumčany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "33400:32"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.3134174,
+          49.6322107
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Chlumčany - náměstí <br><b>Adresa:</b> Plzeň-jih; Chlumčany; Chlumčany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "33400:33"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.2858209,
+          49.6225381
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Chlumčany, CHKZ - prodejna <br><b>Adresa:</b> U Keramičky 291, 33442, Chlumčany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "33400:34"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.3103649,
+          49.6279489
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Chlumčany u Přeštic - pošta <br><b>Adresa:</b> Nové Sídliště 363, 33442, Chlumčany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "33400:40"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.3270238,
+          49.6113981
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Horní Lukavice, ZKD <br><b>Adresa:</b> č.p. 157, 33401, Horní Lukavice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "33400:6"
       },
       "type": "Feature"
     }

@@ -165,6 +165,24 @@
     {
       "geometry": {
         "coordinates": [
+          18.2868602,
+          49.8446066
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> naproti Zborovská 2355/31, Mor. Ostrava <br><b>Adresa:</b> Ostrava-město; Ostrava; Moravská Ostrava <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "70071:58"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           18.2912203,
           49.858386
         ],
@@ -345,36 +363,36 @@
     {
       "geometry": {
         "coordinates": [
-          18.3184346,
-          49.8837113
+          18.3594723,
+          49.8944203
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Vrbice, Ostravská 25, Kulturní dům <br><b>Adresa:</b> Ostravská 25, Vrbice, 73551, Bohumín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.32 m",
+        "_note": "<br><b>Poznámka:</b> Bezručova 542-samoobsluha, Nový Bohumín <br><b>Adresa:</b> Bezručova 542, Nový Bohumín, 73581, Bohumín ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "74200:506"
+        "ref": "73580:17"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          18.3593027,
-          49.8945188
+          18.3185067,
+          49.8837001
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Bezručova 542-samoobsluha, Nový Bohumín <br><b>Adresa:</b> Bezručova 542, Nový Bohumín, 73581, Bohumín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 16.36 m",
+        "_note": "<br><b>Poznámka:</b> Vrbice, Ostravská 25, Kulturní dům <br><b>Adresa:</b> Ostravská 25, Vrbice, 73551, Bohumín ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "74200:517"
+        "ref": "73580:7"
       },
       "type": "Feature"
     }

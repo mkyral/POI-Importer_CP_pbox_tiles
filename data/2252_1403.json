@@ -3,60 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          17.9961436,
-          49.1577324
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> u hostince, Smolina <br><b>Adresa:</b> Smolina 48, 76601, Valašské Klobouky <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 169.78 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "75707:167"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.9827685,
-          49.1775777
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> u obchodu, Tichov <br><b>Adresa:</b> č.p. 118, 76601, Tichov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.87 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "75707:169"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          18.0166849,
-          49.1791851
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> OÚ, Lačnov <br><b>Adresa:</b> č.p. 158, 75612, Lačnov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.81 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "75707:193"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           17.9573082,
           49.17874
         ],
@@ -105,6 +51,60 @@
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "76320:23"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.9826337,
+          49.1775878
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u obchodu, Tichov <br><b>Adresa:</b> č.p. 118, 76601, Tichov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "76600:10"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.016763,
+          49.1792189
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> OÚ, Lačnov <br><b>Adresa:</b> č.p. 158, 75612, Lačnov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "76600:25"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.9961874,
+          49.1562063
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u hostince, Smolina <br><b>Adresa:</b> Smolina 48, 76601, Valašské Klobouky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "76600:9"
       },
       "type": "Feature"
     }

@@ -179,6 +179,24 @@
         "ref": "67407:75"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1272953,
+          49.2028178
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> na křižovatce u inf. tabule <br><b>Adresa:</b> Třebíč; Vícenice u Náměště nad Oslavou; Vícenice u Náměště nad Oslavou <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "67603:63"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

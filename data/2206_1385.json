@@ -3,6 +3,60 @@
     {
       "geometry": {
         "coordinates": [
+          13.9238613,
+          50.1792626
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Mšecké Žehrovice (zastávka ČSAD) <br><b>Adresa:</b> Rakovník; Mšecké Žehrovice; Mšecké Žehrovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "27100:18"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.9377197,
+          50.1863828
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Lodenice (zastávka ČSAD) <br><b>Adresa:</b> Rakovník; Mšecké Žehrovice; Lodenice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "27100:19"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.8992016,
+          50.2048943
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Mšec - pošta <br><b>Adresa:</b> Tyršovo náměstí 110, 27064, Mšec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "27100:6"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           13.9732035,
           50.1841669
         ],
@@ -21,90 +75,36 @@
     {
       "geometry": {
         "coordinates": [
-          13.9720995,
-          50.2327518
+          13.9719868,
+          50.2327209
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> OÚ <br><b>Adresa:</b> č.p. 16, 27378, Jedomělice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.72 m",
+        "_note": "<br><b>Poznámka:</b> OÚ <br><b>Adresa:</b> č.p. 16, 27378, Jedomělice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "27207:246"
+        "ref": "27400:92"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          13.9700638,
-          50.1966989
+          13.9730841,
+          50.1958239
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Na budově obecního úřadu <br><b>Adresa:</b> č.p. 65, 27377, Drnek <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 236.06 m",
+        "_note": "<br><b>Poznámka:</b> Na budově obecního úřadu <br><b>Adresa:</b> č.p. 65, 27377, Drnek ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "27207:247"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.8992016,
-          50.2048943
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Mšec - pošta <br><b>Adresa:</b> Tyršovo náměstí 110, 27064, Mšec ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "27207:459"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.9238613,
-          50.1792626
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Mšecké Žehrovice (zastávka ČSAD) <br><b>Adresa:</b> Rakovník; Mšecké Žehrovice; Mšecké Žehrovice ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "27207:471"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.9377197,
-          50.1863828
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Lodenice (zastávka ČSAD) <br><b>Adresa:</b> Rakovník; Mšecké Žehrovice; Lodenice ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "27207:472"
+        "ref": "27400:93"
       },
       "type": "Feature"
     }

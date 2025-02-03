@@ -3,42 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          15.0312643,
-          50.0145976
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> u LDS <br><b>Adresa:</b> Bošice 9, 28163, Svojšice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.93 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "19007:225"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.1069282,
-          50.059815
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> OÚ <br><b>Adresa:</b> náměstí Obránců míru 120, 28101, Velim <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 27.08 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "28007:100"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           15.0295182,
           50.0502947
         ],
@@ -195,6 +159,24 @@
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "28007:97"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.0312063,
+          50.014497
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u LDS <br><b>Adresa:</b> Bošice 9, 28163, Svojšice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "28168:35"
       },
       "type": "Feature"
     }

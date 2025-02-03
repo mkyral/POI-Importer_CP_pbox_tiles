@@ -3,36 +3,18 @@
     {
       "geometry": {
         "coordinates": [
-          16.8099256,
-          49.663744
+          16.8098289,
+          49.6640312
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 1, 56943, Vysoká <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 32.7 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 1, 56943, Vysoká ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "56707:578"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.8489993,
-          49.6132892
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Dzbel 58 <br><b>Adresa:</b> č.p. 58, 79853, Dzbel ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "77072:633"
+        "ref": "57100:50"
       },
       "type": "Feature"
     },
@@ -50,7 +32,7 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "77072:650"
+        "ref": "79850:15"
       },
       "type": "Feature"
     },
@@ -68,7 +50,7 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "77072:675"
+        "ref": "79850:29"
       },
       "type": "Feature"
     },
@@ -86,7 +68,7 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "77072:676"
+        "ref": "79850:30"
       },
       "type": "Feature"
     },
@@ -104,7 +86,7 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "77072:678"
+        "ref": "79850:32"
       },
       "type": "Feature"
     },
@@ -122,7 +104,25 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "77072:806"
+        "ref": "79850:50"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.8489993,
+          49.6132892
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Dzbel 58 <br><b>Adresa:</b> č.p. 58, 79853, Dzbel ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "79850:7"
       },
       "type": "Feature"
     }

@@ -3,42 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          16.857132,
-          49.5579951
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Brodek u Konice, Lhota u Konice 77 <br><b>Adresa:</b> Lhota u Konice 77, 79845, Brodek u Konice ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "77072:608"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.8002266,
-          49.558986
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Horní Štěpánov, Nové Sady 8 (stojan) <br><b>Adresa:</b> Nové Sady 8, 79847, Horní Štěpánov ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "77072:637"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           16.8624059,
           49.6085681
         ],
@@ -50,7 +14,25 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "77072:649"
+        "ref": "79850:14"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.857132,
+          49.5579951
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Brodek u Konice, Lhota u Konice 77 <br><b>Adresa:</b> Lhota u Konice 77, 79845, Brodek u Konice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "79850:2"
       },
       "type": "Feature"
     },
@@ -68,7 +50,7 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "77072:793"
+        "ref": "79850:46"
       },
       "type": "Feature"
     },
@@ -86,7 +68,25 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "77072:805"
+        "ref": "79850:49"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.8002266,
+          49.558986
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Horní Štěpánov, Nové Sady 8 (stojan) <br><b>Adresa:</b> Nové Sady 8, 79847, Horní Štěpánov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "79850:9"
       },
       "type": "Feature"
     }

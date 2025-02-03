@@ -57,24 +57,6 @@
     {
       "geometry": {
         "coordinates": [
-          15.4885441,
-          49.3316039
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> autobusová zastávka <br><b>Adresa:</b> Salavice 3, 58901, Třešť <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 24.35 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "58607:230"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           15.4929691,
           49.3594123
         ],
@@ -123,6 +105,24 @@
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "58607:69"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.488874,
+          49.3315628
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> autobusová zastávka <br><b>Adresa:</b> Salavice 3, 58901, Třešť ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "58857:66"
       },
       "type": "Feature"
     }

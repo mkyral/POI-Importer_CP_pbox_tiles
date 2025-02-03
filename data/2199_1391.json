@@ -3,60 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          13.2854167,
-          49.8787846
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Tlucná - prodejna, u čp.44 <br><b>Adresa:</b> Tlucná 44, 33152, Horní Bělá <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.13 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "30071:280"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.3016107,
-          49.8856448
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Bučí - prodejna, u čp.57 <br><b>Adresa:</b> č.p. 57, 33152, Bučí <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 25.2 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "30071:296"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.2899086,
-          49.8932891
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Loza - zastávka ČSAD, u čp.19 <br><b>Adresa:</b> č.p. 19, 33152, Loza <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 18.32 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "30071:297"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           13.3562519,
           49.8432274
         ],
@@ -177,6 +123,60 @@
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "32301:9"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.2854777,
+          49.8788088
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Tlucná - prodejna, u čp.44 <br><b>Adresa:</b> Tlucná 44, 33152, Horní Bělá ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "33037:3"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.3014095,
+          49.885459
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bučí - prodejna, u čp.57 <br><b>Adresa:</b> č.p. 57, 33152, Bučí ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "33037:8"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.2901084,
+          49.8931863
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Loza - zastávka ČSAD, u čp.19 <br><b>Adresa:</b> č.p. 19, 33152, Loza ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "33037:9"
       },
       "type": "Feature"
     }

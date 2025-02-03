@@ -3,24 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          13.7315024,
-          50.1742932
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> samoobsluha čp.53, Krupá <br><b>Adresa:</b> č.p. 53, 27009, Krupá ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "27207:354"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           13.7696065,
           50.1435695
         ],
@@ -32,7 +14,7 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "27207:450"
+        "ref": "26900:75"
       },
       "type": "Feature"
     },
@@ -50,7 +32,7 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "27207:451"
+        "ref": "26900:76"
       },
       "type": "Feature"
     },
@@ -68,7 +50,25 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "27207:452"
+        "ref": "26900:77"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.7315024,
+          50.1742932
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> samoobsluha čp.53, Krupá <br><b>Adresa:</b> č.p. 53, 27009, Krupá ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "27030:36"
       },
       "type": "Feature"
     },
@@ -86,7 +86,7 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "27207:454"
+        "ref": "27100:1"
       },
       "type": "Feature"
     },
@@ -104,7 +104,7 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "27207:484"
+        "ref": "27100:31"
       },
       "type": "Feature"
     }

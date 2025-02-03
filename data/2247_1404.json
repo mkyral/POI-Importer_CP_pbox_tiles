@@ -3,42 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          17.540276,
-          49.1213143
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> partner, čp. 204 <br><b>Adresa:</b> č.p. 204, 68711, Topolná ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "68607:241"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.5504703,
-          49.0994144
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Bílovice u Uherského Hradiště <br><b>Adresa:</b> č.p. 39, 68712, Bílovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 1.55 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "68607:242"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           17.5476947,
           49.0991774
         ],
@@ -50,79 +14,115 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "68607:71"
+        "ref": "68600:3"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          17.5347185,
-          49.0980079
+          17.5151061,
+          49.1000451
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> obchod, Včelary <br><b>Adresa:</b> Včelary 370, 68712, Bílovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.73 m",
+        "_note": "<br><b>Poznámka:</b> obchod, Kněžpole <br><b>Adresa:</b> č.p. 6, 68712, Kněžpole ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "68607:72"
+        "ref": "68600:34"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          17.5152573,
-          49.099933
+          17.5504656,
+          49.0994008
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> obchod, Kněžpole <br><b>Adresa:</b> č.p. 6, 68712, Kněžpole <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 16.64 m",
+        "_note": "<br><b>Poznámka:</b> pošta Bílovice u Uherského Hradiště <br><b>Adresa:</b> č.p. 39, 68712, Bílovice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "68607:73"
+        "ref": "68600:4"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          17.5430524,
-          49.1213146
+          17.5348171,
+          49.0979633
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> obchod, Topolná <br><b>Adresa:</b> č.p. 421, 68711, Topolná <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.7 m",
+        "_note": "<br><b>Poznámka:</b> obchod, Včelary <br><b>Adresa:</b> Včelary 370, 68712, Bílovice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "68607:80"
+        "ref": "68600:5"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          17.5497462,
-          49.1232346
+          17.5429677,
+          49.1213382
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 276, 68711, Topolná <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 7.87 m",
+        "_note": "<br><b>Poznámka:</b> obchod, Topolná <br><b>Adresa:</b> č.p. 421, 68711, Topolná ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "68607:81"
+        "ref": "68600:77"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.5498485,
+          49.1232575
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 276, 68711, Topolná ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "68600:78"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.540276,
+          49.1213143
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> partner, čp. 204 <br><b>Adresa:</b> č.p. 204, 68711, Topolná ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "68600:79"
       },
       "type": "Feature"
     },

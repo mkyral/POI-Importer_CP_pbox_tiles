@@ -57,6 +57,24 @@
     {
       "geometry": {
         "coordinates": [
+          15.1281062,
+          49.4085572
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> stojan <br><b>Adresa:</b> Proseč-Obořiště 14, 39301, Nová Cerekev ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "39307:33"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           15.1381183,
           49.4340262
         ],

@@ -4,17 +4,53 @@
       "geometry": {
         "coordinates": [
           15.647205,
-          48.9860298
+          48.9860297
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> stojan před domem č. 30 <br><b>Adresa:</b> Třebíč; Kdousov; Kdousov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> stojan před domem č. 30 <br><b>Adresa:</b> Třebíč; Kdousov; Kdousov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "67407:159"
+        "ref": "67603:21"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7016406,
+          48.9994843
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> stojan u smíšeného zboží <br><b>Adresa:</b> č.p. 44, 67532, Kojatice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "67603:22"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.6946925,
+          49.0084204
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> stojan u vstupu na faru <br><b>Adresa:</b> Velký Újezd 1, 67532, Kojatice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "67603:23"
       },
       "type": "Feature"
     },
@@ -22,17 +58,17 @@
       "geometry": {
         "coordinates": [
           15.645945,
-          49.0091429
+          49.0091428
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> stojan u autobusové zastávky <br><b>Adresa:</b> Třebíč; Mladoňovice; Mladoňovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> stojan u autobusové zastávky <br><b>Adresa:</b> Třebíč; Mladoňovice; Mladoňovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "67407:170"
+        "ref": "67603:39"
       },
       "type": "Feature"
     },
@@ -45,138 +81,102 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> stojan před domem č. 106 <br><b>Adresa:</b> Třebíč; Mladoňovice; Mladoňovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> stojan před domem č. 106 <br><b>Adresa:</b> Třebíč; Mladoňovice; Mladoňovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "67407:171"
+        "ref": "67603:40"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          15.6801358,
-          48.9949413
+          15.6870293,
+          49.0216648
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> na budově obecního úřadu <br><b>Adresa:</b> č.p. 13, 67532, Hornice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 15.59 m",
+        "_note": "<br><b>Poznámka:</b> u stanoviště kontejnerů na odpad <br><b>Adresa:</b> č.p. 10, 67532, Rácovice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "67407:173"
+        "ref": "67603:58"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          15.7016507,
-          48.9994293
+          15.7282589,
+          49.0297464
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> stojan u smíšeného zboží <br><b>Adresa:</b> č.p. 44, 67532, Kojatice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.16 m",
+        "_note": "<br><b>Poznámka:</b> stojan naproti domu č. 53 <br><b>Adresa:</b> Třebíč; Dědice; Dědice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "67407:174"
+        "ref": "67603:6"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          15.6947609,
-          49.0082128
+          15.6641297,
+          49.0219787
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> stojan u vstupu na faru <br><b>Adresa:</b> Velký Újezd 1, 67532, Kojatice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 23.62 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 76, 67532, Třebelovice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "67407:175"
+        "ref": "67603:62"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          15.6869126,
-          49.0214445
+          15.6980612,
+          48.9831222
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> u stanoviště kontejnerů na odpad <br><b>Adresa:</b> č.p. 10, 67532, Rácovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 25.94 m",
+        "_note": "<br><b>Poznámka:</b> Partner Dešov <br><b>Adresa:</b> č.p. 147, 67533, Dešov ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "67407:176"
+        "ref": "67603:7"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          15.7282588,
-          49.0297465
+          15.6800929,
+          48.994804
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> stojan naproti domu č. 53 <br><b>Adresa:</b> Třebíč; Dědice; Dědice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> na budově obecního úřadu <br><b>Adresa:</b> č.p. 13, 67532, Hornice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "67407:184"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.6640604,
-          49.0219092
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 76, 67532, Třebelovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.24 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "67407:309"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.6981017,
-          48.9831435
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Partner Dešov <br><b>Adresa:</b> č.p. 147, 67533, Dešov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 3.79 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "67407:310"
+        "ref": "67603:9"
       },
       "type": "Feature"
     }

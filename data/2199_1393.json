@@ -273,13 +273,13 @@
     {
       "geometry": {
         "coordinates": [
-          13.3131822,
-          49.7307783
+          13.3131823,
+          49.7307784
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Plzeň,Nová Hospoda, zastávka trolejbusu <br><b>Adresa:</b> Plzeň-město; Plzeň; Nová Hospoda <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "_note": "<br><b>Poznámka:</b> Plzeň,Nová Hospoda, zastávka trolejbusu <br><b>Adresa:</b> Plzeň-město; Plzeň; Nová Hospoda <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -291,36 +291,18 @@
     {
       "geometry": {
         "coordinates": [
-          13.3307165,
-          49.7360428
+          13.3305313,
+          49.7360405
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Plzeň,Domažlická 93 <br><b>Adresa:</b> Domažlická 376/93, Skvrňany, 31800, Plzeň ",
+        "_note": "<br><b>Poznámka:</b> Plzeň,Domažlická 93 <br><b>Adresa:</b> Domažlická 376/93, Skvrňany, 31800, Plzeň <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 13.32 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "30101:12"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.3590813,
-          49.7585669
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Plzeň,ZOO <br><b>Adresa:</b> Pod Vinicemi 885/10, Severní Předměstí, 30100, Plzeň ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "30101:2"
       },
       "type": "Feature"
     }

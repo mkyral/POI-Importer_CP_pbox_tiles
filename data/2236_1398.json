@@ -75,13 +75,13 @@
     {
       "geometry": {
         "coordinates": [
-          16.5593786,
-          49.4811193
+          16.5595942,
+          49.481156
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Voděrady obchod <br><b>Adresa:</b> č.p. 134, 67901, Voděrady <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.51 m",
+        "_note": "<br><b>Poznámka:</b> Voděrady obchod <br><b>Adresa:</b> č.p. 134, 67901, Voděrady <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 14.65 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -267,24 +267,6 @@
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "60012:551"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.5831264,
-          49.4633656
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> stojan vedle autobusové zastávky <br><b>Adresa:</b> Třebíč; Krhov; Krhov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "67549:24"
       },
       "type": "Feature"
     }

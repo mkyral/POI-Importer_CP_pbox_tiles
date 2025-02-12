@@ -705,13 +705,13 @@
     {
       "geometry": {
         "coordinates": [
-          13.3672042,
-          49.7402704
+          13.3674997,
+          49.7402659
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Plzeň, nádraží ČD Jižní předměstí <br><b>Adresa:</b> Koperníkova 1584/59, Jižní Předměstí, 30100, Plzeň <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 21.25 m",
+        "_note": "<br><b>Poznámka:</b> Plzeň, nádraží ČD Jižní předměstí <br><b>Adresa:</b> Koperníkova 1584/59, Jižní Předměstí, 30100, Plzeň ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -903,18 +903,36 @@
     {
       "geometry": {
         "coordinates": [
-          13.4074188,
-          49.7727228
+          13.4074463,
+          49.7727289
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Plzeň, 28.října 2283/5 <br><b>Adresa:</b> 28. října 2283/5, Bolevec, 30100, Plzeň ",
+        "_note": "<br><b>Poznámka:</b> Plzeň, 28.října 2283/5 <br><b>Adresa:</b> 28. října 2283/5, Bolevec, 30100, Plzeň <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 2.09 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "30101:1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.3602703,
+          49.7578499
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Plzeň,ZOO <br><b>Adresa:</b> Pod Vinicemi 885/10, Severní Předměstí, 30100, Plzeň <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 116.88 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "30101:2"
       },
       "type": "Feature"
     }

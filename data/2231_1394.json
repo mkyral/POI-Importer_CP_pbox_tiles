@@ -3,13 +3,13 @@
     {
       "geometry": {
         "coordinates": [
-          16.1382264,
-          49.7090961
+          16.1383759,
+          49.7090218
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> obchod <br><b>Adresa:</b> č.p. 81, 57201, Pustá Rybná ",
+        "_note": "<br><b>Poznámka:</b> obchod <br><b>Adresa:</b> č.p. 81, 57201, Pustá Rybná <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 13.56 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -21,13 +21,13 @@
     {
       "geometry": {
         "coordinates": [
-          16.1181707,
-          49.6912525
+          16.1180982,
+          49.6912021
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 32, 57201, Březiny ",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 32, 57201, Březiny <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 7.66 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -51,6 +51,24 @@
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "59100:109"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0897773,
+          49.6680508
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> hotel Devět skal <br><b>Adresa:</b> Milovy 11, 59203, Sněžné <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 16.04 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "59100:110"
       },
       "type": "Feature"
     },

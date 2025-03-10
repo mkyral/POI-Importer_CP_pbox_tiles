@@ -3,72 +3,72 @@
     {
       "geometry": {
         "coordinates": [
-          14.1281848,
-          49.3893145
+          14.1281595,
+          49.3833822
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Nová Vráž 5, 39832, Vráž <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 15.42 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Stará Vráž 57, 39832, Vráž ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "39707:105"
+        "ref": "39782:168"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          14.1166405,
-          49.4180477
+          14.1164027,
+          49.4214826
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Dolní Ostrovec 26, 39833, Ostrovec <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 22.86 m",
+        "_note": "<br><b>Poznámka:</b> Budova pošty Ostrovec <br><b>Adresa:</b> Dolní Ostrovec 69, 39833, Ostrovec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "39782:169"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.1283975,
+          49.3893081
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Nová Vráž 5, 39832, Vráž ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "39782:97"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.116328,
+          49.4180178
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Dolní Ostrovec 26, 39833, Ostrovec ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 07:30",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "39707:106"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.1279441,
-          49.3833881
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Stará Vráž 57, 39832, Vráž <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 15.61 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "39707:179"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.1164268,
-          49.421511
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Budova pošty Ostrovec <br><b>Adresa:</b> Dolní Ostrovec 69, 39833, Ostrovec <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 3.61 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "39707:180"
+        "ref": "39782:98"
       },
       "type": "Feature"
     }

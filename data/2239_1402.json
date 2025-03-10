@@ -3,42 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          16.8254994,
-          49.2125779
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Viničné Šumice <br><b>Adresa:</b> č.p. 23, 66406, Viničné Šumice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.29 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "60012:196"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.8208231,
-          49.2135534
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Viničné Šumice 304, prodejna <br><b>Adresa:</b> č.p. 304, 66406, Viničné Šumice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.26 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "60012:32"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           16.8689759,
           49.2140063
         ],
@@ -87,6 +51,42 @@
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "60012:776"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.8207342,
+          49.2135997
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Viničné Šumice 304, prodejna <br><b>Adresa:</b> č.p. 304, 66406, Viničné Šumice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "60014:25"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.8254124,
+          49.2125297
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Viničné Šumice <br><b>Adresa:</b> č.p. 23, 66406, Viničné Šumice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "60014:54"
       },
       "type": "Feature"
     }

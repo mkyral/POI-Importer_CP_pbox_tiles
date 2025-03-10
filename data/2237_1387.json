@@ -3,42 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          16.6166457,
-          50.0808709
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> prodejna <br><b>Adresa:</b> Celné 45, 56164, Těchonín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.91 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "51707:241"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.6265174,
-          50.0961238
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Mladkov <br><b>Adresa:</b> č.p. 12, 56167, Mladkov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 13.7 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "51707:263"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           16.663144,
           50.0974111
         ],
@@ -51,6 +15,42 @@
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "56300:30"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.6166742,
+          50.0807837
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> prodejna <br><b>Adresa:</b> Celné 45, 56164, Těchonín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "56400:36"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.6263256,
+          50.0961191
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Mladkov <br><b>Adresa:</b> č.p. 12, 56167, Mladkov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "56400:54"
       },
       "type": "Feature"
     }

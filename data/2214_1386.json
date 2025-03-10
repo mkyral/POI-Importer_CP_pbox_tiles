@@ -57,6 +57,24 @@
     {
       "geometry": {
         "coordinates": [
+          14.6332948,
+          50.1429025
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Dehtáry 33, 25091, Jenštejn ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "25000:28"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           14.6480159,
           50.1455903
         ],
@@ -68,7 +86,7 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "25093:11"
+        "ref": "25000:30"
       },
       "type": "Feature"
     },
@@ -86,25 +104,25 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "25093:14"
+        "ref": "25000:33"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          14.6332948,
-          50.1429025
+          14.6270269,
+          50.1669381
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Dehtáry 33, 25091, Jenštejn ",
+        "_note": "<br><b>Poznámka:</b> OÚ <br><b>Adresa:</b> č.p. 73, 25001, Dřevčice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "25093:9"
+        "ref": "25000:7"
       },
       "type": "Feature"
     }

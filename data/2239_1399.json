@@ -3,6 +3,24 @@
     {
       "geometry": {
         "coordinates": [
+          16.8362654,
+          49.3904061
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Marianín obchod <br><b>Adresa:</b> Marianín 8, 67906, Lipovec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "62801:66"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           16.8063313,
           49.3835618
         ],
@@ -14,7 +32,7 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "60012:866"
+        "ref": "67999:202"
       },
       "type": "Feature"
     },
@@ -32,7 +50,7 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "60012:893"
+        "ref": "67999:227"
       },
       "type": "Feature"
     },
@@ -50,25 +68,7 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "60012:895"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.8362654,
-          49.3904061
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Marianín obchod <br><b>Adresa:</b> Marianín 8, 67906, Lipovec ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "62801:66"
+        "ref": "67999:229"
       },
       "type": "Feature"
     },

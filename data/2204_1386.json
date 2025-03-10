@@ -3,6 +3,24 @@
     {
       "geometry": {
         "coordinates": [
+          13.7315024,
+          50.1742932
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> samoobsluha čp.53, Krupá <br><b>Adresa:</b> č.p. 53, 27009, Krupá ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "26900:113"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           13.7697899,
           50.1437128
         ],
@@ -51,24 +69,6 @@
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "26900:77"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.731485,
-          50.1743894
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> samoobsluha čp.53, Krupá <br><b>Adresa:</b> č.p. 53, 27009, Krupá <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.77 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "27030:36"
       },
       "type": "Feature"
     },

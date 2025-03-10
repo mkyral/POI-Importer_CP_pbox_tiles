@@ -39,18 +39,36 @@
     {
       "geometry": {
         "coordinates": [
-          14.3105162,
-          49.0920057
+          14.3107231,
+          49.091721
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Zbudov 4, 37348, Dívčice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 35.07 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Zbudov 4, 37348, Dívčice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "38900:55"
+        "ref": "37500:63"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2804936,
+          49.0916886
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Novosedly 11, 37348, Dívčice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "37500:64"
       },
       "type": "Feature"
     },
@@ -123,24 +141,6 @@
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "38900:59"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.2805558,
-          49.0917343
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Novosedly 11, 37348, Dívčice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.81 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "38900:60"
       },
       "type": "Feature"
     },

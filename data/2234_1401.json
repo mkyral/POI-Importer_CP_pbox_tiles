@@ -3,36 +3,54 @@
     {
       "geometry": {
         "coordinates": [
-          16.3585328,
-          49.2840551
+          16.4354715,
+          49.2763107
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Maršov 158, prodejna <br><b>Adresa:</b> č.p. 158, 66471, Maršov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 12.97 m",
+        "_note": "<br><b>Poznámka:</b> Veverská Bítýška, nám. Na Městečku 72, MÚ <br><b>Adresa:</b> náměstí Na Městečku 72, 66471, Veverská Bítýška ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "60012:60"
+        "ref": "60014:40"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          16.3878428,
-          49.2786957
+          16.3586134,
+          49.283951
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Partner Lažánky <br><b>Adresa:</b> č.p. 14, 66471, Lažánky <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 4.2 m",
+        "_note": "<br><b>Poznámka:</b> Maršov 158, prodejna <br><b>Adresa:</b> č.p. 158, 66471, Maršov ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "60012:61"
+        "ref": "60014:47"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3878071,
+          49.2787254
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Partner Lažánky <br><b>Adresa:</b> č.p. 14, 66471, Lažánky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "60014:48"
       },
       "type": "Feature"
     },

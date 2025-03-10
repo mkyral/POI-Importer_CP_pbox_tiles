@@ -3,96 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          16.7885817,
-          49.2085952
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Pozořice <br><b>Adresa:</b> Na Městečku 14, 66407, Pozořice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 14.82 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "60012:197"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.791018,
-          49.2098317
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Pozořice, Na Městečku E57, prodejna <br><b>Adresa:</b> Na Městečku E57, 66407, Pozořice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 7.68 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "60012:27"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.7964341,
-          49.2092762
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Pozořice, Velké Lipky 231, stojan u zastávky <br><b>Adresa:</b> Velké Lipky 231, 66407, Pozořice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 12.01 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "60012:31"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.8186367,
-          49.2046973
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Kovalovice 15, mateřská škola <br><b>Adresa:</b> č.p. 15, 66406, Kovalovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 15.38 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "60012:33"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.798447,
-          49.1640703
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Blažovice, Nádražní 101, budova ČD <br><b>Adresa:</b> Nádražní 101, 66408, Blažovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 12.88 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "60012:34"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           16.8137916,
           49.1773744
         ],
@@ -177,6 +87,96 @@
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "60012:777"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.7910667,
+          49.2097704
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pozořice, Na Městečku E57, prodejna <br><b>Adresa:</b> Na Městečku E57, 66407, Pozořice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "60014:21"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.7965047,
+          49.2091786
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pozořice, Velké Lipky 231, stojan u zastávky <br><b>Adresa:</b> Velké Lipky 231, 66407, Pozořice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "60014:24"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.8187725,
+          49.2045913
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kovalovice 15, mateřská škola <br><b>Adresa:</b> č.p. 15, 66406, Kovalovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "60014:26"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.7983155,
+          49.1639928
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Blažovice, Nádražní 101, budova ČD <br><b>Adresa:</b> Nádražní 101, 66408, Blažovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "60014:27"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.7884606,
+          49.208488
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Pozořice <br><b>Adresa:</b> Na Městečku 14, 66407, Pozořice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "60014:55"
       },
       "type": "Feature"
     }

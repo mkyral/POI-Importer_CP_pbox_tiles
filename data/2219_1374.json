@@ -3,6 +3,42 @@
     {
       "geometry": {
         "coordinates": [
+          15.0602779,
+          50.801862
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> na stojanu u  Výletní 162, LB - Radčice <br><b>Adresa:</b> Liberec; Liberec; Liberec XXXII-Radčice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "46000:30"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.0772411,
+          50.7986456
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> stojan u MHD naproti Kateřinská 98, LB-Kateřinky <br><b>Adresa:</b> Liberec; Liberec; Liberec XVII-Kateřinky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "46000:31"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           15.0523503,
           50.8323383
         ],

@@ -3,6 +3,24 @@
     {
       "geometry": {
         "coordinates": [
+          17.7401056,
+          49.0602331
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> OÚ, Rudice <br><b>Adresa:</b> č.p. 109, 68732, Rudice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "68800:32"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           17.7095825,
           49.0680995
         ],
@@ -57,18 +75,18 @@
     {
       "geometry": {
         "coordinates": [
-          17.6688312,
-          49.0928793
+          17.6688808,
+          49.0928108
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Dobrkovice - u obchodu <br><b>Adresa:</b> č.p. 64, 76307, Dobrkovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.43 m",
+        "_note": "<br><b>Poznámka:</b> Dobrkovice - u obchodu <br><b>Adresa:</b> č.p. 64, 76307, Dobrkovice ",
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 07:00",
+        "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "76607:63"
+        "ref": "76606:55"
       },
       "type": "Feature"
     }

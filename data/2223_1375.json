@@ -1,0 +1,59 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          15.4356897,
+          50.7700114
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bufet ČSAD, Harrachov v Krkonoších 645 <br><b>Adresa:</b> č.p. 645, 51246, Harrachov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "46840:33"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4165053,
+          50.7794299
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> samobsluha Nový Svět Harrachov v Krkonoš. čp. 345 <br><b>Adresa:</b> Nový Svět 345, 51246, Harrachov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "46840:34"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4250686,
+          50.7762287
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Harrachov v Krkonoších <br><b>Adresa:</b> č.p. 152, 51246, Harrachov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "46840:35"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

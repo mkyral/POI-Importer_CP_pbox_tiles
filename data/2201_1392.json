@@ -3,54 +3,54 @@
     {
       "geometry": {
         "coordinates": [
-          13.4934368,
-          49.7940469
+          13.511659,
+          49.8002484
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Chrást u Plzně - pošta <br><b>Adresa:</b> tř. Čs. odboje 29, 33003, Chrást <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 17.42 m",
+        "_note": "<br><b>Poznámka:</b> Smědčice č.p. 32 OÚ <br><b>Adresa:</b> č.p. 32, 33824, Smědčice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "30096:27"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.5312474,
+          49.7956796
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Bušovice,č.p. 101, křižovatka u rybníka <br><b>Adresa:</b> č.p. 101, 33824, Bušovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:30",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "30096:28"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.4932391,
+          49.7941377
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Chrást u Plzně - pošta <br><b>Adresa:</b> tř. Čs. odboje 29, 33003, Chrást ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "30072:145"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.5117685,
-          49.8002588
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Smědčice č.p. 32 OÚ <br><b>Adresa:</b> č.p. 32, 33824, Smědčice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 7.95 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:30",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "30072:81"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.5313882,
-          49.7957021
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Bušovice,č.p. 101, křižovatka u rybníka <br><b>Adresa:</b> č.p. 101, 33824, Bušovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.41 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:30",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "30072:82"
+        "ref": "30096:50"
       },
       "type": "Feature"
     },

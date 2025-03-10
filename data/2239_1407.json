@@ -3,42 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          16.8128241,
-          48.9676892
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Boleradice <br><b>Adresa:</b> č.p. 376, 69112, Boleradice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.32 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "69177:1"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.8624271,
-          48.9662297
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Morkůvky 20, prodejna <br><b>Adresa:</b> č.p. 20, 69172, Morkůvky <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 15.88 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "69177:14"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           16.8210743,
           48.9343443
         ],
@@ -69,6 +33,42 @@
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "69300:4"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.81293,
+          48.9676278
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Boleradice <br><b>Adresa:</b> č.p. 376, 69112, Boleradice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "69300:48"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.8622392,
+          48.9663015
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Morkůvky 20, prodejna <br><b>Adresa:</b> č.p. 20, 69172, Morkůvky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "69300:61"
       },
       "type": "Feature"
     }

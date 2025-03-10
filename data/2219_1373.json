@@ -17,6 +17,24 @@
         "ref": "46330:2"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.0361945,
+          50.8923702
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Partner Dětřichov - obchod <br><b>Adresa:</b> č.p. 284, 46401, Dětřichov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "46400:36"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

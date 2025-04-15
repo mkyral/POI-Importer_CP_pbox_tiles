@@ -57,6 +57,24 @@
     {
       "geometry": {
         "coordinates": [
+          16.5164843,
+          48.9899011
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Cvrčovice 40, stojan u chodníku <br><b>Adresa:</b> č.p. 40, 69123, Cvrčovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "66490:42"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           16.4378329,
           49.0287629
         ],
@@ -105,42 +123,6 @@
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "67200:43"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.5165959,
-          48.989982
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Cvrčovice 40, stojan u chodníku <br><b>Adresa:</b> č.p. 40, 69123, Cvrčovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 12.14 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "69120:1"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.5181859,
-          48.9856105
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Tyršova 234, stojan u křižovatky <br><b>Adresa:</b> Brno-venkov; Pohořelice; Pohořelice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "69120:9"
       },
       "type": "Feature"
     }

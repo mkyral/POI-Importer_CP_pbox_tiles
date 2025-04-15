@@ -3,72 +3,126 @@
     {
       "geometry": {
         "coordinates": [
-          14.013247,
-          50.5079368
+          14.012779,
+          50.5079104
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> náves <br><b>Adresa:</b> Radostice 6, 41002, Vchynice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 33.24 m",
+        "_note": "<br><b>Poznámka:</b> náves <br><b>Adresa:</b> Radostice 6, 41002, Vchynice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "41007:11"
+        "ref": "41080:11"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          14.0199008,
-          50.5101543
+          14.0197278,
+          50.5101705
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 25, 41002, Vchynice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 12.37 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 25, 41002, Vchynice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "41007:12"
+        "ref": "41080:12"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          14.041264,
-          50.4753676
+          14.0412761,
+          50.47561
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Hospůdka <br><b>Adresa:</b> Havlíčkova 50, Želechovice, 41002, Čížkovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Hospůdka <br><b>Adresa:</b> Havlíčkova 50, Želechovice, 41002, Čížkovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "41007:16"
+        "ref": "41080:16"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          14.0355791,
-          50.4630187
+          14.0356555,
+          50.4630759
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 61, 41002, Úpohlavy <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.35 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 61, 41002, Úpohlavy ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "41007:17"
+        "ref": "41080:17"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.0379685,
+          50.4985341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Sulejovice <br><b>Adresa:</b> Náves 5, 41111, Sulejovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "41080:196"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.0284692,
+          50.4834793
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Čížkovice <br><b>Adresa:</b> Na sídlišti 267, 41112, Čížkovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "41080:197"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.9889496,
+          50.4786614
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Třebenice <br><b>Adresa:</b> Sokolská 87, 41113, Třebenice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "41080:198"
       },
       "type": "Feature"
     },
@@ -86,169 +140,115 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "41007:26"
+        "ref": "41080:21"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          14.0379001,
-          50.4985222
+          13.9937687,
+          50.4631202
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Sulejovice <br><b>Adresa:</b> Náves 5, 41111, Sulejovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.02 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 20, 41115, Chodovlice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "41007:412"
+        "ref": "41080:40"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          14.0284437,
-          50.4833799
+          14.0027907,
+          50.4837374
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Čížkovice <br><b>Adresa:</b> Na sídlišti 267, 41112, Čížkovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.2 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 12, 41115, Jenčice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "41007:413"
+        "ref": "41080:43"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          13.9887551,
-          50.4786648
+          13.9751324,
+          50.4785429
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Třebenice <br><b>Adresa:</b> Sokolská 87, 41113, Třebenice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 13.77 m",
+        "_note": "<br><b>Poznámka:</b> u kapličky <br><b>Adresa:</b> Kololeč 13, 41115, Třebenice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "41007:414"
+        "ref": "41080:45"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          13.9937285,
-          50.4631036
+          13.9901218,
+          50.50765
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 20, 41115, Chodovlice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 3.39 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Boreč 3, 41002, Velemín ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "41007:46"
+        "ref": "41080:5"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          14.002778,
-          50.4837575
+          14.0217961,
+          50.4881516
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 12, 41115, Jenčice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 2.41 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Jiráskova 253, 41112, Čížkovice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "41007:49"
+        "ref": "41080:62"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          13.9889255,
-          50.5088833
+          13.9972473,
+          50.4715824
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Boreč 3, 41002, Velemín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 161.18 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Jiráskova 316, 41113, Třebenice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "41007:5"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.9753698,
-          50.4786282
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> u kapličky <br><b>Adresa:</b> Kololeč 13, 41115, Třebenice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 19.3 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "41007:51"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.0218216,
-          50.488382
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Jiráskova 253, 41112, Čížkovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 25.69 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "41007:71"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.9979594,
-          50.4739049
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Jiráskova 316, 41113, Třebenice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 263.2 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "41007:74"
+        "ref": "41080:63"
       },
       "type": "Feature"
     }

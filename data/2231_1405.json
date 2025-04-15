@@ -21,36 +21,54 @@
     {
       "geometry": {
         "coordinates": [
-          16.1095544,
-          49.0693601
+          16.1447308,
+          49.0886434
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 38, 67557, Rouchovany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 7.17 m",
+        "_note": "<br><b>Poznámka:</b> pošta Dukovany-elektrárna,plocha mezi Kordy I.aII. <br><b>Adresa:</b> č.p. 269, 67550, Dukovany ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "67549:33"
+        "ref": "67200:53"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          16.1075568,
-          49.0703382
+          16.1095229,
+          49.0694212
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Rouchovany <br><b>Adresa:</b> č.p. 329, 67557, Rouchovany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 12.4 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 38, 67557, Rouchovany ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "67549:34"
+        "ref": "67200:57"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1076212,
+          49.070235
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Rouchovany <br><b>Adresa:</b> č.p. 329, 67557, Rouchovany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "67200:58"
       },
       "type": "Feature"
     },
@@ -63,30 +81,12 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> u domu č. 59 <br><b>Adresa:</b> Třebíč; Rouchovany; Šemíkovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> u domu č. 59 <br><b>Adresa:</b> Třebíč; Rouchovany; Šemíkovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "67549:35"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.1436695,
-          49.0901053
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Dukovany-elektrárna,plocha mezi Kordy I.aII. <br><b>Adresa:</b> č.p. 269, 67550, Dukovany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 180.05 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "67549:9"
+        "ref": "67200:59"
       },
       "type": "Feature"
     }

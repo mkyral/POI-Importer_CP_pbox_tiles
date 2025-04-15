@@ -3,6 +3,24 @@
     {
       "geometry": {
         "coordinates": [
+          17.5339127,
+          49.602429
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kozlov 1025 <br><b>Adresa:</b> č.p. 1025, 78357, Kozlov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "75000:152"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           17.5677355,
           49.5560216
         ],
@@ -51,24 +69,6 @@
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "75000:74"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.5339127,
-          49.602429
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Kozlov 1025 <br><b>Adresa:</b> č.p. 1025, 78357, Kozlov ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "77070:143"
       },
       "type": "Feature"
     }

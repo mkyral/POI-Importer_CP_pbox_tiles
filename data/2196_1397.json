@@ -3,54 +3,72 @@
     {
       "geometry": {
         "coordinates": [
-          13.0738619,
-          49.5503882
+          13.0399918,
+          49.541252
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Staňkov, Nádražní 36 <br><b>Adresa:</b> Nádražní 36, Staňkov II, 34561, Staňkov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 14.24 m",
+        "_note": "<br><b>Poznámka:</b> Vranov, autobusová zastávka <br><b>Adresa:</b> Domažlice; Mnichov; Vranov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "34407:129"
+        "ref": "34482:44"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          13.07463,
-          49.5343105
+          13.0737514,
+          49.5504943
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Hlohová, prodejna <br><b>Adresa:</b> č.p. 7, 34561, Hlohová <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.26 m",
+        "_note": "<br><b>Poznámka:</b> Staňkov, Nádražní 36 <br><b>Adresa:</b> Nádražní 36, Staňkov II, 34561, Staňkov ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "34407:135"
+        "ref": "34482:45"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          13.0481248,
-          49.5154135
+          13.0746889,
+          49.5342692
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Osvračín č.66 <br><b>Adresa:</b> č.p. 66, 34561, Osvračín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 12.2 m",
+        "_note": "<br><b>Poznámka:</b> Hlohová, prodejna <br><b>Adresa:</b> č.p. 7, 34561, Hlohová ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "34407:241"
+        "ref": "34482:49"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.0481382,
+          49.5155228
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 66, 34561, Osvračín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "34482:88"
       },
       "type": "Feature"
     }

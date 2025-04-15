@@ -3,36 +3,36 @@
     {
       "geometry": {
         "coordinates": [
-          17.0380829,
-          49.783133
+          17.0380828,
+          49.7831331
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Medlov, Hlivice 24, aut.zast.,(stojan) <br><b>Adresa:</b> Hlivice 24, 78391, Medlov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Staré Těchanovice-zast.BUS u OÚ <br><b>Adresa:</b> Opava; Staré Těchanovice; Staré Těchanovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "78390:36"
+        "ref": "74902:129"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          17.0481991,
-          49.8212869
+          17.0390936,
+          49.7836403
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Troubelice, Pískov u č.p. 65 (stojan) <br><b>Adresa:</b> Olomouc; Troubelice; Pískov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Medlov, Hlivice 24, aut.zast.,(stojan) <br><b>Adresa:</b> Hlivice 24, 78391, Medlov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "78390:4"
+        "ref": "78400:112"
       },
       "type": "Feature"
     },
@@ -45,12 +45,30 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Medlov, Zadní Újezd naproti č.p. 3 (stojan) <br><b>Adresa:</b> Olomouc; Medlov; Zadní Újezd <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Medlov, Zadní Újezd naproti č.p. 3 (stojan) <br><b>Adresa:</b> Olomouc; Medlov; Zadní Újezd <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "78390:43"
+        "ref": "78400:119"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.0481987,
+          49.8212859
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Troubelice, Pískov u č.p. 65 (stojan) <br><b>Adresa:</b> Olomouc; Troubelice; Pískov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "78400:80"
       },
       "type": "Feature"
     },

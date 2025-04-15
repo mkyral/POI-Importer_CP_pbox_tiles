@@ -3,18 +3,36 @@
     {
       "geometry": {
         "coordinates": [
-          15.7726103,
-          49.1519537
+          15.772275,
+          49.1519914
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Čáslavice <br><b>Adresa:</b> č.p. 110, 67524, Čáslavice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 24.75 m",
+        "_note": "<br><b>Poznámka:</b> pošta Čáslavice <br><b>Adresa:</b> č.p. 110, 67524, Čáslavice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "67407:302"
+        "ref": "67411:160"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8196924,
+          49.1205636
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Šebkovice <br><b>Adresa:</b> č.p. 127, 67545, Šebkovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "67411:188"
       },
       "type": "Feature"
     },
@@ -27,30 +45,12 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> stojan před domem č. 18 <br><b>Adresa:</b> Třebíč; Loukovice; Loukovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> stojan před domem č. 18 <br><b>Adresa:</b> Třebíč; Loukovice; Loukovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "67407:49"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.8197407,
-          49.1204609
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Šebkovice <br><b>Adresa:</b> č.p. 127, 67545, Šebkovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.95 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "67549:38"
+        "ref": "67411:44"
       },
       "type": "Feature"
     },

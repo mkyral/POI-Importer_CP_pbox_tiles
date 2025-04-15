@@ -21,6 +21,24 @@
     {
       "geometry": {
         "coordinates": [
+          15.0295131,
+          49.539568
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> stojan před domem č. 46 <br><b>Adresa:</b> č.p. 46, 39501, Útěchovice pod Stražištěm <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "39500:48"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           15.103288,
           49.5129049
         ],
@@ -117,7 +135,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Pošta partner Vyklantice <br><b>Adresa:</b> Nové Vyklantice 26, 39427, Vyklantice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 12.43 m",
+        "_note": "<br><b>Poznámka:</b> Stojan před poštou <br><b>Adresa:</b> Staré Vyklantice 24, 39427, Vyklantice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 355.86 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",

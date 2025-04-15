@@ -39,54 +39,144 @@
     {
       "geometry": {
         "coordinates": [
-          15.1143333,
-          50.5830102
+          15.0340536,
+          50.6051036
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Přepeře <br><b>Adresa:</b> č.p. 10, 51261, Přepeře <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 19.8 m",
+        "_note": "<br><b>Poznámka:</b> BUS zastávka Soběslavice pož.zbroj <br><b>Adresa:</b> Liberec; Soběslavice; Soběslavice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "51107:136"
+        "ref": "51200:100"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          15.0762206,
-          50.5953249
+          15.0445871,
+          50.5870887
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Pěnčín u Liberce <br><b>Adresa:</b> č.p. 107, 46345, Pěnčín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 18.31 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 27, 46345, Svijanský Újezd ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "51107:295"
+        "ref": "51200:104"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          15.0790752,
-          50.576764
+          15.1010466,
+          50.5921956
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Příšovice <br><b>Adresa:</b> č.p. 42, 46346, Příšovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.4 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 42, 46345, Čtveřín ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "51107:296"
+        "ref": "51200:105"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.1010887,
+          50.6023679
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Doubí 25, 46345, Čtveřín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "51200:106"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.1096421,
+          50.6002316
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 67, 46345, Lažany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "51200:107"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.1144238,
+          50.5831787
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Přepeře <br><b>Adresa:</b> č.p. 10, 51261, Přepeře ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "51200:81"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.0763669,
+          50.5954608
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Pěnčín u Liberce <br><b>Adresa:</b> č.p. 107, 46345, Pěnčín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "51200:94"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.0792133,
+          50.5767963
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Příšovice <br><b>Adresa:</b> č.p. 42, 46346, Příšovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "51200:95"
       },
       "type": "Feature"
     },
@@ -99,120 +189,30 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Naproti Svijany 69 <br><b>Adresa:</b> Liberec; Svijany; Svijany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Naproti Svijany 69 <br><b>Adresa:</b> Liberec; Svijany; Svijany <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "51107:298"
+        "ref": "51200:97"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          15.0745016,
-          50.5763434
+          15.0745343,
+          50.5764489
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 217, 46346, Příšovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.96 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 217, 46346, Příšovice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "51107:299"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.0340536,
-          50.6051036
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> BUS zastávka Soběslavice pož.zbroj <br><b>Adresa:</b> Liberec; Soběslavice; Soběslavice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "51107:301"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.0445859,
-          50.5870161
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 27, 46345, Svijanský Újezd <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.08 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "51107:305"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.1009347,
-          50.5922164
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 42, 46345, Čtveřín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.23 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "51107:306"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.1011628,
-          50.6024265
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Doubí 25, 46345, Čtveřín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.36 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "51107:307"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.1096967,
-          50.6001644
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 67, 46345, Lažany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.41 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "51107:308"
+        "ref": "51200:98"
       },
       "type": "Feature"
     }

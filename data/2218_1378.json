@@ -81,48 +81,48 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> OÚ -  Kobyly <br><b>Adresa:</b> Liberec; Kobyly; Kobyly <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> OÚ -  Kobyly <br><b>Adresa:</b> Liberec; Kobyly; Kobyly <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "51107:302"
+        "ref": "51200:101"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          15.0117303,
-          50.6063249
+          15.0117973,
+          50.6063979
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Havlovice 44, 46345, Kobyly <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.4 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Havlovice 44, 46345, Kobyly ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "51107:303"
+        "ref": "51200:102"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          15.0212709,
+          15.0212708,
           50.5980481
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> zastávka BUS Havlovice <br><b>Adresa:</b> Liberec; Kobyly; Havlovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> zastávka BUS Havlovice <br><b>Adresa:</b> Liberec; Kobyly; Havlovice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "51107:304"
+        "ref": "51200:103"
       },
       "type": "Feature"
     }

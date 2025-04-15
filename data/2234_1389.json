@@ -3,36 +3,144 @@
     {
       "geometry": {
         "coordinates": [
-          16.3998728,
-          49.9639066
+          16.3563933,
+          49.9552471
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Třebovská 140, Hylváty, 56203, Ústí nad Orlicí <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 7.81 m",
+        "_note": "<br><b>Poznámka:</b> smíšené zboží <br><b>Adresa:</b> č.p. 80, 56141, Řetůvka ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "56707:100"
+        "ref": "56706:25"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          16.3703531,
-          49.9697606
+          16.3567667,
+          49.9895815
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Sokolská 138, Kerhartice, 56204, Ústí nad Orlicí <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 14.36 m",
+        "_note": "<br><b>Poznámka:</b> obchod <br><b>Adresa:</b> Říčky 66, 56201, Orlické Podhůří ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "56707:101"
+        "ref": "56706:31"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.4289067,
+          49.9841587
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Obecní úřad <br><b>Adresa:</b> Černovír 9, 56201, Ústí nad Orlicí ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "56706:32"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3509492,
+          50.0028262
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> OÚ - zastávka ČAD <br><b>Adresa:</b> Dobrá Voda 4, 56201, Orlické Podhůří ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "56706:43"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3934852,
+          49.9960659
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Školka <br><b>Adresa:</b> Dolní Libchavy 111, 56116, Libchavy ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "56706:51"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3902647,
+          50.0037549
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Libchavy <br><b>Adresa:</b> Dolní Libchavy 206, 56116, Libchavy ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "56706:53"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.399969,
+          49.9639397
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Třebovská 140, Hylváty, 56203, Ústí nad Orlicí ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "56706:60"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3701526,
+          49.9697675
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Sokolská 138, Kerhartice, 56204, Ústí nad Orlicí ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "56706:61"
       },
       "type": "Feature"
     },
@@ -45,318 +153,210 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Na Pláni 1343, 56206, Ústí nad Orlicí ",
+        "_note": "<br><b>Poznámka:</b> Centrum sociální péče - uvnitř objektu <br><b>Adresa:</b> Na Pláni 1343, 56206, Ústí nad Orlicí ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "56707:103"
+        "ref": "56706:62"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          16.3990077,
-          49.9654131
+          16.3990647,
+          49.9654628
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Třebovská 287, Hylváty, 56203, Ústí nad Orlicí <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.87 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Třebovská 287, Hylváty, 56203, Ústí nad Orlicí ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "56707:104"
+        "ref": "56706:63"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          16.3964758,
-          49.9695386
+          16.3960222,
+          49.9694669
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Ústí nad Orlicí 1 <br><b>Adresa:</b> T. G. Masaryka 897, 56201, Ústí nad Orlicí <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 33.42 m",
+        "_note": "<br><b>Poznámka:</b> pošta Ústí nad Orlicí 1 <br><b>Adresa:</b> T. G. Masaryka 897, 56201, Ústí nad Orlicí ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "56707:105"
+        "ref": "56706:64"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          16.3992686,
-          49.9738494
+          16.3999279,
+          49.9735578
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Škola <br><b>Adresa:</b> Na Štěpnici 300, 56201, Ústí nad Orlicí <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 57.24 m",
+        "_note": "<br><b>Poznámka:</b> Škola <br><b>Adresa:</b> Na Štěpnici 300, 56201, Ústí nad Orlicí ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "56707:106"
+        "ref": "56706:65"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          16.4011446,
-          49.9754598
+          16.4013884,
+          49.9755064
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Restaurace Chaplin <br><b>Adresa:</b> Letohradská 1363, 56201, Ústí nad Orlicí <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 18.19 m",
+        "_note": "<br><b>Poznámka:</b> Restaurace Chaplin <br><b>Adresa:</b> Letohradská 1363, 56201, Ústí nad Orlicí ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "56707:107"
+        "ref": "56706:66"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          16.4016934,
-          49.9703806
+          16.4018094,
+          49.9704638
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Nemocnice <br><b>Adresa:</b> Čs. armády 1076, 56201, Ústí nad Orlicí <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 12.43 m",
+        "_note": "<br><b>Poznámka:</b> Nemocnice <br><b>Adresa:</b> Čs. armády 1076, 56201, Ústí nad Orlicí ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "56707:108"
+        "ref": "56706:67"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          16.3938077,
-          49.971201
+          16.3935764,
+          49.9712453
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Jilemnického 183, 56201, Ústí nad Orlicí <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 17.27 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Jilemnického 183, 56201, Ústí nad Orlicí ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "56707:109"
+        "ref": "56706:68"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          16.3934334,
-          49.9771365
+          16.3931872,
+          49.9771607
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> V Lukách 1370, 56201, Ústí nad Orlicí <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 17.82 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> V Lukách 1370, 56201, Ústí nad Orlicí ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "56707:110"
+        "ref": "56706:69"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          16.4042634,
-          49.9733717
+          16.4045743,
+          49.9732452
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Chodská 1193, 56206, Ústí nad Orlicí <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 26.32 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Chodská 1193, 56206, Ústí nad Orlicí ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "56707:111"
+        "ref": "56706:70"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          16.4059141,
-          49.9747851
+          16.4052314,
+          49.9749769
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Polská 1308, 56206, Ústí nad Orlicí <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 53.29 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Polská 1308, 56206, Ústí nad Orlicí ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "56707:112"
+        "ref": "56706:71"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          16.409564,
-          49.9669206
+          16.4097294,
+          49.9666127
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Pramen 021 - Dukla <br><b>Adresa:</b> Dukelská 332, Hylváty, 56201, Ústí nad Orlicí <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 36.23 m",
+        "_note": "<br><b>Poznámka:</b> Pramen 021 - Dukla <br><b>Adresa:</b> Dukelská 332, Hylváty, 56201, Ústí nad Orlicí ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "56707:113"
+        "ref": "56706:72"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          16.3949195,
-          49.97478
+          16.3948119,
+          49.9749629
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> parkoviště u požární zbrojnice <br><b>Adresa:</b> Mistra Jaroslava Kociana 54, 56201, Ústí nad Orlicí <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 21.75 m",
+        "_note": "<br><b>Poznámka:</b> parkoviště u požární zbrojnice <br><b>Adresa:</b> Mistra Jaroslava Kociana 54, 56201, Ústí nad Orlicí ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "56707:114"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.3565027,
-          49.9552737
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> smíšené zboží <br><b>Adresa:</b> č.p. 80, 56141, Řetůvka <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.37 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "56707:31"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.3565968,
-          49.9895377
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> obchod <br><b>Adresa:</b> Říčky 66, 56201, Orlické Podhůří <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 13.09 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "56707:60"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.4290252,
-          49.9842362
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Obecní úřad <br><b>Adresa:</b> Černovír 9, 56201, Ústí nad Orlicí <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 12.09 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "56707:61"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.350997,
-          50.0031107
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> OÚ - zastávka ČAD <br><b>Adresa:</b> Dobrá Voda 4, 56201, Orlické Podhůří <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 31.83 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "56707:73"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.3937087,
-          49.9959311
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Školka <br><b>Adresa:</b> Dolní Libchavy 111, 56116, Libchavy <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 21.91 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "56707:87"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.3901439,
-          50.0038006
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Pošta Libchavy <br><b>Adresa:</b> Dolní Libchavy 206, 56116, Libchavy <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.02 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "56707:92"
+        "ref": "56706:73"
       },
       "type": "Feature"
     }

@@ -3,6 +3,24 @@
     {
       "geometry": {
         "coordinates": [
+          17.4273407,
+          49.5433047
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Tršice (stojan) <br><b>Adresa:</b> č.p. 49, 78357, Tršice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "75000:1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           17.4102567,
           49.4994671
         ],
@@ -111,6 +129,42 @@
     {
       "geometry": {
         "coordinates": [
+          17.4266399,
+          49.5420652
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Tršice, aut.zastávka za č.p. 27 (stojan) <br><b>Adresa:</b> Olomouc; Tršice; Tršice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "75000:145"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.4482312,
+          49.5466844
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Tršice, Zákřov za č.p. 7, na aut.zastávce <br><b>Adresa:</b> Olomouc; Tršice; Zákřov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "75000:151"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           17.4627529,
           49.5244782
         ],
@@ -159,60 +213,6 @@
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "75000:72"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.4273407,
-          49.5433047
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Pošta Tršice (stojan) <br><b>Adresa:</b> č.p. 49, 78357, Tršice ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "77070:133"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.4266399,
-          49.5420652
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Tršice, aut.zastávka za č.p. 27 (stojan) <br><b>Adresa:</b> Olomouc; Tršice; Tršice ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "77070:136"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.4482312,
-          49.5466844
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Tršice, Zákřov za č.p. 7, na aut.zastávce <br><b>Adresa:</b> Olomouc; Tršice; Zákřov ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "77070:142"
       },
       "type": "Feature"
     }

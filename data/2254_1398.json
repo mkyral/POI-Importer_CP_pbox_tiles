@@ -3,6 +3,24 @@
     {
       "geometry": {
         "coordinates": [
+          18.1062988,
+          49.4817332
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Zubří - pohostinství Staré Zubří <br><b>Adresa:</b> Starozuberská 870, 75654, Zubří ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "75650:38"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           18.1477363,
           49.4613257
         ],
@@ -249,24 +267,6 @@
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "75700:77"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          18.1064463,
-          49.4816848
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Zubří - pohostinství Staré Zubří <br><b>Adresa:</b> Starozuberská 870, 75654, Zubří <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.94 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "75707:146"
       },
       "type": "Feature"
     }

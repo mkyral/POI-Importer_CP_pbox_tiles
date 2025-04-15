@@ -3,24 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          16.8722622,
-          49.2761435
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Partner Račice-Pístovice <br><b>Adresa:</b> Račice 74, 68305, Račice-Pístovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.75 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "60012:810"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           16.8056329,
           49.2941284
         ],
@@ -51,6 +33,24 @@
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "62801:55"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.872206,
+          49.2761071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Partner Račice-Pístovice <br><b>Adresa:</b> Račice 74, 68305, Račice-Pístovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "68290:136"
       },
       "type": "Feature"
     }

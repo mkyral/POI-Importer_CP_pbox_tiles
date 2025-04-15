@@ -39,72 +39,18 @@
     {
       "geometry": {
         "coordinates": [
-          16.0068692,
-          49.2721155
+          16.0068039,
+          49.2721884
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Budišov u Třebíče <br><b>Adresa:</b> č.p. 356, 67503, Budišov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.39 m",
+        "_note": "<br><b>Poznámka:</b> pošta Budišov u Třebíče <br><b>Adresa:</b> č.p. 356, 67503, Budišov ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "67407:294"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.0611966,
-          49.2726433
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> stojan naproti domu č. 6 <br><b>Adresa:</b> Třebíč; Kamenná; Kamenná <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "67407:79"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.0499427,
-          49.282053
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> stojan u autobusové zastávky <br><b>Adresa:</b> Třebíč; Kamenná; Klementice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "67407:83"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.0280567,
-          49.2703
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Mihoukovice 12, 67503, Budišov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.8 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "67407:86"
+        "ref": "67411:152"
       },
       "type": "Feature"
     },
@@ -117,12 +63,84 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> u autobusové zastávky <br><b>Adresa:</b> Třebíč; Budišov; Budišov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> autobus. zastávka u č.p. 83 <br><b>Adresa:</b> Třebíč; Budišov; Budišov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "67407:87"
+        "ref": "67411:68"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0611966,
+          49.2726433
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> stojan naproti domu č. 6 <br><b>Adresa:</b> Třebíč; Kamenná; Kamenná <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "67411:69"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0499427,
+          49.282053
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> stojan u autobusové zastávky <br><b>Adresa:</b> Třebíč; Kamenná; Klementice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "67411:73"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0279794,
+          49.2702868
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Mihoukovice 12, 67503, Budišov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "67411:75"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0201075,
+          49.2852783
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u autobusové zastávky <br><b>Adresa:</b> Třebíč; Budišov; Budišov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "67411:76"
       },
       "type": "Feature"
     },
@@ -135,30 +153,30 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Studnice - Hasička <br><b>Adresa:</b> Třebíč; Studnice; Studnice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Studnice - Hasička <br><b>Adresa:</b> Třebíč; Studnice; Studnice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "67407:88"
+        "ref": "67411:77"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          16.003906,
-          49.305486
+          16.0039467,
+          49.3054434
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> na obchodě <br><b>Adresa:</b> č.p. 10, 67505, Rohy <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.58 m",
+        "_note": "<br><b>Poznámka:</b> na obchodě <br><b>Adresa:</b> č.p. 10, 67505, Rohy ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "67407:93"
+        "ref": "67411:80"
       },
       "type": "Feature"
     }

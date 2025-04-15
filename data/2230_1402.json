@@ -9,12 +9,12 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> stojan u MHD <br><b>Adresa:</b> Třebíč; Pyšel; Pyšel <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> stojan u MHD <br><b>Adresa:</b> Třebíč; Pyšel; Pyšel <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "67407:242"
+        "ref": "67411:128"
       },
       "type": "Feature"
     },
@@ -27,66 +27,48 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> stojan vedle obchodu <br><b>Adresa:</b> Třebíč; Smrk; Smrk <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> stojan vedle obchodu <br><b>Adresa:</b> Třebíč; Smrk; Smrk <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "67407:59"
+        "ref": "67411:54"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          16.0071213,
-          49.2661783
+          16.0106136,
+          49.2437132
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> stojan u autobus. zastávky <br><b>Adresa:</b> Třebíč; Budišov; Budišov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 1, 67503, Kojatín ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "67407:78"
+        "ref": "67411:72"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          16.0105539,
-          49.2437933
+          16.0411488,
+          49.2355026
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 1, 67503, Kojatín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.91 m",
+        "_note": "<br><b>Poznámka:</b> na obchodě <br><b>Adresa:</b> č.p. 74, 67503, Pozďatín ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "67407:82"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.0410978,
-          49.2355551
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> na obchodě <br><b>Adresa:</b> č.p. 74, 67503, Pozďatín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.92 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "67407:84"
+        "ref": "67411:74"
       },
       "type": "Feature"
     }

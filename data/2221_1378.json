@@ -3,234 +3,216 @@
     {
       "geometry": {
         "coordinates": [
-          15.2311433,
-          50.5890104
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> BUS zastávka Loktuše <br><b>Adresa:</b> Semily; Mírová pod Kozákovem; Loktuše <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "51107:103"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.2422408,
-          50.5693734
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Volavec 42, 51263, Radostná pod Kozákovem <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.96 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "51107:122"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.2444309,
-          50.5778391
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Lestkov 96, 51263, Radostná pod Kozákovem <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.06 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "51107:124"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.2665456,
-          50.585706
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> zastávka BUS Kozákov <br><b>Adresa:</b> Semily; Radostná pod Kozákovem; Kozákov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "51107:126"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.2698182,
-          50.5724324
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Tatobity <br><b>Adresa:</b> č.p. 59, 51253, Tatobity <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 1.86 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "51107:134"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.2331863,
-          50.6030971
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Mírová pod Kozákovem <br><b>Adresa:</b> Vesec 51, 51101, Mírová pod Kozákovem <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.55 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "51107:135"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.2275207,
-          50.6236128
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 125, 46822, Koberovy <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 14.01 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "51107:29"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           15.2060526,
           50.621193
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Parkoviště Michovka <br><b>Adresa:</b> Jablonec n. Nis.; Koberovy; Michovka <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Parkoviště Michovka <br><b>Adresa:</b> Jablonec n. Nis.; Koberovy; Michovka <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "51107:31"
+        "ref": "51200:11"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          15.2117478,
-          50.5777715
+          15.211684,
+          50.5777165
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Sekerkovy Loučky 21, 51101, Mírová pod Kozákovem <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 7.6 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Sekerkovy Loučky 21, 51101, Mírová pod Kozákovem ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "51107:71"
+        "ref": "51200:42"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          15.216905,
-          50.5865402
+          15.2169067,
+          50.5866096
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Chutnovka 36, 51101, Mírová pod Kozákovem <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 7.72 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Chutnovka 36, 51101, Mírová pod Kozákovem ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "51107:79"
+        "ref": "51200:46"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          15.2340822,
-          50.6084523
+          15.235438,
+          50.6072628
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Zastávka BUS Smrčí <br><b>Adresa:</b> Semily; Mírová pod Kozákovem; Smrčí <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Zastávka BUS Smrčí <br><b>Adresa:</b> Semily; Mírová pod Kozákovem; Smrčí <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "51107:96"
+        "ref": "51200:58"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          15.2216207,
-          50.5995523
+          15.2217239,
+          50.599554
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 65, 51101, Klokočí <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 7.29 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 65, 51101, Klokočí ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "51107:97"
+        "ref": "51200:59"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          15.2185354,
-          50.6175054
+          15.2187618,
+          50.6176127
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 47, 51101, Loučky <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 19.94 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 47, 51101, Loučky ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "51107:98"
+        "ref": "51200:60"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2314146,
+          50.5893331
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> BUS zastávka Loktuše <br><b>Adresa:</b> Semily; Mírová pod Kozákovem; Loktuše <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "51200:62"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2443605,
+          50.5777503
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Lestkov 96, 51263, Radostná pod Kozákovem ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "51200:75"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2665453,
+          50.585705
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> zastávka BUS Kozákov <br><b>Adresa:</b> Semily; Radostná pod Kozákovem; Kozákov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "51200:76"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2698272,
+          50.5724167
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Tatobity <br><b>Adresa:</b> č.p. 59, 51253, Tatobity ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "51200:79"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2330239,
+          50.6031094
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Mírová pod Kozákovem <br><b>Adresa:</b> Vesec 51, 51101, Mírová pod Kozákovem ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "51200:80"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2277118,
+          50.6235786
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 125, 46822, Koberovy ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "51200:9"
       },
       "type": "Feature"
     },

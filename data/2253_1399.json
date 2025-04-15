@@ -3,6 +3,24 @@
     {
       "geometry": {
         "coordinates": [
+          18.0486289,
+          49.4032687
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> COOP, Malá Bystřice <br><b>Adresa:</b> č.p. 163, 75627, Malá Bystřice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "75650:35"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           18.0371378,
           49.4349648
         ],
@@ -33,24 +51,6 @@
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "75700:35"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          18.0500863,
-          49.4032836
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> COOP, Malá Bystřice <br><b>Adresa:</b> č.p. 163, 75627, Malá Bystřice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 105.5 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "75707:139"
       },
       "type": "Feature"
     }

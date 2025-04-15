@@ -21,18 +21,90 @@
     {
       "geometry": {
         "coordinates": [
-          15.8073875,
-          49.2841513
+          15.7619535,
+          49.2824557
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> na obchodě <br><b>Adresa:</b> č.p. 61, 67507, Červená Lhota <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.28 m",
+        "_note": "<br><b>Poznámka:</b> stojan před domem č. 13 <br><b>Adresa:</b> Třebíč; Číchov; Číchov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "67407:103"
+        "ref": "67411:105"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7491487,
+          49.3055929
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> na vlakovém nádraží <br><b>Adresa:</b> č.p. 84, 67521, Bransouze ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "67411:106"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8195846,
+          49.2932498
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Čechtín <br><b>Adresa:</b> č.p. 55, 67507, Čechtín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "67411:155"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.7959579,
+          49.3160118
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Kouty u Třebíče <br><b>Adresa:</b> č.p. 11, 67508, Kouty ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "67411:156"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8074066,
+          49.2840962
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> na obchodě <br><b>Adresa:</b> č.p. 61, 67507, Červená Lhota ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "67411:90"
       },
       "type": "Feature"
     },
@@ -45,12 +117,12 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> naproti č.p.8 na Hasičárně = bez č.p. <br><b>Adresa:</b> Třebíč; Číhalín; Číhalín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> naproti č.p.8 na Hasičárně = bez č.p. <br><b>Adresa:</b> Třebíč; Číhalín; Číhalín <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "67407:104"
+        "ref": "67411:91"
       },
       "type": "Feature"
     },
@@ -63,84 +135,12 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> stojan u obecního úřadu <br><b>Adresa:</b> Třebíč; Chlum; Chlum <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> stojan u obecního úřadu <br><b>Adresa:</b> Třebíč; Chlum; Chlum <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "67407:107"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.7619535,
-          49.2824557
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> stojan před domem č. 13 <br><b>Adresa:</b> Třebíč; Číchov; Číchov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "67407:135"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.7494008,
-          49.3054014
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> na vlakovém nádraží <br><b>Adresa:</b> č.p. 84, 67521, Bransouze <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 28.07 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "67407:137"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.8197388,
-          49.2931195
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Čechtín <br><b>Adresa:</b> č.p. 55, 67507, Čechtín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 18.31 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "67407:297"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.7958352,
-          49.3160525
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Kouty u Třebíče <br><b>Adresa:</b> č.p. 11, 67508, Kouty <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.98 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "67407:298"
+        "ref": "67411:94"
       },
       "type": "Feature"
     }

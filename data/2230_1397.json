@@ -3,6 +3,24 @@
     {
       "geometry": {
         "coordinates": [
+          16.0058807,
+          49.5303859
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Jámy <br><b>Adresa:</b> č.p. 47, 59232, Jámy ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "59100:115"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           16.0382927,
           49.5039874
         ],
@@ -87,24 +105,6 @@
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "59230:17"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.0060403,
-          49.530358
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Jámy <br><b>Adresa:</b> č.p. 47, 59232, Jámy <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.93 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "59230:69"
       },
       "type": "Feature"
     },

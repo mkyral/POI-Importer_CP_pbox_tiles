@@ -3,24 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          17.475693,
-          49.5551994
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Výkleky 111 (stojan) <br><b>Adresa:</b> č.p. 111, 75125, Výkleky <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 55.28 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "75000:73"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           17.4852773,
           49.5762805
         ],
@@ -32,7 +14,7 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "77070:135"
+        "ref": "75000:144"
       },
       "type": "Feature"
     },
@@ -50,7 +32,7 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "77070:144"
+        "ref": "75000:153"
       },
       "type": "Feature"
     },
@@ -68,7 +50,7 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "77070:145"
+        "ref": "75000:154"
       },
       "type": "Feature"
     },
@@ -86,7 +68,7 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "77070:146"
+        "ref": "75000:155"
       },
       "type": "Feature"
     },
@@ -104,7 +86,25 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "77070:147"
+        "ref": "75000:156"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.475693,
+          49.5551994
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Výkleky 111 (stojan) <br><b>Adresa:</b> č.p. 111, 75125, Výkleky <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 55.28 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "75000:73"
       },
       "type": "Feature"
     },

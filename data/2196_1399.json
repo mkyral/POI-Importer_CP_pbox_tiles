@@ -3,90 +3,90 @@
     {
       "geometry": {
         "coordinates": [
-          13.040681,
-          49.3905295
+          13.0488318,
+          49.3839556
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Kdyně - pošta <br><b>Adresa:</b> Náměstí 139, 34506, Kdyně <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 18.56 m",
+        "_note": "<br><b>Poznámka:</b> Brnířov,  čp. 31 <br><b>Adresa:</b> č.p. 31, 34506, Brnířov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "34482:21"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.0249553,
+          49.3838367
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Prapořiště, čp. 83 <br><b>Adresa:</b> Prapořiště 83, 34506, Kdyně ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "34482:23"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.0346323,
+          49.428902
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Oprechtice 28 <br><b>Adresa:</b> Oprechtice 28, 34506, Zahořany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "34482:26"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.0547044,
+          49.3923612
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kdyně, Pod Korábem 669 <br><b>Adresa:</b> Pod Korábem 669, 34506, Kdyně ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "34482:34"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.0407933,
+          49.3906795
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kdyně - pošta <br><b>Adresa:</b> Náměstí 139, 34506, Kdyně ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 11:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "34407:225"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.0489458,
-          49.3838954
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Brnířov,  čp. 31 <br><b>Adresa:</b> č.p. 31, 34506, Brnířov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.63 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "34407:64"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.0249365,
-          49.3839349
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Prapořiště, čp. 83 <br><b>Adresa:</b> Prapořiště 83, 34506, Kdyně <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.01 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "34407:67"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.0341026,
-          49.4286918
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Oprechtice 28 <br><b>Adresa:</b> Oprechtice 28, 34506, Zahořany <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 44.89 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "34407:72"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.0543906,
-          49.3922861
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Kdyně, Pod Korábem 669 <br><b>Adresa:</b> Pod Korábem 669, 34506, Kdyně <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 24.21 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "34407:91"
+        "ref": "34482:72"
       },
       "type": "Feature"
     }

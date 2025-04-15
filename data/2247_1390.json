@@ -3,42 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          17.5737353,
-          49.9053291
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> u kiosku\"U Holiče\"čp.304,Leskovec nad Mor.(stojan) <br><b>Adresa:</b> č.p. 304, 79368, Leskovec nad Moravicí <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 6.85 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "79207:116"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          17.51332,
-          49.8963146
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Roudno, u kostela <br><b>Adresa:</b> Bruntál; Roudno; Roudno <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 240.54 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "79207:32"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           17.5316824,
           49.9309187
         ],
@@ -50,7 +14,43 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "79207:521"
+        "ref": "79300:108"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.5159039,
+          49.8976952
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Roudno, u kostela <br><b>Adresa:</b> Bruntál; Roudno; Roudno ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "79300:15"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.5737775,
+          49.9053844
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u kiosku\"U Holiče\"čp.304,Leskovec nad Mor.(stojan) <br><b>Adresa:</b> č.p. 304, 79368, Leskovec nad Moravicí ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "79300:70"
       },
       "type": "Feature"
     }

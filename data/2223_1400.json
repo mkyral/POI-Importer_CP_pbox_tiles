@@ -21,13 +21,13 @@
     {
       "geometry": {
         "coordinates": [
-          15.443649,
-          49.3334615
+          15.4437669,
+          49.3329394
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> zastávka ICOM, Spělov <br><b>Adresa:</b> Spělov 11, 58851, Dolní Cerekev ",
+        "_note": "<br><b>Poznámka:</b> zastávka ICOM, Spělov <br><b>Adresa:</b> Spělov 12, 58851, Dolní Cerekev ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -39,13 +39,13 @@
     {
       "geometry": {
         "coordinates": [
-          15.3990349,
-          49.3505169
+          15.3987034,
+          49.3503359
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Jednota, Rohozná <br><b>Adresa:</b> č.p. 148, 58844, Rohozná ",
+        "_note": "<br><b>Poznámka:</b> Jednota, Rohozná <br><b>Adresa:</b> č.p. 74, 58844, Rohozná ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -69,6 +69,24 @@
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "58800:113"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.4349417,
+          49.3823336
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nový Hojkov, u vývěsky <br><b>Adresa:</b> č.p. 43, 58805, Hojkov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "58800:13"
       },
       "type": "Feature"
     },
@@ -105,24 +123,6 @@
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "58800:134"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.4303416,
-          49.3802993
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Hojkov, obchod <br><b>Adresa:</b> č.p. 41, 58805, Hojkov ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "58800:14"
       },
       "type": "Feature"
     }

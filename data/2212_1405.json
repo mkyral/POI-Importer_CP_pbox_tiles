@@ -179,6 +179,24 @@
         "ref": "37000:202"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.4329297,
+          49.0506272
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 969, 37341, Hluboká nad Vltavou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "37000:206"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

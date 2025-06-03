@@ -741,6 +741,24 @@
     {
       "geometry": {
         "coordinates": [
+          14.3812865,
+          50.0604274
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> BUS Farkáň <br><b>Adresa:</b> Na Farkáně III 126/36, Radlice, 15000, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "16099:70"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           14.3646169,
           50.0549102
         ],
@@ -915,24 +933,6 @@
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "16099:81"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.3916093,
-          50.0316075
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Kříženeckého náměstí 990/4, Hlubočepy, 15200, Praha ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "16099:82"
       },
       "type": "Feature"
     },

@@ -57,6 +57,24 @@
     {
       "geometry": {
         "coordinates": [
+          13.9872089,
+          49.7820472
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jince nádraží ČSD 102 <br><b>Adresa:</b> č.p. 102, 26223, Jince ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "26756:78"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           14.0558998,
           49.8044745
         ],
@@ -75,6 +93,42 @@
     {
       "geometry": {
         "coordinates": [
+          13.9895467,
+          49.7882438
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Běřín 19 <br><b>Adresa:</b> Běřín 19, 26223, Jince ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "26756:83"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.9783736,
+          49.78764
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Jince <br><b>Adresa:</b> Slavíkova 4, 26223, Jince ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "26756:89"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           14.0208996,
           49.8084624
         ],
@@ -87,60 +141,6 @@
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "26756:9"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.9872491,
-          49.7820576
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Jince nádraží ČSD 102 <br><b>Adresa:</b> č.p. 102, 26223, Jince <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 3.11 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "26800:21"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.9900647,
-          49.7885285
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Běřín 19 <br><b>Adresa:</b> Běřín 19, 26223, Jince <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 48.85 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "26800:26"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.9782984,
-          49.7875881
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Jince <br><b>Adresa:</b> Slavíkova 4, 26223, Jince <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 7.9 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "26800:32"
       },
       "type": "Feature"
     }

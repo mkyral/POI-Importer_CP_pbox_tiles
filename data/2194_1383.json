@@ -1,0 +1,59 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          12.8699932,
+          50.3114709
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hroznětín, Sídliště 324 <br><b>Adresa:</b> Sídliště 324, 36233, Hroznětín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 2.35 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "36300:21"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.8729351,
+          50.309359
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hroznětín - pošta <br><b>Adresa:</b> Krušnohorské náměstí 1, 36233, Hroznětín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.68 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "36300:25"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.861239,
+          50.3279827
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Merklín u Karlových Var - pošta <br><b>Adresa:</b> č.p. 49, 36234, Merklín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 3.26 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "36300:26"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

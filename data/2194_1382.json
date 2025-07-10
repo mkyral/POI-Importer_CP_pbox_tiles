@@ -1,0 +1,59 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          12.8938106,
+          50.3556018
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Mariánská, E81 <br><b>Adresa:</b> Školská E81, Mariánská, 36301, Jáchymov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 4.11 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "36300:22"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.9024289,
+          50.3708095
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Nové Město u č.54 <br><b>Adresa:</b> Nové Město 54, 36301, Jáchymov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 19.87 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "36300:23"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.9141402,
+          50.3711415
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jáchymov, nám. Republiky 127 <br><b>Adresa:</b> náměstí Republiky 127, 36251, Jáchymov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 86.19 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "36300:3"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

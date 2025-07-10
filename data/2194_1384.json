@@ -197,6 +197,42 @@
         "ref": "36204:7"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.9193581,
+          50.2834467
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hájek u č.26 <br><b>Adresa:</b> č.p. 26, 36301, Hájek <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 18.28 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "36300:11"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.8661652,
+          50.2877355
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Velký Rybník č.9, Pivovar U Hastrmana <br><b>Adresa:</b> Velký Rybník 9, 36301, Hroznětín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 37.73 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "36300:16"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

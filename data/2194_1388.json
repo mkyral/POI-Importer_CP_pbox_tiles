@@ -1,0 +1,41 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          12.8790784,
+          50.0539631
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Měchov, obchod <br><b>Adresa:</b> Měchov 41, 36464, Otročín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.94 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "36400:16"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.8951493,
+          50.0310441
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Otročín, na budově pošty partner <br><b>Adresa:</b> č.p. 61, 36401, Otročín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.6 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "36400:19"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

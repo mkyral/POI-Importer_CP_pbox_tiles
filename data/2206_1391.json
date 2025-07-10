@@ -147,6 +147,42 @@
     {
       "geometry": {
         "coordinates": [
+          13.8882685,
+          49.8431577
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Sklenářka 669/41, 26801, Hořovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "26756:63"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.9089989,
+          49.8393138
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> U Remízku 1221/26, 26801, Hořovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "26756:69"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           13.9326615,
           49.8660789
         ],
@@ -165,72 +201,36 @@
     {
       "geometry": {
         "coordinates": [
-          13.9091554,
-          49.8394261
+          13.9251781,
+          49.8564503
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> U Remízku 1221/26, 26801, Hořovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 16.79 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 25, 26801, Kotopeky ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "26800:12"
+        "ref": "26756:72"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          13.9251231,
-          49.8565333
+          13.9248861,
+          49.8507636
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.p. 25, 26801, Kotopeky <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.04 m",
+        "_note": "<br><b>Poznámka:</b> BUS Tihava <br><b>Adresa:</b> Tihava 54, 26801, Kotopeky ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "26800:15"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.924697,
-          49.8508527
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> BUS Tihava <br><b>Adresa:</b> Tihava 54, 26801, Kotopeky <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 16.8 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "26800:16"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.8888385,
-          49.843412
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Sklenářka 669/41, 26801, Hořovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 49.72 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "26800:6"
+        "ref": "26756:73"
       },
       "type": "Feature"
     }

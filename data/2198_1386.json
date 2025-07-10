@@ -3,6 +3,42 @@
     {
       "geometry": {
         "coordinates": [
+          13.2344538,
+          50.1492809
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vrbice, u autobusové zastávky, <br><b>Adresa:</b> Karlovy Vary; Vrbice; Vrbice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "36400:26"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.2539511,
+          50.1747536
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Valeč v Čechách, před budovou pošty <br><b>Adresa:</b> Náměstí 119, 36453, Valeč <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.87 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "36400:32"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           13.2671952,
           50.134402
         ],

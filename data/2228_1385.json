@@ -597,6 +597,42 @@
     {
       "geometry": {
         "coordinates": [
+          15.8257324,
+          50.20011
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> FN-hlavní výjezd <br><b>Adresa:</b> Sokolská 581, Nový Hradec Králové, 50003, Hradec Králové ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "50000:52"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8257324,
+          50.20011
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> FN-hlavní vchod <br><b>Adresa:</b> Sokolská 581, Nový Hradec Králové, 50003, Hradec Králové ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "50000:53"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           15.8554617,
           50.1974266
         ],
@@ -825,42 +861,6 @@
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "50382:3"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.8257324,
-          50.20011
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> FN-hlavní výjezd <br><b>Adresa:</b> Sokolská 581, Nový Hradec Králové, 50003, Hradec Králové ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "50382:4"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.8257324,
-          50.20011
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> FN-hlavní vchod <br><b>Adresa:</b> Sokolská 581, Nový Hradec Králové, 50003, Hradec Králové ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "50382:5"
       },
       "type": "Feature"
     },

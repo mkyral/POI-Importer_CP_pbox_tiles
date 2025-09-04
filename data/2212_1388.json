@@ -819,7 +819,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Praha 4 chodník Budějovická <br><b>Adresa:</b> Na strži 1709/42, Krč, 14000, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 36.22 m",
+        "_note": "<br><b>Poznámka:</b> pošta Praha 4 chodník Budějovická <br><b>Adresa:</b> Na Strži 1709/42, Krč, 14000, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 36.22 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 09:00",
         "operator": "Česká pošta, s.p.",
@@ -969,6 +969,24 @@
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "14099:52"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.4871042,
+          50.0467289
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> na křižovatce ulic Hlavní a Na Chodovci <br><b>Adresa:</b> Hl. město Praha; Praha; Záběhlice <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "14099:53"
       },
       "type": "Feature"
     },
@@ -1197,7 +1215,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Praha 4 vchod <br><b>Adresa:</b> Na strži 1709/42, Krč, 14000, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 16.96 m",
+        "_note": "<br><b>Poznámka:</b> pošta Praha 4 vchod <br><b>Adresa:</b> Na Strži 1709/42, Krč, 14000, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 16.96 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 09:00",
         "operator": "Česká pošta, s.p.",

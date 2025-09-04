@@ -525,24 +525,6 @@
     {
       "geometry": {
         "coordinates": [
-          14.4183552,
-          50.0835708
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Na Perštýně 309/13, Staré Město, 11000, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.04 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "11009:16"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           14.4257218,
           50.0925109
         ],
@@ -645,24 +627,6 @@
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "11009:21"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.4238026,
-          50.0892293
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Masná 620/8, Staré Město, 11000, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 4.56 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "11009:22"
       },
       "type": "Feature"
     },
@@ -1671,6 +1635,24 @@
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "13099:9"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.441458,
+          50.0642719
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Čestmírova 363/1, Nusle, 14000, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 9.68 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 09:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "14099:27"
       },
       "type": "Feature"
     },

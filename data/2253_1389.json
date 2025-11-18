@@ -147,6 +147,24 @@
     {
       "geometry": {
         "coordinates": [
+          18.0800704,
+          49.9518357
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Pošta Bolatice <br><b>Adresa:</b> Hlučínská 685/4, 74723, Bolatice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "74902:81"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           18.0523021,
           49.9861585
         ],

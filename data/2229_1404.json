@@ -75,6 +75,24 @@
     {
       "geometry": {
         "coordinates": [
+          15.9179897,
+          49.1180619
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> stojan u autobus. zastávky <br><b>Adresa:</b> Boňov 50, 67551, Jaroměřice nad Rokytnou ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "67603:78"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           15.9297949,
           49.1033617
         ],

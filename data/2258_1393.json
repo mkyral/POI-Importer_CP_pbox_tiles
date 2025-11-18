@@ -165,24 +165,6 @@
     {
       "geometry": {
         "coordinates": [
-          18.5436327,
-          49.7605333
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Stanislavice, Ostravská,na čp.113 , J - J <br><b>Adresa:</b> Ostravská 113, Stanislavice, 73562, Český Těšín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.14 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "73700:14"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           18.4593427,
           49.7511946
         ],
@@ -213,6 +195,24 @@
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "73807:62"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.5435261,
+          49.7604735
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Stanislavice, Ostravská,na čp.113 , J - J <br><b>Adresa:</b> Ostravská 113, Stanislavice, 73562, Český Těšín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "73920:65"
       },
       "type": "Feature"
     }

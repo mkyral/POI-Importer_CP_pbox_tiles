@@ -179,6 +179,24 @@
         "ref": "53500:90"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.6042307,
+          49.904368
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u čp. 1, stojan u úřední desky obce <br><b>Adresa:</b> Míčov 1, 53803, Míčov-Sušice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 29.99 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "53500:91"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

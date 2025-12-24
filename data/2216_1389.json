@@ -3,6 +3,24 @@
     {
       "geometry": {
         "coordinates": [
+          14.8396724,
+          49.9776137
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> BUS Bohumil <br><b>Adresa:</b> Bohumil 210, 28163, Jevany ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "28200:53"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           14.7897882,
           49.9835347
         ],
@@ -14,7 +32,7 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "28168:25"
+        "ref": "28200:74"
       },
       "type": "Feature"
     },
@@ -32,7 +50,7 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "28168:26"
+        "ref": "28200:75"
       },
       "type": "Feature"
     },
@@ -50,25 +68,7 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "28168:27"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.8396724,
-          49.9776137
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> BUS Bohumil <br><b>Adresa:</b> Bohumil 210, 28163, Jevany ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "28168:4"
+        "ref": "28200:76"
       },
       "type": "Feature"
     },
@@ -86,7 +86,7 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "28168:50"
+        "ref": "28200:99"
       },
       "type": "Feature"
     }

@@ -39,6 +39,24 @@
     {
       "geometry": {
         "coordinates": [
+          14.8468749,
+          49.8975639
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Stříbrná Skalice <br><b>Adresa:</b> K radnici 20, 28167, Stříbrná Skalice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "28200:102"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           14.8169795,
           49.9020988
         ],
@@ -50,7 +68,7 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "28168:10"
+        "ref": "28200:59"
       },
       "type": "Feature"
     },
@@ -68,7 +86,7 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "28168:11"
+        "ref": "28200:60"
       },
       "type": "Feature"
     },
@@ -86,7 +104,7 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "28168:12"
+        "ref": "28200:61"
       },
       "type": "Feature"
     },
@@ -104,7 +122,7 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "28168:28"
+        "ref": "28200:77"
       },
       "type": "Feature"
     },
@@ -122,25 +140,7 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "28168:29"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.8468749,
-          49.8975639
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Stříbrná Skalice <br><b>Adresa:</b> K radnici 20, 28167, Stříbrná Skalice ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "28168:53"
+        "ref": "28200:78"
       },
       "type": "Feature"
     }

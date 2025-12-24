@@ -3,6 +3,24 @@
     {
       "geometry": {
         "coordinates": [
+          15.4229459,
+          50.1269954
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> zastávka BUS <br><b>Adresa:</b> Loukonosy 49, 28126, Žiželice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "28112:117"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           15.3860231,
           50.1332871
         ],
@@ -14,7 +32,7 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "28112:102"
+        "ref": "28112:125"
       },
       "type": "Feature"
     },
@@ -32,25 +50,7 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "28112:132"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.4229459,
-          50.1269954
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> zastávka BUS <br><b>Adresa:</b> Loukonosy 49, 28126, Žiželice ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "28112:95"
+        "ref": "28112:160"
       },
       "type": "Feature"
     },

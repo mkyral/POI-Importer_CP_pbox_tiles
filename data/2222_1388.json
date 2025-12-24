@@ -3,42 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          15.3585829,
-          50.0416762
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Týnec nad Labem <br><b>Adresa:</b> Masarykovo náměstí 87, 28126, Týnec nad Labem ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "28112:129"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.30524,
-          50.0282522
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> u kostela <br><b>Adresa:</b> č.p. 37, 28002, Veletov ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "28112:63"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           15.2953611,
           50.0113244
         ],
@@ -50,7 +14,7 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "28112:85"
+        "ref": "28112:105"
       },
       "type": "Feature"
     },
@@ -68,7 +32,7 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "28112:87"
+        "ref": "28112:109"
       },
       "type": "Feature"
     },
@@ -86,7 +50,7 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "28112:88"
+        "ref": "28112:110"
       },
       "type": "Feature"
     },
@@ -104,7 +68,43 @@
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "28112:89"
+        "ref": "28112:111"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.3585829,
+          50.0416762
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Týnec nad Labem <br><b>Adresa:</b> Masarykovo náměstí 87, 28126, Týnec nad Labem ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "28112:157"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.30524,
+          50.0282522
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> u kostela <br><b>Adresa:</b> č.p. 37, 28002, Veletov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "28112:81"
       },
       "type": "Feature"
     },

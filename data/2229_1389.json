@@ -183,6 +183,24 @@
     {
       "geometry": {
         "coordinates": [
+          15.9105595,
+          49.9595691
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> pošta Hrochův Týnec <br><b>Adresa:</b> Nádražní 10, 53862, Hrochův Týnec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "53700:88"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           15.990644,
           49.9556769
         ],

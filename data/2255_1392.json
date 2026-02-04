@@ -957,6 +957,24 @@
     {
       "geometry": {
         "coordinates": [
+          18.2699051,
+          49.8263553
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Hornická 3044/49 - Potraviny Hruška, Mor.Ostrava <br><b>Adresa:</b> Hornická 3044/49, Moravská Ostrava, 70200, Ostrava ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "70083:38"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           18.2740117,
           49.8285041
         ],
@@ -987,6 +1005,24 @@
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "70083:95"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.2610867,
+          49.8362183
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> ul. Novinářská, u zastávky Sídliště Fifejdy <br><b>Adresa:</b> Ostrava-město; Ostrava; Moravská Ostrava <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "70083:96"
       },
       "type": "Feature"
     },

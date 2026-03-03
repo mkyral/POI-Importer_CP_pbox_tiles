@@ -57,24 +57,6 @@
     {
       "geometry": {
         "coordinates": [
-          14.5986428,
-          49.8345856
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> BUS zastávka <br><b>Adresa:</b> Brodce 15, 25741, Týnec nad Sázavou ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "25606:131"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           14.5992964,
           49.8349839
         ],
@@ -159,6 +141,24 @@
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "25606:16"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.6545842,
+          49.800303
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> BUS Chlístov <br><b>Adresa:</b> č.p. 24, 25601, Chlístov ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "25606:17"
       },
       "type": "Feature"
     },

@@ -125,6 +125,24 @@
         "ref": "57100:53"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.7328289,
+          49.6963336
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Lázy 52, 56943, Městečko Trnávka ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "57100:54"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

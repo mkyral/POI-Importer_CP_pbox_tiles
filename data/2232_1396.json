@@ -3,18 +3,36 @@
     {
       "geometry": {
         "coordinates": [
-          16.1882321,
-          49.6047246
+          16.1878515,
+          49.6049033
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> čekárna, Míchov <br><b>Adresa:</b> Míchov 35, 59242, Věcov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 33.88 m",
+        "_note": "<br><b>Poznámka:</b> čekárna, Míchov <br><b>Adresa:</b> Míchov 35, 59242, Věcov ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "59230:59"
+        "ref": "59302:124"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2462964,
+          49.6089295
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> COOP Unčín <br><b>Adresa:</b> č.p. 59, 59242, Unčín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "59302:130"
       },
       "type": "Feature"
     },

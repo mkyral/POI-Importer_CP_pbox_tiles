@@ -21,6 +21,78 @@
     {
       "geometry": {
         "coordinates": [
+          16.0650282,
+          49.5143428
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jednota <br><b>Adresa:</b> č.p. 41, 59233, Řečice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "59100:121"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0650359,
+          49.5461455
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jednota, Petrovice <br><b>Adresa:</b> Petrovice 71, 59231, Nové Město na Moravě ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "59100:126"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0390334,
+          49.5283294
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Jednota, Hlinné <br><b>Adresa:</b> Hlinné 40, 59231, Nové Město na Moravě ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "59100:127"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0285065,
+          49.5529396
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> autobusová zastávka, Slavkovice <br><b>Adresa:</b> Slavkovice 7, 59231, Nové Město na Moravě ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "59100:128"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           16.0382927,
           49.5039874
         ],
@@ -51,78 +123,6 @@
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "59100:32"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.0651586,
-          49.5462
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Jednota, Petrovice <br><b>Adresa:</b> Petrovice 71, 59231, Nové Město na Moravě <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.73 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "59230:15"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.0387134,
-          49.5285674
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Jednota, Hlinné <br><b>Adresa:</b> Hlinné 40, 59231, Nové Město na Moravě <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 35.14 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "59230:16"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.0280562,
-          49.5529902
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> autobusová zastávka, Slavkovice <br><b>Adresa:</b> Slavkovice 7, 59231, Nové Město na Moravě <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 32.98 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "59230:17"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.065049,
-          49.5142522
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Jednota <br><b>Adresa:</b> č.p. 41, 59233, Řečice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 10.19 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "59230:8"
       },
       "type": "Feature"
     }

@@ -27,7 +27,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> č.ev. 168, 40338, Telnice ",
+        "_note": "<br><b>Poznámka:</b> pošta Telnice <br><b>Adresa:</b> č.ev. 168, 40338, Telnice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -63,7 +63,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> zastávka BUS <br><b>Adresa:</b> Varvažov 114, 40338, Telnice ",
+        "_note": "<br><b>Poznámka:</b> zastávka BUS, Varvažov 114 <br><b>Adresa:</b> Varvažov 114, 40338, Telnice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -93,13 +93,13 @@
     {
       "geometry": {
         "coordinates": [
-          13.9216869,
-          50.6935607
+          13.9216872,
+          50.6935617
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> zastávka BUS <br><b>Adresa:</b> Ústí nad Labem; Chlumec; Stradov ",
+        "_note": "<br><b>Poznámka:</b> zastávka BUS, Stradov <br><b>Adresa:</b> Ústí nad Labem; Chlumec; Stradov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",

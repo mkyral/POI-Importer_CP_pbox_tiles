@@ -117,7 +117,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> u závor <br><b>Adresa:</b> Slavašovská 258/2, Beroun-Závodí, 26601, Beroun <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 26.68 m",
+        "_note": "<br><b>Poznámka:</b> u závor Slavašovská <br><b>Adresa:</b> Slavašovská 258/2, Beroun-Závodí, 26601, Beroun <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 26.68 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -201,13 +201,13 @@
     {
       "geometry": {
         "coordinates": [
-          14.0840761,
-          49.9627468
+          14.1301854,
+          49.9609134
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Hostímská 299/18, Beroun-Závodí, 26601, Beroun <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Třesina 18, Beroun-Hostim, 26601, Beroun <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -303,24 +303,6 @@
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "26600:5"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.074628,
-          49.9572967
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> U Nádraží 37/4, Beroun-Město, 26601, Beroun ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "26600:6"
       },
       "type": "Feature"
     },

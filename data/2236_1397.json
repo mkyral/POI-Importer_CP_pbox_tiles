@@ -9,7 +9,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Jednota <br><b>Adresa:</b> č.p. 65, 67972, Nýrov ",
+        "_note": "<br><b>Poznámka:</b> Nýrov, Jednota <br><b>Adresa:</b> č.p. 65, 67972, Nýrov ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -27,7 +27,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Jednota <br><b>Adresa:</b> Újezd 78, 67972, Kunštát ",
+        "_note": "<br><b>Poznámka:</b> Újezd, Jednota <br><b>Adresa:</b> Újezd 78, 67972, Kunštát ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -45,7 +45,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> u Lidokovu <br><b>Adresa:</b> Palackého 201, 67972, Kunštát ",
+        "_note": "<br><b>Poznámka:</b> Kunštát, u Lidokovu <br><b>Adresa:</b> Palackého 201, 67972, Kunštát ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -99,30 +99,12 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> nám. Svobody 7, 67932, Svitávka ",
+        "_note": "<br><b>Poznámka:</b> Svitávka 7 <br><b>Adresa:</b> nám. Svobody 7, 67932, Svitávka ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "67999:42"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          16.599514,
-          49.508145
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Jos. Čejky 67, 67932, Svitávka ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "67999:43"
       },
       "type": "Feature"
     },
@@ -135,7 +117,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Sasina 13, 67932, Svitávka ",
+        "_note": "<br><b>Poznámka:</b> Sasina 13 <br><b>Adresa:</b> Sasina 13, 67932, Svitávka ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -153,7 +135,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Pražská 807/48, 67961, Letovice ",
+        "_note": "<br><b>Poznámka:</b> Letovice 807 <br><b>Adresa:</b> Pražská 807/48, 67961, Letovice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -171,7 +153,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> potraviny <br><b>Adresa:</b> Albína Krejčího 624/9, 67961, Letovice ",
+        "_note": "<br><b>Poznámka:</b> Letovice 624, potraviny <br><b>Adresa:</b> Albína Krejčího 624/9, 67961, Letovice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -189,7 +171,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> J. Haška 781/6, 67961, Letovice ",
+        "_note": "<br><b>Poznámka:</b> Letovice 781/6 <br><b>Adresa:</b> J. Haška 781/6, 67961, Letovice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -225,7 +207,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> COOP <br><b>Adresa:</b> Albína Krejčího 840/2, 67961, Letovice ",
+        "_note": "<br><b>Poznámka:</b> Letovice, COOP <br><b>Adresa:</b> Albína Krejčího 840/2, 67961, Letovice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -243,7 +225,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Lhota 10, 67961, Letovice ",
+        "_note": "<br><b>Poznámka:</b> Lhota 10 <br><b>Adresa:</b> Lhota 10, 67961, Letovice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -279,7 +261,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> vedle hasičské zbrojnice u informačních tabulí <br><b>Adresa:</b> Zábludov 49, 67961, Letovice ",
+        "_note": "<br><b>Poznámka:</b> Zábludov, u hasičské zbrojnice u inf. tabulí <br><b>Adresa:</b> Zábludov 49, 67961, Letovice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -315,7 +297,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Zboněk 18, 67961, Letovice ",
+        "_note": "<br><b>Poznámka:</b> Zboněk 18 <br><b>Adresa:</b> Zboněk 18, 67961, Letovice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -333,7 +315,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Alšova 835/7, 67961, Letovice ",
+        "_note": "<br><b>Poznámka:</b> Letovice, Alšova 7 <br><b>Adresa:</b> Alšova 835/7, 67961, Letovice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",

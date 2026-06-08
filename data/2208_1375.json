@@ -3,13 +3,13 @@
     {
       "geometry": {
         "coordinates": [
-          14.083124,
+          14.0830842,
           50.7402325
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> na autobusové zastávce u č.p. 3 <br><b>Adresa:</b> Ústí nad Labem; Libouchec; Čermná ",
+        "_note": "<br><b>Poznámka:</b> zastávka BUS, Čermná <br><b>Adresa:</b> Ústí nad Labem; Libouchec; Čermná <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -27,12 +27,30 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Obalex <br><b>Adresa:</b> Teplická 109, Martiněves, 40502, Jílové <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 90.62 m",
+        "_note": "<br><b>Poznámka:</b> Obalex, Teplická 109, Martiněves, Jílové <br><b>Adresa:</b> Teplická 109, Martiněves, 40502, Jílové <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 90.62 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "40520:36"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.0874164,
+          50.7854017
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Zastávka BUS č.1, Sněžník <br><b>Adresa:</b> Děčín; Jílové; Sněžník <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "40520:37"
       },
       "type": "Feature"
     },
@@ -99,7 +117,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Potraviny <br><b>Adresa:</b> Na rovině 288, Kamenná, 40701, Jílové <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 23.65 m",
+        "_note": "<br><b>Poznámka:</b> Potraviny, Na rovině 288, Jílové <br><b>Adresa:</b> Na rovině 288, Kamenná, 40701, Jílové <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 23.65 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -117,7 +135,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Úzká ul., naproti č.p. 306 <br><b>Adresa:</b> Děčín; Jílové; Kamenná <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> Úzká ul., naproti č.p. 306, Kamenná <br><b>Adresa:</b> Děčín; Jílové; Kamenná <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",

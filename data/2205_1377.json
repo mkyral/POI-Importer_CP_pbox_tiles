@@ -21,6 +21,24 @@
     {
       "geometry": {
         "coordinates": [
+          13.8343228,
+          50.6673039
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> zastávka BUS, Proboštov <br><b>Adresa:</b> Ústí nad Labem; Malečov; Proboštov <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "40360:52"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           13.8608216,
           50.6291075
         ],
@@ -81,7 +99,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> zastávka BUS <br><b>Adresa:</b> Teplice; Modlany; Drahkov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> zastávka BUS, Drahkov <br><b>Adresa:</b> Teplice; Modlany; Drahkov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -99,7 +117,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> autobusová zastávka <br><b>Adresa:</b> Teplice; Modlany; Kvítkov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> zastávka BUS, Kvítkov <br><b>Adresa:</b> Teplice; Modlany; Kvítkov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -189,7 +207,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> zastávka MHD <br><b>Adresa:</b> Teplice; Proboštov; Přítkov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> zastávka MHD, Přítkov <br><b>Adresa:</b> Teplice; Proboštov; Přítkov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -423,7 +441,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> u ulice Dr.Vrbenského a u Zámecké zahrady <br><b>Adresa:</b> Teplice; Teplice; Teplice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b> u ulice Dr.Vrbenského a u Zámecké zahrady, Teplice <br><b>Adresa:</b> Teplice; Teplice; Teplice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",

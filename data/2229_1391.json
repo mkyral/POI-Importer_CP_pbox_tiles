@@ -27,7 +27,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> BUS <br><b>Adresa:</b> Skála 3, 53851, Chrast <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 17.77 m",
+        "_note": "<br><b>Poznámka:</b> Skála 3, BUS <br><b>Adresa:</b> Skála 3, 53851, Chrast <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 17.77 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -45,7 +45,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> náves, \"S\" <br><b>Adresa:</b> č.p. 52, 53851, Horka <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 37.62 m",
+        "_note": "<br><b>Poznámka:</b> Horka 52, náves, \"S\" <br><b>Adresa:</b> č.p. 52, 53851, Horka <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 37.62 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -63,7 +63,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> náves <br><b>Adresa:</b> Hlína 38, 53851, Horka <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 26.12 m",
+        "_note": "<br><b>Poznámka:</b> Hlína 38, náves <br><b>Adresa:</b> Hlína 38, 53851, Horka <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 26.12 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -81,7 +81,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> náves, \"S\" <br><b>Adresa:</b> Louka 11, 53851, Vrbatův Kostelec <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 50.76 m",
+        "_note": "<br><b>Poznámka:</b> Louka 11, náves, \"S\" <br><b>Adresa:</b> Louka 11, 53851, Vrbatův Kostelec <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 50.76 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -93,108 +93,18 @@
     {
       "geometry": {
         "coordinates": [
-          15.9947685,
-          49.8424113
+          15.9913146,
+          49.8836569
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Skuteč <br><b>Adresa:</b> Tylova 134, 53973, Skuteč <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.05 m",
+        "_note": "<br><b>Poznámka:</b> Hroubovice 80, prodejna, \"S\" <br><b>Adresa:</b> č.p. 80, 53854, Hroubovice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "53970:1"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.958615,
-          49.8451468
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> zbrojnice <br><b>Adresa:</b> č.p. 26, 53973, Leštinka <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 27.99 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "53970:13"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.9322999,
-          49.8434246
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> autobusová zastávka <br><b>Adresa:</b> Kvasín 1, 53973, Tisovec <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 111.98 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "53970:14"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.9957627,
-          49.8430996
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Palackého náměstí 139, 53973, Skuteč <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 17.64 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "53970:2"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.992566,
-          49.8474426
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Sládkova 854, 53973, Skuteč <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 20.05 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "53970:3"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.9911188,
-          49.8837402
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> prodejna, \"S\" <br><b>Adresa:</b> č.p. 80, 53854, Hroubovice <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 16.82 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "53970:37"
+        "ref": "53900:111"
       },
       "type": "Feature"
     },
@@ -207,30 +117,120 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Vrbatův Kostelec <br><b>Adresa:</b> č.p. 52, 53956, Vrbatův Kostelec ",
+        "_note": "<br><b>Poznámka:</b> Partner Vrbatův Kostelec <br><b>Adresa:</b> č.p. 52, 53956, Vrbatův Kostelec ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "53970:46"
+        "ref": "53900:120"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          15.9721024,
-          49.8525045
+          15.9949207,
+          49.8423959
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> kaplička <br><b>Adresa:</b> Skutíčko 13, 53973, Skuteč <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 28.22 m",
+        "_note": "<br><b>Poznámka:</b> pošta Skuteč <br><b>Adresa:</b> Tylova 134, 53973, Skuteč ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "53970:5"
+        "ref": "53900:75"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9955414,
+          49.8430304
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Palackého náměstí 139, 53973, Skuteč ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "53900:76"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9928094,
+          49.8475312
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Sládkova 854, 53973, Skuteč ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "53900:77"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9717618,
+          49.8526316
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Skutíčko 13, kaplička <br><b>Adresa:</b> Skutíčko 13, 53973, Skuteč ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "53900:79"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9582583,
+          49.8452488
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Leštinka 26, zbrojnice <br><b>Adresa:</b> č.p. 26, 53973, Leštinka ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "53900:87"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9328531,
+          49.8424832
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kvasín 1, autobusová zastávka <br><b>Adresa:</b> Kvasín 1, 53973, Tisovec ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "53900:88"
       },
       "type": "Feature"
     }

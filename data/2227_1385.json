@@ -9,7 +9,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> u inform. tabule <br><b>Adresa:</b> Denisovo náměstí 63/1, Kukleny, 50004, Hradec Králové <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 29.42 m",
+        "_note": "<br><b>Poznámka:</b> u inform. tabule, Denisovo nám. 63/1, HK <br><b>Adresa:</b> Denisovo náměstí 63/1, Kukleny, 50004, Hradec Králové <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 29.42 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -315,7 +315,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> obchod <br><b>Adresa:</b> Vlčkovice 32, 50327, Praskačka ",
+        "_note": "<br><b>Poznámka:</b> obchod, Vlčkovice 32 <br><b>Adresa:</b> Vlčkovice 32, 50327, Praskačka ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -333,7 +333,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Prodejna <br><b>Adresa:</b> Vlčkovická 113/7, Plačice, 50004, Hradec Králové ",
+        "_note": "<br><b>Poznámka:</b> Prodejna, Vlčkovická 113/7, Plačice, HK <br><b>Adresa:</b> Vlčkovická 113/7, Plačice, 50004, Hradec Králové ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -351,12 +351,30 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> u stánku <br><b>Adresa:</b> Petra Jilemnického 420/6, Plotiště nad Labem, 50301, Hradec Králové ",
+        "_note": "<br><b>Poznámka:</b> u stánku, P. Jilemnického 420/6, Hradec Králové <br><b>Adresa:</b> Petra Jilemnického 420/6, Plotiště nad Labem, 50301, Hradec Králové ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "50382:6"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8198928,
+          50.2238883
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kydlinovská - zastávka MHD, č.p. 263/53, Plácky <br><b>Adresa:</b> Hradec Králové; Hradec Králové; Plácky <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "50382:7"
       },
       "type": "Feature"
     }

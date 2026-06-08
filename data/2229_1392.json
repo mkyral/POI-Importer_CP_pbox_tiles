@@ -3,13 +3,31 @@
     {
       "geometry": {
         "coordinates": [
+          15.9582368,
+          49.832543
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Prosetín 66, autobusová zastávka <br><b>Adresa:</b> č.p. 66, 53976, Prosetín ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "53900:118"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           15.9716356,
           49.7895913
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> OÚ <br><b>Adresa:</b> č.p. 120, 53901, Vojtěchov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.6 m",
+        "_note": "<br><b>Poznámka:</b> Vojtěchov 120, OÚ <br><b>Adresa:</b> č.p. 120, 53901, Vojtěchov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 8.6 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -27,7 +45,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> prodejna <br><b>Adresa:</b> č.p. 52, 53901, Mrákotín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.87 m",
+        "_note": "<br><b>Poznámka:</b> Mrákotín 52, prodejna <br><b>Adresa:</b> č.p. 52, 53901, Mrákotín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 5.87 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -45,7 +63,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> VTA, \"S\" <br><b>Adresa:</b> č.p. 43, 53901, Pokřikov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 31.37 m",
+        "_note": "<br><b>Poznámka:</b> Pokřikov 43, \"S\" <br><b>Adresa:</b> č.p. 43, 53901, Pokřikov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 31.37 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -63,7 +81,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> BUS, \"S\" <br><b>Adresa:</b> Oldřetice 6, 53901, Raná <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 25.34 m",
+        "_note": "<br><b>Poznámka:</b> Oldřetice 6, BUS, \"S\" <br><b>Adresa:</b> Oldřetice 6, 53901, Raná <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 25.34 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -81,7 +99,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> prod. smíš. zboží <br><b>Adresa:</b> Dolní Holetín 134, 53971, Holetín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 38.55 m",
+        "_note": "<br><b>Poznámka:</b> Dolní Holetín 134, prod. smíš. zboží <br><b>Adresa:</b> Dolní Holetín 134, 53971, Holetín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 38.55 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -99,7 +117,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> BUS - u viaduktu <br><b>Adresa:</b> Horní Holetín 69, 53971, Holetín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 29.22 m",
+        "_note": "<br><b>Poznámka:</b> Horní Holetín 69, BUS - u viaduktu <br><b>Adresa:</b> Horní Holetín 69, 53971, Holetín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 29.22 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -147,72 +165,54 @@
     {
       "geometry": {
         "coordinates": [
-          15.9235516,
-          49.8310428
+          15.9881226,
+          49.8263144
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> OÚ, \"S\" <br><b>Adresa:</b> Dřeveš 19, 53973, Tisovec <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 20.29 m",
+        "_note": "<br><b>Poznámka:</b> Žďárec u Skutče 25, BUS <br><b>Adresa:</b> Žďárec u Skutče 25, 53973, Skuteč ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "53970:15"
+        "ref": "53900:78"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          15.9882688,
-          49.8264799
+          15.9857153,
+          49.8184078
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> BUS <br><b>Adresa:</b> Žďárec u Skutče 25, 53973, Skuteč <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 21.19 m",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Radčice 52, 53973, Skuteč ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "53970:4"
+        "ref": "53900:80"
       },
       "type": "Feature"
     },
     {
       "geometry": {
         "coordinates": [
-          15.9577885,
-          49.8327915
+          15.9236897,
+          49.831202
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> autobusová zastávka <br><b>Adresa:</b> č.p. 66, 53976, Prosetín <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 42.41 m",
+        "_note": "<br><b>Poznámka:</b> Dřeveš 19, OÚ, \"S\" <br><b>Adresa:</b> Dřeveš 19, 53973, Tisovec ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
-        "ref": "53970:44"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          15.9855819,
-          49.8183161
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Radčice 52, 53973, Skuteč <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 13.99 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "53970:6"
+        "ref": "53900:89"
       },
       "type": "Feature"
     }

@@ -89,6 +89,24 @@
         "ref": "38240:55"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3118024,
+          48.6146938
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Náměstí 104, 38273, Vyšší Brod ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "38240:57"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

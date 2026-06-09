@@ -759,13 +759,13 @@
     {
       "geometry": {
         "coordinates": [
-          15.8812328,
-          50.2074589
+          15.8811423,
+          50.2074808
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> zastávka MHD, náves, Malšova Lhota <br><b>Adresa:</b> Hradec Králové; Hradec Králové; Malšova Lhota <p style='color:red; text-align:center'><b>POZOR:</b> Souřadnice jsou pouze <u>orientační</u>!<br>Přesné umístění nutno dohledat dle poznámky!</p>",
+        "_note": "<br><b>Poznámka:</b> zastávka MHD, náves, Malšova Lhota <br><b>Adresa:</b> Hradec Králové; Hradec Králové; Malšova Lhota ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -825,6 +825,24 @@
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "50382:3"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8211017,
+          50.2299016
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Kydlinovská - zastávka MHD, č.p. 263/53, Plácky <br><b>Adresa:</b> Hradec Králové; Hradec Králové; Plácky ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "50382:7"
       },
       "type": "Feature"
     },

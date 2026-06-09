@@ -3,42 +3,6 @@
     {
       "geometry": {
         "coordinates": [
-          13.3827937,
-          49.7831312
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Plzeň, Tachovská - konečná tramvaje <br><b>Adresa:</b> Tachovská 1348/1, Bolevec, 32300, Plzeň ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "30095:55"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.3727482,
-          49.7826884
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Plzeň, Gerská - konečná tramvaje 4 <br><b>Adresa:</b> Gerská 1866/60, Bolevec, 32300, Plzeň ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "30095:58"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           13.4170565,
           49.7982066
         ],
@@ -123,6 +87,42 @@
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "32301:3"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.3827937,
+          49.7831312
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Plzeň, Tachovská - konečná tramvaje <br><b>Adresa:</b> Tachovská 1348/1, Bolevec, 32300, Plzeň ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "32301:35"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.3727482,
+          49.7826884
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Plzeň, Gerská - konečná tramvaje 4 <br><b>Adresa:</b> Gerská 1866/60, Bolevec, 32300, Plzeň ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "32301:38"
       },
       "type": "Feature"
     },

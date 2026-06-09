@@ -201,24 +201,6 @@
     {
       "geometry": {
         "coordinates": [
-          17.5740476,
-          49.3295344
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Palackého 530/33, 76901, Holešov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 22.99 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "76900:28"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           17.5238117,
           49.3330638
         ],
@@ -231,6 +213,24 @@
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "76900:3"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.5774243,
+          49.3345999
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Holešov, Centrum pro seniory <br><b>Adresa:</b> Příční 1475, 76901, Holešov <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 11.9 m",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "76900:31"
       },
       "type": "Feature"
     },

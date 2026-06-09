@@ -3,13 +3,13 @@
     {
       "geometry": {
         "coordinates": [
-          14.4508359,
-          49.7812064
+          14.4512294,
+          49.7802531
         ],
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> za 34 <br><b>Adresa:</b> Jablonná 30, 25744, Neveklov ",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Jablonná 13, 25744, Neveklov ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -45,7 +45,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b> Vlkonice E 2 <br><b>Adresa:</b> Vlkonice E2, 25756, Křečovice ",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Vlkonice E2, 25756, Křečovice ",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 08:00",
         "operator": "Česká pošta, s.p.",
@@ -69,6 +69,24 @@
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "25606:166"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.4155049,
+          49.7507698
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Živohošť 10, 25756, Křečovice ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "25606:167"
       },
       "type": "Feature"
     }

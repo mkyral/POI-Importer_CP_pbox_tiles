@@ -309,24 +309,6 @@
     {
       "geometry": {
         "coordinates": [
-          13.4074463,
-          49.7727289
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Plzeň, 28.října 2283/5 <br><b>Adresa:</b> 28. října 2283/5, Bolevec, 30100, Plzeň <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 2.09 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "30101:1"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           13.3646466,
           49.7417125
         ],
@@ -417,24 +399,6 @@
     {
       "geometry": {
         "coordinates": [
-          13.369737,
-          49.7273323
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Plzeň, Dvořákova 17, Mulačova nemocnice <br><b>Adresa:</b> Dvořákova 1207/17, Jižní Předměstí, 30100, Plzeň ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "30101:19"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           13.3602703,
           49.7578499
         ],
@@ -501,24 +465,6 @@
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "30101:24"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.388025,
-          49.7263421
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> Plzeň, Zborovská 17 <br><b>Adresa:</b> Zborovská 62/17, Doudlevce, 30100, Plzeň ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "30101:26"
       },
       "type": "Feature"
     },
@@ -771,6 +717,24 @@
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "32301:33"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.3916051,
+          49.7777277
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Plzeň, Malý Bolevec-Ostende <br><b>Adresa:</b> Malý Bolevec 239, Bolevec, 32300, Plzeň ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "32301:34"
       },
       "type": "Feature"
     },

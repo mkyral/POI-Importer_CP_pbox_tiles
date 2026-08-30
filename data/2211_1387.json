@@ -363,6 +363,24 @@
     {
       "geometry": {
         "coordinates": [
+          14.3752134,
+          50.1085024
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Na pískách 991/106, Dejvice, 16000, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "16099:149"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           14.336082,
           50.11069
         ],
@@ -375,6 +393,24 @@
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "16099:15"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3804256,
+          50.1121833
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Šárecká BUS U Matěje <br><b>Adresa:</b> Na Kodymce 1520/26, Dejvice, 16000, Praha ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "16099:151"
       },
       "type": "Feature"
     },
@@ -1743,24 +1779,6 @@
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "16099:93"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.389276,
-          50.0719847
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Plzeňská 130/74, Košíře, 15000, Praha ",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "16099:94"
       },
       "type": "Feature"
     },

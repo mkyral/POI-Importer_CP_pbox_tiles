@@ -125,6 +125,24 @@
         "ref": "67100:158"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.8150107,
+          48.8995121
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "_note": "<br><b>Poznámka:</b> Vranov nad Dyjí 318 <br><b>Adresa:</b> Bítovská 318, 67103, Vranov nad Dyjí ",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 08:00",
+        "operator": "Česká pošta, s.p.",
+        "operator:wikidata": "Q341090",
+        "ref": "67100:159"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"

@@ -891,7 +891,7 @@
         "type": "Point"
       },
       "properties": {
-        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Sedlčanská 507/39, Michle, 14000, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u>",
+        "_note": "<br><b>Poznámka:</b>  <br><b>Adresa:</b> Sedlčanská 507/39, Michle, 14000, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 12.36 m",
         "amenity": "post_box",
         "collection_times": "Mo-Fr 09:00",
         "operator": "Česká pošta, s.p.",
@@ -1617,24 +1617,6 @@
         "operator": "Česká pošta, s.p.",
         "operator:wikidata": "Q341090",
         "ref": "14399:39"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          14.4525287,
-          50.0184929
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "_note": "<br><b>Poznámka:</b> pošta Praha 411 <br><b>Adresa:</b> Durychova 972/72, Lhotka, 14200, Praha <p style='text-align: center'><u>Souřadnice převzaty z OSM!</u><br>Posunuto o 15.85 m",
-        "amenity": "post_box",
-        "collection_times": "Mo-Fr 09:00",
-        "operator": "Česká pošta, s.p.",
-        "operator:wikidata": "Q341090",
-        "ref": "14399:4"
       },
       "type": "Feature"
     },
